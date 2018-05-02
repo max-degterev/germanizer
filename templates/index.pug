@@ -1,0 +1,33 @@
+doctype html
+html(lang="en-US")
+  head
+    meta(charset="UTF-8")
+    meta(http-equiv="X-UA-Compatible", content="IE=edge")
+    title ExpressJS Boilerplate
+    meta(name="description", content="ExpressJS Boilerplate")
+
+    meta(name="Generator", content="Microsoft FrontPage 2.3")
+    meta(name="viewport", content="initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, width=device-width, shrink-to-fit=no")
+    meta(name="HandheldFriendly", content="True")
+    meta(name="MobileOptimized", content="320")
+    meta(name="format-detection", content="telephone=no")
+    meta(http-equiv="cleartype", content="on")
+
+    link(rel="apple-touch-icon", sizes="180x180", href="/apple-touch-icon.png")
+    link(rel="icon", type="image/png", sizes="32x32", href="/favicon-32x32.png")
+    link(rel="icon", type="image/png", sizes="16x16", href="/favicon-16x16.png")
+    link(rel="manifest", href="/manifest.json")
+    link(rel="mask-icon", href="/safari-pinned-tab.svg", color="#5bbad5")
+    meta(name="theme-color", content="#ffffff")
+
+    link(rel="stylesheet", href=asset('app.css'))
+
+  body
+    main#main!=content
+
+    script.
+      var __appConfig__=!{serialize(pick(config, 'client', 'debug', 'sandbox'), { isJSON: true })};
+      var __appState__=!{serialize(state, { isJSON: true })};
+
+    script(src=asset('polyfills.js'))
+    script(src=asset('app.js') async)
