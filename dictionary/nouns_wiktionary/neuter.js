@@ -733,7 +733,7 @@ module.exports = [
   },
   {
     word: 'das Ammenmärchen, -',
-    translation: 'old wives' tale',
+    translation: 'old wives\' tale',
   },
   {
     word: 'das Ammoniak, -x',
@@ -1501,7 +1501,7 @@ module.exports = [
   },
   {
     word: 'das Atelier, -s',
-    translation: '(artist's or photographer's workshop) studio',
+    translation: '(artis(t)\'(s) or photographe(r)\'(s) workshop) studio',
   },
   {
     word: 'das Atemgas, -e',
@@ -1513,7 +1513,7 @@ module.exports = [
   },
   {
     word: 'das Athletenherz, -en',
-    translation: '(medicine, sports) athlete's heart',
+    translation: '(medicine, sports) athlet(e)\'(s) heart',
   },
   {
     word: 'das Äthyl, -x',
@@ -1641,7 +1641,7 @@ module.exports = [
   },
   {
     word: 'das Auftreten, -x',
-    translation: 'gerund of auftreten, behavior, conduct, demeanor, manner (a person's outward bearing or way of behaving towards others), occurrence (the occurring (of something)); incidence, outbreak, appearance (instance of playing, or acting, of performing or participating in a public event (as an actor or artist))',
+    translation: 'gerund of auftreten, behavior, conduct, demeanor, manner (a perso(n)\'(s) outward bearing or way of behaving towards others), occurrence (the occurring (of something)); incidence, outbreak, appearance (instance of playing, or acting, of performing or participating in a public event (as an actor or artist))',
   },
   {
     word: 'das Auge, -n',
@@ -1845,7 +1845,7 @@ module.exports = [
   },
   {
     word: 'das Bäckerdutzend, -e',
-    translation: 'baker's dozen',
+    translation: 'bake(r)\'(s) dozen',
   },
   {
     word: 'das Backgammon, -x',
@@ -1921,7 +1921,7 @@ module.exports = [
   },
   {
     word: 'das Ballerspiel, -e',
-    translation: '(video games) shooter, shoot 'em up',
+    translation: '(video games) shooter, shoot \'em up',
   },
   {
     word: 'das Ballett, -e',
@@ -4069,7 +4069,7 @@ module.exports = [
   },
   {
     word: 'das Corps, -',
-    translation: '(traditional German student's corporation) corps, Alternative spelling of Korps',
+    translation: '(traditional German studen(t)\'(s) corporation) corps, Alternative spelling of Korps',
   },
   {
     word: 'das Cortison, -x',
@@ -4945,7 +4945,7 @@ module.exports = [
   },
   {
     word: 'das Drachenblut, -x',
-    translation: 'dragon's blood (color and resin), A kind of alcoholic beverage',
+    translation: 'drago(n)\'(s) blood (color and resin), A kind of alcoholic beverage',
   },
   {
     word: 'das Dragee, -s',
@@ -5165,7 +5165,7 @@ module.exports = [
   },
   {
     word: 'das Ehrenwort, -e',
-    translation: 'One's word of honor, linking a claim or promise to one's personal integrity',
+    translation: 'On(e)\'(s) word of honor, linking a claim or promise to on(e)\'(s) personal integrity',
   },
   {
     word: 'das Ei, -er',
@@ -5745,7 +5745,7 @@ module.exports = [
   },
   {
     word: 'das Erdmagnetfeld, -x',
-    translation: 'Earth's magnetic field',
+    translation: 'Eart(h)\'(s) magnetic field',
   },
   {
     word: 'das Erdmännchen, -',
@@ -6013,7 +6013,7 @@ module.exports = [
   },
   {
     word: 'das Exil, -e',
-    translation: 'exile (the state of being banished from one's home or country)',
+    translation: 'exile (the state of being banished from on(e)\'(s) home or country)',
   },
   {
     word: 'das Exkrement, -e',
@@ -7113,7 +7113,7 @@ module.exports = [
   },
   {
     word: 'das Führerhauptquartier, -e',
-    translation: 'Führer's headquarters',
+    translation: 'Führe(r)\'(s) headquarters',
   },
   {
     word: 'das Führerprinzip, -ien',
@@ -7761,7 +7761,7 @@ module.exports = [
   },
   {
     word: 'das Gemüsegeschäft, -e',
-    translation: 'greengrocery, a greengrocer's shop',
+    translation: 'greengrocery, a greengroce(r)\'(s) shop',
   },
   {
     word: 'das Gemüt, -er',
@@ -8165,7 +8165,7 @@ module.exports = [
   },
   {
     word: 'das Gewebe, -',
-    translation: 'fabric (woven fabric), cloth, tissue, stuff, weave, mesh (eg wire mesh), (medicine, anatomy) tissue, (biology) web (spider's web)',
+    translation: 'fabric (woven fabric), cloth, tissue, stuff, weave, mesh (eg wire mesh), (medicine, anatomy) tissue, (biology) web (spide(r)\'(s) web)',
   },
   {
     word: 'das Gewehr, -e',
@@ -8361,7 +8361,7 @@ module.exports = [
   },
   {
     word: 'das Glücksrad, die Glücksräder (Pl.)',
-    translation: 'Fortune's wheel, The German incarnation of the American game show Wheel of Fortune',
+    translation: 'Fortun(e)\'(s) wheel, The German incarnation of the American game show Wheel of Fortune',
   },
   {
     word: 'das Glücksspiel, -e',
@@ -8557,7 +8557,7 @@ module.exports = [
   },
   {
     word: 'das Grevyzebra, -s',
-    translation: 'Grévy's zebra',
+    translation: 'Grév(y)\'(s) zebra',
   },
   {
     word: 'das Griechisch, -x',
@@ -8629,7 +8629,7 @@ module.exports = [
   },
   {
     word: 'das Grundwasser, -',
-    translation: 'groundwater (water existing beneath the earth's surface in underground streams and aquifers)',
+    translation: 'groundwater (water existing beneath the eart(h)\'(s) surface in underground streams and aquifers)',
   },
   {
     word: 'das Grunzen, -x',
@@ -9781,7 +9781,7 @@ module.exports = [
   },
   {
     word: 'das Hundeleben, -x',
-    translation: '(idiomatic) dog's life (miserable, unhappy existence), (non-idiomatic) life of a dog',
+    translation: '(idiomatic) do(g)\'(s) life (miserable, unhappy existence), (non-idiomatic) life of a dog',
   },
   {
     word: 'das Hundert, -e',
@@ -10217,7 +10217,7 @@ module.exports = [
   },
   {
     word: 'das Interregnum, die Interregnen (Pl.)',
-    translation: 'interregnum (period of time between the end of a sovereign's reign and the accession of another sovereign)',
+    translation: 'interregnum (period of time between the end of a sovereig(n)\'(s) reign and the accession of another sovereign)',
   },
   {
     word: 'das Interrobang, -s',
@@ -10321,7 +10321,7 @@ module.exports = [
   },
   {
     word: 'das Irrlicht, -er',
-    translation: 'will o' the wisp (strange light)',
+    translation: 'will o\' the wisp (strange light)',
   },
   {
     word: 'das Ischias, -x',
@@ -10377,7 +10377,7 @@ module.exports = [
   },
   {
     word: 'das Jahresende, -n',
-    translation: 'year's end; end of the year',
+    translation: 'yea(r)\'(s) end; end of the year',
   },
   {
     word: 'das Jahrhundert, -e',
@@ -10941,7 +10941,7 @@ module.exports = [
   },
   {
     word: 'das Katzengold, -x',
-    translation: 'pyrite; fool's gold; a mineral from the class of sulfides with the chemical formula FeS2',
+    translation: 'pyrite; foo(l)\'(s) gold; a mineral from the class of sulfides with the chemical formula FeS2',
   },
   {
     word: 'das Katzenjunges, die Katzenjunge (Pl.)',
@@ -11105,11 +11105,11 @@ module.exports = [
   },
   {
     word: 'das Kinderbuch, -¨er',
-    translation: 'children's book',
+    translation: 'childre(n)\'(s) book',
   },
   {
     word: 'das Kinderfahrrad, -¨er',
-    translation: 'Children bycicle (a bycicle adapted for children's necessities)',
+    translation: 'Children bycicle (a bycicle adapted for childre(n)\'(s) necessities)',
   },
   {
     word: 'das Kindergeld, -er',
@@ -11117,7 +11117,7 @@ module.exports = [
   },
   {
     word: 'das Kinderheim, -e',
-    translation: 'children's home, protectory, orphanage',
+    translation: 'childre(n)\'(s) home, protectory, orphanage',
   },
   {
     word: 'das Kindermädchen, -',
@@ -11133,7 +11133,7 @@ module.exports = [
   },
   {
     word: 'das Kinderzimmer, -',
-    translation: 'child's room, children's room, nursery',
+    translation: 'chil(d)\'(s) room, childre(n)\'(s) room, nursery',
   },
   {
     word: 'das Kindlein, die Kinderlein (Pl.)',
@@ -12101,7 +12101,7 @@ module.exports = [
   },
   {
     word: 'das Kunstobjekt, -e',
-    translation: 'work of art, objet d'art',
+    translation: 'work of art, objet (d)\'(a)rt',
   },
   {
     word: 'das Kunstspringen, -x',
@@ -12369,7 +12369,7 @@ module.exports = [
   },
   {
     word: 'das Land, -¨er',
-    translation: 'a country, a state which is part of a country, land (real estate), the land, the dry portion of the earth's surface, the countryside',
+    translation: 'a country, a state which is part of a country, land (real estate), the land, the dry portion of the eart(h)\'(s) surface, the countryside',
   },
   {
     word: 'das Land unter, -',
@@ -12493,7 +12493,7 @@ module.exports = [
   },
   {
     word: 'das Leben, -',
-    translation: 'life (state between birth and death), (biology) life (status possessed by organic entities such as animals, plants and bacteria, having properties as metabolism, adaption and replication), biography, chain of events that determine or have determined one's life, existence or life one has built, often manifested in wealth and prosperity, life, precious or beloved thing that is part of someone's existence, (video games) life, numbers of times a game can be played, (video games) health, hit points, gerund of leben: \'living\' (no plural)',
+    translation: 'life (state between birth and death), (biology) life (status possessed by organic entities such as animals, plants and bacteria, having properties as metabolism, adaption and replication), biography, chain of events that determine or have determined on(e)\'(s) life, existence or life one has built, often manifested in wealth and prosperity, life, precious or beloved thing that is part of someon(e)\'(s) existence, (video games) life, numbers of times a game can be played, (video games) health, hit points, gerund of leben: \'living\' (no plural)',
   },
   {
     word: 'das Lebendgewicht, -e',
@@ -12505,7 +12505,7 @@ module.exports = [
   },
   {
     word: 'das Lebensjahr, -e',
-    translation: 'year of one's life',
+    translation: 'year of on(e)\'(s) life',
   },
   {
     word: 'das Lebensmittel, -',
@@ -12953,7 +12953,7 @@ module.exports = [
   },
   {
     word: 'das Luftbild, -er',
-    translation: 'aerial view, bird's-eye view',
+    translation: 'aerial view, bir(d)\'(s)-eye view',
   },
   {
     word: 'das Luftfahrzeug, -e',
@@ -14393,7 +14393,7 @@ module.exports = [
   },
   {
     word: 'das Mundstück, -e',
-    translation: 'mouthpiece (part of a wind instrument), bit (piece of metal placed in a horse's mouth)',
+    translation: 'mouthpiece (part of a wind instrument), bit (piece of metal placed in a hors(e)\'(s) mouth)',
   },
   {
     word: 'das Mundwasser, -¨',
@@ -14501,7 +14501,7 @@ module.exports = [
   },
   {
     word: 'das Muttersöhnchen, -',
-    translation: 'momma's boy',
+    translation: 'momm(a)\'(s) boy',
   },
   {
     word: 'das My, -s',
@@ -14569,7 +14569,7 @@ module.exports = [
   },
   {
     word: 'das Nachtquartier, -e',
-    translation: 'night's lodging',
+    translation: 'nigh(t)\'(s) lodging',
   },
   {
     word: 'das Nachtsichtgerät, -e',
@@ -14713,11 +14713,11 @@ module.exports = [
   },
   {
     word: 'das Narrengold, -x',
-    translation: 'fool's gold; pyrite; a mineral from the class of sulfides with the chemical formula FeS2',
+    translation: 'foo(l)\'(s) gold; pyrite; a mineral from the class of sulfides with the chemical formula FeS2',
   },
   {
     word: 'das Narrenmatt, -x',
-    translation: '(chess) fool's mate',
+    translation: '(chess) foo(l)\'(s) mate',
   },
   {
     word: 'das Nasenbein, -e',
@@ -15117,7 +15117,7 @@ module.exports = [
   },
   {
     word: 'das Niemandsland, -x',
-    translation: 'no man's land',
+    translation: 'no ma(n)\'(s) land',
   },
   {
     word: 'das Nierenversagen, -',
@@ -16077,7 +16077,7 @@ module.exports = [
   },
   {
     word: 'das Pentagon, -x',
-    translation: 'the headquarters of the United States of America's Department of Defense',
+    translation: 'the headquarters of the United States of Americ(a)\'(s) Department of Defense',
   },
   {
     word: 'das Pentagramm, -e',
@@ -16565,7 +16565,7 @@ module.exports = [
   },
   {
     word: 'das Plagiat, -e',
-    translation: 'plagiarism (a copying of someone's ideas, text or other creative work and claiming it as one's own)',
+    translation: 'plagiarism (a copying of someon(e)\'(s) ideas, text or other creative work and claiming it as on(e)\'(s) own)',
   },
   {
     word: 'das Plakat, -e',
@@ -17153,7 +17153,7 @@ module.exports = [
   },
   {
     word: 'das Przewalski-Pferd, -e',
-    translation: 'Przewalski's horse (Equus ferus przewalskii)',
+    translation: 'Przewalsk(i)\'(s) horse (Equus ferus przewalskii)',
   },
   {
     word: 'das Pseudoephedrin, -x',
@@ -17373,7 +17373,7 @@ module.exports = [
   },
   {
     word: 'das Rabengekrächze, -x',
-    translation: 'a raven's croaking',
+    translation: 'a rave(n)\'(s) croaking',
   },
   {
     word: 'das Rad, -¨er',
@@ -18577,7 +18577,7 @@ module.exports = [
   },
   {
     word: 'das Schäfermatt, -x',
-    translation: '(chess) scholar's mate',
+    translation: '(chess) schola(r)\'(s) mate',
   },
   {
     word: 'das Schaffleisch, -x',
@@ -18933,7 +18933,7 @@ module.exports = [
   },
   {
     word: 'das Schneckentempo, -x',
-    translation: 'snail's pace',
+    translation: 'snai(l)\'(s) pace',
   },
   {
     word: 'das Schneeballsystem, -e',
@@ -19413,7 +19413,7 @@ module.exports = [
   },
   {
     word: 'das Seitenhölgen, -x',
-    translation: '(religion, Moravian, diminutive) side hole, Jesus's side wound, object of religious admiration for early Moravians',
+    translation: '(religion, Moravian, diminutive) side hole, Jesu(s)\'(s) side wound, object of religious admiration for early Moravians',
   },
   {
     word: 'das Sekret, -e',
@@ -19849,7 +19849,7 @@ module.exports = [
   },
   {
     word: 'das Silvester, -',
-    translation: 'New Year's Eve',
+    translation: 'New Yea(r)\'(s) Eve',
   },
   {
     word: 'das Singleton, -s',
@@ -20213,11 +20213,11 @@ module.exports = [
   },
   {
     word: 'das Sportherz, -en',
-    translation: '(medicine, sports) athlete's heart',
+    translation: '(medicine, sports) athlet(e)\'(s) heart',
   },
   {
     word: 'das Sportlerherz, -en',
-    translation: 'athlete's heart (disease)',
+    translation: 'athlet(e)\'(s) heart (disease)',
   },
   {
     word: 'das Sprachgefühl, -x',
@@ -20457,7 +20457,7 @@ module.exports = [
   },
   {
     word: 'das Stephanus-Steinigen, -x',
-    translation: '(regional) A popular custom, observed in some Catholic regions of Germany, including Westphalia, on St Stephen's Day (December 26th), involving the ritualized consumption of Korn',
+    translation: '(regional) A popular custom, observed in some Catholic regions of Germany, including Westphalia, on St Stephe(n)\'(s) Day (December 26th), involving the ritualized consumption of Korn',
   },
   {
     word: 'das Steppenzebra, -s',
@@ -22745,7 +22745,7 @@ module.exports = [
   },
   {
     word: 'das Vaterunser, -',
-    translation: '(Christianity) Lord's Prayer; Our Father; paternoster (prayer that Jesus taught his disciples), (dated) an approximate measure of time: as long as it takes to say the Our Father at an intermediate tempo, ie about half a minute',
+    translation: '(Christianity) Lor(d)\'(s) Prayer; Our Father; paternoster (prayer that Jesus taught his disciples), (dated) an approximate measure of time: as long as it takes to say the Our Father at an intermediate tempo, ie about half a minute',
   },
   {
     word: 'das Vehikel, -',
@@ -22961,7 +22961,7 @@ module.exports = [
   },
   {
     word: 'das Vermummungsverbot, -e',
-    translation: 'a law making it illegal to cover one's face at a demonstration',
+    translation: 'a law making it illegal to cover on(e)\'(s) face at a demonstration',
   },
   {
     word: 'das Vernichtungslager, -',
@@ -23169,7 +23169,7 @@ module.exports = [
   },
   {
     word: 'das Vogelnest, -er',
-    translation: 'bird's nest',
+    translation: 'bir(d)\'(s) nest',
   },
   {
     word: 'das Vöglein, -',
@@ -24029,7 +24029,7 @@ module.exports = [
   },
   {
     word: 'das Wolfsmaul, -¨er',
-    translation: 'a wolf's mouth',
+    translation: 'a wol(f)\'(s) mouth',
   },
   {
     word: 'das Wolkenkuckucksheim, -e',

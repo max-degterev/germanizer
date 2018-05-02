@@ -517,7 +517,7 @@ module.exports = [
   },
   {
     word: 'abschließen',
-    translation: 'to end, to finish or complete (eg one's studies), to shut off, to lock up; to seal off, to conclude (a contract, a deal), to finalise/finalize (a contract, an agreement)',
+    translation: 'to end, to finish or complete (eg one\'s studies), to shut off, to lock up; to seal off, to conclude (a contract, a deal), to finalise/finalize (a contract, an agreement)',
   },
   {
     word: 'abschmecken',
@@ -889,7 +889,7 @@ module.exports = [
   },
   {
     word: 'akquirieren',
-    translation: 'to acquire (to gain, usually by one's own exertions; to get as one's own)',
+    translation: 'to acquire (to gain, usually by on(e)\'(s) own exertions; to get as on(e)\'(s) own)',
   },
   {
     word: 'aktivieren',
@@ -917,7 +917,7 @@ module.exports = [
   },
   {
     word: 'alle Hände voll zu tun haben',
-    translation: 'to have one's hands full',
+    translation: 'to have on(e)\'(s) hands full',
   },
   {
     word: 'altern',
@@ -1233,7 +1233,7 @@ module.exports = [
   },
   {
     word: 'anmaßen',
-    translation: '(reflexive) to claim as one's own, (reflexive) to take upon oneself, to assume',
+    translation: '(reflexive) to claim as on(e)\'(s) own, (reflexive) to take upon oneself, to assume',
   },
   {
     word: 'anmelden',
@@ -1345,7 +1345,7 @@ module.exports = [
   },
   {
     word: 'anschnallen',
-    translation: 'to fasten one's seatbelts',
+    translation: 'to fasten on(e)\'(s) seatbelts',
   },
   {
     word: 'anschreiben',
@@ -1657,7 +1657,7 @@ module.exports = [
   },
   {
     word: 'auf den Keks gehen',
-    translation: '(idiomatic) To get on someone's nerves',
+    translation: '(idiomatic) To get on someon(e)\'(s) nerves',
   },
   {
     word: 'auf der faulen Haut liegen',
@@ -1665,7 +1665,7 @@ module.exports = [
   },
   {
     word: 'auf der Leitung stehen',
-    translation: 'get one's wires crossed',
+    translation: 'get on(e)\'(s) wires crossed',
   },
   {
     word: 'auf der Nase herumtanzen',
@@ -1673,7 +1673,7 @@ module.exports = [
   },
   {
     word: 'auf die Nerven gehen',
-    translation: 'To get on someone's nerves, to annoy',
+    translation: 'To get on someon(e)\'(s) nerves, to annoy',
   },
   {
     word: 'auf die Palme bringen',
@@ -1761,7 +1761,7 @@ module.exports = [
   },
   {
     word: 'auffallen',
-    translation: 'to stand out, (with dative) to catch someone's eye; (translating the dative as the subject) to notice',
+    translation: 'to stand out, (with dative) to catch someon(e)\'(s) eye; (translating the dative as the subject) to notice',
   },
   {
     word: 'auffangen',
@@ -1793,7 +1793,7 @@ module.exports = [
   },
   {
     word: 'aufgeben',
-    translation: '(transitive) to give up on (one's efforts), (reflexive) to give up, (transitive) to abandon, to forsake, to relinquish, (transitive, military) to surrender, to capitulate, (transitive) to lose hope, to resign, to quit, (transitive, mail) to send, to mail, (transitive, homework) to give',
+    translation: '(transitive) to give up on (on(e)\'(s) efforts), (reflexive) to give up, (transitive) to abandon, to forsake, to relinquish, (transitive, military) to surrender, to capitulate, (transitive) to lose hope, to resign, to quit, (transitive, mail) to send, to mail, (transitive, homework) to give',
   },
   {
     word: 'aufgefunden',
@@ -1829,7 +1829,7 @@ module.exports = [
   },
   {
     word: 'aufheben',
-    translation: 'to pick up (something lying on the ground), to abolish (rule, law, etc), to keep (can be reflexive if kept 'for someone')',
+    translation: 'to pick up (something lying on the ground), to abolish (rule, law, etc), to keep (can be reflexive if kept \'for someone\')',
   },
   {
     word: 'aufheitern',
@@ -1945,7 +1945,7 @@ module.exports = [
   },
   {
     word: 'aufreiben',
-    translation: 'to rub sore, (figuratively, of one's health etc) to wear down, (military, of enemy forces) to wipe out',
+    translation: 'to rub sore, (figuratively, of on(e)\'(s) health etc) to wear down, (military, of enemy forces) to wipe out',
   },
   {
     word: 'aufreißen',
@@ -2353,7 +2353,7 @@ module.exports = [
   },
   {
     word: 'auskennen',
-    translation: '(reflexive) to know one's way around, (reflexive) to know a lot (auf / in ‎(“about”))',
+    translation: '(reflexive) to know on(e)\'(s) way around, (reflexive) to know a lot (auf / in ‎(“about”))',
   },
   {
     word: 'auskommen',
@@ -2453,7 +2453,7 @@ module.exports = [
   },
   {
     word: 'ausnutzen',
-    translation: 'to exploit (use for one's advantage)',
+    translation: 'to exploit (use for on(e)\'(s) advantage)',
   },
   {
     word: 'auspacken',
@@ -2713,7 +2713,7 @@ module.exports = [
   },
   {
     word: 'austrinken',
-    translation: '(transitive, a glass or bottle) to empty, (transitive, a drink) to finish, (intransitive) to finish one's drink',
+    translation: '(transitive, a glass or bottle) to empty, (transitive, a drink) to finish, (intransitive) to finish on(e)\'(s) drink',
   },
   {
     word: 'ausüben',
@@ -2749,7 +2749,7 @@ module.exports = [
   },
   {
     word: 'ausweisen',
-    translation: 'to expel, (finance) show, display, (reflexive) to prove one's identity',
+    translation: 'to expel, (finance) show, display, (reflexive) to prove on(e)\'(s) identity',
   },
   {
     word: 'ausweiten',
@@ -2777,7 +2777,7 @@ module.exports = [
   },
   {
     word: 'ausziehen',
-    translation: 'to pull out (auxiliary verb: haben), (transitive, of clothing) to take off (auxiliary verb: haben), (transitive, a person) to undress (auxiliary verb: haben), (reflexive: sich ausziehen) to undress, to take off one's clothes (auxiliary verb: haben), (housing) to move out (auxiliary verb: sein), to unscrew (auxiliary verb: haben)',
+    translation: 'to pull out (auxiliary verb: haben), (transitive, of clothing) to take off (auxiliary verb: haben), (transitive, a person) to undress (auxiliary verb: haben), (reflexive: sich ausziehen) to undress, to take off on(e)\'(s) clothes (auxiliary verb: haben), (housing) to move out (auxiliary verb: sein), to unscrew (auxiliary verb: haben)',
   },
   {
     word: 'auszubauen',
@@ -2829,7 +2829,7 @@ module.exports = [
   },
   {
     word: 'babysitten',
-    translation: 'babysit (to watch or tend someone else's child for a period of time, often for money)',
+    translation: 'babysit (to watch or tend someone els(e)\'(s) child for a period of time, often for money)',
   },
   {
     word: 'backen',
@@ -2929,7 +2929,7 @@ module.exports = [
   },
   {
     word: 'beamen',
-    translation: '(transitive, literally) to say, reply 'amen' after an uttering, notably in prayer or liturgy (especially in a responsory), (transitive) to assent to a statement',
+    translation: '(transitive, literally) to say, reply \'amen\' after an uttering, notably in prayer or liturgy (especially in a responsory), (transitive) to assent to a statement',
   },
   {
     word: 'beanspruchen',
@@ -2977,7 +2977,7 @@ module.exports = [
   },
   {
     word: 'bedenken',
-    translation: '(transitive) to bethink, (transitive) to think of, to make up, (reflexive) to reconsider, to change one's mind',
+    translation: '(transitive) to bethink, (transitive) to think of, to make up, (reflexive) to reconsider, to change on(e)\'(s) mind',
   },
   {
     word: 'bedeuten',
@@ -3109,7 +3109,7 @@ module.exports = [
   },
   {
     word: 'begeben',
-    translation: '(reflexive, formal) to go, make one's way, repair, (reflexive, impersonal) to happen, to issue',
+    translation: '(reflexive, formal) to go, make on(e)\'(s) way, repair, (reflexive, impersonal) to happen, to issue',
   },
   {
     word: 'begegnen',
@@ -3505,7 +3505,7 @@ module.exports = [
   },
   {
     word: 'bepissen',
-    translation: 'to piss on, to bepiss, (reflexive) to piss one's pants laughing, to laugh one's ass off',
+    translation: 'to piss on, to bepiss, (reflexive) to piss on(e)\'(s) pants laughing, to laugh on(e)\'(s) ass off',
   },
   {
     word: 'bequemben',
@@ -4165,7 +4165,7 @@ module.exports = [
   },
   {
     word: 'blitzdingsen',
-    translation: 'to erase someone's memories of a specific event',
+    translation: 'to erase someon(e)\'(s) memories of a specific event',
   },
   {
     word: 'blitzen',
@@ -4577,7 +4577,7 @@ module.exports = [
   },
   {
     word: 'das macht nichts',
-    translation: 'never mind, it doesn't matter (it is not important)',
+    translation: 'never mind, it does(n)\'(t) matter (it is not important)',
   },
   {
     word: 'das Wasser reichen können',
@@ -4597,11 +4597,11 @@ module.exports = [
   },
   {
     word: 'Däumchen drehen',
-    translation: '(idiomatic) to twiddle one's thumbs',
+    translation: '(idiomatic) to twiddle on(e)\'(s) thumbs',
   },
   {
     word: 'Daumen drücken',
-    translation: 'to wish good luck; to cross one's fingers; (literally) to press one's thumbs',
+    translation: 'to wish good luck; to cross on(e)\'(s) fingers; (literally) to press on(e)\'(s) thumbs',
   },
   {
     word: 'davoneilen',
@@ -4869,7 +4869,7 @@ module.exports = [
   },
   {
     word: 'die Beherrschung verlieren',
-    translation: 'to lose one's temper',
+    translation: 'to lose on(e)\'(s) temper',
   },
   {
     word: 'die Brust geben',
@@ -5061,7 +5061,7 @@ module.exports = [
   },
   {
     word: 'drankommen',
-    translation: '(colloquial) to touch, (colloquial) to be able to reach (an etwas + acc), (colloquial) to have one's go/turn',
+    translation: '(colloquial) to touch, (colloquial) to be able to reach (an etwas + acc), (colloquial) to have on(e)\'(s) go/turn',
   },
   {
     word: 'drapieren',
@@ -5173,7 +5173,7 @@ module.exports = [
   },
   {
     word: 'durch den Kakao ziehen',
-    translation: '(idiomatic) to pull someone's leg, to make fun of somebody or something, to roast someone',
+    translation: '(idiomatic) to pull someon(e)\'(s) leg, to make fun of somebody or something, to roast someone',
   },
   {
     word: 'durchblättern',
@@ -5241,7 +5241,7 @@ module.exports = [
   },
   {
     word: 'durchringen',
-    translation: '(reflexive, separable) finally to make up one's mind',
+    translation: '(reflexive, separable) finally to make up on(e)\'(s) mind',
   },
   {
     word: 'durchrütteln',
@@ -5377,7 +5377,7 @@ module.exports = [
   },
   {
     word: 'ein Armutszeugnis ausstellen',
-    translation: '(idiomatic) to show (someone's) incapacity (or incompetence)',
+    translation: '(idiomatic) to show (someon(e)\'(s)) incapacity (or incompetence)',
   },
   {
     word: 'ein Exempel statuieren',
@@ -5469,11 +5469,11 @@ module.exports = [
   },
   {
     word: 'eine lange Nase machen',
-    translation: '(idiomatic) to thumb one's nose',
+    translation: '(idiomatic) to thumb on(e)\'(s) nose',
   },
   {
     word: 'eine Nase drehen',
-    translation: '(idiomatic) to thumb one's nose',
+    translation: '(idiomatic) to thumb on(e)\'(s) nose',
   },
   {
     word: 'einen runterholen',
@@ -5509,7 +5509,7 @@ module.exports = [
   },
   {
     word: 'einfrieren',
-    translation: 'to freeze (to lower something's temperature to freezing point), to freeze (wages, prices, etc)',
+    translation: 'to freeze (to lower somethin(g)\'(s) temperature to freezing point), to freeze (wages, prices, etc)',
   },
   {
     word: 'einfügen',
@@ -5945,7 +5945,7 @@ module.exports = [
   },
   {
     word: 'empfehlen',
-    translation: '(transitive) to recommend; to advocate, (reflexive) to offer one's services',
+    translation: '(transitive) to recommend; to advocate, (reflexive) to offer on(e)\'(s) services',
   },
   {
     word: 'empfinden',
@@ -6013,7 +6013,7 @@ module.exports = [
   },
   {
     word: 'entfallen',
-    translation: 'To drop or be dropped, To lapse or be cancelled, To slip one's memory',
+    translation: 'To drop or be dropped, To lapse or be cancelled, To slip on(e)\'(s) memory',
   },
   {
     word: 'entfalten',
@@ -6281,7 +6281,7 @@ module.exports = [
   },
   {
     word: 'entstellen',
-    translation: '(transitive) to disfigure somebody's looks, (transitive) to distort the truth, (transitive) to disrupt text or code',
+    translation: '(transitive) to disfigure somebod(y)\'(s) looks, (transitive) to distort the truth, (transitive) to disrupt text or code',
   },
   {
     word: 'enttarnen',
@@ -6345,7 +6345,7 @@ module.exports = [
   },
   {
     word: 'entziehen',
-    translation: 'to revoke (a right or permission), to withdraw (to remove, stop providing), to extract (to withdraw by a mechanical or chemical process), (reflexive) to shirk, escape, avoid (one's responsibilities, the consequences of one's actions, etc)',
+    translation: 'to revoke (a right or permission), to withdraw (to remove, stop providing), to extract (to withdraw by a mechanical or chemical process), (reflexive) to shirk, escape, avoid (on(e)\'(s) responsibilities, the consequences of on(e)\'(s) actions, etc)',
   },
   {
     word: 'entziffern',
@@ -6993,7 +6993,7 @@ module.exports = [
   },
   {
     word: 'exmatrikulieren',
-    translation: 'to deregister, to unenroll, to (as a school) remove (someone) from the register of students (due to that person's graduation, withdrawal, expulsion, etc)',
+    translation: 'to deregister, to unenroll, to (as a school) remove (someone) from the register of students (due to that perso(n)\'(s) graduation, withdrawal, expulsion, etc)',
   },
   {
     word: 'exorzieren',
@@ -7061,7 +7061,7 @@ module.exports = [
   },
   {
     word: 'fallen lassen',
-    translation: 'to drop (to allow to fall from one's grasp)',
+    translation: 'to drop (to allow to fall from on(e)\'(s) grasp)',
   },
   {
     word: 'fälschen',
@@ -7085,7 +7085,7 @@ module.exports = [
   },
   {
     word: 'Farbe bekennen',
-    translation: '(card games) to follow suit, (idiomatic) to show one's true colors, declare oneself, (idiomatic) to nail one's colours to the mast, declare oneself, (idiomatic) to come clean',
+    translation: '(card games) to follow suit, (idiomatic) to show on(e)\'(s) true colors, declare oneself, (idiomatic) to nail on(e)\'(s) colours to the mast, declare oneself, (idiomatic) to come clean',
   },
   {
     word: 'färben',
@@ -7165,7 +7165,7 @@ module.exports = [
   },
   {
     word: 'fensterln',
-    translation: '(southern Germany, Austria, Switzerland) to visit a girl who is the object of one's affections at night, either by coming to her window or by climbing through it into her room',
+    translation: '(southern Germany, Austria, Switzerland) to visit a girl who is the object of on(e)\'(s) affections at night, either by coming to her window or by climbing through it into her room',
   },
   {
     word: 'ferngucken',
@@ -7197,7 +7197,7 @@ module.exports = [
   },
   {
     word: 'fesseln',
-    translation: 'to chain, to bind, to rivet (someone's attention), to captivate',
+    translation: 'to chain, to bind, to rivet (someon(e)\'(s) attention), to captivate',
   },
   {
     word: 'fest einprogrammieren',
@@ -7461,7 +7461,7 @@ module.exports = [
   },
   {
     word: 'fokussieren',
-    translation: '(optics, photography) to focus (cause (rays of light, etc) to converge at a single point; adjust (a lens, an optical instrument)), to focus (concentrate one's attention)',
+    translation: '(optics, photography) to focus (cause (rays of light, etc) to converge at a single point; adjust (a lens, an optical instrument)), to focus (concentrate on(e)\'(s) attention)',
   },
   {
     word: 'folgen',
@@ -7621,7 +7621,7 @@ module.exports = [
   },
   {
     word: 'fremdschämen',
-    translation: '(reflexive, informal) to feel ashamed about something someone else has done; to be embarrassed because someone else has embarrassed himself (and doesn't notice)',
+    translation: '(reflexive, informal) to feel ashamed about something someone else has done; to be embarrassed because someone else has embarrassed himself (and does(n)\'(t) notice)',
   },
   {
     word: 'fressen',
@@ -7721,7 +7721,7 @@ module.exports = [
   },
   {
     word: 'funzen',
-    translation: '(Internet slang) To function, to work, (archaic) To light up an area Derived from Funzel ‎(“miner's headlamp”)',
+    translation: '(Internet slang) To function, to work, (archaic) To light up an area Derived from Funzel ‎(“mine(r)\'(s) headlamp”)',
   },
   {
     word: 'fürchten',
@@ -8245,7 +8245,7 @@ module.exports = [
   },
   {
     word: 'gucken',
-    translation: '(regional) to look, to direct one's gaze at something, (regional) to watch, to direct one's gaze at something for some time, (regional) to look, to have a certain facial expression',
+    translation: '(regional) to look, to direct on(e)\'(s) gaze at something, (regional) to watch, to direct on(e)\'(s) gaze at something for some time, (regional) to look, to have a certain facial expression',
   },
   {
     word: 'gurgeln',
@@ -8901,7 +8901,7 @@ module.exports = [
   },
   {
     word: 'hinters Licht führen',
-    translation: '(idiomatic, informal) pull the wool over somebody's eyes',
+    translation: '(idiomatic, informal) pull the wool over somebod(y)\'(s) eyes',
   },
   {
     word: 'hintertreiben',
@@ -9221,7 +9221,7 @@ module.exports = [
   },
   {
     word: 'in der Nase bohren',
-    translation: 'to pick one's nose',
+    translation: 'to pick on(e)\'(s) nose',
   },
   {
     word: 'in der Tinte sitzen',
@@ -9337,11 +9337,11 @@ module.exports = [
   },
   {
     word: 'ins Auge springen',
-    translation: 'to catch someone's eye',
+    translation: 'to catch someon(e)\'(s) eye',
   },
   {
     word: 'ins Auge stechen',
-    translation: 'to catch someone's eye',
+    translation: 'to catch someon(e)\'(s) eye',
   },
   {
     word: 'ins Bockshorn jagen',
@@ -9529,7 +9529,7 @@ module.exports = [
   },
   {
     word: 'jemandem einen Strich durch die Rechnung machen',
-    translation: '(idiomatic) to thwart someone's plans',
+    translation: '(idiomatic) to thwart someon(e)\'(s) plans',
   },
   {
     word: 'jemandem etwas in die Schuhe schieben',
@@ -9537,7 +9537,7 @@ module.exports = [
   },
   {
     word: 'jemandem über den Weg laufen',
-    translation: 'to cross someone's path, to run into someone',
+    translation: 'to cross someon(e)\'(s) path, to run into someone',
   },
   {
     word: 'jemandem zu schaffen machen',
@@ -9697,7 +9697,7 @@ module.exports = [
   },
   {
     word: 'kassieren',
-    translation: 'to collect (money) for the goods or services one has provided, to take against someone's will, to take (something) away from (someone), to end (eg to put an end to or prevent the implementation of a law)',
+    translation: 'to collect (money) for the goods or services one has provided, to take against someon(e)\'(s) will, to take (something) away from (someone), to end (eg to put an end to or prevent the implementation of a law)',
   },
   {
     word: 'kasteien',
@@ -9837,7 +9837,7 @@ module.exports = [
   },
   {
     word: 'klappen',
-    translation: 'to clap (make sound or music with the hands), to applaud (clap hands in order to praise), to smack, strike rather hard and/or loud, to crack with a loud sound, like a whip, to fold, to hinge, to wag one's lips, talk, converse',
+    translation: 'to clap (make sound or music with the hands), to applaud (clap hands in order to praise), to smack, strike rather hard and/or loud, to crack with a loud sound, like a whip, to fold, to hinge, to wag on(e)\'(s) lips, talk, converse',
   },
   {
     word: 'klappern',
@@ -9989,7 +9989,7 @@ module.exports = [
   },
   {
     word: 'knirschen',
-    translation: '(sound) to scrunch, to crunch, (one's teeth) to gnash, to grind',
+    translation: '(sound) to scrunch, to crunch, (on(e)\'(s) teeth) to gnash, to grind',
   },
   {
     word: 'knistern',
@@ -10237,7 +10237,7 @@ module.exports = [
   },
   {
     word: 'konzentrieren',
-    translation: '(reflexive) to concentrate (one's mind or attention), (transitive) to concentrate (something)',
+    translation: '(reflexive) to concentrate (on(e)\'(s) mind or attention), (transitive) to concentrate (something)',
   },
   {
     word: 'konzessionieren',
@@ -10341,7 +10341,7 @@ module.exports = [
   },
   {
     word: 'krallen',
-    translation: '(reflexive) to hold on or cling, especially with claws, nails or fingers, (transitive) to dig fingers or nails into something, to claw at, (transitive) to bend one's fingers into a claw shape, (transitive, informal) to steal or seize',
+    translation: '(reflexive) to hold on or cling, especially with claws, nails or fingers, (transitive) to dig fingers or nails into something, to claw at, (transitive) to bend on(e)\'(s) fingers into a claw shape, (transitive, informal) to steal or seize',
   },
   {
     word: 'kramen',
@@ -10353,7 +10353,7 @@ module.exports = [
   },
   {
     word: 'kränken',
-    translation: 'to insult, to offend, to hurt someone's feelings, to wound (psychologically), belittle',
+    translation: 'to insult, to offend, to hurt someon(e)\'(s) feelings, to wound (psychologically), belittle',
   },
   {
     word: 'krankmelden',
@@ -10489,11 +10489,11 @@ module.exports = [
   },
   {
     word: 'kündigen',
-    translation: 'can, sack (to fire or terminate an employee), quit (to quit one's job or position in a firm), cancel (a contract)',
+    translation: 'can, sack (to fire or terminate an employee), quit (to quit on(e)\'(s) job or position in a firm), cancel (a contract)',
   },
   {
     word: 'kupieren',
-    translation: '(removal of part of an animal's tail or ears) to dock',
+    translation: '(removal of part of an anima(l)\'(s) tail or ears) to dock',
   },
   {
     word: 'kurbeln',
@@ -10745,7 +10745,7 @@ module.exports = [
   },
   {
     word: 'liebäugeln',
-    translation: '(with an idea or thing) to flirt, to have one's eye on, to toy, (with a person) to make eyes at',
+    translation: '(with an idea or thing) to flirt, to have on(e)\'(s) eye on, to toy, (with a person) to make eyes at',
   },
   {
     word: 'Liebe machen',
@@ -10897,7 +10897,7 @@ module.exports = [
   },
   {
     word: 'lutschen',
-    translation: 'to suck; to keep something in one's mouth while licking it constantly, as done with lollipops or hard candies',
+    translation: 'to suck; to keep something in on(e)\'(s) mouth while licking it constantly, as done with lollipops or hard candies',
   },
   {
     word: 'lynchen',
@@ -10909,7 +10909,7 @@ module.exports = [
   },
   {
     word: 'macht nichts',
-    translation: 'never mind, it doesn't matter (it is not important)',
+    translation: 'never mind, it does(n)\'(t) matter (it is not important)',
   },
   {
     word: 'madigmachen',
@@ -11517,7 +11517,7 @@ module.exports = [
   },
   {
     word: 'nachleben',
-    translation: 'to follow (to live one's life according to a role model or someone's teachings, or one's own calling)',
+    translation: 'to follow (to live on(e)\'(s) life according to a role model or someon(e)\'(s) teachings, or on(e)\'(s) own calling)',
   },
   {
     word: 'nachmachen',
@@ -11525,7 +11525,7 @@ module.exports = [
   },
   {
     word: 'nachrechnen',
-    translation: 'to recalculate, to check one's calculations',
+    translation: 'to recalculate, to check on(e)\'(s) calculations',
   },
   {
     word: 'nachsagen',
@@ -11665,7 +11665,7 @@ module.exports = [
   },
   {
     word: 'nicht alle Tassen im Schrank haben',
-    translation: '(idiomatic) to not have all one's marbles, (being) a few cards short of a deck, have a screw loose, ',
+    translation: '(idiomatic) to not have all on(e)\'(s) marbles, (being) a few cards short of a deck, have a screw loose, ',
   },
   {
     word: 'nicken',
@@ -11689,7 +11689,7 @@ module.exports = [
   },
   {
     word: 'niederschlagen',
-    translation: 'to defeat (an enemy), to quell (a rebellion), to strike (someone) down, to beat (someone) down; to force someone downwards, to cast down (one's eyes), to look down',
+    translation: 'to defeat (an enemy), to quell (a rebellion), to strike (someone) down, to beat (someone) down; to force someone downwards, to cast down (on(e)\'(s) eyes), to look down',
   },
   {
     word: 'niederstechen',
@@ -11737,7 +11737,7 @@ module.exports = [
   },
   {
     word: 'nostrifizieren',
-    translation: 'to nostrify: to grant recognition to a degree from a foreign university, to nostrify: to adopt as part of one's own culture or language, (law) to naturalize: to grant citizenship to someone who previously had another citizenship',
+    translation: 'to nostrify: to grant recognition to a degree from a foreign university, to nostrify: to adopt as part of on(e)\'(s) own culture or language, (law) to naturalize: to grant citizenship to someone who previously had another citizenship',
   },
   {
     word: 'notieren',
@@ -11897,7 +11897,7 @@ module.exports = [
   },
   {
     word: 'panaschieren',
-    translation: '(electoral law, Germany, Switzerland) to split one's vote',
+    translation: '(electoral law, Germany, Switzerland) to split on(e)\'(s) vote',
   },
   {
     word: 'panieren',
@@ -12049,7 +12049,7 @@ module.exports = [
   },
   {
     word: 'pfeifen',
-    translation: '(intransitive or transitive) to whistle (with one's mouth or a whistle), (intransitive or transitive, sports) to act as referee, (colloquial, intransitive with preposition auf) to be uninterested (in something or someone); to ignore; not to give a damn',
+    translation: '(intransitive or transitive) to whistle (with on(e)\'(s) mouth or a whistle), (intransitive or transitive, sports) to act as referee, (colloquial, intransitive with preposition auf) to be uninterested (in something or someone); to ignore; not to give a damn',
   },
   {
     word: 'pflanzen',
@@ -12213,7 +12213,7 @@ module.exports = [
   },
   {
     word: 'popeln',
-    translation: 'to pick one's nose',
+    translation: 'to pick on(e)\'(s) nose',
   },
   {
     word: 'poppen',
@@ -12361,7 +12361,7 @@ module.exports = [
   },
   {
     word: 'prosten',
-    translation: 'to raise one's glass, to toast',
+    translation: 'to raise on(e)\'(s) glass, to toast',
   },
   {
     word: 'prostituieren',
@@ -12445,7 +12445,7 @@ module.exports = [
   },
   {
     word: 'putschen',
-    translation: 'to organize a coup d'état',
+    translation: 'to organize a coup d\'état',
   },
   {
     word: 'putzen',
@@ -12653,7 +12653,7 @@ module.exports = [
   },
   {
     word: 'räuspern',
-    translation: '(reflexive) to clear one's throat, to cough slightly (when trying to get attention)',
+    translation: '(reflexive) to clear on(e)\'(s) throat, to cough slightly (when trying to get attention)',
   },
   {
     word: 'rausschmeißen',
@@ -12685,7 +12685,7 @@ module.exports = [
   },
   {
     word: 'rechnen',
-    translation: 'to count, reckon, calculate, compute, (with 'mit') to expect',
+    translation: 'to count, reckon, calculate, compute, (with \'mit\') to expect',
   },
   {
     word: 'rechtdrehen',
@@ -12697,7 +12697,7 @@ module.exports = [
   },
   {
     word: 'recken',
-    translation: '(reflexive, to stretch one's muscles) to stretch',
+    translation: '(reflexive, to stretch on(e)\'(s) muscles) to stretch',
   },
   {
     word: 'recyceln',
@@ -12973,7 +12973,7 @@ module.exports = [
   },
   {
     word: 'robben',
-    translation: '(when applied to humans) to creep, to crawl; to move on ground level, lying flatly on the stomach with the help of one's forearms or elbows, (when applied to seals) describing the typical movement of a seal on land',
+    translation: '(when applied to humans) to creep, to crawl; to move on ground level, lying flatly on the stomach with the help of on(e)\'(s) forearms or elbows, (when applied to seals) describing the typical movement of a seal on land',
   },
   {
     word: 'rochieren',
@@ -13033,7 +13033,7 @@ module.exports = [
   },
   {
     word: 'rudern',
-    translation: '(transitive, intransitive) to row (propel over water using oars), (intransitive) to flail (one's arms)',
+    translation: '(transitive, intransitive) to row (propel over water using oars), (intransitive) to flail (on(e)\'(s) arms)',
   },
   {
     word: 'rufen',
@@ -13045,7 +13045,7 @@ module.exports = [
   },
   {
     word: 'rügen',
-    translation: 'to reprove (to convey one's disapproval of in a gentle, kind, sweet tone)',
+    translation: 'to reprove (to convey on(e)\'(s) disapproval of in a gentle, kind, sweet tone)',
   },
   {
     word: 'ruhen',
@@ -13185,7 +13185,7 @@ module.exports = [
   },
   {
     word: 'saugen',
-    translation: '(intransitive) to suck; to create underpressure with a tube-like object such as one's mouth, (transitive) to suck (something), (colloquial, transitive) to download something',
+    translation: '(intransitive) to suck; to create underpressure with a tube-like object such as on(e)\'(s) mouth, (transitive) to suck (something), (colloquial, transitive) to download something',
   },
   {
     word: 'säugen',
@@ -13601,7 +13601,7 @@ module.exports = [
   },
   {
     word: 'Schmetterlinge im Bauch haben',
-    translation: 'have butterflies in one's stomach (be in love or happy)',
+    translation: 'have butterflies in on(e)\'(s) stomach (be in love or happy)',
   },
   {
     word: 'schmettern',
@@ -13621,7 +13621,7 @@ module.exports = [
   },
   {
     word: 'schminken',
-    translation: 'to put on make-up, to put on lipstick, to make one's face, to paint one's face',
+    translation: 'to put on make-up, to put on lipstick, to make on(e)\'(s) face, to paint on(e)\'(s) face',
   },
   {
     word: 'schmirgeln',
@@ -13657,7 +13657,7 @@ module.exports = [
   },
   {
     word: 'schnalzen',
-    translation: 'To click (one's tongue), To snap one's fingers',
+    translation: 'To click (on(e)\'(s) tongue), To snap on(e)\'(s) fingers',
   },
   {
     word: 'schnappen',
@@ -13681,7 +13681,7 @@ module.exports = [
   },
   {
     word: 'schnäuzen',
-    translation: 'to blow one's nose (to expel mucus from nose)',
+    translation: 'to blow on(e)\'(s) nose (to expel mucus from nose)',
   },
   {
     word: 'schneiden',
@@ -13697,7 +13697,7 @@ module.exports = [
   },
   {
     word: 'schnippen',
-    translation: 'to snap one's fingers, to strike with a finger',
+    translation: 'to snap on(e)\'(s) fingers, to strike with a finger',
   },
   {
     word: 'schnitzen',
@@ -13817,7 +13817,7 @@ module.exports = [
   },
   {
     word: 'schultern',
-    translation: '(transitive) to shoulder (to carry something on one's shoulders)',
+    translation: '(transitive) to shoulder (to carry something on on(e)\'(s) shoulders)',
   },
   {
     word: 'schummeln',
@@ -13889,7 +13889,7 @@ module.exports = [
   },
   {
     word: 'schwarzsehen',
-    translation: 'to be pessimistic, (television) to watch television without paying one's license',
+    translation: 'to be pessimistic, (television) to watch television without paying on(e)\'(s) license',
   },
   {
     word: 'schwatzen',
@@ -13945,7 +13945,7 @@ module.exports = [
   },
   {
     word: 'schwirren',
-    translation: '(insect) to buzz, (bird) to whirr, (bowstring) to twang, (arrow, bullet) to whiz, to whirl around (in one's head)',
+    translation: '(insect) to buzz, (bird) to whirr, (bowstring) to twang, (arrow, bullet) to whiz, to whirl around (in on(e)\'(s) head)',
   },
   {
     word: 'schwitzen',
@@ -13997,23 +13997,23 @@ module.exports = [
   },
   {
     word: 'sein Licht unter den Scheffel stellen',
-    translation: '(idiomatic) to hide one's light under a bushel',
+    translation: '(idiomatic) to hide on(e)\'(s) light under a bushel',
   },
   {
     word: 'seine Claims abstecken',
-    translation: '(figuratively) to stake out one's claims',
+    translation: '(figuratively) to stake out on(e)\'(s) claims',
   },
   {
     word: 'seinen Hut nehmen',
-    translation: '(idiomatic) to resign; to quit (literally: \'to take one's hat\')',
+    translation: '(idiomatic) to resign; to quit (literally: \'to take on(e)\'(s) hat\')',
   },
   {
     word: 'seinen Mann stehen',
-    translation: 'To stand one's ground',
+    translation: 'To stand on(e)\'(s) ground',
   },
   {
     word: 'seinen Senf dazugeben',
-    translation: '(idiomatic, colloquial) to add one's two cents (literally: \'to add one's mustard\')',
+    translation: '(idiomatic, colloquial) to add on(e)\'(s) two cents (literally: \'to add on(e)\'(s) mustard\')',
   },
   {
     word: 'Selbstmord begehen',
@@ -14085,15 +14085,15 @@ module.exports = [
   },
   {
     word: 'sich auf seinen Lorbeeren ausruhen',
-    translation: '(idiomatic) to rest on one's laurels',
+    translation: '(idiomatic) to rest on on(e)\'(s) laurels',
   },
   {
     word: 'sich aus den Fingern saugen',
-    translation: '(idiomatic) to think of something, to make up, to make up out of thin air, to invent (false stories, figures, etc), to pull out of one's ass (fabricate a claim with no factual basis or evidence)',
+    translation: '(idiomatic) to think of something, to make up, to make up out of thin air, to invent (false stories, figures, etc), to pull out of on(e)\'(s) ass (fabricate a claim with no factual basis or evidence)',
   },
   {
     word: 'sich den Arsch aufreißen',
-    translation: '(idiomatic, vulgar) to bust one's ass',
+    translation: '(idiomatic, vulgar) to bust on(e)\'(s) ass',
   },
   {
     word: 'sich den Magen verderben',
@@ -14101,7 +14101,7 @@ module.exports = [
   },
   {
     word: 'sich die Hörner abstoßen',
-    translation: 'sow one's wild oats (to spend a period of one's youth behaving irresponsibly)',
+    translation: 'sow on(e)\'(s) wild oats (to spend a period of on(e)\'(s) youth behaving irresponsibly)',
   },
   {
     word: 'sich ein Herz fassen',
@@ -14109,7 +14109,7 @@ module.exports = [
   },
   {
     word: 'sich erkenntlich zeigen',
-    translation: '(idiomatic) to show one's gratitude',
+    translation: '(idiomatic) to show on(e)\'(s) gratitude',
   },
   {
     word: 'sich vom Acker machen',
@@ -14185,7 +14185,7 @@ module.exports = [
   },
   {
     word: 'sinnen',
-    translation: '(transitive, elevated) to think, to ponder, to cogitate, (transitive, elevated) to direct one's thoughts to something, to plan, to intend',
+    translation: '(transitive, elevated) to think, to ponder, to cogitate, (transitive, elevated) to direct on(e)\'(s) thoughts to something, to plan, to intend',
   },
   {
     word: 'sinnieren',
@@ -14225,7 +14225,7 @@ module.exports = [
   },
   {
     word: 'solidarisieren',
-    translation: '(reflexive) to declare one's solidarity',
+    translation: '(reflexive) to declare on(e)\'(s) solidarity',
   },
   {
     word: 'sollen',
@@ -14357,7 +14357,7 @@ module.exports = [
   },
   {
     word: 'spitzen',
-    translation: '(transitive) to point (to make pointy), (pencil) to sharpen, (ears) to perk up, prick up (one's ears)',
+    translation: '(transitive) to point (to make pointy), (pencil) to sharpen, (ears) to perk up, prick up (on(e)\'(s) ears)',
   },
   {
     word: 'spleißen',
@@ -14561,7 +14561,7 @@ module.exports = [
   },
   {
     word: 'stellen',
-    translation: '(transitive) to position; place, (transitive) to state, to put forward, (reflexive) to take one's stand, (transitive, chemistry) to standardize a solution by titration',
+    translation: '(transitive) to position; place, (transitive) to state, to put forward, (reflexive) to take on(e)\'(s) stand, (transitive, chemistry) to standardize a solution by titration',
   },
   {
     word: 'stemmen',
@@ -14781,7 +14781,7 @@ module.exports = [
   },
   {
     word: 'stutzig machen',
-    translation: 'to perplex (someone), to make (someone) suspicious; to arouse (someone's) suspicion',
+    translation: 'to perplex (someone), to make (someone) suspicious; to arouse (someon(e)\'(s)) suspicion',
   },
   {
     word: 'sublimieren',
@@ -15289,7 +15289,7 @@ module.exports = [
   },
   {
     word: 'überdachen',
-    translation: 'to put a roof on something that doesn't necessarily need one',
+    translation: 'to put a roof on something that does(n)\'(t) necessarily need one',
   },
   {
     word: 'überdenken',
@@ -15525,7 +15525,7 @@ module.exports = [
   },
   {
     word: 'um den Finger wickeln',
-    translation: '(transitive, idiomatic) to wrap around one's little finger',
+    translation: '(transitive, idiomatic) to wrap around on(e)\'(s) little finger',
   },
   {
     word: 'um den kleinen Finger wickeln',
@@ -15653,7 +15653,7 @@ module.exports = [
   },
   {
     word: 'ums Leben kommen',
-    translation: '(possibly euphemistic) to lose one's life; to die; usually in an accident or by homicide',
+    translation: '(possibly euphemistic) to lose on(e)\'(s) life; to die; usually in an accident or by homicide',
   },
   {
     word: 'umschalten',
@@ -15873,7 +15873,7 @@ module.exports = [
   },
   {
     word: 'unterzeichnen',
-    translation: 'to sign (to give legal consent by writing one's signature)',
+    translation: 'to sign (to give legal consent by writing on(e)\'(s) signature)',
   },
   {
     word: 'unterziehen',
@@ -16237,7 +16237,7 @@ module.exports = [
   },
   {
     word: 'verfahren',
-    translation: 'to proceed, to deal with, (as a driver of a vehicle) to lose one's way, to get lost',
+    translation: 'to proceed, to deal with, (as a driver of a vehicle) to lose on(e)\'(s) way, to get lost',
   },
   {
     word: 'verfallen',
@@ -16297,7 +16297,7 @@ module.exports = [
   },
   {
     word: 'verfügen',
-    translation: 'to decree (to command by a decree), [with über] to have something at one's disposal, to employ',
+    translation: 'to decree (to command by a decree), [with über] to have something at on(e)\'(s) disposal, to employ',
   },
   {
     word: 'verführen',
@@ -17021,7 +17021,7 @@ module.exports = [
   },
   {
     word: 'verselbstständigen',
-    translation: 'to separate, to make independent, to emancipate, (reflexive) to become independent, to take on a life of one's own',
+    translation: 'to separate, to make independent, to emancipate, (reflexive) to become independent, to take on a life of on(e)\'(s) own',
   },
   {
     word: 'versemmeln',
@@ -17277,7 +17277,7 @@ module.exports = [
   },
   {
     word: 'verwaisen',
-    translation: '(of a child) to be orphaned, (of a parent) to lose one's child, (of a place) to stand empty',
+    translation: '(of a child) to be orphaned, (of a parent) to lose on(e)\'(s) child, (of a place) to stand empty',
   },
   {
     word: 'verwalten',
@@ -18329,7 +18329,7 @@ module.exports = [
   },
   {
     word: 'zählen',
-    translation: 'to count (to determine the number of objects in a group), to count (to enumerate the digits of one's numeral system), to count (to be of significance; to matter), to count, to be reckoned (to be an example of something)',
+    translation: 'to count (to determine the number of objects in a group), to count (to enumerate the digits of on(e)\'(s) numeral system), to count (to be of significance; to matter), to count, to be reckoned (to be an example of something)',
   },
   {
     word: 'zähmen',

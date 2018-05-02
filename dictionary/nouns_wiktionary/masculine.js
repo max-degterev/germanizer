@@ -469,7 +469,7 @@ module.exports = [
   },
   {
     word: 'der Adamsapfel, -¨',
-    translation: 'Adam's apple',
+    translation: 'Ada(m)\'(s) apple',
   },
   {
     word: 'der Adapter, -',
@@ -537,7 +537,7 @@ module.exports = [
   },
   {
     word: 'der Advocatus Diaboli, die Advocati Diaboli (Pl.)',
-    translation: 'devil's advocate',
+    translation: 'devi(l)\'(s) advocate',
   },
   {
     word: 'der Advokat, -en',
@@ -813,7 +813,7 @@ module.exports = [
   },
   {
     word: 'der Alb, -en',
-    translation: 'elf (especially an evil one), nightmare (goblin believed to cause nightmare by oppressing one's chests while asleep), (dial) mountainous area, upland',
+    translation: 'elf (especially an evil one), nightmare (goblin believed to cause nightmare by oppressing on(e)\'(s) chests while asleep), (dial) mountainous area, upland',
   },
   {
     word: 'der Albaner, -',
@@ -2373,7 +2373,7 @@ module.exports = [
   },
   {
     word: 'der Augapfel, -¨',
-    translation: 'eyeball, apple of somebody's eye',
+    translation: 'eyeball, apple of somebod(y)\'(s) eye',
   },
   {
     word: 'der Augenarzt, -¨e',
@@ -2765,7 +2765,7 @@ module.exports = [
   },
   {
     word: 'der Bachelor, -',
-    translation: 'bachelor's degree, bachelor graduate',
+    translation: 'bachelo(r)\'(s) degree, bachelor graduate',
   },
   {
     word: 'der Backenbart, -¨e',
@@ -3229,7 +3229,7 @@ module.exports = [
   },
   {
     word: 'der Bausoldat, -en',
-    translation: '(German Democratic Republic, military) construction soldier (person who didn't bear arms but instead did construction work)',
+    translation: '(German Democratic Republic, military) construction soldier (person who did(n)\'(t) bear arms but instead did construction work)',
   },
   {
     word: 'der Baustahl, -¨e',
@@ -3365,7 +3365,7 @@ module.exports = [
   },
   {
     word: 'der Beifahrer, -',
-    translation: 'front passenger, (truck driving) driver's mate, (rally racing) co-driver',
+    translation: 'front passenger, (truck driving) drive(r)\'(s) mate, (rally racing) co-driver',
   },
   {
     word: 'der Beifahrersitz, -e',
@@ -3805,7 +3805,7 @@ module.exports = [
   },
   {
     word: 'der Bettelstab, -¨e',
-    translation: '(now only used in idioms) beggar's staff',
+    translation: '(now only used in idioms) begga(r)\'(s) staff',
   },
   {
     word: 'der Bettler, -',
@@ -4657,7 +4657,7 @@ module.exports = [
   },
   {
     word: 'der Botenlohn, -¨e',
-    translation: '(archaic) a messenger's fee',
+    translation: '(archaic) a messenge(r)\'(s) fee',
   },
   {
     word: 'der Botokude, -n',
@@ -5401,7 +5401,7 @@ module.exports = [
   },
   {
     word: 'der Busch, -¨e',
-    translation: 'bushes, brush, scrub (densely vegetated area with mainly smaller plants and some trees), bush, shrub (individual plant), (informal, pejorative) no man's land; a remote, rural area',
+    translation: 'bushes, brush, scrub (densely vegetated area with mainly smaller plants and some trees), bush, shrub (individual plant), (informal, pejorative) no ma(n)\'(s) land; a remote, rural area',
   },
   {
     word: 'der Büschelohrmaki, -s',
@@ -5581,7 +5581,7 @@ module.exports = [
   },
   {
     word: 'der Charakter, -e',
-    translation: 'character; the totality of someone's personal qualities, character, characteristic feature or nature of a thing, place, or people, (becoming dated) character, symbol, written glyph, (dated, possibly archaic) title, rank',
+    translation: 'character; the totality of someon(e)\'(s) personal qualities, character, characteristic feature or nature of a thing, place, or people, (becoming dated) character, symbol, written glyph, (dated, possibly archaic) title, rank',
   },
   {
     word: 'der Charme, -x',
@@ -6265,7 +6265,7 @@ module.exports = [
   },
   {
     word: 'der Deppenapostroph, -e',
-    translation: 'greengrocer's apostrophe',
+    translation: 'greengroce(r)\'(s) apostrophe',
   },
   {
     word: 'der Dermatologe, -n',
@@ -6501,7 +6501,7 @@ module.exports = [
   },
   {
     word: 'der Diplomingenieur, -e',
-    translation: 'An engineer's degree given in several countries (replaced by the Bologna process by Bachelor of Engineering and Master of Engineering)',
+    translation: 'An enginee(r)\'(s) degree given in several countries (replaced by the Bologna process by Bachelor of Engineering and Master of Engineering)',
   },
   {
     word: 'der Dipsomane, -',
@@ -6813,7 +6813,7 @@ module.exports = [
   },
   {
     word: 'der Draufgänger, -',
-    translation: 'daredevil, go-getter (person who doesn't hesitate to pursue his goals)',
+    translation: 'daredevil, go-getter (person who does(n)\'(t) hesitate to pursue his goals)',
   },
   {
     word: 'der Dreck, -x',
@@ -6905,7 +6905,7 @@ module.exports = [
   },
   {
     word: 'der Drogenkrieg, -e',
-    translation: 'The 'war on drugs', drug war',
+    translation: 'The \'war on drugs\', drug war',
   },
   {
     word: 'der Drogenmissbrauch, -¨e',
@@ -7365,7 +7365,7 @@ module.exports = [
   },
   {
     word: 'der Einer, -',
-    translation: '(mathematics) unit, (mathematics) units' place, ones' place (place value of a number), (sports) single scull, (swimming) one-meter diving board',
+    translation: '(mathematics) unit, (mathematics) units\' place, ones\' place (place value of a number), (sports) single scull, (swimming) one-meter diving board',
   },
   {
     word: 'der Einfall, -¨e',
@@ -8089,7 +8089,7 @@ module.exports = [
   },
   {
     word: 'der Erbfeind, -e',
-    translation: 'historical (inherited) enemy, (historical) inherited, essential enemy, believed to be hostile for generations or even since time immemorial (often in relation to France, which was held to be Germany's Erfeinde in the nineteenth century; this notion was often extrapolated to early Germanic tribes in the area on the German side and the Romans on the French side)',
+    translation: 'historical (inherited) enemy, (historical) inherited, essential enemy, believed to be hostile for generations or even since time immemorial (often in relation to France, which was held to be German(y)\'(s) Erfeinde in the nineteenth century; this notion was often extrapolated to early Germanic tribes in the area on the German side and the Romans on the French side)',
   },
   {
     word: 'der Erbobergespan, -e',
@@ -8125,7 +8125,7 @@ module.exports = [
   },
   {
     word: 'der Erdkern, -e',
-    translation: 'Earth's core',
+    translation: 'Eart(h)\'(s) core',
   },
   {
     word: 'der Erdklumpen, -',
@@ -8141,7 +8141,7 @@ module.exports = [
   },
   {
     word: 'der Erdmantel, -¨',
-    translation: 'Earth's mantle',
+    translation: 'Eart(h)\'(s) mantle',
   },
   {
     word: 'der Erdölvorrat, die Erdölvorräte (Pl.)',
@@ -8597,7 +8597,7 @@ module.exports = [
   },
   {
     word: 'der Fabrikant, -en',
-    translation: 'The profession of a factory's owner: manufacturer',
+    translation: 'The profession of a factor(y)\'(s) owner: manufacturer',
   },
   {
     word: 'der Facelift, -s',
@@ -8741,7 +8741,7 @@ module.exports = [
   },
   {
     word: 'der Fahrzeugkatalysator, -en',
-    translation: 'catalytic converter (in a vehicle's exhaust system)',
+    translation: 'catalytic converter (in a vehicl(e)\'(s) exhaust system)',
   },
   {
     word: 'der Fakir, -e',
@@ -9009,7 +9009,7 @@ module.exports = [
   },
   {
     word: 'der Feierabend, -e',
-    translation: '(obsolete) The evening before a holiday, Quitting time, hometime; the workday's end and the evening following it, used for relaxation or leisure',
+    translation: '(obsolete) The evening before a holiday, Quitting time, hometime; the workda(y)\'(s) end and the evening following it, used for relaxation or leisure',
   },
   {
     word: 'der Feiertag, -e',
@@ -10001,7 +10001,7 @@ module.exports = [
   },
   {
     word: 'der Frauenfuß, -¨e',
-    translation: 'woman's foot',
+    translation: 'woma(n)\'(s) foot',
   },
   {
     word: 'der Frauenrechtler, -',
@@ -10321,7 +10321,7 @@ module.exports = [
   },
   {
     word: 'der Fuchsschwanz, -¨e',
-    translation: 'fox's tail, crosscut saw',
+    translation: 'fo(x)\'(s) tail, crosscut saw',
   },
   {
     word: 'der Fuchswelpe, -n',
@@ -10341,7 +10341,7 @@ module.exports = [
   },
   {
     word: 'der Führerschein, -e',
-    translation: 'driver's license (US), driver's licence (Aus), driving licence (UK)',
+    translation: 'drive(r)\'(s) license (US), drive(r)\'(s) licence (Aus), driving licence (UK)',
   },
   {
     word: 'der Fuhrmann, -¨er',
@@ -10553,7 +10553,7 @@ module.exports = [
   },
   {
     word: 'der Fußpilz, -x',
-    translation: 'athlete's foot, tinea pedis',
+    translation: 'athlet(e)\'(s) foot, tinea pedis',
   },
   {
     word: 'der Fußweg, -e',
@@ -10737,7 +10737,7 @@ module.exports = [
   },
   {
     word: 'der Gastgeber, -',
-    translation: 'host (a person who allows a guest, particularly into the host's home)',
+    translation: 'host (a person who allows a guest, particularly into the hos(t)\'(s) home)',
   },
   {
     word: 'der Gasthof, -¨e',
@@ -10933,7 +10933,7 @@ module.exports = [
   },
   {
     word: 'der Geheimdienst, -e',
-    translation: 'literally 'secret service', intelligence agency, secret agency, intelligence service',
+    translation: 'literally \'secret service\', intelligence agency, secret agency, intelligence service',
   },
   {
     word: 'der Geheimfavorit, -en',
@@ -11097,7 +11097,7 @@ module.exports = [
   },
   {
     word: 'der Gemüseladen, die Gemüseläden (Pl.)',
-    translation: 'greengrocery, a greengrocer's shop',
+    translation: 'greengrocery, a greengroce(r)\'(s) shop',
   },
   {
     word: 'der Gendarm, -en',
@@ -11341,7 +11341,7 @@ module.exports = [
   },
   {
     word: 'der Gesetzesbrecher, -',
-    translation: 'literally 'law breaker', criminal, felon',
+    translation: 'literally \'law breaker\', criminal, felon',
   },
   {
     word: 'der Gesetzeshüter, -',
@@ -12037,7 +12037,7 @@ module.exports = [
   },
   {
     word: 'der Großfürst, -en',
-    translation: 'The ruler's title grand prince (sometimes incorrectly rendered as grandduke, a lower rank)',
+    translation: 'The rule(r)\'(s) title grand prince (sometimes incorrectly rendered as grandduke, a lower rank)',
   },
   {
     word: 'der Großhandel, -x',
@@ -12293,7 +12293,7 @@ module.exports = [
   },
   {
     word: 'der Haastadler, -',
-    translation: 'Haast's eagle',
+    translation: 'Haas(t)\'(s) eagle',
   },
   {
     word: 'der Habenichts, -e',
@@ -12317,7 +12317,7 @@ module.exports = [
   },
   {
     word: 'der Hacker, -',
-    translation: '(Original, Obsolete) One whom made an innovative change to MIT's Tech Model Railroad Club hardware[1], extremely skilled individuals that practiced hardcore programming in FORTRAN and other older languages [1], A person who can optimize/condense computer code to fit into available memory Ex: My hacker friend condensed my code to fit into a 4k EPROM, Someone who gains unauthorized access to a computer, web site, or file',
+    translation: '(Original, Obsolete) One whom made an innovative change to MI(T)\'(s) Tech Model Railroad Club hardware[1], extremely skilled individuals that practiced hardcore programming in FORTRAN and other older languages [1], A person who can optimize/condense computer code to fit into available memory Ex: My hacker friend condensed my code to fit into a 4k EPROM, Someone who gains unauthorized access to a computer, web site, or file',
   },
   {
     word: 'der Häcksel, -x',
@@ -12745,7 +12745,7 @@ module.exports = [
   },
   {
     word: 'der Hauptanteil, -e',
-    translation: 'majority, lion's share',
+    translation: 'majority, lio(n)\'(s) share',
   },
   {
     word: 'der Hauptartikel, -',
@@ -13269,11 +13269,11 @@ module.exports = [
   },
   {
     word: 'der Hexenkessel, -',
-    translation: 'a witch's cauldron, (metaphorical) boiling pot, boiling point, lions' den, uproar',
+    translation: 'a witc(h)\'(s) cauldron, (metaphorical) boiling pot, boiling point, lions\' den, uproar',
   },
   {
     word: 'der Hexensabbat, -te',
-    translation: '(witchcraft) Sabbath, witches' Sabbath, (figurative) bedlam, pandemonium',
+    translation: '(witchcraft) Sabbath, witches\' Sabbath, (figurative) bedlam, pandemonium',
   },
   {
     word: 'der Hexenschuss, -x',
@@ -15801,7 +15801,7 @@ module.exports = [
   },
   {
     word: 'der Kinderschuh, -e',
-    translation: 'children's shoe',
+    translation: 'childre(n)\'(s) shoe',
   },
   {
     word: 'der Kindersoldat, -en',
@@ -16641,7 +16641,7 @@ module.exports = [
   },
   {
     word: 'der Königsweg, -e',
-    translation: '(idiomatic) silver bullet (literally: king's way)',
+    translation: '(idiomatic) silver bullet (literally: kin(g)\'(s) way)',
   },
   {
     word: 'der Konjunktiv, -e',
@@ -16789,7 +16789,7 @@ module.exports = [
   },
   {
     word: 'der Kopf, -¨e',
-    translation: '(anatomy) head, crown, top, heading, title, person; individual; fellow (referring to one's intellect), (linguistics) head, heads (side of a coin)',
+    translation: '(anatomy) head, crown, top, heading, title, person; individual; fellow (referring to on(e)\'(s) intellect), (linguistics) head, heads (side of a coin)',
   },
   {
     word: 'der Kopfarbeiter, -',
@@ -16837,7 +16837,7 @@ module.exports = [
   },
   {
     word: 'der Köpper, -',
-    translation: '(colloquial, regional, chiefly northern and central Germany) header (jump into water with one's head and arms ahead)',
+    translation: '(colloquial, regional, chiefly northern and central Germany) header (jump into water with on(e)\'(s) head and arms ahead)',
   },
   {
     word: 'der Koproduzent, -en',
@@ -16853,7 +16853,7 @@ module.exports = [
   },
   {
     word: 'der Koran, -e',
-    translation: 'Qur'an',
+    translation: 'Qu(r)\'(a)n',
   },
   {
     word: 'der Korb, -¨e',
@@ -17357,7 +17357,7 @@ module.exports = [
   },
   {
     word: 'der Kuckuck, -e',
-    translation: 'cuckoo (Cuculus canorus), (colloquial, law, finance) bailiff's seal',
+    translation: 'cuckoo (Cuculus canorus), (colloquial, law, finance) bailif(f)\'(s) seal',
   },
   {
     word: 'der Kuddelmuddel, -x',
@@ -17501,7 +17501,7 @@ module.exports = [
   },
   {
     word: 'der Kunstgegenstand, -¨e',
-    translation: 'art object, objet d'art, antique, artifact',
+    translation: 'art object, objet (d)\'(a)rt, antique, artifact',
   },
   {
     word: 'der Kunsthändler, -',
@@ -17865,7 +17865,7 @@ module.exports = [
   },
   {
     word: 'der Lappen, -',
-    translation: 'cloth, rag, lobe, (colloquial) driver's license, (youth slang) loser; idiot',
+    translation: 'cloth, rag, lobe, (colloquial) drive(r)\'(s) license, (youth slang) loser; idiot',
   },
   {
     word: 'der Laptop, -s',
@@ -18005,7 +18005,7 @@ module.exports = [
   },
   {
     word: 'der Lebensmensch, -en',
-    translation: '(especially in Austria) the most important person (whether a relative, a spouse or a friend) in one's life',
+    translation: '(especially in Austria) the most important person (whether a relative, a spouse or a friend) in on(e)\'(s) life',
   },
   {
     word: 'der Lebensmittelfarbstoff, -e',
@@ -18577,7 +18577,7 @@ module.exports = [
   },
   {
     word: 'der Löffel, -',
-    translation: 'spoon, hare's ear',
+    translation: 'spoon, har(e)\'(s) ear',
   },
   {
     word: 'der Logarithmus, die Logarithmen (Pl.)',
@@ -18629,7 +18629,7 @@ module.exports = [
   },
   {
     word: 'der Löwenanteil, -e',
-    translation: '(idiomatic) lion's share',
+    translation: '(idiomatic) lio(n)\'(s) share',
   },
   {
     word: 'der Löwenkopf, die Löwenköpfe (Pl.)',
@@ -19137,7 +19137,7 @@ module.exports = [
   },
   {
     word: 'der Männerfuß, die Männerfüße (Pl.)',
-    translation: 'man's foot',
+    translation: 'ma(n)\'(s) foot',
   },
   {
     word: 'der Mannheimer, -',
@@ -19341,7 +19341,7 @@ module.exports = [
   },
   {
     word: 'der Master, -',
-    translation: 'master's degree, master graduate',
+    translation: 'maste(r)\'(s) degree, master graduate',
   },
   {
     word: 'der Materialismus, -x',
@@ -19773,7 +19773,7 @@ module.exports = [
   },
   {
     word: 'der Michiganwaldsänger, -',
-    translation: 'Kirtland's warbler (Dendroica kirtlandii)',
+    translation: 'Kirtlan(d)\'(s) warbler (Dendroica kirtlandii)',
   },
   {
     word: 'der Mieter, -',
@@ -20085,7 +20085,7 @@ module.exports = [
   },
   {
     word: 'der Mittelstand, -¨e',
-    translation: '(literally) The middle class, wealthy ('bourgeois') section of the third estate, The independent professionals, private initiative, notably tradesmen, entrepreneurs etc',
+    translation: '(literally) The middle class, wealthy (\'bourgeois\') section of the third estate, The independent professionals, private initiative, notably tradesmen, entrepreneurs etc',
   },
   {
     word: 'der Mittelweg, -e',
@@ -20297,7 +20297,7 @@ module.exports = [
   },
   {
     word: 'der Mond, -e',
-    translation: '(astronomy) The Moon; Earth's only natural satellite, and also a luminary',
+    translation: '(astronomy) The Moon; Eart(h)\'(s) only natural satellite, and also a luminary',
   },
   {
     word: 'der Mondfisch, -e',
@@ -20689,7 +20689,7 @@ module.exports = [
   },
   {
     word: 'der Muttertag, -e',
-    translation: 'Mother's Day',
+    translation: 'Mothe(r)\'(s) Day',
   },
   {
     word: 'der Mutwille, -x',
@@ -20925,7 +20925,7 @@ module.exports = [
   },
   {
     word: 'der Name, -n',
-    translation: 'name (forename, Christian name, given name), name (surname, family name), name (full name), (grammar, in compounds) noun, examples include Eigenname (proper noun), Sammelname (collective noun) and Gattungsname (appellative or common noun) Note: Compounds which aren't hyponyms of substantive are rare and obsolete, like Hauptname or Dingname (substantive noun), Beiname (adjective noun), Fürname (pronoun)',
+    translation: 'name (forename, Christian name, given name), name (surname, family name), name (full name), (grammar, in compounds) noun, examples include Eigenname (proper noun), Sammelname (collective noun) and Gattungsname (appellative or common noun) Note: Compounds which are(n)\'(t) hyponyms of substantive are rare and obsolete, like Hauptname or Dingname (substantive noun), Beiname (adjective noun), Fürname (pronoun)',
   },
   {
     word: 'der Namensgeber, -',
@@ -21261,7 +21261,7 @@ module.exports = [
   },
   {
     word: 'der Neujahrstag, -e',
-    translation: 'New Year's Day',
+    translation: 'New Yea(r)\'(s) Day',
   },
   {
     word: 'der Neuling, -e',
@@ -21321,7 +21321,7 @@ module.exports = [
   },
   {
     word: 'der Nichtsnutz, -e',
-    translation: '(pejorative, derogatory) goof-off, no good, wastrel, spalpeen, nogoodnik, ne'er-do-well (a person who is useless and good for nothing)',
+    translation: '(pejorative, derogatory) goof-off, no good, wastrel, spalpeen, nogoodnik, n(e)\'(e)r-do-well (a person who is useless and good for nothing)',
   },
   {
     word: 'der Nickelarsenkies, -e',
@@ -21621,7 +21621,7 @@ module.exports = [
   },
   {
     word: 'der Nüsslisalat, -e',
-    translation: '(Switzerland) lamb's lettuce',
+    translation: '(Switzerland) lam(b)\'(s) lettuce',
   },
   {
     word: 'der Nutella, -x',
@@ -21845,7 +21845,7 @@ module.exports = [
   },
   {
     word: 'der Ohrwurm, -¨er',
-    translation: 'earwig (any insect of the order Dermaptera), (informal) earworm (a tune that pops up in one's memory all of the time)',
+    translation: 'earwig (any insect of the order Dermaptera), (informal) earworm (a tune that pops up in on(e)\'(s) memory all of the time)',
   },
   {
     word: 'der Okkultismus, die Okkultismen (Pl.)',
@@ -22501,7 +22501,7 @@ module.exports = [
   },
   {
     word: 'der Parkinson, die — (Pl.)',
-    translation: 'Parkinson's',
+    translation: 'Parkinso(n)\'(s)',
   },
   {
     word: 'der Parkplatz, -¨e',
@@ -22693,7 +22693,7 @@ module.exports = [
   },
   {
     word: 'der Pelz, -e',
-    translation: '(uncountable) fur, fur (animal's pelt), fur (coat or other clothing item made from fur), (rare, slang) furry (member of furry fandom), (heraldry) fur',
+    translation: '(uncountable) fur, fur (anima(l)\'(s) pelt), fur (coat or other clothing item made from fur), (rare, slang) furry (member of furry fandom), (heraldry) fur',
   },
   {
     word: 'der Pelzhandschuh, -e',
@@ -24053,11 +24053,11 @@ module.exports = [
   },
   {
     word: 'der Putsch, -e',
-    translation: 'coup d'état, armed uprising, putsch',
+    translation: 'coup d\'état, armed uprising, putsch',
   },
   {
     word: 'der Putschist, -en',
-    translation: 'coupist (one taking part in a putsch / coup d'état)',
+    translation: 'coupist (one taking part in a putsch / coup d\'état)',
   },
   {
     word: 'der Putt, -s',
@@ -24545,7 +24545,7 @@ module.exports = [
   },
   {
     word: 'der Raufußkauz, -¨e',
-    translation: 'Tengmalm's owl (species)',
+    translation: 'Tengmal(m)\'(s) owl (species)',
   },
   {
     word: 'der Raum, -¨e',
@@ -27577,7 +27577,7 @@ module.exports = [
   },
   {
     word: 'der Schusterjunge, -n',
-    translation: 'A cobbler's son, a shoemaker's son, A cobbler's apprentice, a shoemaker's apprentice, (Berlin dialect) A rye bread roll, rye roll, rye bun, (typography) An orphan, an orphaned word, an orphaned line, A special, traditional costume worn at the Cologne Carnival (German: Kölner Karneval)',
+    translation: 'A cobble(r)\'(s) son, a shoemake(r)\'(s) son, A cobble(r)\'(s) apprentice, a shoemake(r)\'(s) apprentice, (Berlin dialect) A rye bread roll, rye roll, rye bun, (typography) An orphan, an orphaned word, an orphaned line, A special, traditional costume worn at the Cologne Carnival (German: Kölner Karneval)',
   },
   {
     word: 'der Schutt, -x',
@@ -27773,7 +27773,7 @@ module.exports = [
   },
   {
     word: 'der Schwedentrunk, -¨e',
-    translation: 'a torture method consisting of forcibly pouring liquid into the victim's mouth, The drink used in the torture',
+    translation: 'a torture method consisting of forcibly pouring liquid into the victi(m)\'(s) mouth, The drink used in the torture',
   },
   {
     word: 'der Schwefel, -x',
@@ -27909,7 +27909,7 @@ module.exports = [
   },
   {
     word: 'der Schwippschwager, -x',
-    translation: 'co-brother-in-law: the brother-in-law of one's spouse; that is, the husband of one's sister-in-law (one's spouse's sister's husband), or, the brother of one spouse in relation to the siblings of the other spouse, co-brother-in-law: the brother of one's brother-in-law or sister-in-law; that is, one's sibling's spouse's brother (one's sister's husband's brother or one's brother's wife's brother)',
+    translation: 'co-brother-in-law: the brother-in-law of on(e)\'(s) spouse; that is, the husband of on(e)\'(s) sister-in-law (on(e)\'(s) spous(e)\'(s) siste(r)\'(s) husband), or, the brother of one spouse in relation to the siblings of the other spouse, co-brother-in-law: the brother of on(e)\'(s) brother-in-law or sister-in-law; that is, on(e)\'(s) siblin(g)\'(s) spous(e)\'(s) brother (on(e)\'(s) siste(r)\'(s) husban(d)\'(s) brother or on(e)\'(s) brothe(r)\'(s) wif(e)\'(s) brother)',
   },
   {
     word: 'der Schwirrvogel, -¨',
@@ -28085,7 +28085,7 @@ module.exports = [
   },
   {
     word: 'der Seitensprung, -¨e',
-    translation: 'affair, (instance of) infidelity: temporary, often sexual relationship with someone other than one's partner, (dated) jump or hop to the side',
+    translation: 'affair, (instance of) infidelity: temporary, often sexual relationship with someone other than on(e)\'(s) partner, (dated) jump or hop to the side',
   },
   {
     word: 'der Seitenwagen, -',
@@ -28461,7 +28461,7 @@ module.exports = [
   },
   {
     word: 'der Silvester, -',
-    translation: 'New Year's Eve',
+    translation: 'New Yea(r)\'(s) Eve',
   },
   {
     word: 'der Simulator, -en',
@@ -28621,7 +28621,7 @@ module.exports = [
   },
   {
     word: 'der Slip, -s',
-    translation: 'briefs (men's underwear); panties (women's underwear)',
+    translation: 'briefs (me(n)\'(s) underwear); panties (wome(n)\'(s) underwear)',
   },
   {
     word: 'der Slogan, -s',
@@ -29577,7 +29577,7 @@ module.exports = [
   },
   {
     word: 'der Staatsstreich, -e',
-    translation: 'coup d'état',
+    translation: 'coup d\'état',
   },
   {
     word: 'der Stab, -¨e',
@@ -29677,7 +29677,7 @@ module.exports = [
   },
   {
     word: 'der Stammtisch, -e',
-    translation: 'regulars' table, stammtisch, a group of people gathering at such a table',
+    translation: 'regulars\' table, stammtisch, a group of people gathering at such a table',
   },
   {
     word: 'der Stand, -¨e',
@@ -29973,7 +29973,7 @@ module.exports = [
   },
   {
     word: 'der Stiefbruder, -¨',
-    translation: 'stepbrother (son of one's stepfather or stepmother)',
+    translation: 'stepbrother (son of on(e)\'(s) stepfather or stepmother)',
   },
   {
     word: 'der Stiefel, -',
@@ -30173,7 +30173,7 @@ module.exports = [
   },
   {
     word: 'der Strahl, -en',
-    translation: 'beam, ray (eg, of light), jet (eg, of ink), frog (part of a horse's hoof)',
+    translation: 'beam, ray (eg, of light), jet (eg, of ink), frog (part of a hors(e)\'(s) hoof)',
   },
   {
     word: 'der Strahlenschutz, -e',
@@ -30285,7 +30285,7 @@ module.exports = [
   },
   {
     word: 'der Strich, -e',
-    translation: 'stroke, line, the direction to which hairs, or similar things, are inclined, (informal) streetwalkers' district, (informal) prostitution; chiefly as a milieu',
+    translation: 'stroke, line, the direction to which hairs, or similar things, are inclined, (informal) streetwalkers\' district, (informal) prostitution; chiefly as a milieu',
   },
   {
     word: 'der Stricher, -',
@@ -31025,7 +31025,7 @@ module.exports = [
   },
   {
     word: 'der Teich, -e',
-    translation: 'pond (natural or man-made), (only in the combination 'der große Teich') the Atlantic Ocean',
+    translation: 'pond (natural or man-made), (only in the combination \'der große Teich\') the Atlantic Ocean',
   },
   {
     word: 'der Teig, -e',
@@ -31485,7 +31485,7 @@ module.exports = [
   },
   {
     word: 'der Todestag, -e',
-    translation: 'day of someone's death, date on which someone will die, anniversary of (someone's previous) death, deathday',
+    translation: 'day of someon(e)\'(s) death, date on which someone will die, anniversary of (someon(e)\'(s) previous) death, deathday',
   },
   {
     word: 'der Todeswunsch, -¨e',
@@ -32089,7 +32089,7 @@ module.exports = [
   },
   {
     word: 'der Tunichtgut, -e',
-    translation: 'ne'er-do-well',
+    translation: 'n(e)\'(e)r-do-well',
   },
   {
     word: 'der Tunnel, -',
@@ -32149,7 +32149,7 @@ module.exports = [
   },
   {
     word: 'der Türkenbund, die Türkenbünde (Pl.)',
-    translation: 'Common Turk's Cap Lily, Martagon Lily (Lilum martagon)',
+    translation: 'Common Tur(k)\'(s) Cap Lily, Martagon Lily (Lilum martagon)',
   },
   {
     word: 'der Türkis, -e',
@@ -32389,7 +32389,7 @@ module.exports = [
   },
   {
     word: 'der Umsturz, -¨e',
-    translation: 'overthrow, putsch, coup d'état',
+    translation: 'overthrow, putsch, coup d\'état',
   },
   {
     word: 'der Umwandlungspunkt, -e',
@@ -32397,7 +32397,7 @@ module.exports = [
   },
   {
     word: 'der Umweg, -e',
-    translation: 'detour (a diversion or deviation from one's original route)',
+    translation: 'detour (a diversion or deviation from on(e)\'(s) original route)',
   },
   {
     word: 'der Umweltaspekt, -e',
@@ -32553,7 +32553,7 @@ module.exports = [
   },
   {
     word: 'der Unterrock, -¨e',
-    translation: 'petticoat (woman's garment worn under a skirt)',
+    translation: 'petticoat (woma(n)\'(s) garment worn under a skirt)',
   },
   {
     word: 'der Unterschenkel, -',
@@ -32729,7 +32729,7 @@ module.exports = [
   },
   {
     word: 'der Valentinstag, -x',
-    translation: 'Valentine's Day',
+    translation: 'Valentin(e)\'(s) Day',
   },
   {
     word: 'der Vampir, -e',
@@ -32769,7 +32769,7 @@ module.exports = [
   },
   {
     word: 'der Vatertag, -e',
-    translation: 'Father's Day',
+    translation: 'Fathe(r)\'(s) Day',
   },
   {
     word: 'der Vati, -s',
@@ -33317,7 +33317,7 @@ module.exports = [
   },
   {
     word: 'der Volkssport, -e',
-    translation: 'people's sport; volkssport',
+    translation: 'peopl(e)\'(s) sport; volkssport',
   },
   {
     word: 'der Volksstamm, -¨e',
@@ -33357,7 +33357,7 @@ module.exports = [
   },
   {
     word: 'der Voraus, -x',
-    translation: '(law) legacy handed over to the heir before the leaver's death',
+    translation: '(law) legacy handed over to the heir before the leave(r)\'(s) death',
   },
   {
     word: 'der Vorbau, -ten',
@@ -34293,7 +34293,7 @@ module.exports = [
   },
   {
     word: 'der Wende, -n',
-    translation: 'turn (change in temperament or circumstance), turnaround (reversal of policy), (nautical) tacking, (idiomatic) Die Wende;, A) in politics the change of government with a change of coalition, B) (Wendezeit: time of change, turnaround) the process that opened the way to unification between the FRG and GDR to today's FRG',
+    translation: 'turn (change in temperament or circumstance), turnaround (reversal of policy), (nautical) tacking, (idiomatic) Die Wende;, A) in politics the change of government with a change of coalition, B) (Wendezeit: time of change, turnaround) the process that opened the way to unification between the FRG and GDR to toda(y)\'(s) FRG',
   },
   {
     word: 'der Wendehals, -¨e',
@@ -34729,7 +34729,7 @@ module.exports = [
   },
   {
     word: 'der Wolf, -¨e',
-    translation: 'wolf, (astronomy) the constellation Lupus, shredder, mincer, skin abrasion (acquired on long hikes or marches, through the friction of one's clothes)',
+    translation: 'wolf, (astronomy) the constellation Lupus, shredder, mincer, skin abrasion (acquired on long hikes or marches, through the friction of on(e)\'(s) clothes)',
   },
   {
     word: 'der Wolfram, -x',
@@ -35277,7 +35277,7 @@ module.exports = [
   },
   {
     word: 'der Zeuge Jehovas, die Zeugen Jehovas (Pl.)',
-    translation: 'Jehovah's Witness',
+    translation: 'Jehova(h)\'(s) Witness',
   },
   {
     word: 'der Zickzack, -e',
@@ -35849,7 +35849,7 @@ module.exports = [
   },
   {
     word: 'der Zwergschwan, -¨e',
-    translation: 'Bewick's swan',
+    translation: 'Bewic(k)\'(s) swan',
   },
   {
     word: 'der Zwetschgendatschi, die Zwetschendatschis (Pl.)',

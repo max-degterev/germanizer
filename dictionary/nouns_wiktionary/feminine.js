@@ -18553,7 +18553,7 @@ module.exports = [
   },
   {
     word: 'die Kleinfleckkatze, -n',
-    translation: 'Geoffroy's cat, Leopardus geoffroyi',
+    translation: 'Geoffroy\'s cat, Leopardus geoffroyi',
   },
   {
     word: 'die Kleinigkeit, -en',
@@ -18661,7 +18661,7 @@ module.exports = [
   },
   {
     word: 'die Klopfbank, -¨e',
-    translation: 'hammer bench (child's toy)',
+    translation: 'hammer bench (child\'s toy)',
   },
   {
     word: 'die Kluft, -¨e',
@@ -18697,7 +18697,7 @@ module.exports = [
   },
   {
     word: 'die Knappschaft, -en',
-    translation: 'miners' guild, an organization of mine workers',
+    translation: 'miners\' guild, an organization of mine workers',
   },
   {
     word: 'die Knarre, -n',
@@ -18805,7 +18805,7 @@ module.exports = [
   },
   {
     word: 'die Kochnische, -n',
-    translation: 'small kitchen-like area that's too small to be called a real kitchen',
+    translation: 'small kitchen-like area tha(t)\'(s) too small to be called a real kitchen',
   },
   {
     word: 'die Kodierungsrichtlinie, -n',
@@ -19217,7 +19217,7 @@ module.exports = [
   },
   {
     word: 'die Königstochter, die Königstöchter (Pl.)',
-    translation: 'princess, king's daughter',
+    translation: 'princess, kin(g)\'(s) daughter',
   },
   {
     word: 'die Königswasserlösung, -en',
@@ -19309,7 +19309,7 @@ module.exports = [
   },
   {
     word: 'die Konsulin, -nen',
-    translation: 'a female consul, a consul's wife',
+    translation: 'a female consul, a consu(l)\'(s) wife',
   },
   {
     word: 'die Konsumentin, -nen',
@@ -20141,7 +20141,7 @@ module.exports = [
   },
   {
     word: 'die Kuhmilch, die — (Pl.)',
-    translation: 'cow's milk',
+    translation: 'co(w)\'(s) milk',
   },
   {
     word: 'die Kühnheit, -en',
@@ -20237,7 +20237,7 @@ module.exports = [
   },
   {
     word: 'die Künstlerfarbe, -n',
-    translation: '(art, especially in plural) artist's colour(s) (range of paints)',
+    translation: '(art, especially in plural) artis(t)\'(s) colour(s) (range of paints)',
   },
   {
     word: 'die Künstlerin, -nen',
@@ -20557,7 +20557,7 @@ module.exports = [
   },
   {
     word: 'die Landarztgattin, -nen',
-    translation: 'country doctor's wife',
+    translation: 'country docto(r)\'(s) wife',
   },
   {
     word: 'die Landassel, -n',
@@ -21769,7 +21769,7 @@ module.exports = [
   },
   {
     word: 'die Löwenmähne, -n',
-    translation: 'lion's mane, flowing mane',
+    translation: 'lio(n)\'(s) mane, flowing mane',
   },
   {
     word: 'die Löwin, -nen',
@@ -22265,7 +22265,7 @@ module.exports = [
   },
   {
     word: 'die Malerfarbe, -n',
-    translation: '(art) artist's colour/paint',
+    translation: '(art) artis(t)\'(s) colour/paint',
   },
   {
     word: 'die Malerin, -nen',
@@ -22781,7 +22781,7 @@ module.exports = [
   },
   {
     word: 'die Maultrommel, -n',
-    translation: 'Jew's harp, mouth harp',
+    translation: 'Je(w)\'(s) harp, mouth harp',
   },
   {
     word: 'die Maulwurfsgrille, -n',
@@ -23289,7 +23289,7 @@ module.exports = [
   },
   {
     word: 'die Metropolis, die Metropolen (Pl.)',
-    translation: 'metropolis, a bishop's see',
+    translation: 'metropolis, a bisho(p)\'(s) see',
   },
   {
     word: 'die Mette, -n',
@@ -23301,7 +23301,7 @@ module.exports = [
   },
   {
     word: 'die Metzgerei, -en',
-    translation: 'butcher's (butcher's shop)',
+    translation: 'butche(r)\'(s) (butche(r)\'(s) shop)',
   },
   {
     word: 'die Meute, -n',
@@ -23397,7 +23397,7 @@ module.exports = [
   },
   {
     word: 'die Milchmädchenrechnung, -en',
-    translation: '(idiomatic) naive calculation, counting the chickens before they're hatched',
+    translation: '(idiomatic) naive calculation, counting the chickens before the(y)\'(r)e hatched',
   },
   {
     word: 'die Milchschlange, -n',
@@ -24045,7 +24045,7 @@ module.exports = [
   },
   {
     word: 'die Mühle, -n',
-    translation: '(countable) mill, (uncountable) nine men's morris, (informal, derogative) old, rickety vehicle',
+    translation: '(countable) mill, (uncountable) nine me(n)\'(s) morris, (informal, derogative) old, rickety vehicle',
   },
   {
     word: 'die Mühlenspindel, -n',
@@ -24053,7 +24053,7 @@ module.exports = [
   },
   {
     word: 'die Muhme, -n',
-    translation: '(obsolete or humorous) aunt (usually the mother's sister)',
+    translation: '(obsolete or humorous) aunt (usually the mothe(r)\'(s) sister)',
   },
   {
     word: 'die Mühsal, -en',
@@ -24285,7 +24285,7 @@ module.exports = [
   },
   {
     word: 'die Muttermilch, -x',
-    translation: 'breast milk, mother's milk',
+    translation: 'breast milk, mothe(r)\'(s) milk',
   },
   {
     word: 'die Muttersprache, -n',
@@ -24657,7 +24657,7 @@ module.exports = [
   },
   {
     word: 'die Narrenfreiheit, -en',
-    translation: 'jester's license, jester's freedom',
+    translation: 'jeste(r)\'(s) license, jeste(r)\'(s) freedom',
   },
   {
     word: 'die Narrheit, -en',
@@ -25173,7 +25173,7 @@ module.exports = [
   },
   {
     word: 'die Nixe, -n',
-    translation: 'mermaid (mythological woman with a fish's tail)',
+    translation: 'mermaid (mythological woman with a fis(h)\'(s) tail)',
   },
   {
     word: 'die Nobelpreisrede, -n',
@@ -26229,7 +26229,7 @@ module.exports = [
   },
   {
     word: 'die Pandorabüchse, -n',
-    translation: 'Pandora's box',
+    translation: 'Pandor(a)\'(s) box',
   },
   {
     word: 'die Panendeistin, -nen',
@@ -26701,7 +26701,7 @@ module.exports = [
   },
   {
     word: 'die Personenfreizügigkeit, -x',
-    translation: 'people's freedom of movement across national borders, and right to reside and work in other countries',
+    translation: 'peopl(e)\'(s) freedom of movement across national borders, and right to reside and work in other countries',
   },
   {
     word: 'die Personifikation, -en',
@@ -26933,7 +26933,7 @@ module.exports = [
   },
   {
     word: 'die Philosophie, -n',
-    translation: 'philosophy, the study of thoughts, philosophy, one's manner of thinking',
+    translation: 'philosophy, the study of thoughts, philosophy, on(e)\'(s) manner of thinking',
   },
   {
     word: 'die Philosophin, -nen',
@@ -27353,7 +27353,7 @@ module.exports = [
   },
   {
     word: 'die Poissonzahl, -en',
-    translation: 'Poisson's ratio',
+    translation: 'Poisso(n)\'(s) ratio',
   },
   {
     word: 'die Polarisation, -en',
@@ -27609,7 +27609,7 @@ module.exports = [
   },
   {
     word: 'die Pottsau, -¨e',
-    translation: '(vulgar) ~ 'filthy pig'',
+    translation: '(vulgar) ~ \'filthy pig\'',
   },
   {
     word: 'die Pracht, -x',
@@ -27709,7 +27709,7 @@ module.exports = [
   },
   {
     word: 'die Praxis, die Praxen (Pl.)',
-    translation: 'practice, praxis (opposite of theory), surgery (UK), doctor's office (US) (workplace of a self-employed doctor)',
+    translation: 'practice, praxis (opposite of theory), surgery (UK), docto(r)\'(s) office (US) (workplace of a self-employed doctor)',
   },
   {
     word: 'die Präzision, -x',
@@ -28589,7 +28589,7 @@ module.exports = [
   },
   {
     word: 'die Rapunzel, -n',
-    translation: 'lamb's lettuce (Valerianella locusta), rampion (Campanula rapunculus), spiked rampion (Phyteuma spicata)',
+    translation: 'lam(b)\'(s) lettuce (Valerianella locusta), rampion (Campanula rapunculus), spiked rampion (Phyteuma spicata)',
   },
   {
     word: 'die Rasierklinge, -n',
@@ -29141,7 +29141,7 @@ module.exports = [
   },
   {
     word: 'die Reichweite, -n',
-    translation: 'range (The maximum distance of a weapon, radio station, sensor, vehicle without refueling, etc), reach, arm's reach',
+    translation: 'range (The maximum distance of a weapon, radio station, sensor, vehicle without refueling, etc), reach, ar(m)\'(s) reach',
   },
   {
     word: 'die Reife, -x',
@@ -30261,7 +30261,7 @@ module.exports = [
   },
   {
     word: 'die Salomonenralle, -n',
-    translation: 'Woodford's rail',
+    translation: 'Woodfor(d)\'(s) rail',
   },
   {
     word: 'die Salpetererde, -n',
@@ -30577,7 +30577,7 @@ module.exports = [
   },
   {
     word: 'die Schadenfreude, -x',
-    translation: 'malicious enjoyment derived from observing someone else's misfortune; schadenfreude',
+    translation: 'malicious enjoyment derived from observing someone els(e)\'(s) misfortune; schadenfreude',
   },
   {
     word: 'die Schädigung, -en',
@@ -30853,7 +30853,7 @@ module.exports = [
   },
   {
     word: 'die Scheuklappe, -n',
-    translation: '(screen attached to a horse's bridle) blinder, blinker',
+    translation: '(screen attached to a hors(e)\'(s) bridle) blinder, blinker',
   },
   {
     word: 'die Scheune, -n',
@@ -31093,7 +31093,7 @@ module.exports = [
   },
   {
     word: 'die Schlosserei, -en',
-    translation: 'locksmith's shop, fitters shop, metalworking shop',
+    translation: 'locksmit(h)\'(s) shop, fitters shop, metalworking shop',
   },
   {
     word: 'die Schlucht, -en',
@@ -31205,7 +31205,7 @@ module.exports = [
   },
   {
     word: 'die Schnecke, -n',
-    translation: 'snail, slug, (slang) An attractive woman; chick, The cochlea in the inner ear, A screw or worm thread, The carved wooden spiral at the end of a stringed instrument's fingerboard (scroll), pastry in the form of a snail',
+    translation: 'snail, slug, (slang) An attractive woman; chick, The cochlea in the inner ear, A screw or worm thread, The carved wooden spiral at the end of a stringed instrumen(t)\'(s) fingerboard (scroll), pastry in the form of a snail',
   },
   {
     word: 'die Schneckenpost, -x',
@@ -31253,7 +31253,7 @@ module.exports = [
   },
   {
     word: 'die Schneiderkreide, -n',
-    translation: 'tailor's chalk (chalk-like material used for marking alterations on fabric)',
+    translation: 'tailo(r)\'(s) chalk (chalk-like material used for marking alterations on fabric)',
   },
   {
     word: 'die Schneise, -n',
@@ -31697,7 +31697,7 @@ module.exports = [
   },
   {
     word: 'die Schwärze, -n',
-    translation: 'blackness, darkness, swarthiness, blacking, blackening, black, printer's ink, baseness, wickedness, atrociousness, heinousness',
+    translation: 'blackness, darkness, swarthiness, blacking, blackening, black, printe(r)\'(s) ink, baseness, wickedness, atrociousness, heinousness',
   },
   {
     word: 'die schwarze Johannisbeere, -n',
@@ -31921,7 +31921,7 @@ module.exports = [
   },
   {
     word: 'die Schwippschwägerin, -nen',
-    translation: 'co-sister-in-law: the siter-in-law of one's spouse; that is, the wife of one's brother-in-law (one's spouse's brother's wife), or, the sister of one spouse in relation to the siblings of the other spouse, the sister of one's sister-in-law or brother-in-law; that is, one's sibling's spouse's sister (one's brother's wife's sister or one's sister's husband's sister)',
+    translation: 'co-sister-in-law: the siter-in-law of on(e)\'(s) spouse; that is, the wife of on(e)\'(s) brother-in-law (on(e)\'(s) spous(e)\'(s) brothe(r)\'(s) wife), or, the sister of one spouse in relation to the siblings of the other spouse, the sister of on(e)\'(s) sister-in-law or brother-in-law; that is, on(e)\'(s) siblin(g)\'(s) spous(e)\'(s) sister (on(e)\'(s) brothe(r)\'(s) wif(e)\'(s) sister or on(e)\'(s) siste(r)\'(s) husban(d)\'(s) sister)',
   },
   {
     word: 'die Schwuchtel, -n',
@@ -32145,7 +32145,7 @@ module.exports = [
   },
   {
     word: 'die Selbstheirat, -en',
-    translation: 'Marriage to oneself, (anthropology) Marriage within one's family or social group',
+    translation: 'Marriage to oneself, (anthropology) Marriage within on(e)\'(s) family or social group',
   },
   {
     word: 'die Selbstsicherheit, -en',
@@ -32973,7 +32973,7 @@ module.exports = [
   },
   {
     word: 'die Sonntagskleidung, -x',
-    translation: 'churchgoing outfit; one's Sunday best',
+    translation: 'churchgoing outfit; on(e)\'(s) Sunday best',
   },
   {
     word: 'die Sonntagsschrift, -en',
@@ -33641,7 +33641,7 @@ module.exports = [
   },
   {
     word: 'die Staatsanwaltschaft, -en',
-    translation: '(law) public prosecutor's office',
+    translation: '(law) public prosecuto(r)\'(s) office',
   },
   {
     word: 'die Staatsbürgerin, -nen',
@@ -35669,7 +35669,7 @@ module.exports = [
   },
   {
     word: 'die Titte, -n',
-    translation: '(slang) tit (a woman's breast)',
+    translation: '(slang) tit (a woma(n)\'(s) breast)',
   },
   {
     word: 'die Tjost, -en',
@@ -35793,7 +35793,7 @@ module.exports = [
   },
   {
     word: 'die Töpferscheibe, -n',
-    translation: 'potter's wheel',
+    translation: 'potte(r)\'(s) wheel',
   },
   {
     word: 'die Töpferware, -n',
@@ -36557,7 +36557,7 @@ module.exports = [
   },
   {
     word: 'die Übersetzung, -en',
-    translation: translation
+    translation: 'translation',
   },
   {
     word: 'die Übersicht, -en',
@@ -36633,7 +36633,7 @@ module.exports = [
   },
   {
     word: 'die Uhr, -en',
-    translation: '(invariable) hour as a unit of clock time; o'clock, clock, watch (timing device), (in compounds) meter (a kind of measuring instrument, typically for water and gas consumption)',
+    translation: '(invariable) hour as a unit of clock time; (o)\'(c)lock, clock, watch (timing device), (in compounds) meter (a kind of measuring instrument, typically for water and gas consumption)',
   },
   {
     word: 'die Uhrenfeder, -n',
@@ -37493,7 +37493,7 @@ module.exports = [
   },
   {
     word: 'die Vatersmutter, -¨',
-    translation: 'father's mother, the mother of a father',
+    translation: 'fathe(r)\'(s) mother, the mother of a father',
   },
   {
     word: 'die Veganerin, -nen',
@@ -37997,7 +37997,7 @@ module.exports = [
   },
   {
     word: 'die Verleumdung, -en',
-    translation: 'defamation, calumny (act of injuring another's reputation by any slanderous communication)',
+    translation: 'defamation, calumny (act of injuring anothe(r)\'(s) reputation by any slanderous communication)',
   },
   {
     word: 'die Verlobung, -en',
@@ -38209,7 +38209,7 @@ module.exports = [
   },
   {
     word: 'die Versiegelung, -en',
-    translation: '(the act or process of) sealing (eg of a document with a signet to indicate authorship, approval, etc), sealing to discourage or make noticeable unauthorized opening of (something, eg a letter, or a building), sealing (eg of a leak in a pipe), (no plural) the waterproof \'sealing\' of the earth's surface by human constructions, a particular Christian sacrament, (dated) verification, substantiation (of something)',
+    translation: '(the act or process of) sealing (eg of a document with a signet to indicate authorship, approval, etc), sealing to discourage or make noticeable unauthorized opening of (something, eg a letter, or a building), sealing (eg of a leak in a pipe), (no plural) the waterproof \'sealing\' of the eart(h)\'(s) surface by human constructions, a particular Christian sacrament, (dated) verification, substantiation (of something)',
   },
   {
     word: 'die Versilberung, -en',
@@ -38253,7 +38253,7 @@ module.exports = [
   },
   {
     word: 'die Verspargelung, -en',
-    translation: 'lit asparagus-ification: used to describe wind farms' impact on scenery',
+    translation: 'lit asparagus-ification: used to describe wind farms\' impact on scenery',
   },
   {
     word: 'die Verspätung, -en',
@@ -38669,7 +38669,7 @@ module.exports = [
   },
   {
     word: 'die Volksarmee, -n',
-    translation: 'people's army',
+    translation: 'peopl(e)\'(s) army',
   },
   {
     word: 'die Volkserhebung, -en',
@@ -38701,7 +38701,7 @@ module.exports = [
   },
   {
     word: 'die Volksmarine, die Volksarmeen (Pl.)',
-    translation: 'people's navy: official name of the former East German navy',
+    translation: 'peopl(e)\'(s) navy: official name of the former East German navy',
   },
   {
     word: 'die Volksmusik, -x',
@@ -38713,7 +38713,7 @@ module.exports = [
   },
   {
     word: 'die Volksrepublik, -en',
-    translation: 'people's republic',
+    translation: 'peopl(e)\'(s) republic',
   },
   {
     word: 'die Volkstümlichkeit, -x',
@@ -39637,7 +39637,7 @@ module.exports = [
   },
   {
     word: 'die Weiberfastnacht, -¨e',
-    translation: 'A holiday celebrated mostly in the Rhineland on the Thursday before Ash Wednesday, when women traditionally cut off men's ties',
+    translation: 'A holiday celebrated mostly in the Rhineland on the Thursday before Ash Wednesday, when women traditionally cut off me(n)\'(s) ties',
   },
   {
     word: 'die Weiblichkeit, -en',
@@ -39813,7 +39813,7 @@ module.exports = [
   },
   {
     word: 'die Weltausstellung, -en',
-    translation: 'World Exposition, World's fair, World Fair, Universal Exposition, Expo',
+    translation: 'World Exposition, Worl(d)\'(s) fair, World Fair, Universal Exposition, Expo',
   },
   {
     word: 'die Weltberühmtheit, -en',
@@ -39893,7 +39893,7 @@ module.exports = [
   },
   {
     word: 'die Wende, -n',
-    translation: 'turn (change in temperament or circumstance), turnaround (reversal of policy), (nautical) tacking, (idiomatic) Die Wende;, A) in politics the change of government with a change of coalition, B) (Wendezeit: time of change, turnaround) the process that opened the way to unification between the FRG and GDR to today's FRG',
+    translation: 'turn (change in temperament or circumstance), turnaround (reversal of policy), (nautical) tacking, (idiomatic) Die Wende;, A) in politics the change of government with a change of coalition, B) (Wendezeit: time of change, turnaround) the process that opened the way to unification between the FRG and GDR to toda(y)\'(s) FRG',
   },
   {
     word: 'die Wendel, -n',
@@ -40285,7 +40285,7 @@ module.exports = [
   },
   {
     word: 'die Witterung, -en',
-    translation: 'weather, scent (animal's sense of smell)',
+    translation: 'weather, scent (anima(l)\'(s) sense of smell)',
   },
   {
     word: 'die Witwe, -n',
@@ -40601,7 +40601,7 @@ module.exports = [
   },
   {
     word: 'die Zahnarztpraxis, die Zahnarztpraxen (Pl.)',
-    translation: 'dentist's practice',
+    translation: 'dentis(t)\'(s) practice',
   },
   {
     word: 'die Zahnbrücke, -',
@@ -40649,7 +40649,7 @@ module.exports = [
   },
   {
     word: 'die Zahnlücke, -n',
-    translation: 'gap in one's teeth',
+    translation: 'gap in on(e)\'(s) teeth',
   },
   {
     word: 'die Zahnpasta, die Zahnpasten (Pl.)',
@@ -40701,7 +40701,7 @@ module.exports = [
   },
   {
     word: 'die Zäsur, -en',
-    translation: '(literary) turning point (in history, or in a person's life), (music, poetry) caesura',
+    translation: '(literary) turning point (in history, or in a perso(n)\'(s) life), (music, poetry) caesura',
   },
   {
     word: 'die Zauberei, -en',
@@ -41557,7 +41557,7 @@ module.exports = [
   },
   {
     word: 'die Zwickmühle, -n',
-    translation: '(nine men's morris) double mill, (figuratively) dilemma; Catch-22; quagmire; predicament; quandary (position in which one will suffer great disadvantage however one reacts)',
+    translation: '(nine me(n)\'(s) morris) double mill, (figuratively) dilemma; Catch-22; quagmire; predicament; quandary (position in which one will suffer great disadvantage however one reacts)',
   },
   {
     word: 'die Zwiebel, -n',
