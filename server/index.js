@@ -21,7 +21,7 @@ const setRequestHandlers = () => {
 
   // This middleware has to go right before catchall because it ends requests
   if (config.server.prerender) app.use(require('./middleware/react')());
-  app.get('*', require('./controllers/default')());
+  require('./controllers')(app);
 
   if (config.debug) app.use(require('errorhandler')({ dumpExceptions: true, showStack: true }));
 };
