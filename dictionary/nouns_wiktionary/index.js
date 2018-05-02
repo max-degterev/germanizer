@@ -1,5 +1,5 @@
 const feminine = require('./feminine');
-const maskuline = require('./maskuline');
+const masculine = require('./masculine');
 const neuter = require('./neuter');
 
-module.exports = [...feminine, ...maskuline, ...neuter];
+module.exports = [...feminine, ...masculine, ...neuter];

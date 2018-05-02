@@ -9,6 +9,7 @@ const nodemonOptions = {
   ext: 'js json es',
   watch: [
     'config/*',
+    'dictionary/*',
     'server/*',
     'app.js',
   ],

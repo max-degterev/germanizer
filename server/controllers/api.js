@@ -2,6 +2,8 @@ const { debug } = require('winston');
 const BaseController = require('express-base-class');
 
 const { random } = require('../modules/utils');
+const { isValidType } = require('../modules/validations');
+const { parseType } = require('../modules/parsers');
 const dictionary = require('../../dictionary');
 
 const handleError = (res, logger, text) => {
@@ -13,15 +15,16 @@ class ApiController extends BaseController {
   checkQuery({ query }, res, next) {
     const { type } = query;
     const sendError = (error) => handleError(res, debug, error);
-    if (!type || !dictionary[type]) return sendError('`type` query parameter missing');
-    if (!type || !dictionary[type]) return sendError('dictionary of this type doesn\'t exist');
+    if (!isValidType(type)) return sendError('`type` query parameter invalid or missing');
     next();
   }
 
   respond({ query }, res) {
-    const { type } = query;
-    const list = dictionary[type];
-    res.send(random(list));
+    const response = parseType(query.type).reduce((acc, key) => {
+      acc[key] = random(dictionary[key]);
+      return acc;
+    }, {});
+    res.send(response);
   }
 
   attachRoutes() {
