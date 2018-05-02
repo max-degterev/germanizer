@@ -7,7 +7,7 @@ class DefaultController extends BaseController {
     res.status(404).send(formatError('Page doesn\'t exist'));
   }
   attachRoutes() {
-    this.get('*', this.default);
+    this.get('/api/*', this.default);
   }
 }
 

@@ -26,7 +26,7 @@ class ApiController extends BaseController {
 
   attachRoutes() {
     const { checkQuery, respond } = this;
-    this.get('/dictionary', checkQuery, respond);
+    this.get('/api/dictionary', checkQuery, respond);
   }
 }
 
