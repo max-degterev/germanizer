@@ -1,0 +1,37 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+import classNames from 'classnames';
+import Link from 'react-router/lib/Link';
+
+const year = (new Date()).getFullYear();
+
+
+const Layout = (props) => {
+  const { modal, children } = props;
+  const className = classNames('Layout', props.className);
+
+  return (
+    <section className={className}>
+      <div className="Layout-Content">
+        <header className="Layout-Header">
+          <a href="/" className="Layout-Logo">Germanizer</a>
+          <nav>
+            <Link className="ui-button ui-button-secondary" to="/help">Help</Link>
+            <Link className="ui-button ui-button-secondary" to="/about">About</Link>
+          </nav>
+        </header>
+        {children}
+      </div>
+      <footer className="Layout-Footer">&copy; {year} Germanizer </footer>
+      {modal}
+    </section>
+  );
+};
+
+Layout.propTypes = {
+  className: PropTypes.string,
+  modal: PropTypes.node,
+  children: PropTypes.node,
+};
+
+export default Layout;

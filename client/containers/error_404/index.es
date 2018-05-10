@@ -1,9 +1,11 @@
 import React from 'react';
+import Layout from '../../components/layout';
 
 const Error404 = () => (
-  <div className="Error404">
-    Error404 page
-  </div>
+  <Layout className="Error404">
+    <h1>Error 404</h1>
+    Page not found :(
+  </Layout>
 );
 
 export default Error404;

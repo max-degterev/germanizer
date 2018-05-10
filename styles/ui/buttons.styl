@@ -1,0 +1,69 @@
+$uiButtonHeight = 40px
+$uiButtonSmallHeight = 28px
+
+// Default button styles
+.ui-button
+  min-width: 60px
+  height: $uiButtonHeight
+
+  padding: 0 30px
+  display: inline-block
+
+  font-size: $fontSizeM
+  font-weight: $fontWeightM
+  line-height: @height
+  text-decoration: none
+  text-align: center
+
+  border: 1px solid
+  border-radius: $borderRadiusM
+
+  user-select: none
+  cursor: pointer
+  touch-action: manipulation
+  touch-callout: none
+  pointer-events: auto
+
+  a&
+    color: inherit
+
+// Sizes
+.ui-button-small
+  min-width: 30px
+  height: $uiButtonSmallHeight
+
+  padding: 0 20px
+
+  font-size: 12px
+  line-height: @height
+
+  border-radius: $borderRadiusS
+
+// Colors
+.ui-button-primary
+  background: $colorAction
+  border-color: $colorAction
+  color: $colorBright
+  a&
+    color: $colorBright
+
+  &:hover,
+  &:active,
+  &.is-active
+    background: darken($colorAction, 10%)
+    border-color: darken($colorAction, 10%)
+
+.ui-button-secondary
+  color: $colorDark
+  border-color: transparent
+
+  a&
+    color: $colorDark
+    border-color: transparent
+
+  &:hover,
+  &:active,
+  &.is-active
+    background: lighten($colorDarkAlpha, 90%)
+    border-color: lighten($colorDarkAlpha, 90%)
+    color: $colorDark
