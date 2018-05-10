@@ -1,13 +1,11 @@
 const BaseController = require('express-base-class');
 
-const { formatError } = require('../modules/error');
-
 class DefaultController extends BaseController {
   default(req, res) {
-    res.status(404).send(formatError('Page doesn\'t exist'));
+    res.render('index');
   }
   attachRoutes() {
-    this.get('/api/*', this.default);
+    this.get('*', this.default);
   }
 }
 

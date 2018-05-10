@@ -15,8 +15,6 @@ const nodemonOptions = {
   ],
 };
 
-if (config.server.prerender) nodemonOptions.watch.push('client/*');
-
 const SERVER_PATH = resolve(`${__dirname}/../app.js`);
 // can dick around checking if port is up, but fuck it
 const SERVER_RESTART_TIME = 1500;
@@ -57,8 +55,12 @@ const watcher = () => {
   const nodemon = require('gulp-nodemon')(nodemonOptions);
 
   gulp.watch(scripts).on('change', (path) => {
-    const options = { watch: true };
-    if (!config.server.prerender) options.pipe = (stream) => stream.pipe(livereload());
+    const options = {
+      watch: true,
+      pipe(stream) {
+        return stream.pipe(livereload());
+      },
+    };
     utils.watchReporter(path);
     compileScripts('app.js', options);
   });

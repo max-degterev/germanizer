@@ -4,6 +4,7 @@ const BaseController = require('express-base-class');
 const { random } = require('../modules/utils');
 const { isValidType } = require('../modules/validations');
 const { parseType } = require('../modules/parsers');
+const { formatError } = require('../modules/error');
 const dictionary = require('../../dictionary');
 
 const handleError = (res, logger, text) => {
@@ -27,9 +28,14 @@ class ApiController extends BaseController {
     res.send(response);
   }
 
+  catchAll(req, res) {
+    res.status(404).send(formatError('Page doesn\'t exist'));
+  }
+
   attachRoutes() {
-    const { checkQuery, respond } = this;
+    const { checkQuery, respond, catchAll } = this;
     this.get('/api/dictionary', checkQuery, respond);
+    this.get('/api/*', catchAll);
   }
 }
 

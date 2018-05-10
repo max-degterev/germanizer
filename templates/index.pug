@@ -3,8 +3,8 @@ html(lang="en-US")
   head
     meta(charset="UTF-8")
     meta(http-equiv="X-UA-Compatible", content="IE=edge")
-    title ExpressJS Boilerplate
-    meta(name="description", content="ExpressJS Boilerplate")
+    title Germanizer
+    meta(name="description", content="Learn German with Germanizer")
 
     meta(name="Generator", content="Microsoft FrontPage 2.3")
     meta(name="viewport", content="initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, width=device-width, shrink-to-fit=no")
@@ -23,11 +23,10 @@ html(lang="en-US")
     link(rel="stylesheet", href=asset('app.css'))
 
   body
-    main#main!=content
+    main#main
 
     script.
       var __appConfig__=!{serialize(pick(config, 'client', 'debug', 'sandbox'), { isJSON: true })};
-      var __appState__=!{serialize(state, { isJSON: true })};
 
     script(src=asset('polyfills.js'))
     script(src=asset('app.js') async)

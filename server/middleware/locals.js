@@ -13,8 +13,6 @@ const injectLocals = (req, res, next) => {
 
     // used by Pug to have unminified output
     pretty: config.debug,
-
-    state: {},
   };
 
   Object.assign(res.locals, locals);

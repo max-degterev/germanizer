@@ -19,16 +19,14 @@ const setRequestHandlers = () => {
   app.use(require('./middleware/locals')());
   if (config.debug) app.use(require('connect-livereload')());
 
-  // This middleware has to go right before catchall because it ends requests
-  if (config.server.prerender) app.use(require('./middleware/react')());
   require('./controllers')(app);
 
   if (config.debug) app.use(require('errorhandler')({ dumpExceptions: true, showStack: true }));
 };
 
 const startListening = () => {
-  const host = process.env.HOST || config.server.host;
-  const port = parseInt(process.env.PORT, 10) || config.server.port || 3000;
+  const host = process.env.HOST;
+  const port = parseInt(process.env.PORT, 10) || 3000;
 
   // usually sitting behind nginx
   app.enable('trust proxy');

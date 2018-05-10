@@ -3,7 +3,6 @@ import { createStore, applyMiddleware, combineReducers } from 'redux';
 
 const reducers = {
   route: require('./modules/routes/state').reducer,
-  error: require('./components/errorhandler/state').reducer,
 };
 
 const middleware = [
@@ -13,26 +12,16 @@ const middleware = [
 if (config.debug) middleware.push(require('redux-immutable-state-invariant').default());
 
 if (config.sandbox) {
-  const options = { duration: true };
-
-  if (!process.browser) {
-    Object.assign(options, {
-      duration: true,
-      colors: false,
-      level: {
-        prevState: () => false,
-        nextState: () => false,
-        action: () => 'log',
-        error: () => 'error',
-      },
-    });
-  }
-
-  const { createLogger } = require('redux-logger');
-  middleware.push(createLogger(options));
+  middleware.push(require('redux-logger').createLogger({
+    duration: true,
+    colors: false,
+    level: {
+      prevState: () => false,
+      nextState: () => false,
+      action: () => 'log',
+      error: () => 'error',
+    },
+  }));
 }
 
-
-export default (initialState) => (
-  createStore(combineReducers(reducers), initialState, applyMiddleware(...middleware))
-);
+export default () => createStore(combineReducers(reducers), applyMiddleware(...middleware));
