@@ -21,11 +21,8 @@ class ApiController extends BaseController {
   }
 
   respond({ query }, res) {
-    const response = parseType(query.type).reduce((acc, key) => {
-      acc[key] = random(dictionary[key]);
-      return acc;
-    }, {});
-    res.send(response);
+    const result = parseType(query.type).map((type) => ({ type, data: random(dictionary[type]) }));
+    res.send({ result });
   }
 
   catchAll(req, res) {

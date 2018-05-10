@@ -4,6 +4,8 @@ import { createStore, applyMiddleware, combineReducers } from 'redux';
 const reducers = {
   route: require('./modules/routes/state').reducer,
   session: require('./modules/session').reducer,
+
+  home: require('./containers/home/state/reducer').default,
 };
 
 const middleware = [
