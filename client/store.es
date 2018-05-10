@@ -3,10 +3,13 @@ import { createStore, applyMiddleware, combineReducers } from 'redux';
 
 const reducers = {
   route: require('./modules/routes/state').reducer,
+  session: require('./modules/session').reducer,
 };
 
 const middleware = [
   require('redux-thunk').default,
+  require('./modules/network/middleware').default,
+  require('./modules/promise').middleware,
 ];
 
 if (config.debug) middleware.push(require('redux-immutable-state-invariant').default());

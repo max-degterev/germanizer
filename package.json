@@ -100,8 +100,10 @@
     "redux-logger": "3.0.6",
     "redux-immutable-state-invariant": "2.1.0",
     "classnames": "2.2.5",
-    "redial": "0.5.0",
     "fastclick": "1.0.6",
+    "superagent": "3.8.2",
+    "local-storage-adapter": "2.0.0",
+    "updeep": "1.0.0",
     "normalize.css": "8.0.0"
   },
   "browser": {

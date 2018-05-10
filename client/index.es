@@ -10,12 +10,15 @@ import attachFastClick from 'fastclick';
 
 import createStore from './store';
 import createRouter from './modules/routes';
+import { restoreSession, actions as sessionActions } from './modules/session';
 
 attachFastClick(document.body);
 
-
 const store = createStore();
 const routes = createRouter(store);
+
+const session = restoreSession();
+if (session) store.dispatch(sessionActions.setSession(session));
 
 const node = (
   <Provider store={store}>
