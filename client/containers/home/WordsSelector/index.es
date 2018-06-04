@@ -18,8 +18,13 @@ const DICTIONARIES = [
 
 
 class WordsSelector extends Component {
+  constructor(props) {
+    super(props);
+    this.handleUpdate = this.handleUpdate.bind(this);
+  }
+
   handleUpdate({ value }) {
-    console.warn(value)
+    this.props.onUpdate(value);
   }
 
   render() {
@@ -35,6 +40,7 @@ class WordsSelector extends Component {
 
 WordsSelector.propTypes = {
   className: PropTypes.string,
+  onUpdate: PropTypes.func,
 };
 
 export default WordsSelector;

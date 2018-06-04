@@ -14,7 +14,7 @@ class Words extends Component {
   }
 
   renderItem(item) {
-    return <Word key={item.data.word} item={item} />;
+    return <Word key={item.data.word} item={item} onRemove={this.props.onRemove} />;
   }
 
   render() {
@@ -35,6 +35,7 @@ class Words extends Component {
 
 Words.propTypes = {
   className: PropTypes.string,
+  onRemove: PropTypes.func,
   onUpdate: PropTypes.func,
   items: PropTypes.array,
 };

@@ -4,16 +4,22 @@ import classNames from 'classnames';
 
 const Word = (props) => {
   const className = classNames('Word', props.className);
-  const { item: { data } } = props;
+  const { item, onRemove } = props;
+
+  const handleRemove = onRemove.bind(this, item);
 
   return (
-    <article className={className}>{data.word}</article>
+    <article className={className}>
+      {item.data.word}
+      <span onClick={handleRemove}>x</span>
+    </article>
   );
 };
 
 Word.propTypes = {
   className: PropTypes.string,
   item: PropTypes.object,
+  onRemove: PropTypes.func,
 };
 
 export default Word;

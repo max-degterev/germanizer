@@ -16,7 +16,6 @@ const Layout = (props) => {
         <header className="Layout-Header">
           <a href="/" className="Layout-Logo">Germanizer</a>
           <nav>
-            <Link className="ui-button ui-button-secondary" to="/help">Help</Link>
             <Link className="ui-button ui-button-secondary" to="/about">About</Link>
           </nav>
         </header>
