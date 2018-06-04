@@ -3,7 +3,6 @@ import { connect } from 'react-redux';
 import Layout from '../../components/layout';
 
 import { addWord, getWords, removeWord } from './state/actions';
-import { setSession } from '../../modules/session';
 
 import Words from './Words';
 
@@ -20,24 +19,18 @@ class HomePage extends Component {
   }
 
   handleAdd(value) {
-    const current = this.props.selected || [];
     this.props.addWord(value);
-    this.props.setSession({ selected: current.concat([value]) });
   }
 
   handleRemove(value) {
-    const index = this.props.words.indexOf(value);
-    const selected = [...this.props.selected];
-    selected.splice(index, 1);
-    this.props.removeWord(index);
-    this.props.setSession({ selected });
+    this.props.removeWord(value);
   }
 
   render() {
-    const { words } = this.props;
+    const { words: items, addWord: onUpdate, removeWord: onRemove } = this.props;
     return (
       <Layout className="HomePage">
-        <Words onUpdate={this.handleAdd} onRemove={this.handleRemove} items={words} />
+        <Words {...{ items, onUpdate, onRemove }} />
       </Layout>
     );
   }
@@ -51,6 +44,6 @@ const mapStateToProps = ({ session, home }) => {
   return { selected, words };
 };
 
-const actions = { addWord, getWords, removeWord, setSession };
+const actions = { addWord, getWords, removeWord };
 
 export default connect(mapStateToProps, actions)(HomePage);

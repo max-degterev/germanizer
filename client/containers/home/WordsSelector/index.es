@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, createRef } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 
@@ -16,24 +16,29 @@ const DICTIONARIES = [
   { value: 'verbs_wiktionary', key: 'verb (wiktionary)' },
 ];
 
-
 class WordsSelector extends Component {
   constructor(props) {
     super(props);
     this.handleUpdate = this.handleUpdate.bind(this);
+    this.input = createRef();
   }
 
-  handleUpdate({ value }) {
-    this.props.onUpdate(value);
+  handleUpdate() {
+    const { getValue, reset } = this.input.current;
+    this.props.onUpdate(getValue().value);
+    this.input.reset();
   }
 
   render() {
     const className = classNames('WordsSelector', this.props.className);
 
     return (
-      <Select className={className} options={DICTIONARIES} onUpdate={this.handleUpdate}>
-        <span>+</span> add
-      </Select>
+      <article className={className}>
+        <Select ref={this.input} options={DICTIONARIES}>
+          <span>+</span> add
+        </Select>
+        <span onClick={this.handleUpdate}>ok</span>
+      </article>
     );
   }
 }

@@ -1,12 +1,20 @@
+import { setSession } from '../../../modules/session';
 import * as types from './types';
 
-export const addWord = (type) => ({
-  type: types.WORD_ADD,
-  request: {
-    query: { type },
-    url: '/api/dictionary',
-  },
-});
+
+export const addWord = (key) => (
+  (dispatch, getState) => {
+    const selected = (getState().session.selected || []).concat([key]);
+    dispatch(setSession({ selected }));
+    dispatch({
+      type: types.WORD_ADD,
+      request: {
+        query: { type: key },
+        url: '/api/dictionary',
+      },
+    });
+  }
+);
 
 export const getWords = (keys) => ({
   type: types.WORDS_GET,
@@ -16,7 +24,18 @@ export const getWords = (keys) => ({
   },
 });
 
-export const removeWord = (index) => ({
-  type: types.WORD_REMOVE,
-  meta: { index },
-});
+export const removeWord = (key) => (
+  (dispatch, getState) => {
+    const { home, session } = getState();
+    const index = home.words.indexOf(key);
+    const selected = [...(session.selected || [])];
+
+    selected.splice(index, 1);
+    dispatch(setSession({ selected }));
+
+    dispatch({
+      type: types.WORD_REMOVE,
+      meta: { index },
+    });
+  }
+);

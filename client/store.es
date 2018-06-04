@@ -14,19 +14,10 @@ const middleware = [
   require('./modules/promise').middleware,
 ];
 
-if (config.debug) middleware.push(require('redux-immutable-state-invariant').default());
-
-if (config.sandbox) {
-  middleware.push(require('redux-logger').createLogger({
-    duration: true,
-    colors: false,
-    level: {
-      prevState: () => false,
-      nextState: () => false,
-      action: () => 'log',
-      error: () => 'error',
-    },
-  }));
+if (config.debug) {
+  middleware.push(require('redux-immutable-state-invariant').default());
+  middleware.push(require('redux-logger').createLogger({ duration: true }));
 }
+
 
 export default () => createStore(combineReducers(reducers), applyMiddleware(...middleware));

@@ -9,9 +9,19 @@ import { getOption } from './utils';
 class Select extends Component {
   constructor(props) {
     super(props);
+    this.getValue = this.getValue.bind(this);
+    this.reset = this.reset.bind(this);
     this.handleChange = this.handleChange.bind(this);
 
     this.state = { index: 0 };
+  }
+
+  getValue() {
+    return getOption(this.props.options[this.state.index]);
+  }
+
+  reset() {
+    this.setState({ index: 0 });
   }
 
   handleChange(event) {
