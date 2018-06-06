@@ -40,24 +40,25 @@ class Select extends Component {
   }
 
   render() {
-    const { options, children } = this.props;
+    const { options } = this.props;
     const className = classNames('Select', this.props.className);
     const cleanProps = omit(this.props, 'className', 'options', 'onUpdate');
 
     return (
-      <article className={className}>
-        {children}
-        <select {...cleanProps} onChange={this.handleChange} value={this.state.index}>
-          {options.map(this.renderOption)}
-        </select>
-      </article>
+      <select
+        {...cleanProps}
+        className={className}
+        onChange={this.handleChange}
+        value={this.state.index}
+      >
+        {options.map(this.renderOption)}
+      </select>
     );
   }
 }
 
 Select.propTypes = {
   className: PropTypes.string,
-  children: PropTypes.node,
   options: PropTypes.array.isRequired,
   onUpdate: PropTypes.func,
 };

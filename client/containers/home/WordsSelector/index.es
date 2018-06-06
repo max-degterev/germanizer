@@ -26,7 +26,7 @@ class WordsSelector extends Component {
   handleUpdate() {
     const { getValue, reset } = this.input.current;
     this.props.onUpdate(getValue().value);
-    this.input.reset();
+    reset();
   }
 
   render() {
@@ -34,10 +34,8 @@ class WordsSelector extends Component {
 
     return (
       <article className={className}>
-        <Select ref={this.input} options={DICTIONARIES}>
-          <span>+</span> add
-        </Select>
-        <span onClick={this.handleUpdate}>ok</span>
+        <span className="ui-link" onClick={this.handleUpdate}>+</span>
+        <Select ref={this.input} options={DICTIONARIES} />
       </article>
     );
   }

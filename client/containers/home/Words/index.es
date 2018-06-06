@@ -14,7 +14,7 @@ class Words extends Component {
   }
 
   renderItem(item) {
-    return <Word key={item.data.word} item={item} onRemove={this.props.onRemove} />;
+    return <li key={item.data.word}><Word item={item} onRemove={this.props.onRemove} /></li>;
   }
 
   render() {
@@ -26,7 +26,7 @@ class Words extends Component {
 
     return (
       <article className={className}>
-        {items.map(this.renderItem)}
+        <ul>{items.map(this.renderItem)}</ul>
         {selector}
       </article>
     );
