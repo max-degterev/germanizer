@@ -7,7 +7,7 @@ const year = (new Date()).getFullYear();
 
 
 const Layout = (props) => {
-  const { modal, children } = props;
+  const { children } = props;
   const className = classNames('Layout', props.className);
 
   return (
@@ -22,14 +22,12 @@ const Layout = (props) => {
         {children}
       </div>
       <footer className="Layout-Footer">&copy; {year} Germanizer </footer>
-      {modal}
     </section>
   );
 };
 
 Layout.propTypes = {
   className: PropTypes.string,
-  modal: PropTypes.node,
   children: PropTypes.node,
 };
 

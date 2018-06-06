@@ -19,7 +19,7 @@ module.exports = [
   // 1. wir
   { word: 'ich und mein Papagei', translation: 'me and my parrot' },
   { word: 'ich und deine Mutter', translation: 'me and your mother' },
-  { word: 'ich und meine Schildkröte', translation: 'me my turtle' },
+  { word: 'ich und meine Schildkröte', translation: 'me and my turtle' },
 
   // 2. ihr
   { word: 'ihr und euer Gefangener', translation: 'you (Pl.) and your prisoner' },

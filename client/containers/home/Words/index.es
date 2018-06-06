@@ -13,8 +13,9 @@ class Words extends Component {
     this.renderItem = this.renderItem.bind(this);
   }
 
-  renderItem(item) {
-    return <li key={item.data.word}><Word item={item} onRemove={this.props.onRemove} /></li>;
+  renderItem(item, index) {
+    const key = `${item.data.word}:${index}`;
+    return <li key={key}><Word item={item} onRemove={this.props.onRemove} /></li>;
   }
 
   render() {
