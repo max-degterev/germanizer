@@ -2,7 +2,13 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 
-import Modal from '../../../components/modal';
+import BasicModal from './basic_modal';
+import VerbModal from './verb_modal';
+
+const modalMap = {
+  verbs: VerbModal,
+  verbs_wiktionary: VerbModal,
+};
 
 
 class Word extends Component {
@@ -31,12 +37,9 @@ class Word extends Component {
 
   renderModal() {
     if (!this.state.isModalVisible) return null;
-
-    return (
-      <Modal onClose={this.handleHideDetails}>
-        {this.props.item.data.translation}
-      </Modal>
-    );
+    const { item } = this.props;
+    const Modal = modalMap[item.type] || BasicModal;
+    return <Modal onClose={this.handleHideDetails} item={item} />;
   }
 
   render() {
