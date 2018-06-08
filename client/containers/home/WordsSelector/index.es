@@ -34,7 +34,7 @@ class WordsSelector extends Component {
 
     return (
       <article className={className}>
-        <span className="ui-link" onClick={this.handleUpdate}>+</span>
+        <span className="ui-button ui-button-primary" onClick={this.handleUpdate}>+</span>
         <Select ref={this.input} options={DICTIONARIES} />
       </article>
     );

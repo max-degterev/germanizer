@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, createRef } from 'react';
 import { createPortal } from 'react-dom';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
@@ -7,16 +7,31 @@ class Modal extends Component {
   constructor(props) {
     super(props);
     this.state = { isReady: false };
+
+    this.body = createRef();
+
+    this.handleMisclick = this.handleMisclick.bind(this);
+    this.handleKeyDown = this.handleKeyDown.bind(this);
   }
 
   componentDidMount() {
     this.container = document.getElementById('aside');
+    document.addEventListener('keydown', this.handleKeyDown);
     this.setState({ isReady: true });
   }
 
   componentWillUnmount() {
+    document.removeEventListener('keydown', this.handleKeyDown);
     const complete = () => this.container.removeChild(this.el);
     this.setState({ isReady: false }, complete);
+  }
+
+  handleKeyDown(e) {
+    if (e.key === 'Escape') this.props.onClose();
+  }
+
+  handleMisclick(e) {
+    if (e.target === this.body.current) this.props.onClose();
   }
 
   render() {
@@ -24,7 +39,7 @@ class Modal extends Component {
 
     const className = classNames('Modal', this.props.className);
     const content = (
-      <article className={className}>
+      <article className={className} onClick={this.handleMisclick} ref={this.body}>
         <div className="Modal-Content">
           <span className="Modal-Close" onClick={this.props.onClose}>x</span>
           {this.props.children}

@@ -25,13 +25,11 @@ class Word extends Component {
     this.setState({ isModalVisible: true });
   }
 
-  handleHideDetails(e) {
-    e.stopPropagation();
+  handleHideDetails() {
     this.setState({ isModalVisible: false });
   }
 
-  handleRemove(e) {
-    e.stopPropagation();
+  handleRemove() {
     this.props.onRemove(this.props.item);
   }
 
@@ -47,8 +45,10 @@ class Word extends Component {
     const { item } = this.props;
 
     return (
-      <article className={className} onClick={this.handleShowDetails}>
-        <span className="ui-button ui-button-secondary">{item.data.word}</span>
+      <article className={className}>
+        <span className="ui-button ui-button-secondary" onClick={this.handleShowDetails}>
+          {item.data.word}
+        </span>
         <span className="ui-button ui-button-primary" onClick={this.handleRemove}>x</span>
         {this.renderModal()}
       </article>
