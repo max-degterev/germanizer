@@ -1,12 +1,13 @@
 {
-  "name": "expressjs-boilerplate",
-  "description": "ExpressJS boilerplate with React SPA frontend",
+  "name": "germanizer.fun",
+  "description": "A tool to help learning how to construct german sentences",
+
   "license": "MIT",
   "readmeFilename": "README.md",
   "homepage": "http://max.degterev.me/",
   "author": "Max Degterev <max@degterev.me>",
-  "repository": "suprMax/expressjs-boilerplate",
-  "bugs": "https://github.com/suprMax/expressjs-boilerplate/issues",
+  "repository": "suprMax/germanizer",
+  "bugs": "https://github.com/suprMax/germanizer/issues",
   "private": true,
   "version": "0.0.1",
   "main": "app.js",

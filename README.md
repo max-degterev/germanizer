@@ -1,7 +1,8 @@
-ExpressJS Boilerplate
+Germanizer
 =====================
 
-ExpressJS boilerplate with React SPA frontend. Includes CoffeeScript, CJSX, Babel, Redux and React Router. Built-in server side React rendering.
+A tool to help learning how to construct german sentences
+
 
 ## Usage:
 
