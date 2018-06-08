@@ -3,6 +3,9 @@ import { createPortal } from 'react-dom';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 
+import Cross from '../cross';
+
+
 class Modal extends Component {
   constructor(props) {
     super(props);
@@ -41,7 +44,7 @@ class Modal extends Component {
     const content = (
       <article className={className} onClick={this.handleMisclick} ref={this.body}>
         <div className="Modal-Content">
-          <span className="Modal-Close" onClick={this.props.onClose}>x</span>
+          <span className="Modal-Close" onClick={this.props.onClose}><Cross /></span>
           {this.props.children}
         </div>
       </article>

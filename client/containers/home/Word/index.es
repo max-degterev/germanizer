@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 
+import Cross from '../../../components/cross';
+
 import BasicModal from './basic_modal';
 import VerbModal from './verb_modal';
 
@@ -49,7 +51,7 @@ class Word extends Component {
         <span className="ui-button ui-button-secondary" onClick={this.handleShowDetails}>
           {item.data.word}
         </span>
-        <span className="ui-button ui-button-primary" onClick={this.handleRemove}>x</span>
+        <span className="ui-button ui-button-primary" onClick={this.handleRemove}><Cross /></span>
         {this.renderModal()}
       </article>
     );
