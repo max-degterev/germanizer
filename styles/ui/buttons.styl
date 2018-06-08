@@ -15,7 +15,6 @@ $uiButtonSmallHeight = 28px
   text-decoration: none
   text-align: center
 
-  border: 1px solid
   border-radius: $borderRadiusM
 
   user-select: none
@@ -41,29 +40,25 @@ $uiButtonSmallHeight = 28px
 
 // Colors
 .ui-button-primary
-  background: $colorAction
-  border-color: $colorAction
-  color: $colorBright
-  a&
-    color: $colorBright
-
-  &:hover,
-  &:active,
-  &.is-active
-    background: darken($colorAction, 10%)
-    border-color: darken($colorAction, 10%)
-
-.ui-button-secondary
-  color: $colorDark
-  border-color: transparent
+  color: $colorAction
 
   a&
-    color: $colorDark
-    border-color: transparent
+    color: $colorAction
 
   &:hover,
   &:active,
   &.is-active
     background: lighten($colorDarkAlpha, 90%)
-    border-color: lighten($colorDarkAlpha, 90%)
+    color: $colorDark
+
+.ui-button-secondary
+  color: $colorDark
+
+  a&
+    color: $colorDark
+
+  &:hover,
+  &:active,
+  &.is-active
+    background: lighten($colorDarkAlpha, 90%)
     color: $colorDark

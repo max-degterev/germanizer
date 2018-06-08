@@ -4,16 +4,23 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 
 class Modal extends Component {
+  constructor(props) {
+    super(props);
+    this.state = { isReady: false };
+  }
+
   componentDidMount() {
     this.container = document.getElementById('aside');
+    this.setState({ isReady: true });
   }
 
   componentWillUnmount() {
-    this.container.removeChild(this.el);
+    const complete = () => this.container.removeChild(this.el);
+    this.setState({ isReady: false }, complete);
   }
 
   render() {
-    if (!this.container) return null;
+    if (!this.state.isReady) return null;
 
     const className = classNames('Modal', this.props.className);
     const content = (
