@@ -24,6 +24,9 @@ export default (state = getDefaultState(), action) => {
       words.splice(index, 1);
       return updeep({ words }, state);
     }
+    case types.WORDS_RESET: {
+      return updeep(getDefaultState(), state);
+    }
     default: {
       return state;
     }

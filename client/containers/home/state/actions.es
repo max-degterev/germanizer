@@ -39,3 +39,7 @@ export const removeWord = (key) => (
     });
   }
 );
+
+export const resetWords = () => ({
+  type: types.WORDS_RESET,
+});

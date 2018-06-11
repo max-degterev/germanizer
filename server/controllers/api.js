@@ -9,7 +9,7 @@ const dictionary = require('../../dictionary');
 
 const handleError = (res, logger, text) => {
   logger(text);
-  res.status(400).send(text);
+  res.status(400).send({ error: text });
 };
 
 class ApiController extends BaseController {

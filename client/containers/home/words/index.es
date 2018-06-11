@@ -20,15 +20,21 @@ class Words extends Component {
 
   render() {
     const className = classNames('Words', this.props.className);
-    const { onUpdate, items } = this.props;
+    const { onUpdate, onRefresh, items } = this.props;
 
     let selector;
     if (items.length < MAX_ITEMS) selector = <WordsSelector onUpdate={onUpdate} />;
+
+    let refresh;
+    if (items.length) {
+      refresh = <span className="ui-button ui-button-primary" onClick={onRefresh}>Refresh</span>;
+    }
 
     return (
       <article className={className}>
         <ul>{items.map(this.renderItem)}</ul>
         {selector}
+        {refresh}
       </article>
     );
   }
@@ -38,6 +44,7 @@ Words.propTypes = {
   className: PropTypes.string,
   onRemove: PropTypes.func,
   onUpdate: PropTypes.func,
+  onRefresh: PropTypes.func,
   items: PropTypes.array,
 };
 
