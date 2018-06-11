@@ -1,22 +1,22 @@
 module.exports = [
   {
-    word "Aa machen",
+    word: "Aa machen",
     translation: "(childish, colloquial) to poo, pooh, or poop: to defecate",
   },
   {
-    word "aalen",
+    word: "aalen",
     translation: "to hunt eels, to go on an eel-hunt, (colloquial, reflexiv) to stretch out, especially laughing (compare rotfl), (colloquial) to relax (eg as on vacation)",
   },
   {
-    word "aasen",
+    word: "aasen",
     translation: "to feed on carrion, to waste or spoil something, to make a mess of (something)",
   },
   {
-    word "abalienieren",
+    word: "abalienieren",
     translation: "(dated) to divest (oneself) (of something), to dispose of something, to alienate (for example) property, (dated) to alienate (a person, etc)",
   },
   {
-    word "abändern",
+    word: "abändern",
     translation: "(transitive) to change, to alter, (transitive) to revise, modify, (transitive) to amend, (transitive) to commute",
     forms: {
       section_0: [
@@ -46,15 +46,15 @@ module.exports = [
     },
   },
   {
-    word "abandonnieren",
+    word: "abandonnieren",
     translation: "(rare) to abandon, to abandon ship",
   },
   {
-    word "abarbeiten",
+    word: "abarbeiten",
     translation: "to work off (a debt, the items on a to-do list, etc); to resolve or take care of something by working, to work hard, to slave away",
   },
   {
-    word "abätzen",
+    word: "abätzen",
     translation: "clean, remove",
     forms: {
       section_0: [
@@ -84,35 +84,35 @@ module.exports = [
     },
   },
   {
-    word "abbauen",
+    word: "abbauen",
     translation: "to dismantle, (mining) to mine, to reduce, to degrade",
   },
   {
-    word "abbeissen",
+    word: "abbeissen",
     translation: "Switzerland and Liechtenstein standard spelling of abbeißen",
   },
   {
-    word "abbeißen",
+    word: "abbeißen",
     translation: "to bite off, to snap off, (reflexive) (with von) to pursue, to strive after, to strive to",
   },
   {
-    word "abbekommen",
+    word: "abbekommen",
     translation: "to get a share of something (pleasant or unpleasant)",
   },
   {
-    word "abberufen",
+    word: "abberufen",
     translation: "(transitive) to withdraw, (transitive) to recall",
   },
   {
-    word "abbestellen",
+    word: "abbestellen",
     translation: "to cancel a subscription, in a more general sense: to cancel any kind of delivery of a thing or summons of a person you have ordered",
   },
   {
-    word "abbezahlen",
+    word: "abbezahlen",
     translation: "to pay off",
   },
   {
-    word "abbiegen",
+    word: "abbiegen",
     translation: "(transitive) to bend, (transitive, technical) to fold (metal), (transitive, figuratively) to head off, to stave off, (intransitive) to turn, to turn off, (intransitive) to branch off",
     forms: {
       section_0: [
@@ -142,7 +142,7 @@ module.exports = [
     },
   },
   {
-    word "abbilden",
+    word: "abbilden",
     translation: "To portray, to depict, to picture, To map, to outline",
     forms: {
       section_0: [
@@ -172,31 +172,31 @@ module.exports = [
     },
   },
   {
-    word "abbinden",
+    word: "abbinden",
     translation: "(transitive) to untie, undo, (transitive) to lace, (transitive, medicine) to ligate, (intransitive) to bind, (intransitive, tech, constr) to set",
   },
   {
-    word "abblasen",
+    word: "abblasen",
     translation: "(transitive) to call off (performance, party)",
   },
   {
-    word "abblättern",
+    word: "abblättern",
     translation: "(intransitive) to chip off, to peel off, to flake off",
   },
   {
-    word "abblenden",
+    word: "abblenden",
     translation: "(transitive) to dim",
   },
   {
-    word "abblitzen",
+    word: "abblitzen",
     translation: "to rebuff",
   },
   {
-    word "abblocken",
+    word: "abblocken",
     translation: "(sports) to block",
   },
   {
-    word "abbrechen",
+    word: "abbrechen",
     translation: "To break off (remove by breaking), To terminate (end incompletely), To discard (throw away), To pull down (demolish)",
     forms: {
       section_0: [
@@ -226,7 +226,7 @@ module.exports = [
     },
   },
   {
-    word "abbremsen",
+    word: "abbremsen",
     translation: "(intransitive) to slow down, decelerate",
     forms: {
       section_0: [
@@ -256,7 +256,7 @@ module.exports = [
     },
   },
   {
-    word "abbrennen",
+    word: "abbrennen",
     translation: "to burn down",
     forms: {
       section_0: [
@@ -286,7 +286,7 @@ module.exports = [
     },
   },
   {
-    word "abbringen",
+    word: "abbringen",
     translation: "(transitive, chiefly in phrases) to dissuade, discourage, put/throw off course",
     forms: {
       section_0: [
@@ -316,7 +316,7 @@ module.exports = [
     },
   },
   {
-    word "abbröckeln",
+    word: "abbröckeln",
     translation: "To crumble away, To flake off",
     forms: {
       section_0: [
@@ -346,7 +346,7 @@ module.exports = [
     },
   },
   {
-    word "abbuchen",
+    word: "abbuchen",
     translation: "to debit",
     forms: {
       section_0: [
@@ -376,7 +376,7 @@ module.exports = [
     },
   },
   {
-    word "abbügeln",
+    word: "abbügeln",
     translation: "(transitive, idiomatic) to brush off (To disregard something, to dismiss or ignore someone)",
     forms: {
       section_0: [
@@ -406,7 +406,7 @@ module.exports = [
     },
   },
   {
-    word "abdanken",
+    word: "abdanken",
     translation: "to resign",
     forms: {
       section_0: [
@@ -436,7 +436,7 @@ module.exports = [
     },
   },
   {
-    word "abdecken",
+    word: "abdecken",
     translation: "to cover, to cover costs, to uncover, untile",
     forms: {
       section_0: [
@@ -466,11 +466,11 @@ module.exports = [
     },
   },
   {
-    word "abdestillieren",
+    word: "abdestillieren",
     translation: "To distil off (remove by distillation)",
   },
   {
-    word "abdichten",
+    word: "abdichten",
     translation: "to seal",
     forms: {
       section_0: [
@@ -500,11 +500,11 @@ module.exports = [
     },
   },
   {
-    word "abdirigieren",
+    word: "abdirigieren",
     translation: "To direct away",
   },
   {
-    word "abdrehen",
+    word: "abdrehen",
     translation: "(intransitive) to turn, (intransitive, nautical) to veer, (intransitive, aviation) to peel off",
     forms: {
       section_0: [
@@ -534,15 +534,15 @@ module.exports = [
     },
   },
   {
-    word "abeisen",
+    word: "abeisen",
     translation: "(Austria) to defrost",
   },
   {
-    word "abendessen",
+    word: "abendessen",
     translation: "(southern Germany, Austria) to sup, to have supper (the evening meal)",
   },
   {
-    word "abfackeln",
+    word: "abfackeln",
     translation: "to burn off",
     forms: {
       section_0: [
@@ -572,7 +572,7 @@ module.exports = [
     },
   },
   {
-    word "abfahren",
+    word: "abfahren",
     translation: "to depart, to leave, (colloquial) to be crazy about something",
     forms: {
       section_0: [
@@ -602,7 +602,7 @@ module.exports = [
     },
   },
   {
-    word "abfallen",
+    word: "abfallen",
     translation: "to fall off, to drop off, (religion) to apostatize",
     forms: {
       section_0: [
@@ -632,7 +632,7 @@ module.exports = [
     },
   },
   {
-    word "abfangen",
+    word: "abfangen",
     translation: "to intercept, to pull up, to pull an aircraft out of a dive",
     forms: {
       section_0: [
@@ -662,7 +662,7 @@ module.exports = [
     },
   },
   {
-    word "abfassen",
+    word: "abfassen",
     translation: "to write down",
     forms: {
       section_0: [
@@ -692,7 +692,7 @@ module.exports = [
     },
   },
   {
-    word "abfedern",
+    word: "abfedern",
     translation: "to cushion (a blow)",
     forms: {
       section_0: [
@@ -722,7 +722,7 @@ module.exports = [
     },
   },
   {
-    word "abfertigen",
+    word: "abfertigen",
     translation: "To make ready for dispatch",
     forms: {
       section_0: [
@@ -752,7 +752,7 @@ module.exports = [
     },
   },
   {
-    word "abfeuern",
+    word: "abfeuern",
     translation: "to fire off, to fire (a weapon)",
     forms: {
       section_0: [
@@ -782,11 +782,11 @@ module.exports = [
     },
   },
   {
-    word "abfiltern",
+    word: "abfiltern",
     translation: "To filter off (remove by filtration)",
   },
   {
-    word "abfinden",
+    word: "abfinden",
     translation: "(transitive) to pay compensation, (reflexive, + mit) to come to terms, to face",
     forms: {
       section_0: [
@@ -816,7 +816,7 @@ module.exports = [
     },
   },
   {
-    word "abflachen",
+    word: "abflachen",
     translation: "(transitive) to flatten, (reflective) to flatten (sich abflachen)",
     forms: {
       section_0: [
@@ -846,11 +846,11 @@ module.exports = [
     },
   },
   {
-    word "abflaken",
+    word: "abflaken",
     translation: "To shoot down with antiaircraft fire",
   },
   {
-    word "abfliegen",
+    word: "abfliegen",
     translation: "(aviation) to take off (from the ground), to fly away, to depart, (of birds) to migrate, (transitive) to fly over, overfly",
     forms: {
       section_0: [
@@ -880,7 +880,7 @@ module.exports = [
     },
   },
   {
-    word "abfliessen",
+    word: "abfliessen",
     translation: "Switzerland and Liechtenstein standard spelling of abfließen",
     forms: {
       section_0: [
@@ -910,7 +910,7 @@ module.exports = [
     },
   },
   {
-    word "abfließen",
+    word: "abfließen",
     translation: "to drain",
     forms: {
       section_0: [
@@ -940,7 +940,7 @@ module.exports = [
     },
   },
   {
-    word "abfragen",
+    word: "abfragen",
     translation: "to query, question",
     forms: {
       section_0: [
@@ -970,11 +970,11 @@ module.exports = [
     },
   },
   {
-    word "abfräsen",
+    word: "abfräsen",
     translation: "to chamfer, to bevel",
   },
   {
-    word "abgeben",
+    word: "abgeben",
     translation: "to hand in, to deliver, to deposit, to give away, to sell, to hand over, to pass on, to concede, (sports, transitive) to pass a ball, (shoot) to fire, (declaration) to give, (vote) to cast, (stuff, plot, background, frame) to provide, (to act like someone) to make, (sports, intransitive) to pass, (reflexive) to bother oneself with somebody/something, to associate with somebody/something, to mess around with somebody",
     forms: {
       section_0: [
@@ -1004,7 +1004,7 @@ module.exports = [
     },
   },
   {
-    word "abgehen",
+    word: "abgehen",
     translation: "(intransitive) to come off, come loose, (intransitive) to set off, set out",
     forms: {
       section_0: [
@@ -1034,7 +1034,7 @@ module.exports = [
     },
   },
   {
-    word "abgrenzen",
+    word: "abgrenzen",
     translation: "to delimit, to demarcate",
     forms: {
       section_0: [
@@ -1064,11 +1064,11 @@ module.exports = [
     },
   },
   {
-    word "abhaben können",
+    word: "abhaben können",
     translation: "Alternative form of haben können",
   },
   {
-    word "abhacken",
+    word: "abhacken",
     translation: "to chop up with an axe",
     forms: {
       section_0: [
@@ -1098,7 +1098,7 @@ module.exports = [
     },
   },
   {
-    word "abhaken",
+    word: "abhaken",
     translation: "to checkmark, (figuratively) to finish, to forget about",
     forms: {
       section_0: [
@@ -1128,7 +1128,7 @@ module.exports = [
     },
   },
   {
-    word "abhalten",
+    word: "abhalten",
     translation: "(transitive) to stop, prevent (someone (from) doing something), (transitive) to hold (a service, ceremony etc), (transitive, nautical) to change the direction from",
     forms: {
       section_0: [
@@ -1158,7 +1158,7 @@ module.exports = [
     },
   },
   {
-    word "abhängen",
+    word: "abhängen",
     translation: "(intransitive, abhängen von) to depend, (slang) to hang out",
     forms: {
       section_0: [
@@ -1188,7 +1188,7 @@ module.exports = [
     },
   },
   {
-    word "abhauen",
+    word: "abhauen",
     translation: "(transitive, auxiliary verb: haben, cutting weapon) to cut off, (intransitive, auxiliary verb: sein) to do a runner, (intransitive, auxiliary verb: sein, pejorative) to piss off",
     forms: {
       section_0: [
@@ -1218,7 +1218,7 @@ module.exports = [
     },
   },
   {
-    word "abheben",
+    word: "abheben",
     translation: "(intransitive) to lift off, (intransitive, of airplanes) to take off, (telephony, pick up the receiver) to answer, (transitive, banking, of bank accounts) to withdraw, (card games) to cut, (reflexive) to be dissimilar to, differ from (von)",
     forms: {
       section_0: [
@@ -1248,7 +1248,7 @@ module.exports = [
     },
   },
   {
-    word "abholen",
+    word: "abholen",
     translation: "to collect, pick up or fetch someone or something",
     forms: {
       section_0: [
@@ -1278,7 +1278,7 @@ module.exports = [
     },
   },
   {
-    word "abholzen",
+    word: "abholzen",
     translation: "to cut down the trees, to clear of timber",
     forms: {
       section_0: [
@@ -1308,7 +1308,7 @@ module.exports = [
     },
   },
   {
-    word "abhören",
+    word: "abhören",
     translation: "to wiretap a phone call",
     forms: {
       section_0: [
@@ -1338,7 +1338,7 @@ module.exports = [
     },
   },
   {
-    word "abjagen",
+    word: "abjagen",
     translation: "to take, to snatch away, to steal",
     forms: {
       section_0: [
@@ -1368,11 +1368,11 @@ module.exports = [
     },
   },
   {
-    word "abkacken",
+    word: "abkacken",
     translation: "(vulgar) To fuck up (to do badly at something), To die, To pass out, To crash",
   },
   {
-    word "abkämmen",
+    word: "abkämmen",
     translation: "To search an area, To destroy by bombing",
     forms: {
       section_0: [
@@ -1402,7 +1402,7 @@ module.exports = [
     },
   },
   {
-    word "abkanzeln",
+    word: "abkanzeln",
     translation: "(colloquial) to rebuke",
     forms: {
       section_0: [
@@ -1432,7 +1432,7 @@ module.exports = [
     },
   },
   {
-    word "abkapseln",
+    word: "abkapseln",
     translation: "(transitive) to seclude, to shut off",
     forms: {
       section_0: [
@@ -1462,7 +1462,7 @@ module.exports = [
     },
   },
   {
-    word "abkaufen",
+    word: "abkaufen",
     translation: "to buy, buy out, to buy into",
     forms: {
       section_0: [
@@ -1492,7 +1492,7 @@ module.exports = [
     },
   },
   {
-    word "abklären",
+    word: "abklären",
     translation: "to clarify, to clear up",
     forms: {
       section_0: [
@@ -1522,7 +1522,7 @@ module.exports = [
     },
   },
   {
-    word "abknallen",
+    word: "abknallen",
     translation: "to shoot down, to bump off, to pick off",
     forms: {
       section_0: [
@@ -1552,7 +1552,7 @@ module.exports = [
     },
   },
   {
-    word "abknicken",
+    word: "abknicken",
     translation: "to snap, to break",
     forms: {
       section_0: [
@@ -1582,7 +1582,7 @@ module.exports = [
     },
   },
   {
-    word "abkommen",
+    word: "abkommen",
     translation: "(dated) to come from, to derive from, to stray from (something), to unintentionally stray from (a chosen course), to digress from (a goal or subject), to abandon, (sports) to start (a competition, event, etc) (in a particular way), to free oneself, to get away, to tear oneself away (from an activity), to turn from, to estrange oneself from (someone), to get clear of (something or someone), to get or be free of, to go out of style (to become disused or obsolete), (dialectal) to grow thin and gaunt, to go to rack, (regional, Namibia, of a Rivier ‎(“arroyo”)) to (be filled with and) carry water, (regional, Namibia, of weather: of the wind, a draught/draft, a storm, etc) to (unexpectedly) form or arise and draw near",
     forms: {
       section_0: [
@@ -1612,11 +1612,11 @@ module.exports = [
     },
   },
   {
-    word "abkönnen",
+    word: "abkönnen",
     translation: "(idiomatic, colloquial) to be able to stand or endure something or someone",
   },
   {
-    word "abkratzen",
+    word: "abkratzen",
     translation: "to scrape, to kick the bucket, snuff it (die)",
     forms: {
       section_0: [
@@ -1646,7 +1646,7 @@ module.exports = [
     },
   },
   {
-    word "abkühlen",
+    word: "abkühlen",
     translation: "to cool off",
     forms: {
       section_0: [
@@ -1676,11 +1676,11 @@ module.exports = [
     },
   },
   {
-    word "abkupfern",
+    word: "abkupfern",
     translation: "to plagiarize, to copy",
   },
   {
-    word "abkürzen",
+    word: "abkürzen",
     translation: "(transitive) to abbreviate",
     forms: {
       section_0: [
@@ -1710,7 +1710,7 @@ module.exports = [
     },
   },
   {
-    word "abladen",
+    word: "abladen",
     translation: "to unload",
     forms: {
       section_0: [
@@ -1740,7 +1740,7 @@ module.exports = [
     },
   },
   {
-    word "ablagern",
+    word: "ablagern",
     translation: "To deposit, To season or age (especially timber)",
     forms: {
       section_0: [
@@ -1770,7 +1770,7 @@ module.exports = [
     },
   },
   {
-    word "ablassen",
+    word: "ablassen",
     translation: "to drain; to let off, to let out, to let go",
     forms: {
       section_0: [
@@ -1800,7 +1800,7 @@ module.exports = [
     },
   },
   {
-    word "ablaßen",
+    word: "ablaßen",
     translation: "Obsolete spelling of ablassen",
     forms: {
       section_0: [
@@ -1830,7 +1830,7 @@ module.exports = [
     },
   },
   {
-    word "ablaufen",
+    word: "ablaufen",
     translation: "to expire, to run off",
     forms: {
       section_0: [
@@ -1860,7 +1860,7 @@ module.exports = [
     },
   },
   {
-    word "ableben",
+    word: "ableben",
     translation: "(literary) to decease, to die, to pass away, to leave this life",
     forms: {
       section_0: [
@@ -1890,7 +1890,7 @@ module.exports = [
     },
   },
   {
-    word "ablegen",
+    word: "ablegen",
     translation: "To take off, put aside",
     forms: {
       section_0: [
@@ -1920,7 +1920,7 @@ module.exports = [
     },
   },
   {
-    word "ablehnen",
+    word: "ablehnen",
     translation: "to decline, refuse, reject, turn down",
     forms: {
       section_0: [
@@ -1950,7 +1950,7 @@ module.exports = [
     },
   },
   {
-    word "ableiten",
+    word: "ableiten",
     translation: "to derive",
     forms: {
       section_0: [
@@ -1980,7 +1980,7 @@ module.exports = [
     },
   },
   {
-    word "ablenken",
+    word: "ablenken",
     translation: "to divert, to distract",
     forms: {
       section_0: [
@@ -2010,7 +2010,7 @@ module.exports = [
     },
   },
   {
-    word "ablesen",
+    word: "ablesen",
     translation: "To read (take a reading)",
     forms: {
       section_0: [
@@ -2040,7 +2040,7 @@ module.exports = [
     },
   },
   {
-    word "ablösen",
+    word: "ablösen",
     translation: "To detach or remove, To supersede or take over from, To relieve",
     forms: {
       section_0: [
@@ -2070,7 +2070,7 @@ module.exports = [
     },
   },
   {
-    word "abluchsen",
+    word: "abluchsen",
     translation: "(informal) to obtain through slyness or quickness; to wangle",
     forms: {
       section_0: [
@@ -2100,7 +2100,7 @@ module.exports = [
     },
   },
   {
-    word "abmagern",
+    word: "abmagern",
     translation: "to lose weight",
     forms: {
       section_0: [
@@ -2130,11 +2130,11 @@ module.exports = [
     },
   },
   {
-    word "abmeiern",
+    word: "abmeiern",
     translation: "(archaic) To take away the right of ownership of a farm",
   },
   {
-    word "abmelden",
+    word: "abmelden",
     translation: "to log out, log off",
     forms: {
       section_0: [
@@ -2164,7 +2164,7 @@ module.exports = [
     },
   },
   {
-    word "abmessen",
+    word: "abmessen",
     translation: "to measure",
     forms: {
       section_0: [
@@ -2194,7 +2194,7 @@ module.exports = [
     },
   },
   {
-    word "abmeßen",
+    word: "abmeßen",
     translation: "Obsolete spelling of abmessen",
     forms: {
       section_0: [
@@ -2224,7 +2224,7 @@ module.exports = [
     },
   },
   {
-    word "abnehmen",
+    word: "abnehmen",
     translation: "to decrease, to diminish, to lose weight, to accept, to receive, (of telephones) to pick up",
     forms: {
       section_0: [
@@ -2254,7 +2254,7 @@ module.exports = [
     },
   },
   {
-    word "abnutzen",
+    word: "abnutzen",
     translation: "(transitive) to wear out (by use), (reflexive, to suffer due to use) to wear",
     forms: {
       section_0: [
@@ -2284,7 +2284,7 @@ module.exports = [
     },
   },
   {
-    word "abonnieren",
+    word: "abonnieren",
     translation: "to subscribe",
     forms: {
       section_0: [
@@ -2314,7 +2314,7 @@ module.exports = [
     },
   },
   {
-    word "abräumen",
+    word: "abräumen",
     translation: "to clear away, to clear",
     forms: {
       section_0: [
@@ -2344,7 +2344,7 @@ module.exports = [
     },
   },
   {
-    word "abrechnen",
+    word: "abrechnen",
     translation: "To settle (establish the final amount of a bill etc), To cash up, settle up",
     forms: {
       section_0: [
@@ -2374,7 +2374,7 @@ module.exports = [
     },
   },
   {
-    word "abreiben",
+    word: "abreiben",
     translation: "to rub off, scuff, or abrade, to rub, (cooking) to grate",
     forms: {
       section_0: [
@@ -2404,11 +2404,11 @@ module.exports = [
     },
   },
   {
-    word "abreichern",
+    word: "abreichern",
     translation: "to deplete, to remove",
   },
   {
-    word "abreisen",
+    word: "abreisen",
     translation: "(at a voyage) to depart",
     forms: {
       section_0: [
@@ -2438,7 +2438,7 @@ module.exports = [
     },
   },
   {
-    word "abreissen",
+    word: "abreissen",
     translation: "Switzerland and Liechtenstein standard spelling of abreißen",
     forms: {
       section_0: [
@@ -2468,7 +2468,7 @@ module.exports = [
     },
   },
   {
-    word "abreißen",
+    word: "abreißen",
     translation: "to tear off, (a building) to tear down, to demolish",
     forms: {
       section_0: [
@@ -2498,7 +2498,7 @@ module.exports = [
     },
   },
   {
-    word "abriegeln",
+    word: "abriegeln",
     translation: "(of a door, etc) to bar, to bolt, (of an area with barriers) to close off, to block off",
     forms: {
       section_0: [
@@ -2528,7 +2528,7 @@ module.exports = [
     },
   },
   {
-    word "abrufen",
+    word: "abrufen",
     translation: "To access, fetch or retrieve",
     forms: {
       section_0: [
@@ -2558,7 +2558,7 @@ module.exports = [
     },
   },
   {
-    word "abrunden",
+    word: "abrunden",
     translation: "to round off (change the shape of an object to make it more circular; to complete or finish something), (arithmetic) to round down (round downwards to the desired accuracy), to top off (complete, to put the finishing touch to)",
     forms: {
       section_0: [
@@ -2588,7 +2588,7 @@ module.exports = [
     },
   },
   {
-    word "absagen",
+    word: "absagen",
     translation: "to cancel, to call off, (of an invitation) to decline",
     forms: {
       section_0: [
@@ -2618,11 +2618,11 @@ module.exports = [
     },
   },
   {
-    word "absägen",
+    word: "absägen",
     translation: "to saw off",
   },
   {
-    word "absatteln",
+    word: "absatteln",
     translation: "(transitive) to unsaddle (a horse), (intransitive, figuratively) to halt, stop",
     forms: {
       section_0: [
@@ -2652,11 +2652,11 @@ module.exports = [
     },
   },
   {
-    word "absättigen",
+    word: "absättigen",
     translation: "(chemistry) to be incapable of any further reaction or bond, (psychology) to satisfy (a need, desire)",
   },
   {
-    word "absaufen",
+    word: "absaufen",
     translation: "(slang) to drown, to lose altitude",
     forms: {
       section_0: [
@@ -2686,7 +2686,7 @@ module.exports = [
     },
   },
   {
-    word "absaugen",
+    word: "absaugen",
     translation: "to suck off, (slang) to give a blowjob, to vacuum",
     forms: {
       section_0: [
@@ -2716,7 +2716,7 @@ module.exports = [
     },
   },
   {
-    word "abschaffen",
+    word: "abschaffen",
     translation: "to abolish, to annul",
     forms: {
       section_0: [
@@ -2746,7 +2746,7 @@ module.exports = [
     },
   },
   {
-    word "abschalten",
+    word: "abschalten",
     translation: "to switch off",
     forms: {
       section_0: [
@@ -2776,7 +2776,7 @@ module.exports = [
     },
   },
   {
-    word "abscheiden",
+    word: "abscheiden",
     translation: "To deposit, precipitate, To eliminate, To separate",
     forms: {
       section_0: [
@@ -2806,7 +2806,7 @@ module.exports = [
     },
   },
   {
-    word "abschieben",
+    word: "abschieben",
     translation: "to deport (from a country), to shift (blame or responsibility onto someone or onto certain circumstances)",
     forms: {
       section_0: [
@@ -2836,7 +2836,7 @@ module.exports = [
     },
   },
   {
-    word "abschirmen",
+    word: "abschirmen",
     translation: "to screen, to protect",
     forms: {
       section_0: [
@@ -2866,7 +2866,7 @@ module.exports = [
     },
   },
   {
-    word "abschlachten",
+    word: "abschlachten",
     translation: "to slaughter (to kill brutally), to commit mass murder",
     forms: {
       section_0: [
@@ -2896,7 +2896,7 @@ module.exports = [
     },
   },
   {
-    word "abschlagen",
+    word: "abschlagen",
     translation: "to knock off, to cut off, chop off, (figuratively) to refuse, to deny, to reject, (golf) to tee off, (soccer) to punt",
     forms: {
       section_0: [
@@ -2926,7 +2926,7 @@ module.exports = [
     },
   },
   {
-    word "abschleppen",
+    word: "abschleppen",
     translation: "(transitive) to tow; to tow away (a car etc), (transitive, colloquial) to pick up (a person in a pub etc)",
     forms: {
       section_0: [
@@ -2956,7 +2956,7 @@ module.exports = [
     },
   },
   {
-    word "abschliessen",
+    word: "abschliessen",
     translation: "Switzerland and Liechtenstein standard spelling of abschließen",
     forms: {
       section_0: [
@@ -2986,7 +2986,7 @@ module.exports = [
     },
   },
   {
-    word "abschließen",
+    word: "abschließen",
     translation: "to end, to finish or complete (eg one's studies), to shut off, to lock up; to seal off, to conclude (a contract, a deal), to finalise/finalize (a contract, an agreement)",
     forms: {
       section_0: [
@@ -3016,7 +3016,7 @@ module.exports = [
     },
   },
   {
-    word "abschmecken",
+    word: "abschmecken",
     translation: "to taste a dish and, if necessary, add more spices to it",
     forms: {
       section_0: [
@@ -3046,7 +3046,7 @@ module.exports = [
     },
   },
   {
-    word "abschneiden",
+    word: "abschneiden",
     translation: "(transitive) to cut off, (transitive) to truncate, (transitive) to shorten, (transitive) to amputate, (intransitive) to score (well etc)",
     forms: {
       section_0: [
@@ -3076,7 +3076,7 @@ module.exports = [
     },
   },
   {
-    word "abschrecken",
+    word: "abschrecken",
     translation: "to discourage (to take away or reduce the courage of), to daunt, to repel, to scare, to quench (metal)",
     forms: {
       section_0: [
@@ -3106,7 +3106,7 @@ module.exports = [
     },
   },
   {
-    word "abschreiben",
+    word: "abschreiben",
     translation: "to transcribe, to plagiarize, (accounting) to write off, to consider something a write-off, as in colloquial use; to call defeat",
     forms: {
       section_0: [
@@ -3136,7 +3136,7 @@ module.exports = [
     },
   },
   {
-    word "abschütten",
+    word: "abschütten",
     translation: "to pour off (excess liquid)",
     forms: {
       section_0: [
@@ -3166,7 +3166,7 @@ module.exports = [
     },
   },
   {
-    word "abschweifen",
+    word: "abschweifen",
     translation: "to digress",
     forms: {
       section_0: [
@@ -3196,7 +3196,7 @@ module.exports = [
     },
   },
   {
-    word "abschwören",
+    word: "abschwören",
     translation: "to abjure, renounce (+ dative)",
     forms: {
       section_0: [
@@ -3226,7 +3226,7 @@ module.exports = [
     },
   },
   {
-    word "absehen",
+    word: "absehen",
     translation: "(transitive) to foresee, to overlook, to disregard, to willfully not refer to a fact",
     forms: {
       section_0: [
@@ -3256,7 +3256,7 @@ module.exports = [
     },
   },
   {
-    word "abseilen",
+    word: "abseilen",
     translation: "to descend",
     forms: {
       section_0: [
@@ -3286,7 +3286,7 @@ module.exports = [
     },
   },
   {
-    word "absenden",
+    word: "absenden",
     translation: "to forward, send on",
     forms: {
       section_0: [
@@ -3316,7 +3316,7 @@ module.exports = [
     },
   },
   {
-    word "absenken",
+    word: "absenken",
     translation: "(transitive) to lower, to sink, to deepen",
     forms: {
       section_0: [
@@ -3346,7 +3346,7 @@ module.exports = [
     },
   },
   {
-    word "absetzen",
+    word: "absetzen",
     translation: "to set down, (to remove a monarch from power) to depose, dethrone, (from the tax) to deduct, (reflexive) to break away",
     forms: {
       section_0: [
@@ -3376,7 +3376,7 @@ module.exports = [
     },
   },
   {
-    word "absichern",
+    word: "absichern",
     translation: "To secure, safeguard, To hedge",
     forms: {
       section_0: [
@@ -3406,7 +3406,7 @@ module.exports = [
     },
   },
   {
-    word "absinken",
+    word: "absinken",
     translation: "To sink, slump or fall, To plummet",
     forms: {
       section_0: [
@@ -3436,7 +3436,7 @@ module.exports = [
     },
   },
   {
-    word "absolvieren",
+    word: "absolvieren",
     translation: "to pass (successfully complete), (theology) to absolve (pronounce free or give absolution from sin)",
     forms: {
       section_0: [
@@ -3466,7 +3466,7 @@ module.exports = [
     },
   },
   {
-    word "absondern",
+    word: "absondern",
     translation: "to separate, to segregate, (reflexive) to seclude oneself, (biology) to secrete",
     forms: {
       section_0: [
@@ -3496,11 +3496,11 @@ module.exports = [
     },
   },
   {
-    word "absorbieren",
+    word: "absorbieren",
     translation: "to absorb, to soak up",
   },
   {
-    word "abspalten",
+    word: "abspalten",
     translation: "to split off",
     forms: {
       section_0: [
@@ -3530,7 +3530,7 @@ module.exports = [
     },
   },
   {
-    word "abspecken",
+    word: "abspecken",
     translation: "(intransitive) to lose weight, (transitive, figuratively) to diminish",
     forms: {
       section_0: [
@@ -3560,7 +3560,7 @@ module.exports = [
     },
   },
   {
-    word "abspielen",
+    word: "abspielen",
     translation: "to play (a tape, a movie, an audio or video file etc); to replay, (sports) to pass",
     forms: {
       section_0: [
@@ -3590,7 +3590,7 @@ module.exports = [
     },
   },
   {
-    word "absprechen",
+    word: "absprechen",
     translation: "(transitive) to arrange, to agree upon, (transitive) to deny, to dispute",
     forms: {
       section_0: [
@@ -3620,7 +3620,7 @@ module.exports = [
     },
   },
   {
-    word "abspringen",
+    word: "abspringen",
     translation: "to jump off, (by extension) to abandon, leave in the lurch",
     forms: {
       section_0: [
@@ -3650,7 +3650,7 @@ module.exports = [
     },
   },
   {
-    word "abspritzen",
+    word: "abspritzen",
     translation: "(slang) cum (to have an orgasm; to ejaculate), to inject, (slang) to murder by lethal injection",
     forms: {
       section_0: [
@@ -3680,7 +3680,7 @@ module.exports = [
     },
   },
   {
-    word "abstauben",
+    word: "abstauben",
     translation: "To dust, to wipe away dust, To scrounge",
     forms: {
       section_0: [
@@ -3710,7 +3710,7 @@ module.exports = [
     },
   },
   {
-    word "abstechen",
+    word: "abstechen",
     translation: "To cut off, cut out, To stab (to death)",
     forms: {
       section_0: [
@@ -3740,7 +3740,7 @@ module.exports = [
     },
   },
   {
-    word "abstecken",
+    word: "abstecken",
     translation: "to stake out",
     forms: {
       section_0: [
@@ -3770,7 +3770,7 @@ module.exports = [
     },
   },
   {
-    word "absteigen",
+    word: "absteigen",
     translation: "to get off, to dismount",
     forms: {
       section_0: [
@@ -3800,7 +3800,7 @@ module.exports = [
     },
   },
   {
-    word "abstellen",
+    word: "abstellen",
     translation: "to put down, to set down, to turn off, to switch off, (of a vehicle etc) to park, to leave, (military) to detach, to assign",
     forms: {
       section_0: [
@@ -3830,7 +3830,7 @@ module.exports = [
     },
   },
   {
-    word "absterben",
+    word: "absterben",
     translation: "to atrophy, to necrotize, to die back",
     forms: {
       section_0: [
@@ -3860,7 +3860,7 @@ module.exports = [
     },
   },
   {
-    word "abstimmen",
+    word: "abstimmen",
     translation: "to vote, (reflexive) sich abstimmen: to coordinate or synchronise with someone:",
     forms: {
       section_0: [
@@ -3890,7 +3890,7 @@ module.exports = [
     },
   },
   {
-    word "abstossen",
+    word: "abstossen",
     translation: "Switzerland and Liechtenstein standard spelling of abstoßen",
     forms: {
       section_0: [
@@ -3920,7 +3920,7 @@ module.exports = [
     },
   },
   {
-    word "abstoßen",
+    word: "abstoßen",
     translation: "to repel, to push",
     forms: {
       section_0: [
@@ -3950,11 +3950,11 @@ module.exports = [
     },
   },
   {
-    word "abstrafen",
+    word: "abstrafen",
     translation: "to punish, often out of vengefulness",
   },
   {
-    word "abstrahieren",
+    word: "abstrahieren",
     translation: "to abstract (to consider abstractly)",
     forms: {
       section_0: [
@@ -3984,7 +3984,7 @@ module.exports = [
     },
   },
   {
-    word "abstreifen",
+    word: "abstreifen",
     translation: "(ring, etc) to slip off, (shoes, etc) to wipe; to wipe off",
     forms: {
       section_0: [
@@ -4014,7 +4014,7 @@ module.exports = [
     },
   },
   {
-    word "abstumpfen",
+    word: "abstumpfen",
     translation: "to blunt, dull deaden",
     forms: {
       section_0: [
@@ -4044,7 +4044,7 @@ module.exports = [
     },
   },
   {
-    word "abstürzen",
+    word: "abstürzen",
     translation: "to crash, (aviation, computing) to crash",
     forms: {
       section_0: [
@@ -4074,7 +4074,7 @@ module.exports = [
     },
   },
   {
-    word "abteilen",
+    word: "abteilen",
     translation: "(transitive) to divide, to split apart, to sunder, to section",
     forms: {
       section_0: [
@@ -4104,7 +4104,7 @@ module.exports = [
     },
   },
   {
-    word "abtippen",
+    word: "abtippen",
     translation: "to typewrite",
     forms: {
       section_0: [
@@ -4134,7 +4134,7 @@ module.exports = [
     },
   },
   {
-    word "abtöten",
+    word: "abtöten",
     translation: "(religion, etc) to mortify, to kill; to kill off; usually in masses, of vermin or germs",
     forms: {
       section_0: [
@@ -4164,7 +4164,7 @@ module.exports = [
     },
   },
   {
-    word "abtragen",
+    word: "abtragen",
     translation: "to remove, denude, to degrade, wear down, to pay off, to carry off, to clear up, clear away, to take down, tear down",
     forms: {
       section_0: [
@@ -4194,7 +4194,7 @@ module.exports = [
     },
   },
   {
-    word "abtransportieren",
+    word: "abtransportieren",
     translation: "to transport away, to evacuate",
     forms: {
       section_0: [
@@ -4224,7 +4224,7 @@ module.exports = [
     },
   },
   {
-    word "abtreiben",
+    word: "abtreiben",
     translation: "to drive (someone or something) off or away, to abort (a baby), to terminate a pregnancy",
     forms: {
       section_0: [
@@ -4254,7 +4254,7 @@ module.exports = [
     },
   },
   {
-    word "abtrennen",
+    word: "abtrennen",
     translation: "to cut off, sever, to separate",
     forms: {
       section_0: [
@@ -4284,7 +4284,7 @@ module.exports = [
     },
   },
   {
-    word "abtun",
+    word: "abtun",
     translation: "To dismiss, brush aside, snub, To waive",
     forms: {
       section_0: [
@@ -4314,7 +4314,7 @@ module.exports = [
     },
   },
   {
-    word "abwägen",
+    word: "abwägen",
     translation: "to weigh (to determine the intrinsic value or merit of an object)",
     forms: {
       section_0: [
@@ -4344,7 +4344,7 @@ module.exports = [
     },
   },
   {
-    word "abwandern",
+    word: "abwandern",
     translation: "to emigrate, (slang) to deport",
     forms: {
       section_0: [
@@ -4374,7 +4374,7 @@ module.exports = [
     },
   },
   {
-    word "abwarten",
+    word: "abwarten",
     translation: "to await; to wait for, to wait around",
     forms: {
       section_0: [
@@ -4404,7 +4404,7 @@ module.exports = [
     },
   },
   {
-    word "abwaschen",
+    word: "abwaschen",
     translation: "(intransitive) to wash up (clean utensils, dishes, etc)",
     forms: {
       section_0: [
@@ -4434,7 +4434,7 @@ module.exports = [
     },
   },
   {
-    word "abwehren",
+    word: "abwehren",
     translation: "to fend off, to refuse, to say no",
     forms: {
       section_0: [
@@ -4464,7 +4464,7 @@ module.exports = [
     },
   },
   {
-    word "abweichen",
+    word: "abweichen",
     translation: "to differ or vary, to deviate or diverge",
     forms: {
       section_0: [
@@ -4494,7 +4494,7 @@ module.exports = [
     },
   },
   {
-    word "abweisen",
+    word: "abweisen",
     translation: "to dismiss (reject), to repel an attack",
     forms: {
       section_0: [
@@ -4524,7 +4524,7 @@ module.exports = [
     },
   },
   {
-    word "abwenden",
+    word: "abwenden",
     translation: "(transitive) to avert, (reflexive) to turn away",
     forms: {
       section_0: [
@@ -4554,11 +4554,11 @@ module.exports = [
     },
   },
   {
-    word "abwerben",
+    word: "abwerben",
     translation: "(transitive, a client or employee) to entice, to poach",
   },
   {
-    word "abwerfen",
+    word: "abwerfen",
     translation: "(transitive) To throw down, to let fall, (transitive, sports) To hit with the ball, (transitive, finance) To get money from",
     forms: {
       section_0: [
@@ -4588,7 +4588,7 @@ module.exports = [
     },
   },
   {
-    word "abwerten",
+    word: "abwerten",
     translation: "(transitive) to devaluate, to denigrate, to depreciate, to devalue",
     forms: {
       section_0: [
@@ -4618,7 +4618,7 @@ module.exports = [
     },
   },
   {
-    word "abwickeln",
+    word: "abwickeln",
     translation: "to unwind, to wind up (to dissolve a partnership or corporation and liquidate its assets)",
     forms: {
       section_0: [
@@ -4648,7 +4648,7 @@ module.exports = [
     },
   },
   {
-    word "abwiegen",
+    word: "abwiegen",
     translation: "to weigh, to weigh out",
     forms: {
       section_0: [
@@ -4678,7 +4678,7 @@ module.exports = [
     },
   },
   {
-    word "abwracken",
+    word: "abwracken",
     translation: "to wreck (down)",
     forms: {
       section_0: [
@@ -4708,7 +4708,7 @@ module.exports = [
     },
   },
   {
-    word "abzeichnen",
+    word: "abzeichnen",
     translation: "to draw (something or someone), to sign off on something, (reflexive, with sich) to be outlined (against something), to stand out (against a background)",
     forms: {
       section_0: [
@@ -4738,7 +4738,7 @@ module.exports = [
     },
   },
   {
-    word "abziehen",
+    word: "abziehen",
     translation: "to subtract, to deduct, (transitive, troops, etc) to pull out, (intransitive) to leave, (intransitive) to pull the trigger, (colloquial) to rip off (to cheat, to charge an exorbitant or unfair rate)",
     forms: {
       section_0: [
@@ -4768,63 +4768,63 @@ module.exports = [
     },
   },
   {
-    word "abzocken",
+    word: "abzocken",
     translation: "to rip off (to cheat, to charge an exorbitant or unfair rate)",
   },
   {
-    word "abzubauen",
+    word: "abzubauen",
     translation: "zu-infinitive of abbauen",
   },
   {
-    word "abzubekommen",
+    word: "abzubekommen",
     translation: "zu-infinitive of abbekommen",
   },
   {
-    word "abzudrehen",
+    word: "abzudrehen",
     translation: "zu-infinitive of abdrehen",
   },
   {
-    word "abzugeben",
+    word: "abzugeben",
     translation: "zu-infinitive of abgeben",
   },
   {
-    word "abzuladen",
+    word: "abzuladen",
     translation: "zu-infinitive of abladen",
   },
   {
-    word "abzureichern",
+    word: "abzureichern",
     translation: "zu-infinitive of abreichern",
   },
   {
-    word "abzusägen",
+    word: "abzusägen",
     translation: "zu-infinitive of absägen",
   },
   {
-    word "abzusehen",
+    word: "abzusehen",
     translation: "zu-infinitive of absehen",
   },
   {
-    word "abzuspielen",
+    word: "abzuspielen",
     translation: "zu-infinitive of abspielen",
   },
   {
-    word "abzutöten",
+    word: "abzutöten",
     translation: "zu-infinitive of abtöten",
   },
   {
-    word "abzutrennen",
+    word: "abzutrennen",
     translation: "zu-infinitive of abtrennen",
   },
   {
-    word "abzuwarten",
+    word: "abzuwarten",
     translation: "zu-infinitive of abwarten",
   },
   {
-    word "acetylieren",
+    word: "acetylieren",
     translation: "(organic chemistry) To acetylate",
   },
   {
-    word "achten",
+    word: "achten",
     translation: "(transitive) to esteem, to respect, to value, (transitive) to estimate, to consider, to reckon",
     forms: {
       section_0: [
@@ -4854,7 +4854,7 @@ module.exports = [
     },
   },
   {
-    word "ächten",
+    word: "ächten",
     translation: "(transitive) to outlaw, declare as not being protected by law",
     forms: {
       section_0: [
@@ -4884,11 +4884,11 @@ module.exports = [
     },
   },
   {
-    word "ächzen",
+    word: "ächzen",
     translation: "(of people) to groan, (of things) to creak",
   },
   {
-    word "ackern",
+    word: "ackern",
     translation: "to plow, (colloquial) to slog away, to work hard",
     forms: {
       section_0: [
@@ -4918,11 +4918,11 @@ module.exports = [
     },
   },
   {
-    word "adaptieren",
+    word: "adaptieren",
     translation: "to adapt",
   },
   {
-    word "addieren",
+    word: "addieren",
     translation: "to add up, to sum",
     forms: {
       section_0: [
@@ -4952,7 +4952,7 @@ module.exports = [
     },
   },
   {
-    word "adeln",
+    word: "adeln",
     translation: "to ennoble",
     forms: {
       section_0: [
@@ -4982,7 +4982,7 @@ module.exports = [
     },
   },
   {
-    word "adoptieren",
+    word: "adoptieren",
     translation: "to adopt (a child)",
     forms: {
       section_0: [
@@ -5012,7 +5012,7 @@ module.exports = [
     },
   },
   {
-    word "adressieren",
+    word: "adressieren",
     translation: "to address",
     forms: {
       section_0: [
@@ -5042,15 +5042,15 @@ module.exports = [
     },
   },
   {
-    word "adsorbieren",
+    word: "adsorbieren",
     translation: "to adsorb (to accumulate on a surface)",
   },
   {
-    word "afterreden",
+    word: "afterreden",
     translation: "(transitive) to speak ill of (someone); slander",
   },
   {
-    word "agieren",
+    word: "agieren",
     translation: "to act",
     forms: {
       section_0: [
@@ -5080,7 +5080,7 @@ module.exports = [
     },
   },
   {
-    word "ahnden",
+    word: "ahnden",
     translation: "to punish",
     forms: {
       section_0: [
@@ -5110,7 +5110,7 @@ module.exports = [
     },
   },
   {
-    word "ähneln",
+    word: "ähneln",
     translation: "to resemble",
     forms: {
       section_0: [
@@ -5140,7 +5140,7 @@ module.exports = [
     },
   },
   {
-    word "ahnen",
+    word: "ahnen",
     translation: "to suspect, to guess",
     forms: {
       section_0: [
@@ -5170,7 +5170,7 @@ module.exports = [
     },
   },
   {
-    word "akkreditieren",
+    word: "akkreditieren",
     translation: "to accredit",
     forms: {
       section_0: [
@@ -5200,15 +5200,15 @@ module.exports = [
     },
   },
   {
-    word "akkumulieren",
+    word: "akkumulieren",
     translation: "To accumulate",
   },
   {
-    word "akquirieren",
+    word: "akquirieren",
     translation: "to acquire (to gain, usually by on(e)'(s) own exertions; to get as on(e)'(s) own)",
   },
   {
-    word "aktivieren",
+    word: "aktivieren",
     translation: "to activate",
     forms: {
       section_0: [
@@ -5238,7 +5238,7 @@ module.exports = [
     },
   },
   {
-    word "aktualisieren",
+    word: "aktualisieren",
     translation: "to update, (computing) to refresh",
     forms: {
       section_0: [
@@ -5268,7 +5268,7 @@ module.exports = [
     },
   },
   {
-    word "akzeptieren",
+    word: "akzeptieren",
     translation: "to accept",
     forms: {
       section_0: [
@@ -5298,11 +5298,11 @@ module.exports = [
     },
   },
   {
-    word "Alarm schlagen",
+    word: "Alarm schlagen",
     translation: "(idiomatic) to sound the alarm, to raise the alarm",
   },
   {
-    word "alarmieren",
+    word: "alarmieren",
     translation: "(transitive) to alarm",
     forms: {
       section_0: [
@@ -5332,15 +5332,15 @@ module.exports = [
     },
   },
   {
-    word "alimentieren",
+    word: "alimentieren",
     translation: "(transitive) to support financially",
   },
   {
-    word "alle Hände voll zu tun haben",
+    word: "alle Hände voll zu tun haben",
     translation: "to have on(e)'(s) hands full",
   },
   {
-    word "altern",
+    word: "altern",
     translation: "to age",
     forms: {
       section_0: [
@@ -5370,27 +5370,27 @@ module.exports = [
     },
   },
   {
-    word "aluminieren",
+    word: "aluminieren",
     translation: "To aluminize",
   },
   {
-    word "am Herd stehen",
+    word: "am Herd stehen",
     translation: "(idiomatic, colloquial) to cook, to prepare food",
   },
   {
-    word "am seidenen Faden hängen",
+    word: "am seidenen Faden hängen",
     translation: "(idiomatic) Alternative form of an einem seidenen Faden hängen",
   },
   {
-    word "amenagieren",
+    word: "amenagieren",
     translation: "(Luxembourg) to lay out, fit out",
   },
   {
-    word "Amok laufen",
+    word: "Amok laufen",
     translation: "to run amok",
   },
   {
-    word "amputieren",
+    word: "amputieren",
     translation: "to amputate",
     forms: {
       section_0: [
@@ -5420,7 +5420,7 @@ module.exports = [
     },
   },
   {
-    word "amüsieren",
+    word: "amüsieren",
     translation: "to amuse",
     forms: {
       section_0: [
@@ -5450,19 +5450,19 @@ module.exports = [
     },
   },
   {
-    word "an den Bettelstab bringen",
+    word: "an den Bettelstab bringen",
     translation: "(idiomatic, transitive) to ruin",
   },
   {
-    word "an die Kandare nehmen",
+    word: "an die Kandare nehmen",
     translation: "(idiomatic) to put a tight rein on (literally: to put the curb on), to rein, to curb",
   },
   {
-    word "an einem seidenen Faden hängen",
+    word: "an einem seidenen Faden hängen",
     translation: "(idiomatic) to hang by a thread",
   },
   {
-    word "analysieren",
+    word: "analysieren",
     translation: "to analyze",
     forms: {
       section_0: [
@@ -5492,11 +5492,11 @@ module.exports = [
     },
   },
   {
-    word "anbandeln",
+    word: "anbandeln",
     translation: "(southern Germany) flirt",
   },
   {
-    word "anbändeln",
+    word: "anbändeln",
     translation: "flirt",
     forms: {
       section_0: [
@@ -5526,7 +5526,7 @@ module.exports = [
     },
   },
   {
-    word "anbauen",
+    word: "anbauen",
     translation: "(agriculture) to grow, to cultivate, to attach, to mount",
     forms: {
       section_0: [
@@ -5556,7 +5556,7 @@ module.exports = [
     },
   },
   {
-    word "anbeten",
+    word: "anbeten",
     translation: "(transitive, religion or figuratively) to worship, to adore",
     forms: {
       section_0: [
@@ -5586,7 +5586,7 @@ module.exports = [
     },
   },
   {
-    word "anbieten",
+    word: "anbieten",
     translation: "to offer, to provide",
     forms: {
       section_0: [
@@ -5616,7 +5616,7 @@ module.exports = [
     },
   },
   {
-    word "anbinden",
+    word: "anbinden",
     translation: "to tie up; to fasten",
     forms: {
       section_0: [
@@ -5646,7 +5646,7 @@ module.exports = [
     },
   },
   {
-    word "anblicken",
+    word: "anblicken",
     translation: "to look at",
     forms: {
       section_0: [
@@ -5676,7 +5676,7 @@ module.exports = [
     },
   },
   {
-    word "anbräunen",
+    word: "anbräunen",
     translation: "to sauté; to lightly brown (something) in hot fat or oil",
     forms: {
       section_0: [
@@ -5706,7 +5706,7 @@ module.exports = [
     },
   },
   {
-    word "anbrechen",
+    word: "anbrechen",
     translation: "to start, commence, kick off",
     forms: {
       section_0: [
@@ -5736,7 +5736,7 @@ module.exports = [
     },
   },
   {
-    word "anbringen",
+    word: "anbringen",
     translation: "to add, to fix, to affix, to attach, to bring",
     forms: {
       section_0: [
@@ -5766,7 +5766,7 @@ module.exports = [
     },
   },
   {
-    word "andauern",
+    word: "andauern",
     translation: "(intransitive) continue, go on, last",
     forms: {
       section_0: [
@@ -5796,7 +5796,7 @@ module.exports = [
     },
   },
   {
-    word "ändern",
+    word: "ändern",
     translation: "(transitive) to change, (reflexive) to vary",
     forms: {
       section_0: [
@@ -5826,7 +5826,7 @@ module.exports = [
     },
   },
   {
-    word "andeuten",
+    word: "andeuten",
     translation: "to suggest or imply, to hint, to insinuate",
     forms: {
       section_0: [
@@ -5856,7 +5856,7 @@ module.exports = [
     },
   },
   {
-    word "androhen",
+    word: "androhen",
     translation: "(transitive) to threaten",
     forms: {
       section_0: [
@@ -5886,7 +5886,7 @@ module.exports = [
     },
   },
   {
-    word "aneignen",
+    word: "aneignen",
     translation: "(reflexive) to appropriate, (reflexive) to acquire",
     forms: {
       section_0: [
@@ -5916,7 +5916,7 @@ module.exports = [
     },
   },
   {
-    word "anerkennen",
+    word: "anerkennen",
     translation: "to acknowledge, to recognize",
     forms: {
       section_0: [
@@ -5946,7 +5946,7 @@ module.exports = [
     },
   },
   {
-    word "anfallen",
+    word: "anfallen",
     translation: "to accrue, to obtain",
     forms: {
       section_0: [
@@ -5976,7 +5976,7 @@ module.exports = [
     },
   },
   {
-    word "anfangen",
+    word: "anfangen",
     translation: "(intransitive) to begin; to commence, (intransitive, with zu + infinitive) to start doing something, (intransitive, with mit) to begin something; to start something, (transitive, colloquial) to begin something; to start something",
     forms: {
       section_0: [
@@ -6006,7 +6006,7 @@ module.exports = [
     },
   },
   {
-    word "anfassen",
+    word: "anfassen",
     translation: "to touch",
     forms: {
       section_0: [
@@ -6036,7 +6036,7 @@ module.exports = [
     },
   },
   {
-    word "anfechten",
+    word: "anfechten",
     translation: "to contest, to disturb, to care about, to bother",
     forms: {
       section_0: [
@@ -6066,7 +6066,7 @@ module.exports = [
     },
   },
   {
-    word "anfertigen",
+    word: "anfertigen",
     translation: "(transitive) to manufacture, make, produce",
     forms: {
       section_0: [
@@ -6096,7 +6096,7 @@ module.exports = [
     },
   },
   {
-    word "anflehen",
+    word: "anflehen",
     translation: "to beg, beseech",
     forms: {
       section_0: [
@@ -6126,7 +6126,7 @@ module.exports = [
     },
   },
   {
-    word "anfordern",
+    word: "anfordern",
     translation: "to request, ask for, to order (something), to send for",
     forms: {
       section_0: [
@@ -6156,7 +6156,7 @@ module.exports = [
     },
   },
   {
-    word "anfügen",
+    word: "anfügen",
     translation: "to append",
     forms: {
       section_0: [
@@ -6186,7 +6186,7 @@ module.exports = [
     },
   },
   {
-    word "anführen",
+    word: "anführen",
     translation: "To lead; to command, To quote",
     forms: {
       section_0: [
@@ -6216,7 +6216,7 @@ module.exports = [
     },
   },
   {
-    word "angeben",
+    word: "angeben",
     translation: "to state, to specify, to quote, to cite, to brag, to show off, (card games) to deal first",
     forms: {
       section_0: [
@@ -6246,7 +6246,7 @@ module.exports = [
     },
   },
   {
-    word "angeheftet",
+    word: "angeheftet",
     translation: "Past participle of anheften",
     forms: {
       section_0: [
@@ -6276,7 +6276,7 @@ module.exports = [
     },
   },
   {
-    word "angehen",
+    word: "angehen",
     translation: "(transitive) to concern, regard, (transitive) to tackle (a problem); to start (a project); to enter into, (intransitive, of a machine etc) to turn on, start, be started",
     forms: {
       section_0: [
@@ -6306,7 +6306,7 @@ module.exports = [
     },
   },
   {
-    word "angehören",
+    word: "angehören",
     translation: "To belong to (a group etc)",
     forms: {
       section_0: [
@@ -6336,7 +6336,7 @@ module.exports = [
     },
   },
   {
-    word "angeln",
+    word: "angeln",
     translation: "to angle, to fish (with a fishing rod)",
     forms: {
       section_0: [
@@ -6366,7 +6366,7 @@ module.exports = [
     },
   },
   {
-    word "angleichen",
+    word: "angleichen",
     translation: "Verb[edit]",
     forms: {
       section_0: [
@@ -6396,11 +6396,11 @@ module.exports = [
     },
   },
   {
-    word "angliedern",
+    word: "angliedern",
     translation: "To annex, to incorporate",
   },
   {
-    word "angreifen",
+    word: "angreifen",
     translation: "to attack",
     forms: {
       section_0: [
@@ -6430,11 +6430,11 @@ module.exports = [
     },
   },
   {
-    word "ängstigen",
+    word: "ängstigen",
     translation: "(transitive) to alarm; to frighten, (reflexive) to be afraid; to be worried",
   },
   {
-    word "angucken",
+    word: "angucken",
     translation: "(colloquial) to watch, to look at",
     forms: {
       section_0: [
@@ -6464,7 +6464,7 @@ module.exports = [
     },
   },
   {
-    word "anhaben",
+    word: "anhaben",
     translation: "to wear, to harm, (colloquial) to have turned on",
     forms: {
       section_0: [
@@ -6494,7 +6494,7 @@ module.exports = [
     },
   },
   {
-    word "anhalten",
+    word: "anhalten",
     translation: "to stop (cease moving), to continue, to urge; to compel",
     forms: {
       section_0: [
@@ -6524,7 +6524,7 @@ module.exports = [
     },
   },
   {
-    word "anhängen",
+    word: "anhängen",
     translation: "(transitive) To hang, to make something linger while fixed at",
     forms: {
       section_0: [
@@ -6554,7 +6554,7 @@ module.exports = [
     },
   },
   {
-    word "anhäufen",
+    word: "anhäufen",
     translation: "to accumulate, to pile up",
     forms: {
       section_0: [
@@ -6584,7 +6584,7 @@ module.exports = [
     },
   },
   {
-    word "anheben",
+    word: "anheben",
     translation: "to lift up, to raise, to increase, (archaic, now rare) to begin (to do something)",
     forms: {
       section_0: [
@@ -6614,7 +6614,7 @@ module.exports = [
     },
   },
   {
-    word "anheften",
+    word: "anheften",
     translation: "to attach, to affix, to pin",
     forms: {
       section_0: [
@@ -6644,7 +6644,7 @@ module.exports = [
     },
   },
   {
-    word "anheizen",
+    word: "anheizen",
     translation: "(of an oven) to heat, to fire, to light, (figuratively) to boost, to fuel, to kindle",
     forms: {
       section_0: [
@@ -6674,7 +6674,7 @@ module.exports = [
     },
   },
   {
-    word "anhimmeln",
+    word: "anhimmeln",
     translation: "(slang) to adore (someone), (slang) to idolise / idolize (a person)",
     forms: {
       section_0: [
@@ -6704,7 +6704,7 @@ module.exports = [
     },
   },
   {
-    word "anhören",
+    word: "anhören",
     translation: "(transitive) to listen to, (reflexive) to sound",
     forms: {
       section_0: [
@@ -6734,7 +6734,7 @@ module.exports = [
     },
   },
   {
-    word "ankern",
+    word: "ankern",
     translation: "(intransitive) to anchor",
     forms: {
       section_0: [
@@ -6764,7 +6764,7 @@ module.exports = [
     },
   },
   {
-    word "anklagen",
+    word: "anklagen",
     translation: "to indict (to make a formal accusation or indictment against (a party) by the findings of a jury)",
     forms: {
       section_0: [
@@ -6794,11 +6794,11 @@ module.exports = [
     },
   },
   {
-    word "anklingeln",
+    word: "anklingeln",
     translation: "to make a missed call, to drop call (US), to beep (Africa), (to get the other person to call back), call, telephone (especially South Germany, Switzerland, Austria)",
   },
   {
-    word "ankommen",
+    word: "ankommen",
     translation: "(intransitive) to arrive, (impersonal, with preposition auf) to depend on, (impersonal, with preposition auf) to be important, to matter",
     forms: {
       section_0: [
@@ -6828,11 +6828,11 @@ module.exports = [
     },
   },
   {
-    word "ankönnen",
+    word: "ankönnen",
     translation: "(colloquial, with gegen) to be able to take (on); to be at least even to; to be able to beat",
   },
   {
-    word "ankratzen",
+    word: "ankratzen",
     translation: "to scratch",
     forms: {
       section_0: [
@@ -6862,7 +6862,7 @@ module.exports = [
     },
   },
   {
-    word "ankreiden",
+    word: "ankreiden",
     translation: "to chalk up to, to blame",
     forms: {
       section_0: [
@@ -6892,7 +6892,7 @@ module.exports = [
     },
   },
   {
-    word "ankreuzen",
+    word: "ankreuzen",
     translation: "(transitive) to cross, check, checkmark, tick off (mark with a cross)",
     forms: {
       section_0: [
@@ -6922,11 +6922,11 @@ module.exports = [
     },
   },
   {
-    word "ankucken",
+    word: "ankucken",
     translation: "(Northern Germany, colloquial) Alternative form of angucken",
   },
   {
-    word "ankündigen",
+    word: "ankündigen",
     translation: "to announce, to herald",
     forms: {
       section_0: [
@@ -6956,7 +6956,7 @@ module.exports = [
     },
   },
   {
-    word "ankurbeln",
+    word: "ankurbeln",
     translation: "(of an engine, etc) to crank up, (figuratively) to boost",
     forms: {
       section_0: [
@@ -6986,7 +6986,7 @@ module.exports = [
     },
   },
   {
-    word "anlächeln",
+    word: "anlächeln",
     translation: "to smile at",
     forms: {
       section_0: [
@@ -7016,7 +7016,7 @@ module.exports = [
     },
   },
   {
-    word "anlagern",
+    word: "anlagern",
     translation: "(chemistry) To bind, To connect, attach",
     forms: {
       section_0: [
@@ -7046,7 +7046,7 @@ module.exports = [
     },
   },
   {
-    word "anlangen",
+    word: "anlangen",
     translation: "to arrive, (regional, auxiliary 'haben') to touch",
     forms: {
       section_0: [
@@ -7076,7 +7076,7 @@ module.exports = [
     },
   },
   {
-    word "anlassen",
+    word: "anlassen",
     translation: "to leave on, (clothing) to keep on, (a motor) to start, (reflexive) to get off to a (good, bad etc) start, To temper or anneal",
     forms: {
       section_0: [
@@ -7106,7 +7106,7 @@ module.exports = [
     },
   },
   {
-    word "anlaufen",
+    word: "anlaufen",
     translation: "to run (up to something), to open (a film at a theater), to mist up (glass), to tarnish (metal), to dock (at a harbor), to start (a motor)",
     forms: {
       section_0: [
@@ -7136,7 +7136,7 @@ module.exports = [
     },
   },
   {
-    word "anlegen",
+    word: "anlegen",
     translation: "to create, to put on, (nautical) to dock, (finance) to invest",
     forms: {
       section_0: [
@@ -7166,11 +7166,11 @@ module.exports = [
     },
   },
   {
-    word "anlegieren",
+    word: "anlegieren",
     translation: "To alloy",
   },
   {
-    word "anleiten",
+    word: "anleiten",
     translation: "to guide or to train",
     forms: {
       section_0: [
@@ -7200,7 +7200,7 @@ module.exports = [
     },
   },
   {
-    word "anlocken",
+    word: "anlocken",
     translation: "(transitive) to lure",
     forms: {
       section_0: [
@@ -7230,7 +7230,7 @@ module.exports = [
     },
   },
   {
-    word "anlügen",
+    word: "anlügen",
     translation: "(transitive) to lie to, to tell someone a lie, to tell someone lies",
     forms: {
       section_0: [
@@ -7260,7 +7260,7 @@ module.exports = [
     },
   },
   {
-    word "anmachen",
+    word: "anmachen",
     translation: "to light, to start (a fire); to turn on (a lamp, a stove, etc), to turn on (a person, sexually), to hit on (a person), to start something with (someone), to provoke (someone); (internet) to flame, to dress (a salad)",
     forms: {
       section_0: [
@@ -7290,7 +7290,7 @@ module.exports = [
     },
   },
   {
-    word "anmaßen",
+    word: "anmaßen",
     translation: "(reflexive) to claim as on(e)'(s) own, (reflexive) to take upon oneself, to assume",
     forms: {
       section_0: [
@@ -7320,7 +7320,7 @@ module.exports = [
     },
   },
   {
-    word "anmelden",
+    word: "anmelden",
     translation: "to announce, declare, to enroll, to register",
     forms: {
       section_0: [
@@ -7350,7 +7350,7 @@ module.exports = [
     },
   },
   {
-    word "anmerken",
+    word: "anmerken",
     translation: "(transitive) to mark; to note; to make a note of (something), (transitive, with someone as the indirect object) to observe (something) in (someone); to notice (something) about (someone)",
     forms: {
       section_0: [
@@ -7380,7 +7380,7 @@ module.exports = [
     },
   },
   {
-    word "annähern",
+    word: "annähern",
     translation: "to approximate",
     forms: {
       section_0: [
@@ -7410,7 +7410,7 @@ module.exports = [
     },
   },
   {
-    word "annehmen",
+    word: "annehmen",
     translation: "to assume, to receive, to accept",
     forms: {
       section_0: [
@@ -7440,7 +7440,7 @@ module.exports = [
     },
   },
   {
-    word "annektieren",
+    word: "annektieren",
     translation: "to annex",
     forms: {
       section_0: [
@@ -7470,7 +7470,7 @@ module.exports = [
     },
   },
   {
-    word "annullieren",
+    word: "annullieren",
     translation: "to annul, nullify, cancel",
     forms: {
       section_0: [
@@ -7500,11 +7500,11 @@ module.exports = [
     },
   },
   {
-    word "anodisieren",
+    word: "anodisieren",
     translation: "To anodize",
   },
   {
-    word "anpassen",
+    word: "anpassen",
     translation: "to adapt, to adjust",
     forms: {
       section_0: [
@@ -7534,11 +7534,11 @@ module.exports = [
     },
   },
   {
-    word "anpingen",
+    word: "anpingen",
     translation: "to ping",
   },
   {
-    word "anprangern",
+    word: "anprangern",
     translation: "to denounce",
     forms: {
       section_0: [
@@ -7568,7 +7568,7 @@ module.exports = [
     },
   },
   {
-    word "anpreisen",
+    word: "anpreisen",
     translation: "to affix price tags on store merchandise",
     forms: {
       section_0: [
@@ -7598,7 +7598,7 @@ module.exports = [
     },
   },
   {
-    word "anprobieren",
+    word: "anprobieren",
     translation: "to try on (clothes)",
     forms: {
       section_0: [
@@ -7628,7 +7628,7 @@ module.exports = [
     },
   },
   {
-    word "anreden",
+    word: "anreden",
     translation: "(transitive) To begin a talk with someone, often a stranger",
     forms: {
       section_0: [
@@ -7658,7 +7658,7 @@ module.exports = [
     },
   },
   {
-    word "anreichern",
+    word: "anreichern",
     translation: "to enrich, fortify, to accumulate",
     forms: {
       section_0: [
@@ -7688,7 +7688,7 @@ module.exports = [
     },
   },
   {
-    word "anreisen",
+    word: "anreisen",
     translation: "(to reach the destination of a journey using some means of transportation) to arrive",
     forms: {
       section_0: [
@@ -7718,7 +7718,7 @@ module.exports = [
     },
   },
   {
-    word "anrichten",
+    word: "anrichten",
     translation: "to cause, to do, to wreak (to do or cause harm), (of food) to prepare, (of food) to serve, to dish up, to wreak",
     forms: {
       section_0: [
@@ -7748,7 +7748,7 @@ module.exports = [
     },
   },
   {
-    word "anrufen",
+    word: "anrufen",
     translation: "(transitive) to call by telephone; to ring (someone), (transitive) to call on (someone, eg a divine being); to appeal to; to call upon",
     forms: {
       section_0: [
@@ -7778,7 +7778,7 @@ module.exports = [
     },
   },
   {
-    word "anrühren",
+    word: "anrühren",
     translation: "to touch, to mix together, to whisk together",
     forms: {
       section_0: [
@@ -7808,11 +7808,11 @@ module.exports = [
     },
   },
   {
-    word "ansagen",
+    word: "ansagen",
     translation: "to announce",
   },
   {
-    word "ansäuern",
+    word: "ansäuern",
     translation: "To acidify, To make (food) sour",
     forms: {
       section_0: [
@@ -7842,7 +7842,7 @@ module.exports = [
     },
   },
   {
-    word "anschaffen",
+    word: "anschaffen",
     translation: "to get, purchase, buy, to work as a prostitute, to prostitute oneself",
     forms: {
       section_0: [
@@ -7872,7 +7872,7 @@ module.exports = [
     },
   },
   {
-    word "anschalten",
+    word: "anschalten",
     translation: "to switch on",
     forms: {
       section_0: [
@@ -7902,7 +7902,7 @@ module.exports = [
     },
   },
   {
-    word "anschauen",
+    word: "anschauen",
     translation: "to look at; to behold; to observe (visually); to view",
     forms: {
       section_0: [
@@ -7932,7 +7932,7 @@ module.exports = [
     },
   },
   {
-    word "anschicken",
+    word: "anschicken",
     translation: "(reflexive) To get ready, to prepare to do something",
     forms: {
       section_0: [
@@ -7962,7 +7962,7 @@ module.exports = [
     },
   },
   {
-    word "anschlagen",
+    word: "anschlagen",
     translation: "to bump, to chime, to chip, to hit, to strike, to strum",
     forms: {
       section_0: [
@@ -7992,7 +7992,7 @@ module.exports = [
     },
   },
   {
-    word "anschließen",
+    word: "anschließen",
     translation: "connect, (reflexive) to join",
     forms: {
       section_0: [
@@ -8022,7 +8022,7 @@ module.exports = [
     },
   },
   {
-    word "anschmiegen",
+    word: "anschmiegen",
     translation: "(reflexive) to nestle, to snuggle",
     forms: {
       section_0: [
@@ -8052,7 +8052,7 @@ module.exports = [
     },
   },
   {
-    word "anschnallen",
+    word: "anschnallen",
     translation: "to fasten on(e)'(s) seatbelts",
     forms: {
       section_0: [
@@ -8082,7 +8082,7 @@ module.exports = [
     },
   },
   {
-    word "anschreiben",
+    word: "anschreiben",
     translation: "to address somebody in writing, especially per mail, to put on the slate",
     forms: {
       section_0: [
@@ -8112,7 +8112,7 @@ module.exports = [
     },
   },
   {
-    word "anschuldigen",
+    word: "anschuldigen",
     translation: "(transitive) to accuse",
     forms: {
       section_0: [
@@ -8142,7 +8142,7 @@ module.exports = [
     },
   },
   {
-    word "anschwärzen",
+    word: "anschwärzen",
     translation: "to denigrate (criticise so as to besmirch; traduce, disparage, or defame), to calumniate, to denounce, to blacken",
     forms: {
       section_0: [
@@ -8172,7 +8172,7 @@ module.exports = [
     },
   },
   {
-    word "anschwellen",
+    word: "anschwellen",
     translation: "To swell, rise or bulge",
     forms: {
       section_0: [
@@ -8202,11 +8202,11 @@ module.exports = [
     },
   },
   {
-    word "anschwitzen",
+    word: "anschwitzen",
     translation: "to sweat (vegetables): to cook (vegetables) in a little fat, butter, or oil at a low temperature",
   },
   {
-    word "ansehen",
+    word: "ansehen",
     translation: "to regard, (reflexive) to view",
     forms: {
       section_0: [
@@ -8236,11 +8236,11 @@ module.exports = [
     },
   },
   {
-    word "ansenken",
+    word: "ansenken",
     translation: "to countersink",
   },
   {
-    word "ansetzen",
+    word: "ansetzen",
     translation: "to implement, to attack, to start",
     forms: {
       section_0: [
@@ -8270,7 +8270,7 @@ module.exports = [
     },
   },
   {
-    word "ansiedeln",
+    word: "ansiedeln",
     translation: "To settle, To introduce, To establish",
     forms: {
       section_0: [
@@ -8300,7 +8300,7 @@ module.exports = [
     },
   },
   {
-    word "anspielen",
+    word: "anspielen",
     translation: "To allude to, To insinuate, To kick off",
     forms: {
       section_0: [
@@ -8330,11 +8330,11 @@ module.exports = [
     },
   },
   {
-    word "anspitzen",
+    word: "anspitzen",
     translation: "(pencil) to sharpen",
   },
   {
-    word "anspornen",
+    word: "anspornen",
     translation: "(figuratively) to spur, to spur on",
     forms: {
       section_0: [
@@ -8364,7 +8364,7 @@ module.exports = [
     },
   },
   {
-    word "ansprechen",
+    word: "ansprechen",
     translation: "to address, to appeal to",
     forms: {
       section_0: [
@@ -8394,11 +8394,11 @@ module.exports = [
     },
   },
   {
-    word "anspülen",
+    word: "anspülen",
     translation: "To wash up, be cast up (on a shore etc)",
   },
   {
-    word "anstacheln",
+    word: "anstacheln",
     translation: "to incite, pique",
     forms: {
       section_0: [
@@ -8428,7 +8428,7 @@ module.exports = [
     },
   },
   {
-    word "anstarren",
+    word: "anstarren",
     translation: "to stare at",
     forms: {
       section_0: [
@@ -8458,7 +8458,7 @@ module.exports = [
     },
   },
   {
-    word "anstecken",
+    word: "anstecken",
     translation: "(transitive) to infect, (reflexive, a disease) to contract (with preposition: mit), (transitive) to set fire to",
     forms: {
       section_0: [
@@ -8488,7 +8488,7 @@ module.exports = [
     },
   },
   {
-    word "anstehen",
+    word: "anstehen",
     translation: "To befit",
     forms: {
       section_0: [
@@ -8518,7 +8518,7 @@ module.exports = [
     },
   },
   {
-    word "ansteigen",
+    word: "ansteigen",
     translation: "to rise, increase",
     forms: {
       section_0: [
@@ -8548,7 +8548,7 @@ module.exports = [
     },
   },
   {
-    word "anstellen",
+    word: "anstellen",
     translation: "(reflexive) to queue",
     forms: {
       section_0: [
@@ -8578,7 +8578,7 @@ module.exports = [
     },
   },
   {
-    word "ansteuern",
+    word: "ansteuern",
     translation: "to head for, make for, strive for",
     forms: {
       section_0: [
@@ -8608,7 +8608,7 @@ module.exports = [
     },
   },
   {
-    word "anstoßen",
+    word: "anstoßen",
     translation: "to push something (especially to start an avalanche effect), to clink glasses, to propose a toast, to initiate (especially an idea)",
     forms: {
       section_0: [
@@ -8638,19 +8638,19 @@ module.exports = [
     },
   },
   {
-    word "anstrengen",
+    word: "anstrengen",
     translation: "(reflexive) to make an effort, to work hard at something, (transitive, a lawsuit or legal proceedings) to file",
   },
   {
-    word "ansumpfen",
+    word: "ansumpfen",
     translation: "to swamp",
   },
   {
-    word "antichambrieren",
+    word: "antichambrieren",
     translation: "to lobby",
   },
   {
-    word "antippen",
+    word: "antippen",
     translation: "to tap, to touch lightly",
     forms: {
       section_0: [
@@ -8680,11 +8680,11 @@ module.exports = [
     },
   },
   {
-    word "antizipieren",
+    word: "antizipieren",
     translation: "to anticipate",
   },
   {
-    word "antreiben",
+    word: "antreiben",
     translation: "to drive; to drive on; to propel",
     forms: {
       section_0: [
@@ -8714,7 +8714,7 @@ module.exports = [
     },
   },
   {
-    word "antreten",
+    word: "antreten",
     translation: "(transitive) to begin (a journey, sentence), (intransitive, auxiliary: “sein”) to compete, to run (against), (intransitive, auxiliary: “sein”, of people) to line up, to report, (transitive, auxiliary: “haben”, of an office or position) to take (office), (transitive, auxiliary: “haben”, of an engine) to kick start",
     forms: {
       section_0: [
@@ -8744,7 +8744,7 @@ module.exports = [
     },
   },
   {
-    word "antun",
+    word: "antun",
     translation: "To do something to someone, To appeal to someone",
     forms: {
       section_0: [
@@ -8774,7 +8774,7 @@ module.exports = [
     },
   },
   {
-    word "antworten",
+    word: "antworten",
     translation: "(intransitive) to answer, to reply",
     forms: {
       section_0: [
@@ -8804,7 +8804,7 @@ module.exports = [
     },
   },
   {
-    word "anvertrauen",
+    word: "anvertrauen",
     translation: "to entrust",
     forms: {
       section_0: [
@@ -8834,7 +8834,7 @@ module.exports = [
     },
   },
   {
-    word "anvisieren",
+    word: "anvisieren",
     translation: "to target",
     forms: {
       section_0: [
@@ -8864,7 +8864,7 @@ module.exports = [
     },
   },
   {
-    word "anwachsen",
+    word: "anwachsen",
     translation: "To accrue, rise, increase, To grow (on); to take root",
     forms: {
       section_0: [
@@ -8894,7 +8894,7 @@ module.exports = [
     },
   },
   {
-    word "anweisen",
+    word: "anweisen",
     translation: "to direct, order",
     forms: {
       section_0: [
@@ -8924,7 +8924,7 @@ module.exports = [
     },
   },
   {
-    word "anwenden",
+    word: "anwenden",
     translation: "to use, apply, utilize or deploy (to put to use for a purpose)",
     forms: {
       section_0: [
@@ -8954,7 +8954,7 @@ module.exports = [
     },
   },
   {
-    word "anzeigen",
+    word: "anzeigen",
     translation: "to indicate, to report (to the police)",
     forms: {
       section_0: [
@@ -8984,7 +8984,7 @@ module.exports = [
     },
   },
   {
-    word "anzetteln",
+    word: "anzetteln",
     translation: "to instigate, to incite, to stir up",
     forms: {
       section_0: [
@@ -9014,7 +9014,7 @@ module.exports = [
     },
   },
   {
-    word "anziehen",
+    word: "anziehen",
     translation: "(reflexive) to get dressed, (transitive, often with a reflexive dative) to put on; to dress oneself in, (transitive) to dress someone, (transitive, with an additional dative) to dress someone in, (transitive) to attract, (reflexive) to attract one another, (transitive) to fasten (a screw), (transitive) to pull (a lever), (transitive) to pull lightly, (intransitive) to speed up; to sprint, (intransitive, of rates, stocks) to climb, (reflexive, colloquial, regional, western Germany, with an indefinite pronoun and von) to be touched by; to care much about; to have oneself be impressed by; to feel responsible for",
     forms: {
       section_0: [
@@ -9044,31 +9044,31 @@ module.exports = [
     },
   },
   {
-    word "anzubieten",
+    word: "anzubieten",
     translation: "zu-infinitive of anbieten",
   },
   {
-    word "anzuerkennen",
+    word: "anzuerkennen",
     translation: "zu-infinitive of anerkennen",
   },
   {
-    word "anzuführen",
+    word: "anzuführen",
     translation: "zu-infinitive of anführen",
   },
   {
-    word "anzugeben",
+    word: "anzugeben",
     translation: "zu-infinitive of angeben",
   },
   {
-    word "anzulagern",
+    word: "anzulagern",
     translation: "zu-infinitive of anlagern",
   },
   {
-    word "anzulegen",
+    word: "anzulegen",
     translation: "zu-infinitive of anlegen",
   },
   {
-    word "anzünden",
+    word: "anzünden",
     translation: "(transitive) to light (anything flamable), (transitive) to strike (a match), (transitive) to set on fire, to set fire to, (transitive) to kindle (as in the process of making a camping fire or something comparable), (transitive) to torch (used when referring to arson or the destruction of vehicles by fire)",
     forms: {
       section_0: [
@@ -9098,23 +9098,23 @@ module.exports = [
     },
   },
   {
-    word "anzunehmen",
+    word: "anzunehmen",
     translation: "zu-infinitive of annehmen",
   },
   {
-    word "anzupingen",
+    word: "anzupingen",
     translation: "zu-infinitive of anpingen",
   },
   {
-    word "anzustehen",
+    word: "anzustehen",
     translation: "zu-infinitive of anstehen",
   },
   {
-    word "anzuzweifeln",
+    word: "anzuzweifeln",
     translation: "zu-infinitive of anzweifeln",
   },
   {
-    word "anzweifeln",
+    word: "anzweifeln",
     translation: "to question, to challenge, to doubt",
     forms: {
       section_0: [
@@ -9144,11 +9144,11 @@ module.exports = [
     },
   },
   {
-    word "Äpfel mit Birnen vergleichen",
+    word: "Äpfel mit Birnen vergleichen",
     translation: "to compare apples and oranges (compare two things that cannot properly be compared)",
   },
   {
-    word "appellieren",
+    word: "appellieren",
     translation: "To appeal",
     forms: {
       section_0: [
@@ -9178,31 +9178,31 @@ module.exports = [
     },
   },
   {
-    word "applaudieren",
+    word: "applaudieren",
     translation: "to applaud",
   },
   {
-    word "applicieren",
+    word: "applicieren",
     translation: "Obsolete spelling of applizieren",
   },
   {
-    word "appliciren",
+    word: "appliciren",
     translation: "Obsolete spelling of applizieren",
   },
   {
-    word "applizieren",
+    word: "applizieren",
     translation: "to apply, to administer, to appliqué",
   },
   {
-    word "appliziren",
+    word: "appliziren",
     translation: "Obsolete spelling of applizieren",
   },
   {
-    word "apportieren",
+    word: "apportieren",
     translation: "(hunting dogs) to retrieve",
   },
   {
-    word "arbeiten",
+    word: "arbeiten",
     translation: "(intransitive) to work, (transitive) to work, make, perform, execute, (intransitive) to ferment",
     forms: {
       section_0: [
@@ -9232,7 +9232,7 @@ module.exports = [
     },
   },
   {
-    word "ärgern",
+    word: "ärgern",
     translation: "(transitive) to annoy, to make angry (+accusative), (reflexive) to be annoyed, to be angry, to get annoyed, to get angry",
     forms: {
       section_0: [
@@ -9262,7 +9262,7 @@ module.exports = [
     },
   },
   {
-    word "argumentieren",
+    word: "argumentieren",
     translation: "to argue (to bring forward an argument)",
     forms: {
       section_0: [
@@ -9292,7 +9292,7 @@ module.exports = [
     },
   },
   {
-    word "arrangieren",
+    word: "arrangieren",
     translation: "to arrange, (reflexive) to come to an agreement",
     forms: {
       section_0: [
@@ -9322,15 +9322,15 @@ module.exports = [
     },
   },
   {
-    word "arretieren",
+    word: "arretieren",
     translation: "(technology) to arrest, to lock",
   },
   {
-    word "arrivieren",
+    word: "arrivieren",
     translation: "to succeed; to make it",
   },
   {
-    word "artikulieren",
+    word: "artikulieren",
     translation: "to articulate (to clarify)",
     forms: {
       section_0: [
@@ -9360,7 +9360,7 @@ module.exports = [
     },
   },
   {
-    word "assimilieren",
+    word: "assimilieren",
     translation: "(transitive or reflexive, to absorb a group of people into a community) to assimilate",
     forms: {
       section_0: [
@@ -9390,11 +9390,11 @@ module.exports = [
     },
   },
   {
-    word "assistieren",
+    word: "assistieren",
     translation: "to assist",
   },
   {
-    word "assoziieren",
+    word: "assoziieren",
     translation: "to associate",
     forms: {
       section_0: [
@@ -9424,7 +9424,7 @@ module.exports = [
     },
   },
   {
-    word "atmen",
+    word: "atmen",
     translation: "to breathe",
     forms: {
       section_0: [
@@ -9454,7 +9454,7 @@ module.exports = [
     },
   },
   {
-    word "atomisieren",
+    word: "atomisieren",
     translation: "To atomize",
     forms: {
       section_0: [
@@ -9484,7 +9484,7 @@ module.exports = [
     },
   },
   {
-    word "attackieren",
+    word: "attackieren",
     translation: "to attack",
     forms: {
       section_0: [
@@ -9514,7 +9514,7 @@ module.exports = [
     },
   },
   {
-    word "attestieren",
+    word: "attestieren",
     translation: "to certificate, to certify",
     forms: {
       section_0: [
@@ -9544,59 +9544,59 @@ module.exports = [
     },
   },
   {
-    word "ätzen",
+    word: "ätzen",
     translation: "To etch, To cauterize",
   },
   {
-    word "auf 180 sein",
+    word: "auf 180 sein",
     translation: "(idiomatic) to be in a rage",
   },
   {
-    word "auf dem absteigenden Ast sein",
+    word: "auf dem absteigenden Ast sein",
     translation: "(idiomatic) go south",
   },
   {
-    word "auf dem Schlauch stehen",
+    word: "auf dem Schlauch stehen",
     translation: "(idiomatic) to be puzzled, to be at a loss (literally: 'to stand on the hose')",
   },
   {
-    word "auf den Keks gehen",
+    word: "auf den Keks gehen",
     translation: "(idiomatic) To get on someon(e)'(s) nerves",
   },
   {
-    word "auf der faulen Haut liegen",
+    word: "auf der faulen Haut liegen",
     translation: "(idiomatic) to laze around",
   },
   {
-    word "auf der Leitung stehen",
+    word: "auf der Leitung stehen",
     translation: "get on(e)'(s) wires crossed",
   },
   {
-    word "auf der Nase herumtanzen",
+    word: "auf der Nase herumtanzen",
     translation: "to do whatever one wants, despite another’s authority; to ignore orders",
   },
   {
-    word "auf die Nerven gehen",
+    word: "auf die Nerven gehen",
     translation: "To get on someon(e)'(s) nerves, to annoy",
   },
   {
-    word "auf die Palme bringen",
+    word: "auf die Palme bringen",
     translation: "(idiomatic, transitive) drive (someone) up the wall (literally: drive (someone) up the palm tree)",
   },
   {
-    word "auf großem Fuß leben",
+    word: "auf großem Fuß leben",
     translation: "(idiomatic) to live the high life (literally: 'to live on a big foot')",
   },
   {
-    word "auf keinen grünen Zweig kommen",
+    word: "auf keinen grünen Zweig kommen",
     translation: "(idiomatic, colloquial) to get nowhere, to not be able to accomplish anything",
   },
   {
-    word "auf Nummer sicher gehen",
+    word: "auf Nummer sicher gehen",
     translation: "(idiomatic) to play it safe",
   },
   {
-    word "aufatmen",
+    word: "aufatmen",
     translation: "(figuratively) to breathe again",
     forms: {
       section_0: [
@@ -9626,7 +9626,7 @@ module.exports = [
     },
   },
   {
-    word "aufbauen",
+    word: "aufbauen",
     translation: "to build, to construct, to erect, to rebuild, to reconstruct, to set up, to put up, to pitch (a tent), to build up, to establish, to develop, (of a theory) to be based",
     forms: {
       section_0: [
@@ -9656,7 +9656,7 @@ module.exports = [
     },
   },
   {
-    word "aufbauschen",
+    word: "aufbauschen",
     translation: "(of a pillow) to fluff up, (of a sail) to billow, to billow out, to exaggerate, to blow up",
     forms: {
       section_0: [
@@ -9686,7 +9686,7 @@ module.exports = [
     },
   },
   {
-    word "aufbereiten",
+    word: "aufbereiten",
     translation: "To process, To condition",
     forms: {
       section_0: [
@@ -9716,7 +9716,7 @@ module.exports = [
     },
   },
   {
-    word "aufbessern",
+    word: "aufbessern",
     translation: "(transitive) to improve, (transitive, of income) to raise",
     forms: {
       section_0: [
@@ -9746,7 +9746,7 @@ module.exports = [
     },
   },
   {
-    word "aufbewahren",
+    word: "aufbewahren",
     translation: "to keep, to preserve (to maintain the condition of)",
     forms: {
       section_0: [
@@ -9776,7 +9776,7 @@ module.exports = [
     },
   },
   {
-    word "aufbinden",
+    word: "aufbinden",
     translation: "to untie; to undo, to tie up; to tie on",
     forms: {
       section_0: [
@@ -9806,7 +9806,7 @@ module.exports = [
     },
   },
   {
-    word "aufbleiben",
+    word: "aufbleiben",
     translation: "(of persons) to wake; to stay awake; to stay up, (of things, places) to remain open",
     forms: {
       section_0: [
@@ -9836,7 +9836,7 @@ module.exports = [
     },
   },
   {
-    word "aufblühen",
+    word: "aufblühen",
     translation: "to flourish",
     forms: {
       section_0: [
@@ -9866,11 +9866,11 @@ module.exports = [
     },
   },
   {
-    word "aufbranden",
+    word: "aufbranden",
     translation: "to surge",
   },
   {
-    word "aufbrechen",
+    word: "aufbrechen",
     translation: "(auxiliary verb: haben) to break open, (auxiliary verb: sein) to leave, to depart",
     forms: {
       section_0: [
@@ -9900,7 +9900,7 @@ module.exports = [
     },
   },
   {
-    word "aufbringen",
+    word: "aufbringen",
     translation: "to find, muster, summon up, to exasperate, get angry",
     forms: {
       section_0: [
@@ -9930,7 +9930,7 @@ module.exports = [
     },
   },
   {
-    word "aufbürden",
+    word: "aufbürden",
     translation: "to burden, to impose",
     forms: {
       section_0: [
@@ -9960,7 +9960,7 @@ module.exports = [
     },
   },
   {
-    word "aufdrängen",
+    word: "aufdrängen",
     translation: "to force on, to impose on",
     forms: {
       section_0: [
@@ -9990,11 +9990,11 @@ module.exports = [
     },
   },
   {
-    word "aufdröseln",
+    word: "aufdröseln",
     translation: "to feaze; to untwist; to disentangle; to unravel (concrete and figurative)",
   },
   {
-    word "auferlegen",
+    word: "auferlegen",
     translation: "to impose",
     forms: {
       section_0: [
@@ -10024,7 +10024,7 @@ module.exports = [
     },
   },
   {
-    word "auferstehen",
+    word: "auferstehen",
     translation: "to be resurrected; to rise from the dead",
     forms: {
       section_0: [
@@ -10054,7 +10054,7 @@ module.exports = [
     },
   },
   {
-    word "auffallen",
+    word: "auffallen",
     translation: "to stand out, (with dative) to catch someon(e)'(s) eye; (translating the dative as the subject) to notice",
     forms: {
       section_0: [
@@ -10084,7 +10084,7 @@ module.exports = [
     },
   },
   {
-    word "auffangen",
+    word: "auffangen",
     translation: "(transitive) to catch, intercept",
     forms: {
       section_0: [
@@ -10114,7 +10114,7 @@ module.exports = [
     },
   },
   {
-    word "auffinden",
+    word: "auffinden",
     translation: "to find, to locate, to discover",
     forms: {
       section_0: [
@@ -10144,7 +10144,7 @@ module.exports = [
     },
   },
   {
-    word "aufflammen",
+    word: "aufflammen",
     translation: "(intransitive) To blaze, burn, (intransitive) To flame up, to flare up, (intransitive) To become aroused",
     forms: {
       section_0: [
@@ -10174,7 +10174,7 @@ module.exports = [
     },
   },
   {
-    word "auffordern",
+    word: "auffordern",
     translation: "to ask, request, to invite (someone to dance, etc)",
     forms: {
       section_0: [
@@ -10204,7 +10204,7 @@ module.exports = [
     },
   },
   {
-    word "auffressen",
+    word: "auffressen",
     translation: "(separable) to eat up",
     forms: {
       section_0: [
@@ -10234,7 +10234,7 @@ module.exports = [
     },
   },
   {
-    word "aufführen",
+    word: "aufführen",
     translation: "to perform",
     forms: {
       section_0: [
@@ -10264,7 +10264,7 @@ module.exports = [
     },
   },
   {
-    word "auffüllen",
+    word: "auffüllen",
     translation: "to fill up, to fill",
     forms: {
       section_0: [
@@ -10294,7 +10294,7 @@ module.exports = [
     },
   },
   {
-    word "aufgeben",
+    word: "aufgeben",
     translation: "(transitive) to give up on (on(e)'(s) efforts), (reflexive) to give up, (transitive) to abandon, to forsake, to relinquish, (transitive, military) to surrender, to capitulate, (transitive) to lose hope, to resign, to quit, (transitive, mail) to send, to mail, (transitive, homework) to give",
     forms: {
       section_0: [
@@ -10324,7 +10324,7 @@ module.exports = [
     },
   },
   {
-    word "aufgefunden",
+    word: "aufgefunden",
     translation: "Past participle of auffinden",
     forms: {
       section_0: [
@@ -10354,7 +10354,7 @@ module.exports = [
     },
   },
   {
-    word "aufgehen",
+    word: "aufgehen",
     translation: "to open, to rise, to work out",
     forms: {
       section_0: [
@@ -10384,7 +10384,7 @@ module.exports = [
     },
   },
   {
-    word "aufgerichtet",
+    word: "aufgerichtet",
     translation: "Past participle of aufrichten",
     forms: {
       section_0: [
@@ -10414,7 +10414,7 @@ module.exports = [
     },
   },
   {
-    word "aufglänzen",
+    word: "aufglänzen",
     translation: "to gleam, glimmer, (of moon etc) to come out",
     forms: {
       section_0: [
@@ -10444,7 +10444,7 @@ module.exports = [
     },
   },
   {
-    word "aufglühen",
+    word: "aufglühen",
     translation: "To (begin to) glow or gleam, To awaken",
     forms: {
       section_0: [
@@ -10474,7 +10474,7 @@ module.exports = [
     },
   },
   {
-    word "aufgreifen",
+    word: "aufgreifen",
     translation: "To capture, apprehend, seize",
     forms: {
       section_0: [
@@ -10504,7 +10504,7 @@ module.exports = [
     },
   },
   {
-    word "aufhalten",
+    word: "aufhalten",
     translation: "(transitive) to halt, to stop; to hold (someone) up, (reflexive) to stay (in a place); to stay on",
     forms: {
       section_0: [
@@ -10534,7 +10534,7 @@ module.exports = [
     },
   },
   {
-    word "aufhängen",
+    word: "aufhängen",
     translation: "to hang up",
     forms: {
       section_0: [
@@ -10564,7 +10564,7 @@ module.exports = [
     },
   },
   {
-    word "aufheben",
+    word: "aufheben",
     translation: "to pick up (something lying on the ground), to abolish (rule, law, etc), to keep (can be reflexive if kept 'for someone')",
     forms: {
       section_0: [
@@ -10594,7 +10594,7 @@ module.exports = [
     },
   },
   {
-    word "aufheitern",
+    word: "aufheitern",
     translation: "(transitive) to cheer (somebody) up, (reflexive) to clear (up) (of weather etc)",
     forms: {
       section_0: [
@@ -10624,7 +10624,7 @@ module.exports = [
     },
   },
   {
-    word "aufheizen",
+    word: "aufheizen",
     translation: "To heat up",
     forms: {
       section_0: [
@@ -10654,7 +10654,7 @@ module.exports = [
     },
   },
   {
-    word "aufhören",
+    word: "aufhören",
     translation: "to stop, to end",
     forms: {
       section_0: [
@@ -10684,11 +10684,11 @@ module.exports = [
     },
   },
   {
-    word "aufjauchzen",
+    word: "aufjauchzen",
     translation: "to shout for joy",
   },
   {
-    word "aufklappen",
+    word: "aufklappen",
     translation: "to open, open up, (intransitive) to open",
     forms: {
       section_0: [
@@ -10718,11 +10718,11 @@ module.exports = [
     },
   },
   {
-    word "aufklaren",
+    word: "aufklaren",
     translation: "(intransitive) to clear up, to turn clear (sky)",
   },
   {
-    word "aufklären",
+    word: "aufklären",
     translation: "To clear up, explain (a mystery etc), To enlighten",
     forms: {
       section_0: [
@@ -10752,7 +10752,7 @@ module.exports = [
     },
   },
   {
-    word "aufknöpfen",
+    word: "aufknöpfen",
     translation: "to unbutton",
     forms: {
       section_0: [
@@ -10782,7 +10782,7 @@ module.exports = [
     },
   },
   {
-    word "aufknüpfen",
+    word: "aufknüpfen",
     translation: "(transitive, informal) to hang (execute by means of a noose)",
     forms: {
       section_0: [
@@ -10812,7 +10812,7 @@ module.exports = [
     },
   },
   {
-    word "aufkommen",
+    word: "aufkommen",
     translation: "to come into use; to arise, to rise up; to come up, to pay for; to compensate for (something), to carry the cost(s) of (something)",
     forms: {
       section_0: [
@@ -10842,11 +10842,11 @@ module.exports = [
     },
   },
   {
-    word "aufkonzentrieren",
+    word: "aufkonzentrieren",
     translation: "(transitive) to concentrate something by boiling away or by evaporation",
   },
   {
-    word "aufkreuzen",
+    word: "aufkreuzen",
     translation: "(informal) to turn up, to show up",
     forms: {
       section_0: [
@@ -10876,7 +10876,7 @@ module.exports = [
     },
   },
   {
-    word "aufladen",
+    word: "aufladen",
     translation: "To charge, recharge, load, top up (a rechargeable battery or a device with one)",
     forms: {
       section_0: [
@@ -10906,7 +10906,7 @@ module.exports = [
     },
   },
   {
-    word "auflegen",
+    word: "auflegen",
     translation: "to lay on, (telephony) to hang up, to publish, (music) to select and play records",
     forms: {
       section_0: [
@@ -10936,7 +10936,7 @@ module.exports = [
     },
   },
   {
-    word "aufleuchten",
+    word: "aufleuchten",
     translation: "To light up; become bright; to flash",
     forms: {
       section_0: [
@@ -10966,7 +10966,7 @@ module.exports = [
     },
   },
   {
-    word "auflösen",
+    word: "auflösen",
     translation: "to break up, dissipate, sever, to dissolve, to resolve",
     forms: {
       section_0: [
@@ -10996,7 +10996,7 @@ module.exports = [
     },
   },
   {
-    word "aufmachen",
+    word: "aufmachen",
     translation: "to open",
     forms: {
       section_0: [
@@ -11026,7 +11026,7 @@ module.exports = [
     },
   },
   {
-    word "aufmarschieren",
+    word: "aufmarschieren",
     translation: "(military) to march up, to be deployed",
     forms: {
       section_0: [
@@ -11056,7 +11056,7 @@ module.exports = [
     },
   },
   {
-    word "aufmuntern",
+    word: "aufmuntern",
     translation: "(transitive) to cheer up",
     forms: {
       section_0: [
@@ -11086,7 +11086,7 @@ module.exports = [
     },
   },
   {
-    word "aufnehmen",
+    word: "aufnehmen",
     translation: "to pick up, lift up, to receive, to accommodate, to take in, to record, to take up, begin",
     forms: {
       section_0: [
@@ -11116,7 +11116,7 @@ module.exports = [
     },
   },
   {
-    word "aufpassen",
+    word: "aufpassen",
     translation: "to watch out, to look after something, to be attentive (with something)",
     forms: {
       section_0: [
@@ -11146,7 +11146,7 @@ module.exports = [
     },
   },
   {
-    word "aufplatzen",
+    word: "aufplatzen",
     translation: "To burst (of a tube), To pop (burst open), To split open",
     forms: {
       section_0: [
@@ -11176,7 +11176,7 @@ module.exports = [
     },
   },
   {
-    word "aufprägen",
+    word: "aufprägen",
     translation: "To imprint (on)",
     forms: {
       section_0: [
@@ -11206,7 +11206,7 @@ module.exports = [
     },
   },
   {
-    word "aufpumpen",
+    word: "aufpumpen",
     translation: "to pump up",
     forms: {
       section_0: [
@@ -11236,7 +11236,7 @@ module.exports = [
     },
   },
   {
-    word "aufraffen",
+    word: "aufraffen",
     translation: "(reflexive) to rouse oneself (zu tun to do something)",
     forms: {
       section_0: [
@@ -11266,7 +11266,7 @@ module.exports = [
     },
   },
   {
-    word "aufräumen",
+    word: "aufräumen",
     translation: "to tidy up",
     forms: {
       section_0: [
@@ -11296,7 +11296,7 @@ module.exports = [
     },
   },
   {
-    word "aufrechterhalten",
+    word: "aufrechterhalten",
     translation: "to maintain, preserve, uphold or sustain",
     forms: {
       section_0: [
@@ -11326,7 +11326,7 @@ module.exports = [
     },
   },
   {
-    word "aufregen",
+    word: "aufregen",
     translation: "(reflexive) to annoy, to upset",
     forms: {
       section_0: [
@@ -11356,7 +11356,7 @@ module.exports = [
     },
   },
   {
-    word "aufreiben",
+    word: "aufreiben",
     translation: "to rub sore, (figuratively, of on(e)'(s) health etc) to wear down, (military, of enemy forces) to wipe out",
     forms: {
       section_0: [
@@ -11386,7 +11386,7 @@ module.exports = [
     },
   },
   {
-    word "aufreißen",
+    word: "aufreißen",
     translation: "to rip open, to tear open, (colloquial) to pick up (a woman)",
     forms: {
       section_0: [
@@ -11416,7 +11416,7 @@ module.exports = [
     },
   },
   {
-    word "aufrichten",
+    word: "aufrichten",
     translation: "to raise up, to erect, to put up",
     forms: {
       section_0: [
@@ -11446,7 +11446,7 @@ module.exports = [
     },
   },
   {
-    word "aufrollen",
+    word: "aufrollen",
     translation: "To roll up, To coil, To unroll, unwind, To furl, To reel off",
     forms: {
       section_0: [
@@ -11476,7 +11476,7 @@ module.exports = [
     },
   },
   {
-    word "aufrufen",
+    word: "aufrufen",
     translation: "to call, to call up; to call for",
     forms: {
       section_0: [
@@ -11506,11 +11506,11 @@ module.exports = [
     },
   },
   {
-    word "aufrunden",
+    word: "aufrunden",
     translation: "(arithmetic) to round up",
   },
   {
-    word "aufrüsten",
+    word: "aufrüsten",
     translation: "(military) to increase armament, (computing) to upgrade",
     forms: {
       section_0: [
@@ -11540,11 +11540,11 @@ module.exports = [
     },
   },
   {
-    word "aufs Geld gucken",
+    word: "aufs Geld gucken",
     translation: "(idiomatic) to economize; to spend money carefully (literally: 'to watch the money')",
   },
   {
-    word "aufsagen",
+    word: "aufsagen",
     translation: "to say, to recite",
     forms: {
       section_0: [
@@ -11574,7 +11574,7 @@ module.exports = [
     },
   },
   {
-    word "aufsaugen",
+    word: "aufsaugen",
     translation: "to suck up, to absorb, sponge, soak up, to vacuum",
     forms: {
       section_0: [
@@ -11604,7 +11604,7 @@ module.exports = [
     },
   },
   {
-    word "aufscheuchen",
+    word: "aufscheuchen",
     translation: "(transitive) to scare up (animals), to flush (birds), to startle",
     forms: {
       section_0: [
@@ -11634,7 +11634,7 @@ module.exports = [
     },
   },
   {
-    word "aufschieben",
+    word: "aufschieben",
     translation: "to postpone",
     forms: {
       section_0: [
@@ -11664,7 +11664,7 @@ module.exports = [
     },
   },
   {
-    word "aufschlagen",
+    word: "aufschlagen",
     translation: "to pitch, to serve (a ball), to set up, to pitch up (a camp, a tent), to break, to crack (an egg), to open (a book), to add to something, to increase, to mark up (a price), to impact, to strike, to hit, to knock open (a door, a window)",
     forms: {
       section_0: [
@@ -11694,7 +11694,7 @@ module.exports = [
     },
   },
   {
-    word "aufschließen",
+    word: "aufschließen",
     translation: "to unlock",
     forms: {
       section_0: [
@@ -11724,11 +11724,11 @@ module.exports = [
     },
   },
   {
-    word "aufschluchzen",
+    word: "aufschluchzen",
     translation: "to give a sob",
   },
   {
-    word "aufschreiben",
+    word: "aufschreiben",
     translation: "to mark down / to make a note (of something), to mark out, (medicine) to prescribe (medicine)",
     forms: {
       section_0: [
@@ -11758,7 +11758,7 @@ module.exports = [
     },
   },
   {
-    word "aufschreien",
+    word: "aufschreien",
     translation: "to cry out, scream out",
     forms: {
       section_0: [
@@ -11788,7 +11788,7 @@ module.exports = [
     },
   },
   {
-    word "aufsetzen",
+    word: "aufsetzen",
     translation: "(transitive) to put on (something to be worn on the head), (transitive) to put on (coffee or tea), (transitive) to draft; to compose (a written document), (reflexive) to sit up, (intransitive, aviation) to touch down, (intransitive, of a ball, etc) to touch the ground",
     forms: {
       section_0: [
@@ -11818,7 +11818,7 @@ module.exports = [
     },
   },
   {
-    word "aufspalten",
+    word: "aufspalten",
     translation: "to split up",
     forms: {
       section_0: [
@@ -11848,7 +11848,7 @@ module.exports = [
     },
   },
   {
-    word "aufsperren",
+    word: "aufsperren",
     translation: "to unlock (esp Austria/Bavaria), (eyes or ears, etc) to open wide",
     forms: {
       section_0: [
@@ -11878,15 +11878,15 @@ module.exports = [
     },
   },
   {
-    word "aufsprechen",
+    word: "aufsprechen",
     translation: "to chat, to talk",
   },
   {
-    word "aufspringen",
+    word: "aufspringen",
     translation: "to jump up, (intransitive) to spring open",
   },
   {
-    word "aufspüren",
+    word: "aufspüren",
     translation: "to detect, trace, track down or sniff out",
     forms: {
       section_0: [
@@ -11916,7 +11916,7 @@ module.exports = [
     },
   },
   {
-    word "aufstehen",
+    word: "aufstehen",
     translation: "to get up, to be open (eg window, door)",
     forms: {
       section_0: [
@@ -11946,7 +11946,7 @@ module.exports = [
     },
   },
   {
-    word "aufsteigen",
+    word: "aufsteigen",
     translation: "to get on, to mount, to advance",
     forms: {
       section_0: [
@@ -11976,7 +11976,7 @@ module.exports = [
     },
   },
   {
-    word "aufstellen",
+    word: "aufstellen",
     translation: "to establish, to postulate, to field (troops or eg a political candidate); to deploy, to arrange, to set up",
     forms: {
       section_0: [
@@ -12006,7 +12006,7 @@ module.exports = [
     },
   },
   {
-    word "aufstocken",
+    word: "aufstocken",
     translation: "To increase, build up, To stock up",
     forms: {
       section_0: [
@@ -12036,11 +12036,11 @@ module.exports = [
     },
   },
   {
-    word "aufstöhnen",
+    word: "aufstöhnen",
     translation: "to groan, moan (loudly)",
   },
   {
-    word "aufstoßen",
+    word: "aufstoßen",
     translation: "to push open, to bump open",
     forms: {
       section_0: [
@@ -12070,7 +12070,7 @@ module.exports = [
     },
   },
   {
-    word "aufsuchen",
+    word: "aufsuchen",
     translation: "to visit; to look up, to call on, to go to (toilet)",
     forms: {
       section_0: [
@@ -12100,7 +12100,7 @@ module.exports = [
     },
   },
   {
-    word "auftauchen",
+    word: "auftauchen",
     translation: "to come up, (diver or submarine) to surface, (person or thing) to turn up, to appear",
     forms: {
       section_0: [
@@ -12130,7 +12130,7 @@ module.exports = [
     },
   },
   {
-    word "auftauen",
+    word: "auftauen",
     translation: "(transitive) to thaw",
     forms: {
       section_0: [
@@ -12160,7 +12160,7 @@ module.exports = [
     },
   },
   {
-    word "aufteilen",
+    word: "aufteilen",
     translation: "to divide, to divide up, to carve up",
     forms: {
       section_0: [
@@ -12190,7 +12190,7 @@ module.exports = [
     },
   },
   {
-    word "auftragen",
+    word: "auftragen",
     translation: "to assign, to wear until damaged, to apply some liquid or fluid",
     forms: {
       section_0: [
@@ -12220,7 +12220,7 @@ module.exports = [
     },
   },
   {
-    word "auftreiben",
+    word: "auftreiben",
     translation: "(auxiliary sein) to bloat, (cooking, of dough, auxiliary sein) to rise, (auxiliary haben) to whirl up, to blow up, (colloquial, auxiliary haben) to find, to get, to get hold of, to come by, (colloquial, auxiliary haben, of money) to raise",
     forms: {
       section_0: [
@@ -12250,11 +12250,11 @@ module.exports = [
     },
   },
   {
-    word "auftrennen",
+    word: "auftrennen",
     translation: "(sewing, knitting) to undo, to unpick, to unstitch, to unravel, (fabric) to ladder, (electricity) to separate, to disconnect, (figuratively) to unravel",
   },
   {
-    word "auftreten",
+    word: "auftreten",
     translation: "to occur, appear, arise, to perform, appear, go on (on stage etc)",
     forms: {
       section_0: [
@@ -12284,7 +12284,7 @@ module.exports = [
     },
   },
   {
-    word "auftun",
+    word: "auftun",
     translation: "to open, (colloquial) to find, (reflexive) to open up",
     forms: {
       section_0: [
@@ -12314,7 +12314,7 @@ module.exports = [
     },
   },
   {
-    word "aufwachen",
+    word: "aufwachen",
     translation: "(intransitive) to wake up",
     forms: {
       section_0: [
@@ -12344,7 +12344,7 @@ module.exports = [
     },
   },
   {
-    word "aufwachsen",
+    word: "aufwachsen",
     translation: "To grow up",
     forms: {
       section_0: [
@@ -12374,7 +12374,7 @@ module.exports = [
     },
   },
   {
-    word "aufwarten",
+    word: "aufwarten",
     translation: "to offer, to serve",
     forms: {
       section_0: [
@@ -12404,7 +12404,7 @@ module.exports = [
     },
   },
   {
-    word "aufwecken",
+    word: "aufwecken",
     translation: "(transitive) to wake up",
     forms: {
       section_0: [
@@ -12434,7 +12434,7 @@ module.exports = [
     },
   },
   {
-    word "aufweichen",
+    word: "aufweichen",
     translation: "to soften",
     forms: {
       section_0: [
@@ -12464,7 +12464,7 @@ module.exports = [
     },
   },
   {
-    word "aufweisen",
+    word: "aufweisen",
     translation: "to feature; ascribe the greatest importance to",
     forms: {
       section_0: [
@@ -12494,7 +12494,7 @@ module.exports = [
     },
   },
   {
-    word "aufwenden",
+    word: "aufwenden",
     translation: "to spend, to apply, to expend",
     forms: {
       section_0: [
@@ -12524,7 +12524,7 @@ module.exports = [
     },
   },
   {
-    word "aufwerten",
+    word: "aufwerten",
     translation: "(transitive) to upgrade, to upvalue, to appreciate, to enhance, to improve",
     forms: {
       section_0: [
@@ -12554,7 +12554,7 @@ module.exports = [
     },
   },
   {
-    word "aufwühlen",
+    word: "aufwühlen",
     translation: "to churn, to churn up",
     forms: {
       section_0: [
@@ -12584,7 +12584,7 @@ module.exports = [
     },
   },
   {
-    word "aufzählen",
+    word: "aufzählen",
     translation: "to list",
     forms: {
       section_0: [
@@ -12614,7 +12614,7 @@ module.exports = [
     },
   },
   {
-    word "aufzeichnen",
+    word: "aufzeichnen",
     translation: "to record, take minutes of",
     forms: {
       section_0: [
@@ -12644,7 +12644,7 @@ module.exports = [
     },
   },
   {
-    word "aufziehen",
+    word: "aufziehen",
     translation: "to wind up (a clock etc), to pull open, to tease, to raise, to bring up, to breed",
     forms: {
       section_0: [
@@ -12674,63 +12674,63 @@ module.exports = [
     },
   },
   {
-    word "aufzubauen",
+    word: "aufzubauen",
     translation: "zu-infinitive of aufbauen",
   },
   {
-    word "aufzubringen",
+    word: "aufzubringen",
     translation: "zu-infinitive of aufbringen",
   },
   {
-    word "aufzuerstehen",
+    word: "aufzuerstehen",
     translation: "zu-infinitive of auferstehen",
   },
   {
-    word "aufzugeben",
+    word: "aufzugeben",
     translation: "zu-infinitive of aufgeben",
   },
   {
-    word "aufzuhalten",
+    word: "aufzuhalten",
     translation: "zu-infinitive of aufhalten",
   },
   {
-    word "aufzuladen",
+    word: "aufzuladen",
     translation: "zu-infinitive of aufladen",
   },
   {
-    word "aufzumuntern",
+    word: "aufzumuntern",
     translation: "zu-infinitive of aufmuntern",
   },
   {
-    word "aufzustehen",
+    word: "aufzustehen",
     translation: "zu-infinitive of aufstehen",
   },
   {
-    word "aufzuwarten",
+    word: "aufzuwarten",
     translation: "zu-infinitive of aufwarten",
   },
   {
-    word "aufzuwühlen",
+    word: "aufzuwühlen",
     translation: "zu-infinitive of aufwühlen",
   },
   {
-    word "Augen machen",
+    word: "Augen machen",
     translation: "(idiomatic) to be wide-eyed, (idiomatic) to make eyes",
   },
   {
-    word "aus allen Kannen gießen",
+    word: "aus allen Kannen gießen",
     translation: "rain cats and dogs (to rain very heavily)",
   },
   {
-    word "aus allen Kannen schütten",
+    word: "aus allen Kannen schütten",
     translation: "rain cats and dogs (to rain very heavily)",
   },
   {
-    word "aus dem Ärmel schütteln",
+    word: "aus dem Ärmel schütteln",
     translation: "(idiomatic) to produce something with ease",
   },
   {
-    word "ausbauen",
+    word: "ausbauen",
     translation: "to extend",
     forms: {
       section_0: [
@@ -12760,11 +12760,11 @@ module.exports = [
     },
   },
   {
-    word "ausbeinen",
+    word: "ausbeinen",
     translation: "to bone (to remove bones), to debone",
   },
   {
-    word "ausbeuten",
+    word: "ausbeuten",
     translation: "to exploit, (technonology) to exhaust, to deplete",
     forms: {
       section_0: [
@@ -12794,7 +12794,7 @@ module.exports = [
     },
   },
   {
-    word "ausbilden",
+    word: "ausbilden",
     translation: "to educate",
     forms: {
       section_0: [
@@ -12824,7 +12824,7 @@ module.exports = [
     },
   },
   {
-    word "ausblenden",
+    word: "ausblenden",
     translation: "to fade out",
     forms: {
       section_0: [
@@ -12854,7 +12854,7 @@ module.exports = [
     },
   },
   {
-    word "ausbrechen",
+    word: "ausbrechen",
     translation: "(prison) to break out, (in laughter, tears, etc) to break out",
     forms: {
       section_0: [
@@ -12884,7 +12884,7 @@ module.exports = [
     },
   },
   {
-    word "ausbreiten",
+    word: "ausbreiten",
     translation: "to spread, spread out, to extend, to stretch out",
     forms: {
       section_0: [
@@ -12914,11 +12914,11 @@ module.exports = [
     },
   },
   {
-    word "ausbuhen",
+    word: "ausbuhen",
     translation: "(transitive) to boo",
   },
   {
-    word "ausdehnen",
+    word: "ausdehnen",
     translation: "(transitive or reflexive) to extend, to expand",
     forms: {
       section_0: [
@@ -12948,7 +12948,7 @@ module.exports = [
     },
   },
   {
-    word "ausdenken",
+    word: "ausdenken",
     translation: "(reflexive) to come up with",
     forms: {
       section_0: [
@@ -12978,11 +12978,11 @@ module.exports = [
     },
   },
   {
-    word "ausdrucken",
+    word: "ausdrucken",
     translation: "(transitive) to print out",
   },
   {
-    word "ausdrücken",
+    word: "ausdrücken",
     translation: "(transitive) to squeeze, to squeeze out, (transitive) to express, (reflexive) to express (oneself)",
     forms: {
       section_0: [
@@ -13012,7 +13012,7 @@ module.exports = [
     },
   },
   {
-    word "auseinanderfallen",
+    word: "auseinanderfallen",
     translation: "to fall apart",
     forms: {
       section_0: [
@@ -13042,7 +13042,7 @@ module.exports = [
     },
   },
   {
-    word "auseinanderklaffen",
+    word: "auseinanderklaffen",
     translation: "to gape, to differ widely",
     forms: {
       section_0: [
@@ -13072,7 +13072,7 @@ module.exports = [
     },
   },
   {
-    word "auseinandersetzen",
+    word: "auseinandersetzen",
     translation: "(reflexive, with preposition: mit) to deal with",
     forms: {
       section_0: [
@@ -13102,15 +13102,15 @@ module.exports = [
     },
   },
   {
-    word "auseinanderzusetzen",
+    word: "auseinanderzusetzen",
     translation: "zu-infinitive of auseinandersetzen",
   },
   {
-    word "auserkiesen",
+    word: "auserkiesen",
     translation: "(transitive, archaic) To choose",
   },
   {
-    word "auserlesen",
+    word: "auserlesen",
     translation: "To select, choose",
     forms: {
       section_0: [
@@ -13140,7 +13140,7 @@ module.exports = [
     },
   },
   {
-    word "ausfallen",
+    word: "ausfallen",
     translation: "To fail, malfunction, to be canceled",
     forms: {
       section_0: [
@@ -13170,7 +13170,7 @@ module.exports = [
     },
   },
   {
-    word "ausflippen",
+    word: "ausflippen",
     translation: "to flip; to flip out, to freak out (to go berserk or crazy)",
     forms: {
       section_0: [
@@ -13200,7 +13200,7 @@ module.exports = [
     },
   },
   {
-    word "ausfransen",
+    word: "ausfransen",
     translation: "to fray, to unravel",
     forms: {
       section_0: [
@@ -13230,7 +13230,7 @@ module.exports = [
     },
   },
   {
-    word "ausführen",
+    word: "ausführen",
     translation: "to take (somebody) out (also for a walk), to export, to carry out, to execute",
     forms: {
       section_0: [
@@ -13260,7 +13260,7 @@ module.exports = [
     },
   },
   {
-    word "ausfüllen",
+    word: "ausfüllen",
     translation: "to fill out",
     forms: {
       section_0: [
@@ -13290,7 +13290,7 @@ module.exports = [
     },
   },
   {
-    word "ausgeben",
+    word: "ausgeben",
     translation: "to spend, to expend; to pay out; to issue (money), to output (data)",
     forms: {
       section_0: [
@@ -13320,7 +13320,7 @@ module.exports = [
     },
   },
   {
-    word "ausgeflippt",
+    word: "ausgeflippt",
     translation: "Past participle of ausflippen",
     forms: {
       section_0: [
@@ -13350,7 +13350,7 @@ module.exports = [
     },
   },
   {
-    word "ausgehen",
+    word: "ausgehen",
     translation: "(intransitive) to go out, (intransitive, colloquial, of a light, etc) to go out, (intransitive) to run out, (intransitive) to fall out, to start (von ‎(“at”)); to come (von ‎(“from”))",
     forms: {
       section_0: [
@@ -13380,7 +13380,7 @@ module.exports = [
     },
   },
   {
-    word "ausgespart",
+    word: "ausgespart",
     translation: "Past participle of aussparen",
     forms: {
       section_0: [
@@ -13410,7 +13410,7 @@ module.exports = [
     },
   },
   {
-    word "ausgleichen",
+    word: "ausgleichen",
     translation: "to balance, to compensate",
     forms: {
       section_0: [
@@ -13440,7 +13440,7 @@ module.exports = [
     },
   },
   {
-    word "ausgleiten",
+    word: "ausgleiten",
     translation: "to slip, to slide, to skid",
     forms: {
       section_0: [
@@ -13470,7 +13470,7 @@ module.exports = [
     },
   },
   {
-    word "ausgraben",
+    word: "ausgraben",
     translation: "to dig up",
     forms: {
       section_0: [
@@ -13500,11 +13500,11 @@ module.exports = [
     },
   },
   {
-    word "ausgrauen",
+    word: "ausgrauen",
     translation: "(computing, of a UI element) to gray out",
   },
   {
-    word "aushalten",
+    word: "aushalten",
     translation: "(transitive) to stand, to take",
     forms: {
       section_0: [
@@ -13534,7 +13534,7 @@ module.exports = [
     },
   },
   {
-    word "aushämmern",
+    word: "aushämmern",
     translation: "To hammer out",
     forms: {
       section_0: [
@@ -13564,7 +13564,7 @@ module.exports = [
     },
   },
   {
-    word "aushandeln",
+    word: "aushandeln",
     translation: "to negotiate",
     forms: {
       section_0: [
@@ -13594,7 +13594,7 @@ module.exports = [
     },
   },
   {
-    word "aushärten",
+    word: "aushärten",
     translation: "to set (to solidify)",
     forms: {
       section_0: [
@@ -13624,7 +13624,7 @@ module.exports = [
     },
   },
   {
-    word "ausheben",
+    word: "ausheben",
     translation: "to excavate",
     forms: {
       section_0: [
@@ -13654,7 +13654,7 @@ module.exports = [
     },
   },
   {
-    word "aushelfen",
+    word: "aushelfen",
     translation: "to help out",
     forms: {
       section_0: [
@@ -13684,7 +13684,7 @@ module.exports = [
     },
   },
   {
-    word "ausholen",
+    word: "ausholen",
     translation: "to haul off (to draw back the arm in order to punch), to go far back (to start telling earlier events, circumstances or causes before telling the actual story)",
     forms: {
       section_0: [
@@ -13714,7 +13714,7 @@ module.exports = [
     },
   },
   {
-    word "auskennen",
+    word: "auskennen",
     translation: "(reflexive) to know on(e)'(s) way around, (reflexive) to know a lot (auf / in ‎(“about”))",
     forms: {
       section_0: [
@@ -13744,7 +13744,7 @@ module.exports = [
     },
   },
   {
-    word "auskommen",
+    word: "auskommen",
     translation: "(+ mit) to get along with, (+ mit or ohne) to be able to get by on / without, (regional, western Germany, chiefly Westphalia, + dative) to be fitting or convenient for",
     forms: {
       section_0: [
@@ -13774,7 +13774,7 @@ module.exports = [
     },
   },
   {
-    word "auslachen",
+    word: "auslachen",
     translation: "to laugh at, to finish laughing",
     forms: {
       section_0: [
@@ -13804,7 +13804,7 @@ module.exports = [
     },
   },
   {
-    word "ausladen",
+    word: "ausladen",
     translation: "to unload, discharge, to uninvite, disinvite",
     forms: {
       section_0: [
@@ -13834,7 +13834,7 @@ module.exports = [
     },
   },
   {
-    word "auslagern",
+    word: "auslagern",
     translation: "(computing) to swap",
     forms: {
       section_0: [
@@ -13864,7 +13864,7 @@ module.exports = [
     },
   },
   {
-    word "auslassen",
+    word: "auslassen",
     translation: "to omit, (Fett auslassen) To remove the fat (eg from bacon) by heating it",
     forms: {
       section_0: [
@@ -13894,7 +13894,7 @@ module.exports = [
     },
   },
   {
-    word "auslasten",
+    word: "auslasten",
     translation: "to use to capacity",
     forms: {
       section_0: [
@@ -13924,7 +13924,7 @@ module.exports = [
     },
   },
   {
-    word "auslaufen",
+    word: "auslaufen",
     translation: "(intransitive) to expire; to be no longer valid, (intransitive) to leak; to flow out; to run out; to run dry, to empty, (intransitive, nautical, of a ship) to debouch, to leave a port; harbour etc",
     forms: {
       section_0: [
@@ -13954,7 +13954,7 @@ module.exports = [
     },
   },
   {
-    word "auslaugen",
+    word: "auslaugen",
     translation: "To exhaust, sap, To leach",
     forms: {
       section_0: [
@@ -13984,7 +13984,7 @@ module.exports = [
     },
   },
   {
-    word "ausleben",
+    word: "ausleben",
     translation: "(intransitive) to act out",
     forms: {
       section_0: [
@@ -14014,7 +14014,7 @@ module.exports = [
     },
   },
   {
-    word "auslegen",
+    word: "auslegen",
     translation: "To interpret, construe (in a certain manner), To borrow (money)",
     forms: {
       section_0: [
@@ -14044,11 +14044,11 @@ module.exports = [
     },
   },
   {
-    word "ausleiern",
+    word: "ausleiern",
     translation: "to wear out (get wider or lose), to get baggy (cloth), to lose its stretch",
   },
   {
-    word "ausleihen",
+    word: "ausleihen",
     translation: "to borrow",
     forms: {
       section_0: [
@@ -14078,7 +14078,7 @@ module.exports = [
     },
   },
   {
-    word "auslesen",
+    word: "auslesen",
     translation: "to cull, to read, to readout, to select, to sort out",
     forms: {
       section_0: [
@@ -14108,7 +14108,7 @@ module.exports = [
     },
   },
   {
-    word "ausleuchten",
+    word: "ausleuchten",
     translation: "to illuminate, to light up",
     forms: {
       section_0: [
@@ -14138,7 +14138,7 @@ module.exports = [
     },
   },
   {
-    word "ausliefern",
+    word: "ausliefern",
     translation: "to deliver, to distribute, (law) to extradite, (software) to roll out",
     forms: {
       section_0: [
@@ -14168,11 +14168,11 @@ module.exports = [
     },
   },
   {
-    word "ausloggen",
+    word: "ausloggen",
     translation: "to log out",
   },
   {
-    word "auslöschen",
+    word: "auslöschen",
     translation: "to extinguish (eg a candle or campfire; by extension: an electric light)",
     forms: {
       section_0: [
@@ -14202,11 +14202,11 @@ module.exports = [
     },
   },
   {
-    word "auslösen",
+    word: "auslösen",
     translation: "to trigger, to initiate, to cause, to ransom",
   },
   {
-    word "ausloten",
+    word: "ausloten",
     translation: "(Nautical) to measure water depth (primarily with a plummet), (Engineering) to measure vertical height (primarily with a plummet), to comprehend something, to investigate something, to get to the bottom of something, to dig deeper",
     forms: {
       section_0: [
@@ -14236,7 +14236,7 @@ module.exports = [
     },
   },
   {
-    word "ausmachen",
+    word: "ausmachen",
     translation: "to turn off, switch off, to put out, to agree to sb, to make a difference, to make out",
     forms: {
       section_0: [
@@ -14266,11 +14266,11 @@ module.exports = [
     },
   },
   {
-    word "ausmanövrieren",
+    word: "ausmanövrieren",
     translation: "to outmaneuver",
   },
   {
-    word "ausmerzen",
+    word: "ausmerzen",
     translation: "to weed out",
     forms: {
       section_0: [
@@ -14300,7 +14300,7 @@ module.exports = [
     },
   },
   {
-    word "ausmustern",
+    word: "ausmustern",
     translation: "to sort out, (military) to discharge as unfit",
     forms: {
       section_0: [
@@ -14330,11 +14330,11 @@ module.exports = [
     },
   },
   {
-    word "ausnehmen",
+    word: "ausnehmen",
     translation: "to exclude, to exempt, to fleece, to clean out",
   },
   {
-    word "ausnutzen",
+    word: "ausnutzen",
     translation: "to exploit (use for on(e)'(s) advantage)",
     forms: {
       section_0: [
@@ -14364,7 +14364,7 @@ module.exports = [
     },
   },
   {
-    word "auspacken",
+    word: "auspacken",
     translation: "to unpack, to unwrap",
     forms: {
       section_0: [
@@ -14394,7 +14394,7 @@ module.exports = [
     },
   },
   {
-    word "ausprobieren",
+    word: "ausprobieren",
     translation: "to try out",
     forms: {
       section_0: [
@@ -14424,7 +14424,7 @@ module.exports = [
     },
   },
   {
-    word "ausradieren",
+    word: "ausradieren",
     translation: "(transitive) to eradicate, to exterminate, (transitive) to clear, to efface, to erase",
     forms: {
       section_0: [
@@ -14454,7 +14454,7 @@ module.exports = [
     },
   },
   {
-    word "ausrauben",
+    word: "ausrauben",
     translation: "(transitive) to rob",
     forms: {
       section_0: [
@@ -14484,7 +14484,7 @@ module.exports = [
     },
   },
   {
-    word "ausräuchern",
+    word: "ausräuchern",
     translation: "to smoke out",
     forms: {
       section_0: [
@@ -14514,7 +14514,7 @@ module.exports = [
     },
   },
   {
-    word "ausrechnen",
+    word: "ausrechnen",
     translation: "(transitive) to calculate, (reflexive, transitive) to reckon something, to work out something, to figure out",
     forms: {
       section_0: [
@@ -14544,7 +14544,7 @@ module.exports = [
     },
   },
   {
-    word "ausreden",
+    word: "ausreden",
     translation: "(intransitive) to finish speaking, (transitive, with dative) to talk out of",
     forms: {
       section_0: [
@@ -14574,7 +14574,7 @@ module.exports = [
     },
   },
   {
-    word "ausreichen",
+    word: "ausreichen",
     translation: "To suffice, To last",
     forms: {
       section_0: [
@@ -14604,7 +14604,7 @@ module.exports = [
     },
   },
   {
-    word "ausreisen",
+    word: "ausreisen",
     translation: "to depart (from a country), to exit (a country)",
     forms: {
       section_0: [
@@ -14634,7 +14634,7 @@ module.exports = [
     },
   },
   {
-    word "ausreißen",
+    word: "ausreißen",
     translation: "to tear out, to run away",
     forms: {
       section_0: [
@@ -14664,11 +14664,11 @@ module.exports = [
     },
   },
   {
-    word "ausreizen",
+    word: "ausreizen",
     translation: "to milk (to take advantage of situation)",
   },
   {
-    word "ausrichten",
+    word: "ausrichten",
     translation: "To align, To justify or orient, To rectify",
     forms: {
       section_0: [
@@ -14698,7 +14698,7 @@ module.exports = [
     },
   },
   {
-    word "ausrotten",
+    word: "ausrotten",
     translation: "to exterminate, to extirpate, to root out, to purge, to stamp out, to kill off, to eradicate, to destroy",
     forms: {
       section_0: [
@@ -14728,7 +14728,7 @@ module.exports = [
     },
   },
   {
-    word "ausrufen",
+    word: "ausrufen",
     translation: "to exclaim, to proclaim",
     forms: {
       section_0: [
@@ -14758,7 +14758,7 @@ module.exports = [
     },
   },
   {
-    word "ausruhen",
+    word: "ausruhen",
     translation: "(reflexive) to rest",
     forms: {
       section_0: [
@@ -14788,7 +14788,7 @@ module.exports = [
     },
   },
   {
-    word "ausrüsten",
+    word: "ausrüsten",
     translation: "to equip, to supply",
     forms: {
       section_0: [
@@ -14818,7 +14818,7 @@ module.exports = [
     },
   },
   {
-    word "ausrutschen",
+    word: "ausrutschen",
     translation: "to slip, to side-slip, to skid",
     forms: {
       section_0: [
@@ -14848,7 +14848,7 @@ module.exports = [
     },
   },
   {
-    word "aussagen",
+    word: "aussagen",
     translation: "to state, (law) to testify",
     forms: {
       section_0: [
@@ -14878,23 +14878,23 @@ module.exports = [
     },
   },
   {
-    word "außbauen",
+    word: "außbauen",
     translation: "Obsolete spelling of ausbauen",
   },
   {
-    word "außbilden",
+    word: "außbilden",
     translation: "Obsolete spelling of ausbilden",
   },
   {
-    word "außbrechen",
+    word: "außbrechen",
     translation: "Obsolete spelling of ausbrechen",
   },
   {
-    word "außbreiten",
+    word: "außbreiten",
     translation: "Obsolete spelling of ausbreiten",
   },
   {
-    word "ausschalten",
+    word: "ausschalten",
     translation: "to turn off",
     forms: {
       section_0: [
@@ -14924,7 +14924,7 @@ module.exports = [
     },
   },
   {
-    word "ausscheiden",
+    word: "ausscheiden",
     translation: "to secrete, (sports) to eliminate",
     forms: {
       section_0: [
@@ -14954,7 +14954,7 @@ module.exports = [
     },
   },
   {
-    word "ausschenken",
+    word: "ausschenken",
     translation: "(drinks in a bar, etc) to pour, to pour out, to sell",
     forms: {
       section_0: [
@@ -14984,7 +14984,7 @@ module.exports = [
     },
   },
   {
-    word "ausschildern",
+    word: "ausschildern",
     translation: "to signpost",
     forms: {
       section_0: [
@@ -15014,7 +15014,7 @@ module.exports = [
     },
   },
   {
-    word "ausschimpfen",
+    word: "ausschimpfen",
     translation: "(transitive) to scold, to berate, to tell off",
     forms: {
       section_0: [
@@ -15044,7 +15044,7 @@ module.exports = [
     },
   },
   {
-    word "ausschlagen",
+    word: "ausschlagen",
     translation: "(transitive) to knock (something) out, (transitive) to beat out (a fire), (transitive) to turn down, refuse, (intransitive) to kick (of a horse), (intransitive) to swing (of a pendulum etc)",
     forms: {
       section_0: [
@@ -15074,7 +15074,7 @@ module.exports = [
     },
   },
   {
-    word "ausschließen",
+    word: "ausschließen",
     translation: "to exclude, to debar, to rule out, (reflexive) to lock out oneself",
     forms: {
       section_0: [
@@ -15104,7 +15104,7 @@ module.exports = [
     },
   },
   {
-    word "ausschlüpfen",
+    word: "ausschlüpfen",
     translation: "to hatch",
     forms: {
       section_0: [
@@ -15134,11 +15134,11 @@ module.exports = [
     },
   },
   {
-    word "ausschneiden und einfügen",
+    word: "ausschneiden und einfügen",
     translation: "(computing) to cut and paste",
   },
   {
-    word "ausschreiben",
+    word: "ausschreiben",
     translation: "to advertise, to advertise for bids, to announce, to invite tenders, to spell in full, to put something out for tender, to write something out",
     forms: {
       section_0: [
@@ -15168,7 +15168,7 @@ module.exports = [
     },
   },
   {
-    word "ausschütteln",
+    word: "ausschütteln",
     translation: "to shake out",
     forms: {
       section_0: [
@@ -15198,7 +15198,7 @@ module.exports = [
     },
   },
   {
-    word "ausschütten",
+    word: "ausschütten",
     translation: "to pour out; to spill",
     forms: {
       section_0: [
@@ -15228,15 +15228,15 @@ module.exports = [
     },
   },
   {
-    word "ausschwärmen",
+    word: "ausschwärmen",
     translation: "(military) to deploy",
   },
   {
-    word "außdehnen",
+    word: "außdehnen",
     translation: "Obsolete spelling of ausdehnen",
   },
   {
-    word "aussehen",
+    word: "aussehen",
     translation: "to appear, to seem (like), to look (like)",
     forms: {
       section_0: [
@@ -15266,7 +15266,7 @@ module.exports = [
     },
   },
   {
-    word "aussenden",
+    word: "aussenden",
     translation: "To emit, send out",
     forms: {
       section_0: [
@@ -15296,15 +15296,15 @@ module.exports = [
     },
   },
   {
-    word "außer Betracht bleiben",
+    word: "außer Betracht bleiben",
     translation: "(idiomatic) to remain out of consideration",
   },
   {
-    word "außer Betracht lassen",
+    word: "außer Betracht lassen",
     translation: "(idiomatic) to leave out of consideration",
   },
   {
-    word "äussern",
+    word: "äussern",
     translation: "Switzerland and Liechtenstein standard spelling of äußern",
     forms: {
       section_0: [
@@ -15334,7 +15334,7 @@ module.exports = [
     },
   },
   {
-    word "äußern",
+    word: "äußern",
     translation: "(transitive) to utter; to say; to express",
     forms: {
       section_0: [
@@ -15364,7 +15364,7 @@ module.exports = [
     },
   },
   {
-    word "aussetzen",
+    word: "aussetzen",
     translation: "(transitive, to a danger, risk, etc) to expose, (transitive, a baby) to expose, to abandon, (transitive, an award) to offer, (transitive, an activity or process) to suspend, to interrupt, (intransitive, in a game) to miss a turn",
     forms: {
       section_0: [
@@ -15394,11 +15394,11 @@ module.exports = [
     },
   },
   {
-    word "außlegen",
+    word: "außlegen",
     translation: "Obsolete spelling of auslegen",
   },
   {
-    word "aussparen",
+    word: "aussparen",
     translation: "to leave out, to spare",
     forms: {
       section_0: [
@@ -15428,7 +15428,7 @@ module.exports = [
     },
   },
   {
-    word "aussperren",
+    word: "aussperren",
     translation: "to lock out (To prevent from entering a place, particularly oneself, inadvertently)",
     forms: {
       section_0: [
@@ -15458,11 +15458,11 @@ module.exports = [
     },
   },
   {
-    word "ausspionieren",
+    word: "ausspionieren",
     translation: "to spy on",
   },
   {
-    word "aussprechen",
+    word: "aussprechen",
     translation: "to pronounce (to sound out a word), utter",
     forms: {
       section_0: [
@@ -15492,7 +15492,7 @@ module.exports = [
     },
   },
   {
-    word "ausspülen",
+    word: "ausspülen",
     translation: "To rinse (out), wash out",
     forms: {
       section_0: [
@@ -15522,7 +15522,7 @@ module.exports = [
     },
   },
   {
-    word "ausstaffieren",
+    word: "ausstaffieren",
     translation: "(literary or humorous) to equip, to furnish",
     forms: {
       section_0: [
@@ -15552,7 +15552,7 @@ module.exports = [
     },
   },
   {
-    word "ausstatten",
+    word: "ausstatten",
     translation: "To equip, To endow, provide, furnish, stock",
     forms: {
       section_0: [
@@ -15582,11 +15582,11 @@ module.exports = [
     },
   },
   {
-    word "ausstehen",
+    word: "ausstehen",
     translation: "(transitive, auxiliary 'haben') to stand, to endure, (intransitive, auxiliary 'haben' or 'sein', of a decision, etc) to be pending, (intransitive, auxiliary 'haben' or 'sein', of a payment) to be overdue, (intransitive, auxiliary 'sein') to be displayed for sale",
   },
   {
-    word "aussteigen",
+    word: "aussteigen",
     translation: "(intransitive) to exit, (transitive) to get off",
     forms: {
       section_0: [
@@ -15616,7 +15616,7 @@ module.exports = [
     },
   },
   {
-    word "ausstellen",
+    word: "ausstellen",
     translation: "to exhibit, display, to issue, certificate",
     forms: {
       section_0: [
@@ -15646,7 +15646,7 @@ module.exports = [
     },
   },
   {
-    word "aussterben",
+    word: "aussterben",
     translation: "to die out",
     forms: {
       section_0: [
@@ -15676,7 +15676,7 @@ module.exports = [
     },
   },
   {
-    word "ausstoßen",
+    word: "ausstoßen",
     translation: "To emit, To eject, expel, discharge, To utter, To ejaculate",
     forms: {
       section_0: [
@@ -15706,7 +15706,7 @@ module.exports = [
     },
   },
   {
-    word "ausstrahlen",
+    word: "ausstrahlen",
     translation: "to emanate (to come from a source)",
     forms: {
       section_0: [
@@ -15736,7 +15736,7 @@ module.exports = [
     },
   },
   {
-    word "ausstrecken",
+    word: "ausstrecken",
     translation: "to stretch, to reach out",
     forms: {
       section_0: [
@@ -15766,7 +15766,7 @@ module.exports = [
     },
   },
   {
-    word "aussuchen",
+    word: "aussuchen",
     translation: "to select, to choose, to pick",
     forms: {
       section_0: [
@@ -15796,11 +15796,11 @@ module.exports = [
     },
   },
   {
-    word "austarieren",
+    word: "austarieren",
     translation: "(business) to tare (take into account the weight of a container)",
   },
   {
-    word "austauschen",
+    word: "austauschen",
     translation: "to exchange, to replace; to substitute",
     forms: {
       section_0: [
@@ -15830,7 +15830,7 @@ module.exports = [
     },
   },
   {
-    word "austeilen",
+    word: "austeilen",
     translation: "to distribute",
     forms: {
       section_0: [
@@ -15860,7 +15860,7 @@ module.exports = [
     },
   },
   {
-    word "austragen",
+    word: "austragen",
     translation: "To bear, deliver (a child); to gestate, To deal with, To strike out (draw a line through)",
     forms: {
       section_0: [
@@ -15890,7 +15890,7 @@ module.exports = [
     },
   },
   {
-    word "austreten",
+    word: "austreten",
     translation: "(intransitive) to leave, retire from, quit (a club, organization, etc; collocates with aus), (transitive) to stamp out (fire, etc), (intransitive, euphemistic) to spend a penny, see a man about a horse (often collocates with müssen)",
     forms: {
       section_0: [
@@ -15920,7 +15920,7 @@ module.exports = [
     },
   },
   {
-    word "austrinken",
+    word: "austrinken",
     translation: "(transitive, a glass or bottle) to empty, (transitive, a drink) to finish, (intransitive) to finish on(e)'(s) drink",
     forms: {
       section_0: [
@@ -15950,7 +15950,7 @@ module.exports = [
     },
   },
   {
-    word "ausüben",
+    word: "ausüben",
     translation: "to practice / practise, to exert",
     forms: {
       section_0: [
@@ -15980,7 +15980,7 @@ module.exports = [
     },
   },
   {
-    word "ausverkaufen",
+    word: "ausverkaufen",
     translation: "To sell out, To sell off",
     forms: {
       section_0: [
@@ -16010,7 +16010,7 @@ module.exports = [
     },
   },
   {
-    word "auswachsen",
+    word: "auswachsen",
     translation: "to right or correct itself, to grow [into something], to grow out of something, to sprout",
     forms: {
       section_0: [
@@ -16040,7 +16040,7 @@ module.exports = [
     },
   },
   {
-    word "auswählen",
+    word: "auswählen",
     translation: "to choose, to select, to pick",
     forms: {
       section_0: [
@@ -16070,7 +16070,7 @@ module.exports = [
     },
   },
   {
-    word "auswalzen",
+    word: "auswalzen",
     translation: "To roll out",
     forms: {
       section_0: [
@@ -16100,7 +16100,7 @@ module.exports = [
     },
   },
   {
-    word "auswandern",
+    word: "auswandern",
     translation: "to emigrate",
     forms: {
       section_0: [
@@ -16130,7 +16130,7 @@ module.exports = [
     },
   },
   {
-    word "ausweichen",
+    word: "ausweichen",
     translation: "to dodge",
     forms: {
       section_0: [
@@ -16160,11 +16160,11 @@ module.exports = [
     },
   },
   {
-    word "ausweiden",
+    word: "ausweiden",
     translation: "to gut, to disembowel, to eviscerate",
   },
   {
-    word "ausweisen",
+    word: "ausweisen",
     translation: "to expel, (finance) show, display, (reflexive) to prove on(e)'(s) identity",
     forms: {
       section_0: [
@@ -16194,7 +16194,7 @@ module.exports = [
     },
   },
   {
-    word "ausweiten",
+    word: "ausweiten",
     translation: "To expand, widen, extend, stretch, To escalate",
     forms: {
       section_0: [
@@ -16224,7 +16224,7 @@ module.exports = [
     },
   },
   {
-    word "auswerfen",
+    word: "auswerfen",
     translation: "to eject, to cast",
     forms: {
       section_0: [
@@ -16254,7 +16254,7 @@ module.exports = [
     },
   },
   {
-    word "auswerten",
+    word: "auswerten",
     translation: "To evaluate, assess, To analyze, To appreciate",
     forms: {
       section_0: [
@@ -16284,7 +16284,7 @@ module.exports = [
     },
   },
   {
-    word "auswirken",
+    word: "auswirken",
     translation: "To affect, impact (have an effect on)",
     forms: {
       section_0: [
@@ -16314,7 +16314,7 @@ module.exports = [
     },
   },
   {
-    word "auszahlen",
+    word: "auszahlen",
     translation: "(reflexive) to pay off (to become worthwhile)",
     forms: {
       section_0: [
@@ -16344,7 +16344,7 @@ module.exports = [
     },
   },
   {
-    word "auszeichnen",
+    word: "auszeichnen",
     translation: "To distinguish (make different), To honour, award, decorate",
     forms: {
       section_0: [
@@ -16374,7 +16374,7 @@ module.exports = [
     },
   },
   {
-    word "ausziehen",
+    word: "ausziehen",
     translation: "to pull out (auxiliary verb: haben), (transitive, of clothing) to take off (auxiliary verb: haben), (transitive, a person) to undress (auxiliary verb: haben), (reflexive: sich ausziehen) to undress, to take off on(e)'(s) clothes (auxiliary verb: haben), (housing) to move out (auxiliary verb: sein), to unscrew (auxiliary verb: haben)",
     forms: {
       section_0: [
@@ -16404,43 +16404,43 @@ module.exports = [
     },
   },
   {
-    word "auszubauen",
+    word: "auszubauen",
     translation: "zu-infinitive of ausbauen",
   },
   {
-    word "auszuflippen",
+    word: "auszuflippen",
     translation: "zu-infinitive of ausflippen",
   },
   {
-    word "auszugleichen",
+    word: "auszugleichen",
     translation: "zu-infinitive of ausgleichen",
   },
   {
-    word "auszuladen",
+    word: "auszuladen",
     translation: "zu-infinitive of ausladen",
   },
   {
-    word "auszusehen",
+    word: "auszusehen",
     translation: "zu-infinitive of aussehen",
   },
   {
-    word "auszusetzen",
+    word: "auszusetzen",
     translation: "zu-infinitive of aussetzen",
   },
   {
-    word "auszusparen",
+    word: "auszusparen",
     translation: "zu-infinitive of aussparen",
   },
   {
-    word "autorisieren",
+    word: "autorisieren",
     translation: "to authorize",
   },
   {
-    word "Avancen machen",
+    word: "Avancen machen",
     translation: "(colloquial) to make advances to (somebody), to make overtures",
   },
   {
-    word "avancieren",
+    word: "avancieren",
     translation: "to advance, to be promoted",
     forms: {
       section_0: [
@@ -16470,7 +16470,7 @@ module.exports = [
     },
   },
   {
-    word "avisieren",
+    word: "avisieren",
     translation: "to announce, to notify",
     forms: {
       section_0: [
@@ -16500,15 +16500,15 @@ module.exports = [
     },
   },
   {
-    word "babbeln",
+    word: "babbeln",
     translation: "to babble (to talk much)",
   },
   {
-    word "babysitten",
+    word: "babysitten",
     translation: "babysit (to watch or tend someone els(e)'(s) child for a period of time, often for money)",
   },
   {
-    word "backen",
+    word: "backen",
     translation: "(transitive or intransitive) to bake; to roast, (transitive or intransitive, colloquial) to fry, (transitive or intransitive, chiefly pottery) to fire, (intransitive) to stick together; to cake, (transitive) to stick (something to something else)",
     forms: {
       section_0: [
@@ -16538,7 +16538,7 @@ module.exports = [
     },
   },
   {
-    word "baden",
+    word: "baden",
     translation: "(ergative) to bathe",
     forms: {
       section_0: [
@@ -16568,7 +16568,7 @@ module.exports = [
     },
   },
   {
-    word "baggern",
+    word: "baggern",
     translation: "to excavate; to dredge, (volleyball) to scoop, (colloquial) to flirt; to try to seduce",
     forms: {
       section_0: [
@@ -16598,7 +16598,7 @@ module.exports = [
     },
   },
   {
-    word "bahnen",
+    word: "bahnen",
     translation: "(reflexive) to channel",
     forms: {
       section_0: [
@@ -16628,19 +16628,19 @@ module.exports = [
     },
   },
   {
-    word "balancieren",
+    word: "balancieren",
     translation: "to balance",
   },
   {
-    word "balkanisieren",
+    word: "balkanisieren",
     translation: "to Balkanize",
   },
   {
-    word "ballasten",
+    word: "ballasten",
     translation: "(nautical, rare) to ballast",
   },
   {
-    word "ballen",
+    word: "ballen",
     translation: "third-person plural present indicative form of ballar",
     forms: {
       section_0: [
@@ -16670,7 +16670,7 @@ module.exports = [
     },
   },
   {
-    word "ballern",
+    word: "ballern",
     translation: "to bang (make a loud, dull sound), (colloquial) to shoot, particularly: to be trigger-happy, (soccer) to hammer (shoot hard)",
     forms: {
       section_0: [
@@ -16700,15 +16700,15 @@ module.exports = [
     },
   },
   {
-    word "banalisieren",
+    word: "banalisieren",
     translation: "to banalize",
   },
   {
-    word "bandagieren",
+    word: "bandagieren",
     translation: "to bandage",
   },
   {
-    word "bangen",
+    word: "bangen",
     translation: "to feel dread or fear, especially for someone else without being able to do something about it",
     forms: {
       section_0: [
@@ -16738,7 +16738,7 @@ module.exports = [
     },
   },
   {
-    word "bannen",
+    word: "bannen",
     translation: "(transitive) to expel, drive off, (transitive, computing) to ban (an IP address)",
     forms: {
       section_0: [
@@ -16768,15 +16768,15 @@ module.exports = [
     },
   },
   {
-    word "bappen",
+    word: "bappen",
     translation: "(regional) to stick",
   },
   {
-    word "barbieren",
+    word: "barbieren",
     translation: "(dated) to cut (trim, barber) the beard, to shave",
   },
   {
-    word "basieren",
+    word: "basieren",
     translation: "to base",
     forms: {
       section_0: [
@@ -16806,7 +16806,7 @@ module.exports = [
     },
   },
   {
-    word "basteln",
+    word: "basteln",
     translation: "to do handicrafts",
     forms: {
       section_0: [
@@ -16836,19 +16836,19 @@ module.exports = [
     },
   },
   {
-    word "batiken",
+    word: "batiken",
     translation: "to batik",
   },
   {
-    word "batten",
+    word: "batten",
     translation: "(intransitive) To become better; improve in condition, especially by feeding, (intransitive) To feed on; to revel in, (intransitive) To thrive by feeding; grow fat; feed oneself gluttonously, (intransitive) To thrive, prosper, or live in luxury, especially at the expense of others; fare sumptuously, (intransitive) To gratify a morbid appetite or craving; gloat, (transitive) To improve by feeding; fatten; make fat or cause to thrive due to plenteous feeding, (transitive) To fertilize or enrich, as land",
   },
   {
-    word "bauchreden",
+    word: "bauchreden",
     translation: "(transitive) to ventriloquize",
   },
   {
-    word "bauen",
+    word: "bauen",
     translation: "to build; to construct, (drug-related) to roll a joint",
     forms: {
       section_0: [
@@ -16878,7 +16878,7 @@ module.exports = [
     },
   },
   {
-    word "baumeln",
+    word: "baumeln",
     translation: "to dangle",
     forms: {
       section_0: [
@@ -16908,7 +16908,7 @@ module.exports = [
     },
   },
   {
-    word "beabsichtigen",
+    word: "beabsichtigen",
     translation: "to intend",
     forms: {
       section_0: [
@@ -16938,7 +16938,7 @@ module.exports = [
     },
   },
   {
-    word "beachten",
+    word: "beachten",
     translation: "To note, notice, observe, To mind, heed",
     forms: {
       section_0: [
@@ -16968,11 +16968,11 @@ module.exports = [
     },
   },
   {
-    word "beamen",
+    word: "beamen",
     translation: "(transitive, literally) to say, reply 'amen' after an uttering, notably in prayer or liturgy (especially in a responsory), (transitive) to assent to a statement",
   },
   {
-    word "beanspruchen",
+    word: "beanspruchen",
     translation: "(transitive) claim (to demand ownership of something), (transitive) require, (transitive) demand",
     forms: {
       section_0: [
@@ -17002,7 +17002,7 @@ module.exports = [
     },
   },
   {
-    word "beantragen",
+    word: "beantragen",
     translation: "to apply for, to request, to propose",
     forms: {
       section_0: [
@@ -17032,7 +17032,7 @@ module.exports = [
     },
   },
   {
-    word "beantworten",
+    word: "beantworten",
     translation: "to answer (a question)",
     forms: {
       section_0: [
@@ -17062,7 +17062,7 @@ module.exports = [
     },
   },
   {
-    word "bearbeiten",
+    word: "bearbeiten",
     translation: "to edit, to work on something",
     forms: {
       section_0: [
@@ -17092,7 +17092,7 @@ module.exports = [
     },
   },
   {
-    word "beaufsichtigen",
+    word: "beaufsichtigen",
     translation: "to supervise",
     forms: {
       section_0: [
@@ -17122,7 +17122,7 @@ module.exports = [
     },
   },
   {
-    word "beauftragen",
+    word: "beauftragen",
     translation: "To commission, To instruct, To hire, employ",
     forms: {
       section_0: [
@@ -17152,11 +17152,11 @@ module.exports = [
     },
   },
   {
-    word "beäugen",
+    word: "beäugen",
     translation: "to eye",
   },
   {
-    word "beben",
+    word: "beben",
     translation: "third-person plural present indicative of beber",
     forms: {
       section_0: [
@@ -17186,7 +17186,7 @@ module.exports = [
     },
   },
   {
-    word "bedanken",
+    word: "bedanken",
     translation: "(transitive) to thank",
     forms: {
       section_0: [
@@ -17216,7 +17216,7 @@ module.exports = [
     },
   },
   {
-    word "bedauern",
+    word: "bedauern",
     translation: "to regret, to pity",
     forms: {
       section_0: [
@@ -17246,7 +17246,7 @@ module.exports = [
     },
   },
   {
-    word "bedecken",
+    word: "bedecken",
     translation: "to cover, (gamekeeping) to make mate",
     forms: {
       section_0: [
@@ -17276,7 +17276,7 @@ module.exports = [
     },
   },
   {
-    word "bedenken",
+    word: "bedenken",
     translation: "(transitive) to bethink, (transitive) to think of, to make up, (reflexive) to reconsider, to change on(e)'(s) mind",
     forms: {
       section_0: [
@@ -17306,7 +17306,7 @@ module.exports = [
     },
   },
   {
-    word "bedeuten",
+    word: "bedeuten",
     translation: "to mean, to signify",
     forms: {
       section_0: [
@@ -17336,7 +17336,7 @@ module.exports = [
     },
   },
   {
-    word "bedienen",
+    word: "bedienen",
     translation: "(transitive) to be of assistance to someone, (transitive) to serve someone at a restaurant, (transitive) to operate a device, (transitive, Roman Catholicism) to administer the last sacraments to someone",
     forms: {
       section_0: [
@@ -17366,7 +17366,7 @@ module.exports = [
     },
   },
   {
-    word "bedingen",
+    word: "bedingen",
     translation: "(transitive) to claim rights to something through negotiation; to stipulate",
     forms: {
       section_0: [
@@ -17396,7 +17396,7 @@ module.exports = [
     },
   },
   {
-    word "bedrohen",
+    word: "bedrohen",
     translation: "to threaten, menace",
     forms: {
       section_0: [
@@ -17426,11 +17426,11 @@ module.exports = [
     },
   },
   {
-    word "bedrucken",
+    word: "bedrucken",
     translation: "to print on, to imprint",
   },
   {
-    word "bedrücken",
+    word: "bedrücken",
     translation: "to depress, to oppress, to weigh down, to bear down, to pinch",
     forms: {
       section_0: [
@@ -17460,7 +17460,7 @@ module.exports = [
     },
   },
   {
-    word "bedürfen",
+    word: "bedürfen",
     translation: "(formal) to require, need (takes the genitive of the direct object)",
     forms: {
       section_0: [
@@ -17490,7 +17490,7 @@ module.exports = [
     },
   },
   {
-    word "beeilen",
+    word: "beeilen",
     translation: "(reflexive) to hurry, to hasten, to rush",
     forms: {
       section_0: [
@@ -17520,7 +17520,7 @@ module.exports = [
     },
   },
   {
-    word "beeindrucken",
+    word: "beeindrucken",
     translation: "(transitive) To impress, to impose",
     forms: {
       section_0: [
@@ -17550,7 +17550,7 @@ module.exports = [
     },
   },
   {
-    word "beeinflussen",
+    word: "beeinflussen",
     translation: "to influence",
     forms: {
       section_0: [
@@ -17580,7 +17580,7 @@ module.exports = [
     },
   },
   {
-    word "beeinträchtigen",
+    word: "beeinträchtigen",
     translation: "to impair",
     forms: {
       section_0: [
@@ -17610,7 +17610,7 @@ module.exports = [
     },
   },
   {
-    word "beenden",
+    word: "beenden",
     translation: "plural past indicative and subjunctive of benen",
     forms: {
       section_0: [
@@ -17640,7 +17640,7 @@ module.exports = [
     },
   },
   {
-    word "beerdigen",
+    word: "beerdigen",
     translation: "to bury",
     forms: {
       section_0: [
@@ -17670,7 +17670,7 @@ module.exports = [
     },
   },
   {
-    word "befallen",
+    word: "befallen",
     translation: "past participle of befall",
     forms: {
       section_0: [
@@ -17700,7 +17700,7 @@ module.exports = [
     },
   },
   {
-    word "befassen",
+    word: "befassen",
     translation: "To consider, To attend to or deal with",
     forms: {
       section_0: [
@@ -17730,11 +17730,11 @@ module.exports = [
     },
   },
   {
-    word "befehden",
+    word: "befehden",
     translation: "(reflexive) to feud, (transitive) to feud with",
   },
   {
-    word "befehlen",
+    word: "befehlen",
     translation: "(transitive) to command; to order (someone to do something), (intransitive) to give orders; to be in command",
     forms: {
       section_0: [
@@ -17764,7 +17764,7 @@ module.exports = [
     },
   },
   {
-    word "befestigen",
+    word: "befestigen",
     translation: "To stick, fix, attach, pin, fasten, secure",
     forms: {
       section_0: [
@@ -17794,7 +17794,7 @@ module.exports = [
     },
   },
   {
-    word "befeuchten",
+    word: "befeuchten",
     translation: "to moisten, wet",
     forms: {
       section_0: [
@@ -17824,7 +17824,7 @@ module.exports = [
     },
   },
   {
-    word "befinden",
+    word: "befinden",
     translation: "(reflexive) to occupy a place; to be located; to be situated",
     forms: {
       section_0: [
@@ -17854,11 +17854,11 @@ module.exports = [
     },
   },
   {
-    word "beflügeln",
+    word: "beflügeln",
     translation: "(transitive) to inspire, to spur, to buoy, to stimulate",
   },
   {
-    word "befolgen",
+    word: "befolgen",
     translation: "To observe, follow (orders etc); to comply with or abide by",
     forms: {
       section_0: [
@@ -17888,7 +17888,7 @@ module.exports = [
     },
   },
   {
-    word "befördern",
+    word: "befördern",
     translation: "to transport, (work) to promote",
     forms: {
       section_0: [
@@ -17918,7 +17918,7 @@ module.exports = [
     },
   },
   {
-    word "befragen",
+    word: "befragen",
     translation: "to question, to interview, to interrogate",
     forms: {
       section_0: [
@@ -17948,7 +17948,7 @@ module.exports = [
     },
   },
   {
-    word "befreien",
+    word: "befreien",
     translation: "to free (make free)",
     forms: {
       section_0: [
@@ -17978,11 +17978,11 @@ module.exports = [
     },
   },
   {
-    word "befrembden",
+    word: "befrembden",
     translation: "Obsolete spelling of befremden",
   },
   {
-    word "befremden",
+    word: "befremden",
     translation: "to alienate",
     forms: {
       section_0: [
@@ -18012,7 +18012,7 @@ module.exports = [
     },
   },
   {
-    word "befriedigen",
+    word: "befriedigen",
     translation: "(transitive) to satisfy, (reflexive) to masturbate",
     forms: {
       section_0: [
@@ -18042,7 +18042,7 @@ module.exports = [
     },
   },
   {
-    word "befruchten",
+    word: "befruchten",
     translation: "to fertilise (US: fertilize)",
     forms: {
       section_0: [
@@ -18072,7 +18072,7 @@ module.exports = [
     },
   },
   {
-    word "befummeln",
+    word: "befummeln",
     translation: "to feel up, to cop a feel",
     forms: {
       section_0: [
@@ -18102,7 +18102,7 @@ module.exports = [
     },
   },
   {
-    word "befürchten",
+    word: "befürchten",
     translation: "(transitive) to fear sth, be afraid",
     forms: {
       section_0: [
@@ -18132,7 +18132,7 @@ module.exports = [
     },
   },
   {
-    word "befürworten",
+    word: "befürworten",
     translation: "to endorse, to support, to back",
     forms: {
       section_0: [
@@ -18162,7 +18162,7 @@ module.exports = [
     },
   },
   {
-    word "begeben",
+    word: "begeben",
     translation: "(reflexive, formal) to go, make on(e)'(s) way, repair, (reflexive, impersonal) to happen, to issue",
     forms: {
       section_0: [
@@ -18192,7 +18192,7 @@ module.exports = [
     },
   },
   {
-    word "begegnen",
+    word: "begegnen",
     translation: "(intransitive) to meet, encounter",
     forms: {
       section_0: [
@@ -18222,7 +18222,7 @@ module.exports = [
     },
   },
   {
-    word "begehen",
+    word: "begehen",
     translation: "(transitive) To commit, perpetrate (a crime, an offense)",
     forms: {
       section_0: [
@@ -18252,7 +18252,7 @@ module.exports = [
     },
   },
   {
-    word "begehren",
+    word: "begehren",
     translation: "to desire",
     forms: {
       section_0: [
@@ -18282,7 +18282,7 @@ module.exports = [
     },
   },
   {
-    word "begeistern",
+    word: "begeistern",
     translation: "(transitive) to fill with enthusiasm, enthuse, (reflexive) to be enthusiastic, enthuse (about something: für + accusative)",
     forms: {
       section_0: [
@@ -18312,7 +18312,7 @@ module.exports = [
     },
   },
   {
-    word "begießen",
+    word: "begießen",
     translation: "to pour water over, to water (plants etc), (cooking) to baste, (figuratively) to celebrate",
     forms: {
       section_0: [
@@ -18342,7 +18342,7 @@ module.exports = [
     },
   },
   {
-    word "beginnen",
+    word: "beginnen",
     translation: "(ergative) to begin",
     forms: {
       section_0: [
@@ -18372,7 +18372,7 @@ module.exports = [
     },
   },
   {
-    word "begleichen",
+    word: "begleichen",
     translation: "(of a debt, bill, etc) to pay, to balance, (of a dispute, etc) to settle",
     forms: {
       section_0: [
@@ -18402,7 +18402,7 @@ module.exports = [
     },
   },
   {
-    word "begleiten",
+    word: "begleiten",
     translation: "to accompany, to conduct, escort",
     forms: {
       section_0: [
@@ -18432,7 +18432,7 @@ module.exports = [
     },
   },
   {
-    word "beglückwünschen",
+    word: "beglückwünschen",
     translation: "to congratulate",
     forms: {
       section_0: [
@@ -18462,7 +18462,7 @@ module.exports = [
     },
   },
   {
-    word "begnadigen",
+    word: "begnadigen",
     translation: "(law) to pardon",
     forms: {
       section_0: [
@@ -18492,7 +18492,7 @@ module.exports = [
     },
   },
   {
-    word "begnügen",
+    word: "begnügen",
     translation: "(reflexive) to be content or satisfied (with)",
     forms: {
       section_0: [
@@ -18522,7 +18522,7 @@ module.exports = [
     },
   },
   {
-    word "begraben",
+    word: "begraben",
     translation: "(burial) to bury (also figuratively)",
     forms: {
       section_0: [
@@ -18552,15 +18552,15 @@ module.exports = [
     },
   },
   {
-    word "begrabschen",
+    word: "begrabschen",
     translation: "Alternative spelling of begrapschen",
   },
   {
-    word "begrapschen",
+    word: "begrapschen",
     translation: "(transitive, informal, sexual) to grope",
   },
   {
-    word "begreifen",
+    word: "begreifen",
     translation: "(transitive) to comprehend; to grasp fully; to conceive, (transitive, rather formal) to understand intellectually, (transitive or reflexive, rather formal) to consider (to be); to see (as)",
     forms: {
       section_0: [
@@ -18590,7 +18590,7 @@ module.exports = [
     },
   },
   {
-    word "begrenzen",
+    word: "begrenzen",
     translation: "(transitive) to demarcate, limit, (transitive) to neighbor",
     forms: {
       section_0: [
@@ -18620,7 +18620,7 @@ module.exports = [
     },
   },
   {
-    word "begründen",
+    word: "begründen",
     translation: "to make an argument for something, to justify, to give a reason, to establish, to found",
     forms: {
       section_0: [
@@ -18650,7 +18650,7 @@ module.exports = [
     },
   },
   {
-    word "begrüssen",
+    word: "begrüssen",
     translation: "Switzerland and Liechtenstein standard spelling of begrüßen",
     forms: {
       section_0: [
@@ -18680,7 +18680,7 @@ module.exports = [
     },
   },
   {
-    word "begrüßen",
+    word: "begrüßen",
     translation: "to welcome",
     forms: {
       section_0: [
@@ -18710,7 +18710,7 @@ module.exports = [
     },
   },
   {
-    word "begünstigen",
+    word: "begünstigen",
     translation: "To favor / favour, To aid and abet",
     forms: {
       section_0: [
@@ -18740,7 +18740,7 @@ module.exports = [
     },
   },
   {
-    word "behagen",
+    word: "behagen",
     translation: "(transitive, formal) to delight",
     forms: {
       section_0: [
@@ -18770,7 +18770,7 @@ module.exports = [
     },
   },
   {
-    word "behalten",
+    word: "behalten",
     translation: "to keep",
     forms: {
       section_0: [
@@ -18800,7 +18800,7 @@ module.exports = [
     },
   },
   {
-    word "behandeln",
+    word: "behandeln",
     translation: "to treat (medicinally), to treat (physically, psychologically), to cover",
     forms: {
       section_0: [
@@ -18830,7 +18830,7 @@ module.exports = [
     },
   },
   {
-    word "beharren",
+    word: "beharren",
     translation: "to persevere, to insist (auf on)",
     forms: {
       section_0: [
@@ -18860,7 +18860,7 @@ module.exports = [
     },
   },
   {
-    word "behauen",
+    word: "behauen",
     translation: "to hew, to carve",
     forms: {
       section_0: [
@@ -18890,7 +18890,7 @@ module.exports = [
     },
   },
   {
-    word "behaupten",
+    word: "behaupten",
     translation: "to claim, maintain, assert",
     forms: {
       section_0: [
@@ -18920,7 +18920,7 @@ module.exports = [
     },
   },
   {
-    word "beheben",
+    word: "beheben",
     translation: "to resolve, to fix",
     forms: {
       section_0: [
@@ -18950,11 +18950,11 @@ module.exports = [
     },
   },
   {
-    word "beheimaten",
+    word: "beheimaten",
     translation: "to be or become home to somebody, something, to give a person a (new) homeland/home; to make something homelike for someone, to give an organism a (new) habitat; to re-establish, re-introduce a species",
   },
   {
-    word "beheizen",
+    word: "beheizen",
     translation: "To heat",
     forms: {
       section_0: [
@@ -18984,7 +18984,7 @@ module.exports = [
     },
   },
   {
-    word "behelfen",
+    word: "behelfen",
     translation: "(reflexive) to make do, to manage, to get by",
     forms: {
       section_0: [
@@ -19014,7 +19014,7 @@ module.exports = [
     },
   },
   {
-    word "beherbergen",
+    word: "beherbergen",
     translation: "to shelter, put up",
     forms: {
       section_0: [
@@ -19044,7 +19044,7 @@ module.exports = [
     },
   },
   {
-    word "beherrschen",
+    word: "beherrschen",
     translation: "(transitive) to master, (transitive) to dominate, (reflexive) to restrain oneself",
     forms: {
       section_0: [
@@ -19074,7 +19074,7 @@ module.exports = [
     },
   },
   {
-    word "beherrscht",
+    word: "beherrscht",
     translation: "Past participle of beherrschen, Third-person singular present of beherrschen, Second-person plural present of beherrschen, Imperative plural of beherrschen",
     forms: {
       section_0: [
@@ -19104,7 +19104,7 @@ module.exports = [
     },
   },
   {
-    word "beherrschten",
+    word: "beherrschten",
     translation: "First-person plural preterite of beherrschen, Third-person plural preterite of beherrschen, First-person plural subjunctive II of beherrschen, Third-person plural subjunctive II of beherrschen",
     forms: {
       section_0: [
@@ -19134,7 +19134,7 @@ module.exports = [
     },
   },
   {
-    word "behindern",
+    word: "behindern",
     translation: "to hinder",
     forms: {
       section_0: [
@@ -19164,7 +19164,7 @@ module.exports = [
     },
   },
   {
-    word "behüten",
+    word: "behüten",
     translation: "to protect",
     forms: {
       section_0: [
@@ -19194,7 +19194,7 @@ module.exports = [
     },
   },
   {
-    word "beibehalten",
+    word: "beibehalten",
     translation: "To maintain, keep, To retain",
     forms: {
       section_0: [
@@ -19224,7 +19224,7 @@ module.exports = [
     },
   },
   {
-    word "beibringen",
+    word: "beibringen",
     translation: "to teach, to break (news, information) carefully to, to inflict on, inflict with, (formal) to bring, to provide as evidence",
     forms: {
       section_0: [
@@ -19254,7 +19254,7 @@ module.exports = [
     },
   },
   {
-    word "beichten",
+    word: "beichten",
     translation: "to confess",
     forms: {
       section_0: [
@@ -19284,7 +19284,7 @@ module.exports = [
     },
   },
   {
-    word "beigeben",
+    word: "beigeben",
     translation: "to add",
     forms: {
       section_0: [
@@ -19314,11 +19314,11 @@ module.exports = [
     },
   },
   {
-    word "beigen",
+    word: "beigen",
     translation: "(transitive, southern Germany, Switzerland) to stack, pile up",
   },
   {
-    word "beilegen",
+    word: "beilegen",
     translation: "to enclose, (importance) to attach, (dispute) to settle, to resolve",
     forms: {
       section_0: [
@@ -19348,7 +19348,7 @@ module.exports = [
     },
   },
   {
-    word "beinhalten",
+    word: "beinhalten",
     translation: "To contain, To comprise, To include",
     forms: {
       section_0: [
@@ -19378,11 +19378,11 @@ module.exports = [
     },
   },
   {
-    word "beiseitigen",
+    word: "beiseitigen",
     translation: "Synonym of of beseitigen",
   },
   {
-    word "beispringen",
+    word: "beispringen",
     translation: "to come to assistance",
     forms: {
       section_0: [
@@ -19412,7 +19412,7 @@ module.exports = [
     },
   },
   {
-    word "beissen",
+    word: "beissen",
     translation: "Switzerland and Liechtenstein standard spelling of beißen",
     forms: {
       section_0: [
@@ -19442,7 +19442,7 @@ module.exports = [
     },
   },
   {
-    word "beißen",
+    word: "beißen",
     translation: "(transitive or intransitive) to bite, (transitive or intransitive) to sting; to burn; to be sharp; to be spicy, (reflexive, colloquial, of colors) to clash",
     forms: {
       section_0: [
@@ -19472,7 +19472,7 @@ module.exports = [
     },
   },
   {
-    word "beistehen",
+    word: "beistehen",
     translation: "(with an object in the dative case) to assist",
     forms: {
       section_0: [
@@ -19502,7 +19502,7 @@ module.exports = [
     },
   },
   {
-    word "beitragen",
+    word: "beitragen",
     translation: "(intransitive, with zu + dative) to contribute to (to give something, that is or becomes part of a larger whole)",
     forms: {
       section_0: [
@@ -19532,7 +19532,7 @@ module.exports = [
     },
   },
   {
-    word "beitreten",
+    word: "beitreten",
     translation: "(to become a member of) to join",
     forms: {
       section_0: [
@@ -19562,7 +19562,7 @@ module.exports = [
     },
   },
   {
-    word "beiwohnen",
+    word: "beiwohnen",
     translation: "(formal, intransitive + dative) to attend; to be present at (some gathering or event), (formal, dated, intransitive + dative) to sleep with; to cohabit; to have sexual intercourse with (a woman)",
     forms: {
       section_0: [
@@ -19592,11 +19592,11 @@ module.exports = [
     },
   },
   {
-    word "bejagen",
+    word: "bejagen",
     translation: "(transitive) to hunt after",
   },
   {
-    word "bejahen",
+    word: "bejahen",
     translation: "to affirm, approve; answer something in the affirmative",
     forms: {
       section_0: [
@@ -19626,7 +19626,7 @@ module.exports = [
     },
   },
   {
-    word "bejubeln",
+    word: "bejubeln",
     translation: "(transitive) to cheer",
     forms: {
       section_0: [
@@ -19656,7 +19656,7 @@ module.exports = [
     },
   },
   {
-    word "bekämpfen",
+    word: "bekämpfen",
     translation: "(transitive) to fight (against something)",
     forms: {
       section_0: [
@@ -19686,7 +19686,7 @@ module.exports = [
     },
   },
   {
-    word "bekanntmachen",
+    word: "bekanntmachen",
     translation: "to make public",
     forms: {
       section_0: [
@@ -19716,7 +19716,7 @@ module.exports = [
     },
   },
   {
-    word "bekehren",
+    word: "bekehren",
     translation: "(religion) to convert",
     forms: {
       section_0: [
@@ -19746,7 +19746,7 @@ module.exports = [
     },
   },
   {
-    word "bekennen",
+    word: "bekennen",
     translation: "(transitive) to acknowledge, confess, (transitive) to see, to make out",
     forms: {
       section_0: [
@@ -19776,7 +19776,7 @@ module.exports = [
     },
   },
   {
-    word "beklagen",
+    word: "beklagen",
     translation: "(transitive) to lament, grieve, (reflexive) to complain [+ over (object) = about]",
     forms: {
       section_0: [
@@ -19806,7 +19806,7 @@ module.exports = [
     },
   },
   {
-    word "bekommen",
+    word: "bekommen",
     translation: "(transitive, auxiliary: “haben”) to receive; to get, (transitive, auxiliary: “haben”) to catch, (intransitive, with a dative case object, of food or drink, auxiliary: “sein”) to agree with (someone); to sit well with (someone)",
     forms: {
       section_0: [
@@ -19836,11 +19836,11 @@ module.exports = [
     },
   },
   {
-    word "bekoten",
+    word: "bekoten",
     translation: "to soil with feces",
   },
   {
-    word "bekräftigen",
+    word: "bekräftigen",
     translation: "To confirm, corroborate",
     forms: {
       section_0: [
@@ -19870,7 +19870,7 @@ module.exports = [
     },
   },
   {
-    word "bekränzen",
+    word: "bekränzen",
     translation: "to wreath, to garland",
     forms: {
       section_0: [
@@ -19900,7 +19900,7 @@ module.exports = [
     },
   },
   {
-    word "bekreuzigen",
+    word: "bekreuzigen",
     translation: "(Christianity, in particular Roman Catholicism, reflexive) to cross oneself, (Christianity, rare, transitive) to becross, to make the sign of the cross over someone or something",
     forms: {
       section_0: [
@@ -19930,7 +19930,7 @@ module.exports = [
     },
   },
   {
-    word "bekriegen",
+    word: "bekriegen",
     translation: "(transitive) battle (to assail in battle; to fight)",
     forms: {
       section_0: [
@@ -19960,7 +19960,7 @@ module.exports = [
     },
   },
   {
-    word "bekunden",
+    word: "bekunden",
     translation: "To prove, show, evince, To state, express, testify",
     forms: {
       section_0: [
@@ -19990,7 +19990,7 @@ module.exports = [
     },
   },
   {
-    word "belächeln",
+    word: "belächeln",
     translation: "to smile condescendingly at (someone or something)",
     forms: {
       section_0: [
@@ -20020,7 +20020,7 @@ module.exports = [
     },
   },
   {
-    word "beladen",
+    word: "beladen",
     translation: "to load",
     forms: {
       section_0: [
@@ -20050,7 +20050,7 @@ module.exports = [
     },
   },
   {
-    word "belagern",
+    word: "belagern",
     translation: "to besiege",
     forms: {
       section_0: [
@@ -20080,7 +20080,7 @@ module.exports = [
     },
   },
   {
-    word "belassen",
+    word: "belassen",
     translation: "to leave something as it is",
     forms: {
       section_0: [
@@ -20110,7 +20110,7 @@ module.exports = [
     },
   },
   {
-    word "belasten",
+    word: "belasten",
     translation: "(transitive) to burden, encumber, (transitive) to charge (eg taxes)",
     forms: {
       section_0: [
@@ -20140,7 +20140,7 @@ module.exports = [
     },
   },
   {
-    word "belästigen",
+    word: "belästigen",
     translation: "to molest, to harass",
     forms: {
       section_0: [
@@ -20170,11 +20170,11 @@ module.exports = [
     },
   },
   {
-    word "belauern",
+    word: "belauern",
     translation: "to spy on, to watch secretly",
   },
   {
-    word "belaufen",
+    word: "belaufen",
     translation: "To amount (to); to tot up, To account for",
     forms: {
       section_0: [
@@ -20204,7 +20204,7 @@ module.exports = [
     },
   },
   {
-    word "belegen",
+    word: "belegen",
     translation: "to document, back, substantiate, to occupy",
     forms: {
       section_0: [
@@ -20234,7 +20234,7 @@ module.exports = [
     },
   },
   {
-    word "beleidigen",
+    word: "beleidigen",
     translation: "To offend",
     forms: {
       section_0: [
@@ -20264,7 +20264,7 @@ module.exports = [
     },
   },
   {
-    word "beleuchten",
+    word: "beleuchten",
     translation: "(transitive) to light, to illuminate, (transitive, figuratively) to highlight",
     forms: {
       section_0: [
@@ -20294,7 +20294,7 @@ module.exports = [
     },
   },
   {
-    word "bellen",
+    word: "bellen",
     translation: "(intransitive) to ring, like using a bell, (transitive) to call, by bell (originally) or (now mostly) telephone; to dial",
     forms: {
       section_0: [
@@ -20324,7 +20324,7 @@ module.exports = [
     },
   },
   {
-    word "belohnen",
+    word: "belohnen",
     translation: "to reward",
     forms: {
       section_0: [
@@ -20354,7 +20354,7 @@ module.exports = [
     },
   },
   {
-    word "belüften",
+    word: "belüften",
     translation: "To ventilate, To fan, To air",
     forms: {
       section_0: [
@@ -20384,7 +20384,7 @@ module.exports = [
     },
   },
   {
-    word "belügen",
+    word: "belügen",
     translation: "(transitive) to lie to, to tell someone a lie, to tell someone lies",
     forms: {
       section_0: [
@@ -20414,7 +20414,7 @@ module.exports = [
     },
   },
   {
-    word "bemächtigen",
+    word: "bemächtigen",
     translation: "(reflexive) to seize hold (+ genitive)",
     forms: {
       section_0: [
@@ -20444,7 +20444,7 @@ module.exports = [
     },
   },
   {
-    word "bemalen",
+    word: "bemalen",
     translation: "to paint (to add paint to)",
     forms: {
       section_0: [
@@ -20474,7 +20474,7 @@ module.exports = [
     },
   },
   {
-    word "bemängeln",
+    word: "bemängeln",
     translation: "to criticize, to find fault with",
     forms: {
       section_0: [
@@ -20504,7 +20504,7 @@ module.exports = [
     },
   },
   {
-    word "bemerken",
+    word: "bemerken",
     translation: "(transitive) to notice",
     forms: {
       section_0: [
@@ -20534,7 +20534,7 @@ module.exports = [
     },
   },
   {
-    word "bemühen",
+    word: "bemühen",
     translation: "(reflexive) to make an effort",
     forms: {
       section_0: [
@@ -20564,7 +20564,7 @@ module.exports = [
     },
   },
   {
-    word "bemuttern",
+    word: "bemuttern",
     translation: "to mother",
     forms: {
       section_0: [
@@ -20594,7 +20594,7 @@ module.exports = [
     },
   },
   {
-    word "benachrichtigen",
+    word: "benachrichtigen",
     translation: "to notify",
     forms: {
       section_0: [
@@ -20624,11 +20624,11 @@ module.exports = [
     },
   },
   {
-    word "benedeien",
+    word: "benedeien",
     translation: "(archaic, primarily in the Ave Maria) to bless",
   },
   {
-    word "benehmen",
+    word: "benehmen",
     translation: "(reflexive) to behave",
     forms: {
       section_0: [
@@ -20658,7 +20658,7 @@ module.exports = [
     },
   },
   {
-    word "beneiden",
+    word: "beneiden",
     translation: "to envy, to begrudge someone something",
     forms: {
       section_0: [
@@ -20688,7 +20688,7 @@ module.exports = [
     },
   },
   {
-    word "benennen",
+    word: "benennen",
     translation: "to name, to denominate, to designate",
     forms: {
       section_0: [
@@ -20718,11 +20718,11 @@ module.exports = [
     },
   },
   {
-    word "benetzen",
+    word: "benetzen",
     translation: "To moisten, To wet (a surface)",
   },
   {
-    word "benötigen",
+    word: "benötigen",
     translation: "to need, to require",
     forms: {
       section_0: [
@@ -20752,7 +20752,7 @@ module.exports = [
     },
   },
   {
-    word "benutzen",
+    word: "benutzen",
     translation: "to use (employ, apply)",
     forms: {
       section_0: [
@@ -20782,11 +20782,11 @@ module.exports = [
     },
   },
   {
-    word "benützen",
+    word: "benützen",
     translation: "(Austria, sometimes southern Germany and Switzerland) Alternative form of benutzen",
   },
   {
-    word "beobachten",
+    word: "beobachten",
     translation: "to watch, to observe",
     forms: {
       section_0: [
@@ -20816,7 +20816,7 @@ module.exports = [
     },
   },
   {
-    word "bepflanzen",
+    word: "bepflanzen",
     translation: "to plant (supply with plants)",
     forms: {
       section_0: [
@@ -20846,19 +20846,19 @@ module.exports = [
     },
   },
   {
-    word "bepissen",
+    word: "bepissen",
     translation: "to piss on, to bepiss, (reflexive) to piss on(e)'(s) pants laughing, to laugh on(e)'(s) ass off",
   },
   {
-    word "bequemben",
+    word: "bequemben",
     translation: "Obsolete spelling of bequemen",
   },
   {
-    word "bequemen",
+    word: "bequemen",
     translation: "(reflexive) to decide to something, with displeasure, (reflexive) to suit oneself, (reflexive, obsolete) to adapt oneself, (reflexive, obsolete) to give in",
   },
   {
-    word "beraten",
+    word: "beraten",
     translation: "(intransitive or reflexive) to discuss, (transitive) to advise",
     forms: {
       section_0: [
@@ -20888,7 +20888,7 @@ module.exports = [
     },
   },
   {
-    word "berechnen",
+    word: "berechnen",
     translation: "to calculate, (computing) to compute",
     forms: {
       section_0: [
@@ -20918,7 +20918,7 @@ module.exports = [
     },
   },
   {
-    word "berechtigen",
+    word: "berechtigen",
     translation: "to entitle, to authorize",
     forms: {
       section_0: [
@@ -20948,7 +20948,7 @@ module.exports = [
     },
   },
   {
-    word "bereden",
+    word: "bereden",
     translation: "to discuss, to talk over, (dated or regional) to persuade",
     forms: {
       section_0: [
@@ -20978,7 +20978,7 @@ module.exports = [
     },
   },
   {
-    word "bereinigen",
+    word: "bereinigen",
     translation: "To settle, To rectify, To revise, adjust",
     forms: {
       section_0: [
@@ -21008,7 +21008,7 @@ module.exports = [
     },
   },
   {
-    word "bereiten",
+    word: "bereiten",
     translation: "(meals, coffee, etc) to prepare, to make, (pleasure, trouble, etc) to give, to cause",
     forms: {
       section_0: [
@@ -21038,7 +21038,7 @@ module.exports = [
     },
   },
   {
-    word "bereitstehen",
+    word: "bereitstehen",
     translation: "To be available or ready",
     forms: {
       section_0: [
@@ -21068,7 +21068,7 @@ module.exports = [
     },
   },
   {
-    word "bereitstellen",
+    word: "bereitstellen",
     translation: "to provide, to supply",
     forms: {
       section_0: [
@@ -21098,7 +21098,7 @@ module.exports = [
     },
   },
   {
-    word "bereuen",
+    word: "bereuen",
     translation: "to regret",
     forms: {
       section_0: [
@@ -21128,7 +21128,7 @@ module.exports = [
     },
   },
   {
-    word "bergen",
+    word: "bergen",
     translation: "(transitive) to store, to stash away, (transitive) to salvage (a vessel)",
     forms: {
       section_0: [
@@ -21158,7 +21158,7 @@ module.exports = [
     },
   },
   {
-    word "berichten",
+    word: "berichten",
     translation: "(intransitive) to report, inform",
     forms: {
       section_0: [
@@ -21188,7 +21188,7 @@ module.exports = [
     },
   },
   {
-    word "berichtigen",
+    word: "berichtigen",
     translation: "to correct",
     forms: {
       section_0: [
@@ -21218,7 +21218,7 @@ module.exports = [
     },
   },
   {
-    word "bersten",
+    word: "bersten",
     translation: "Obsolete form of barsten",
     forms: {
       section_0: [
@@ -21248,7 +21248,7 @@ module.exports = [
     },
   },
   {
-    word "berücksichtigen",
+    word: "berücksichtigen",
     translation: "To consider, regard, take into account or consideration",
     forms: {
       section_0: [
@@ -21278,7 +21278,7 @@ module.exports = [
     },
   },
   {
-    word "berufen",
+    word: "berufen",
     translation: "to appoint",
     forms: {
       section_0: [
@@ -21308,7 +21308,7 @@ module.exports = [
     },
   },
   {
-    word "beruhen",
+    word: "beruhen",
     translation: "To consist, To depend, To base (on)",
     forms: {
       section_0: [
@@ -21338,7 +21338,7 @@ module.exports = [
     },
   },
   {
-    word "beruhigen",
+    word: "beruhigen",
     translation: "to calm",
     forms: {
       section_0: [
@@ -21368,7 +21368,7 @@ module.exports = [
     },
   },
   {
-    word "berühren",
+    word: "berühren",
     translation: "to touch",
     forms: {
       section_0: [
@@ -21398,11 +21398,11 @@ module.exports = [
     },
   },
   {
-    word "berußen",
+    word: "berußen",
     translation: "to smut",
   },
   {
-    word "besänftigen",
+    word: "besänftigen",
     translation: "to appease, to soothe",
     forms: {
       section_0: [
@@ -21432,7 +21432,7 @@ module.exports = [
     },
   },
   {
-    word "beschädigen",
+    word: "beschädigen",
     translation: "to damage",
     forms: {
       section_0: [
@@ -21462,7 +21462,7 @@ module.exports = [
     },
   },
   {
-    word "beschaffen",
+    word: "beschaffen",
     translation: "To purchase or procure, To obtain or acquire",
     forms: {
       section_0: [
@@ -21492,7 +21492,7 @@ module.exports = [
     },
   },
   {
-    word "beschäftigen",
+    word: "beschäftigen",
     translation: "(reflexive) to keep oneself busy with smth, sich beschäftigen mit etw, to concern oneself",
     forms: {
       section_0: [
@@ -21522,7 +21522,7 @@ module.exports = [
     },
   },
   {
-    word "beschämen",
+    word: "beschämen",
     translation: "to embarrass; to humiliate",
     forms: {
       section_0: [
@@ -21552,7 +21552,7 @@ module.exports = [
     },
   },
   {
-    word "beschatten",
+    word: "beschatten",
     translation: "(to block light or to secretly follow) to shadow",
     forms: {
       section_0: [
@@ -21582,7 +21582,7 @@ module.exports = [
     },
   },
   {
-    word "bescheiden",
+    word: "bescheiden",
     translation: "(law or administration) to notify, to inform, to admit",
     forms: {
       section_0: [
@@ -21612,7 +21612,7 @@ module.exports = [
     },
   },
   {
-    word "bescheinigen",
+    word: "bescheinigen",
     translation: "to attest, to certify",
     forms: {
       section_0: [
@@ -21642,7 +21642,7 @@ module.exports = [
     },
   },
   {
-    word "bescheißen",
+    word: "bescheißen",
     translation: "(colloquial, vulgar) to deceive somebody",
     forms: {
       section_0: [
@@ -21672,7 +21672,7 @@ module.exports = [
     },
   },
   {
-    word "bescheren",
+    word: "bescheren",
     translation: "To give, bestow, present (chiefly of Christmas presents), To allot (chiefly by God or fate)",
     forms: {
       section_0: [
@@ -21702,7 +21702,7 @@ module.exports = [
     },
   },
   {
-    word "beschichten",
+    word: "beschichten",
     translation: "To coat, cover, To face, laminate",
     forms: {
       section_0: [
@@ -21732,7 +21732,7 @@ module.exports = [
     },
   },
   {
-    word "beschießen",
+    word: "beschießen",
     translation: "To bombard",
     forms: {
       section_0: [
@@ -21762,7 +21762,7 @@ module.exports = [
     },
   },
   {
-    word "beschimpfen",
+    word: "beschimpfen",
     translation: "(transitive) to insult, swear at, call names, call a liar (etc), abuse",
     forms: {
       section_0: [
@@ -21792,11 +21792,11 @@ module.exports = [
     },
   },
   {
-    word "beschirmen",
+    word: "beschirmen",
     translation: "(transitive, elevated) to protect, to shield, (transitive, elevated) to stretch out forming a screen, (transitive, elevated) to put on a lampshade, (transitive, elevated) to guard, to look after, to sentinel",
   },
   {
-    word "beschlafen",
+    word: "beschlafen",
     translation: "(dated) to sleep with, to sleep on (a matter)",
     forms: {
       section_0: [
@@ -21826,7 +21826,7 @@ module.exports = [
     },
   },
   {
-    word "beschlagen",
+    word: "beschlagen",
     translation: "to mount, to fit with nails, studs, clasps, etc, to furl (a sail), to stamp, flatten, to grow moldy or tarnished",
     forms: {
       section_0: [
@@ -21856,7 +21856,7 @@ module.exports = [
     },
   },
   {
-    word "beschlagnahmen",
+    word: "beschlagnahmen",
     translation: "To seize, appropriate, To confiscate, impound, To requisition, To levy",
     forms: {
       section_0: [
@@ -21886,7 +21886,7 @@ module.exports = [
     },
   },
   {
-    word "beschleunigen",
+    word: "beschleunigen",
     translation: "to accelerate",
     forms: {
       section_0: [
@@ -21916,7 +21916,7 @@ module.exports = [
     },
   },
   {
-    word "beschließen",
+    word: "beschließen",
     translation: "to end, to close, to decide",
     forms: {
       section_0: [
@@ -21946,7 +21946,7 @@ module.exports = [
     },
   },
   {
-    word "beschmutzen",
+    word: "beschmutzen",
     translation: "make dirty, stain (also figurative)",
     forms: {
       section_0: [
@@ -21976,7 +21976,7 @@ module.exports = [
     },
   },
   {
-    word "beschneiden",
+    word: "beschneiden",
     translation: "(medicine or religion) to circumcise, (horticulture) to trim",
     forms: {
       section_0: [
@@ -22006,7 +22006,7 @@ module.exports = [
     },
   },
   {
-    word "beschönigen",
+    word: "beschönigen",
     translation: "to whitewash",
     forms: {
       section_0: [
@@ -22036,15 +22036,15 @@ module.exports = [
     },
   },
   {
-    word "beschottern",
+    word: "beschottern",
     translation: "(railway) to gravel, to ballast",
   },
   {
-    word "beschränken",
+    word: "beschränken",
     translation: "to limit; to restrict",
   },
   {
-    word "beschreiben",
+    word: "beschreiben",
     translation: "(transitive, to represent in words) to describe, (transitive, mathematics, to give rise to a geometrical structure) to describe, (transitive) to write on, (computing, transitive) to write (record data) to",
     forms: {
       section_0: [
@@ -22074,7 +22074,7 @@ module.exports = [
     },
   },
   {
-    word "beschriften",
+    word: "beschriften",
     translation: "to label (by writing on it, or by using a written label)",
     forms: {
       section_0: [
@@ -22104,7 +22104,7 @@ module.exports = [
     },
   },
   {
-    word "beschuldigen",
+    word: "beschuldigen",
     translation: "(transitive) to accuse, blame",
     forms: {
       section_0: [
@@ -22134,11 +22134,11 @@ module.exports = [
     },
   },
   {
-    word "beschulen",
+    word: "beschulen",
     translation: "(administrative) to provide with (schools and) school lessons, (officialese) to give somebody school lessons",
   },
   {
-    word "beschützen",
+    word: "beschützen",
     translation: "to protect",
     forms: {
       section_0: [
@@ -22168,7 +22168,7 @@ module.exports = [
     },
   },
   {
-    word "beschweren",
+    word: "beschweren",
     translation: "(reflexive) to complain, (transitive) to weight, to weight down",
     forms: {
       section_0: [
@@ -22198,7 +22198,7 @@ module.exports = [
     },
   },
   {
-    word "beschwichtigen",
+    word: "beschwichtigen",
     translation: "to assuage; to conciliate; to pacify",
     forms: {
       section_0: [
@@ -22228,11 +22228,11 @@ module.exports = [
     },
   },
   {
-    word "beschwindeln",
+    word: "beschwindeln",
     translation: "(transitive) to swindle",
   },
   {
-    word "beschwören",
+    word: "beschwören",
     translation: "(transitive) to conjure, (transitive) to swear to (something), (transitive, occult) to evoke, to summon",
     forms: {
       section_0: [
@@ -22262,7 +22262,7 @@ module.exports = [
     },
   },
   {
-    word "beseelen",
+    word: "beseelen",
     translation: "to animate, to inspire",
     forms: {
       section_0: [
@@ -22292,7 +22292,7 @@ module.exports = [
     },
   },
   {
-    word "beseitigen",
+    word: "beseitigen",
     translation: "to dispose of (get rid of something), remove, eliminate, (slang) to eliminate (kill)",
     forms: {
       section_0: [
@@ -22322,7 +22322,7 @@ module.exports = [
     },
   },
   {
-    word "besetzen",
+    word: "besetzen",
     translation: "to occupy",
     forms: {
       section_0: [
@@ -22352,11 +22352,11 @@ module.exports = [
     },
   },
   {
-    word "besichern",
+    word: "besichern",
     translation: "to collateralize",
   },
   {
-    word "besichtigen",
+    word: "besichtigen",
     translation: "to inspect, to visit (It differs from besuchen, which means to visit too)",
     forms: {
       section_0: [
@@ -22386,7 +22386,7 @@ module.exports = [
     },
   },
   {
-    word "besiegen",
+    word: "besiegen",
     translation: "(transitive) to defeat (to overcome in battle or contest)",
     forms: {
       section_0: [
@@ -22416,7 +22416,7 @@ module.exports = [
     },
   },
   {
-    word "besinnen",
+    word: "besinnen",
     translation: "(reflexive) to reflect; to think, (reflexive) to remember",
     forms: {
       section_0: [
@@ -22446,7 +22446,7 @@ module.exports = [
     },
   },
   {
-    word "besitzen",
+    word: "besitzen",
     translation: "to own, to possess, to have",
     forms: {
       section_0: [
@@ -22476,7 +22476,7 @@ module.exports = [
     },
   },
   {
-    word "besohlen",
+    word: "besohlen",
     translation: "to sole",
     forms: {
       section_0: [
@@ -22506,7 +22506,7 @@ module.exports = [
     },
   },
   {
-    word "besorgen",
+    word: "besorgen",
     translation: "(transitive) to get, to obtain, (transitive) to deal, to manage, (vulgar) to give it to someone",
     forms: {
       section_0: [
@@ -22536,7 +22536,7 @@ module.exports = [
     },
   },
   {
-    word "besprechen",
+    word: "besprechen",
     translation: "to discuss (to converse or debate concerning a particular topic)",
     forms: {
       section_0: [
@@ -22566,11 +22566,11 @@ module.exports = [
     },
   },
   {
-    word "besprengen",
+    word: "besprengen",
     translation: "to sprinkle, to spray",
   },
   {
-    word "bessern",
+    word: "bessern",
     translation: "to improve, to better",
     forms: {
       section_0: [
@@ -22600,7 +22600,7 @@ module.exports = [
     },
   },
   {
-    word "bestätigen",
+    word: "bestätigen",
     translation: "to confirm, corroborate",
     forms: {
       section_0: [
@@ -22630,7 +22630,7 @@ module.exports = [
     },
   },
   {
-    word "bestatten",
+    word: "bestatten",
     translation: "to bury",
     forms: {
       section_0: [
@@ -22660,7 +22660,7 @@ module.exports = [
     },
   },
   {
-    word "bestechen",
+    word: "bestechen",
     translation: "to bribe, to win over",
     forms: {
       section_0: [
@@ -22690,7 +22690,7 @@ module.exports = [
     },
   },
   {
-    word "bestehen",
+    word: "bestehen",
     translation: "(transitive) to succeed, to pass (an exam), (intransitive) to consist (aus ‎(“of”)), (intransitive) to exist, (intransitive) to insist (auf ‎(“on”))",
     forms: {
       section_0: [
@@ -22720,7 +22720,7 @@ module.exports = [
     },
   },
   {
-    word "bestehlen",
+    word: "bestehlen",
     translation: "(transitive) to steal from, to rob",
     forms: {
       section_0: [
@@ -22750,7 +22750,7 @@ module.exports = [
     },
   },
   {
-    word "besteigen",
+    word: "besteigen",
     translation: "(transitive, a mountain) to ascend, to climb",
     forms: {
       section_0: [
@@ -22780,7 +22780,7 @@ module.exports = [
     },
   },
   {
-    word "bestellen",
+    word: "bestellen",
     translation: "(transitive) to order, demand delivery, (transitive) to deliver",
     forms: {
       section_0: [
@@ -22810,7 +22810,7 @@ module.exports = [
     },
   },
   {
-    word "besteuern",
+    word: "besteuern",
     translation: "to tax",
     forms: {
       section_0: [
@@ -22840,7 +22840,7 @@ module.exports = [
     },
   },
   {
-    word "besticken",
+    word: "besticken",
     translation: "to embroider",
     forms: {
       section_0: [
@@ -22870,7 +22870,7 @@ module.exports = [
     },
   },
   {
-    word "bestimmen",
+    word: "bestimmen",
     translation: "to determine",
     forms: {
       section_0: [
@@ -22900,7 +22900,7 @@ module.exports = [
     },
   },
   {
-    word "bestrafen",
+    word: "bestrafen",
     translation: "to punish",
     forms: {
       section_0: [
@@ -22930,7 +22930,7 @@ module.exports = [
     },
   },
   {
-    word "bestrahlen",
+    word: "bestrahlen",
     translation: "to irradiate",
     forms: {
       section_0: [
@@ -22960,7 +22960,7 @@ module.exports = [
     },
   },
   {
-    word "bestreben",
+    word: "bestreben",
     translation: "to endeavour",
     forms: {
       section_0: [
@@ -22990,7 +22990,7 @@ module.exports = [
     },
   },
   {
-    word "bestreiten",
+    word: "bestreiten",
     translation: "to deny, to controvert",
     forms: {
       section_0: [
@@ -23020,7 +23020,7 @@ module.exports = [
     },
   },
   {
-    word "bestreuen",
+    word: "bestreuen",
     translation: "To sprinkle",
     forms: {
       section_0: [
@@ -23050,7 +23050,7 @@ module.exports = [
     },
   },
   {
-    word "bestücken",
+    word: "bestücken",
     translation: "to equip (with weapons, fashion accessories, transistors, etc)",
     forms: {
       section_0: [
@@ -23080,11 +23080,11 @@ module.exports = [
     },
   },
   {
-    word "bestuhlen",
+    word: "bestuhlen",
     translation: "to furnish with chairs",
   },
   {
-    word "besuchen",
+    word: "besuchen",
     translation: "to visit, to attend something",
     forms: {
       section_0: [
@@ -23114,7 +23114,7 @@ module.exports = [
     },
   },
   {
-    word "besudeln",
+    word: "besudeln",
     translation: "to sully",
     forms: {
       section_0: [
@@ -23144,11 +23144,11 @@ module.exports = [
     },
   },
   {
-    word "betanken",
+    word: "betanken",
     translation: "(transitive, to fill a fuel tank of a vehicle) to fuel",
   },
   {
-    word "betätigen",
+    word: "betätigen",
     translation: "to operate",
     forms: {
       section_0: [
@@ -23178,7 +23178,7 @@ module.exports = [
     },
   },
   {
-    word "beteiligen",
+    word: "beteiligen",
     translation: "(transitive) to let someone take part in something, (reflexive) participate",
     forms: {
       section_0: [
@@ -23208,7 +23208,7 @@ module.exports = [
     },
   },
   {
-    word "beten",
+    word: "beten",
     translation: "plural past indicative and subjunctive of bijten",
     forms: {
       section_0: [
@@ -23238,7 +23238,7 @@ module.exports = [
     },
   },
   {
-    word "beteuern",
+    word: "beteuern",
     translation: "to assert, affirm, aver, asseverate",
     forms: {
       section_0: [
@@ -23268,7 +23268,7 @@ module.exports = [
     },
   },
   {
-    word "betonen",
+    word: "betonen",
     translation: "(transitive) to show",
     forms: {
       section_0: [
@@ -23298,7 +23298,7 @@ module.exports = [
     },
   },
   {
-    word "betonieren",
+    word: "betonieren",
     translation: "(to cover with concrete) to concrete",
     forms: {
       section_0: [
@@ -23328,7 +23328,7 @@ module.exports = [
     },
   },
   {
-    word "betrachten",
+    word: "betrachten",
     translation: "(transitive) to exercise carefully",
     forms: {
       section_0: [
@@ -23358,7 +23358,7 @@ module.exports = [
     },
   },
   {
-    word "betragen",
+    word: "betragen",
     translation: "(intransitive) to amount to, to be, (reflexive) to behave",
     forms: {
       section_0: [
@@ -23388,7 +23388,7 @@ module.exports = [
     },
   },
   {
-    word "betreffen",
+    word: "betreffen",
     translation: "(transitive) to concern, to affect",
     forms: {
       section_0: [
@@ -23418,7 +23418,7 @@ module.exports = [
     },
   },
   {
-    word "betreiben",
+    word: "betreiben",
     translation: "(transitive) to run, to operate (a business, an engine, etc)",
     forms: {
       section_0: [
@@ -23448,7 +23448,7 @@ module.exports = [
     },
   },
   {
-    word "betreten",
+    word: "betreten",
     translation: "to enter",
     forms: {
       section_0: [
@@ -23478,7 +23478,7 @@ module.exports = [
     },
   },
   {
-    word "betreuen",
+    word: "betreuen",
     translation: "to look after; to take care",
     forms: {
       section_0: [
@@ -23508,7 +23508,7 @@ module.exports = [
     },
   },
   {
-    word "betrinken",
+    word: "betrinken",
     translation: "(reflexive) to get drunk (to intoxicate oneself with alcohol); to bedrink oneself",
     forms: {
       section_0: [
@@ -23538,7 +23538,7 @@ module.exports = [
     },
   },
   {
-    word "betrüben",
+    word: "betrüben",
     translation: "to sadden (make sad or unhappy)",
     forms: {
       section_0: [
@@ -23568,7 +23568,7 @@ module.exports = [
     },
   },
   {
-    word "betrügen",
+    word: "betrügen",
     translation: "(transitive) to cheat; to swindle, (transitive, law) to defraud, (transitive, marriage) to deceive",
     forms: {
       section_0: [
@@ -23598,7 +23598,7 @@ module.exports = [
     },
   },
   {
-    word "betteln",
+    word: "betteln",
     translation: "to beg",
     forms: {
       section_0: [
@@ -23628,7 +23628,7 @@ module.exports = [
     },
   },
   {
-    word "betten",
+    word: "betten",
     translation: "to bed (place in a bed)",
     forms: {
       section_0: [
@@ -23658,7 +23658,7 @@ module.exports = [
     },
   },
   {
-    word "beugen",
+    word: "beugen",
     translation: "to bow, to inflect",
     forms: {
       section_0: [
@@ -23688,7 +23688,7 @@ module.exports = [
     },
   },
   {
-    word "beunruhigen",
+    word: "beunruhigen",
     translation: "to worry",
     forms: {
       section_0: [
@@ -23718,7 +23718,7 @@ module.exports = [
     },
   },
   {
-    word "beurteilen",
+    word: "beurteilen",
     translation: "(transitive) to form an opinion on, to judge",
     forms: {
       section_0: [
@@ -23748,7 +23748,7 @@ module.exports = [
     },
   },
   {
-    word "bevölkern",
+    word: "bevölkern",
     translation: "to populate",
     forms: {
       section_0: [
@@ -23778,11 +23778,11 @@ module.exports = [
     },
   },
   {
-    word "bevollmächtigen",
+    word: "bevollmächtigen",
     translation: "to authorize, to give power of attorney",
   },
   {
-    word "bevorstehen",
+    word: "bevorstehen",
     translation: "To be imminent, To approach, To impend",
     forms: {
       section_0: [
@@ -23812,7 +23812,7 @@ module.exports = [
     },
   },
   {
-    word "bevorzugen",
+    word: "bevorzugen",
     translation: "to favor, to prefer",
     forms: {
       section_0: [
@@ -23842,7 +23842,7 @@ module.exports = [
     },
   },
   {
-    word "bewachen",
+    word: "bewachen",
     translation: "to guard",
     forms: {
       section_0: [
@@ -23872,7 +23872,7 @@ module.exports = [
     },
   },
   {
-    word "bewaffnen",
+    word: "bewaffnen",
     translation: "to arm (to supply with weapons)",
     forms: {
       section_0: [
@@ -23902,15 +23902,15 @@ module.exports = [
     },
   },
   {
-    word "bewahren",
+    word: "bewahren",
     translation: "to keep, to preserve (to maintain the condition of)",
   },
   {
-    word "bewahrheiten",
+    word: "bewahrheiten",
     translation: "(reflexive) to prove true, (reflexive) to come true",
   },
   {
-    word "bewältigen",
+    word: "bewältigen",
     translation: "(transitive) to handle, to cope with",
     forms: {
       section_0: [
@@ -23940,7 +23940,7 @@ module.exports = [
     },
   },
   {
-    word "bewässern",
+    word: "bewässern",
     translation: "(horticulture) to water",
     forms: {
       section_0: [
@@ -23970,7 +23970,7 @@ module.exports = [
     },
   },
   {
-    word "bewegen",
+    word: "bewegen",
     translation: "(intransitive, sometimes reflexive) to move, to be in motion, (transitive) to move, to cause to be in motion, (transitive) to budge, to motivate, to spur, to induce",
     forms: {
       section_0: [
@@ -24000,11 +24000,11 @@ module.exports = [
     },
   },
   {
-    word "bewehren",
+    word: "bewehren",
     translation: "(engineering) to armor, to reinforce, (military, dated) to arm, to fortify",
   },
   {
-    word "beweisen",
+    word: "beweisen",
     translation: "to prove",
     forms: {
       section_0: [
@@ -24034,7 +24034,7 @@ module.exports = [
     },
   },
   {
-    word "bewerben",
+    word: "bewerben",
     translation: "(reflexive) to apply",
     forms: {
       section_0: [
@@ -24064,11 +24064,11 @@ module.exports = [
     },
   },
   {
-    word "bewerkstelligen",
+    word: "bewerkstelligen",
     translation: "(transitive) to bring about, realize",
   },
   {
-    word "bewerten",
+    word: "bewerten",
     translation: "to evaluate, assess",
     forms: {
       section_0: [
@@ -24098,7 +24098,7 @@ module.exports = [
     },
   },
   {
-    word "bewirken",
+    word: "bewirken",
     translation: "to bring about (to cause to take place)",
     forms: {
       section_0: [
@@ -24128,7 +24128,7 @@ module.exports = [
     },
   },
   {
-    word "bewirten",
+    word: "bewirten",
     translation: "to treat, to feast, to regale, to entertain",
     forms: {
       section_0: [
@@ -24158,7 +24158,7 @@ module.exports = [
     },
   },
   {
-    word "bewirtschaften",
+    word: "bewirtschaften",
     translation: "administer, manage",
     forms: {
       section_0: [
@@ -24188,7 +24188,7 @@ module.exports = [
     },
   },
   {
-    word "bewohnen",
+    word: "bewohnen",
     translation: "(transitive) to inhabit, to occupy",
     forms: {
       section_0: [
@@ -24218,7 +24218,7 @@ module.exports = [
     },
   },
   {
-    word "bewundern",
+    word: "bewundern",
     translation: "to admire",
     forms: {
       section_0: [
@@ -24248,11 +24248,11 @@ module.exports = [
     },
   },
   {
-    word "beybringen",
+    word: "beybringen",
     translation: "Obsolete spelling of beibringen",
   },
   {
-    word "bezahlen",
+    word: "bezahlen",
     translation: "to pay",
     forms: {
       section_0: [
@@ -24282,7 +24282,7 @@ module.exports = [
     },
   },
   {
-    word "bezaubern",
+    word: "bezaubern",
     translation: "to enchant, to fascinate",
     forms: {
       section_0: [
@@ -24312,7 +24312,7 @@ module.exports = [
     },
   },
   {
-    word "bezeichnen",
+    word: "bezeichnen",
     translation: "to name (give a name to), call, designate, to identify, indicate",
     forms: {
       section_0: [
@@ -24342,7 +24342,7 @@ module.exports = [
     },
   },
   {
-    word "bezeugen",
+    word: "bezeugen",
     translation: "to witness, to testify",
     forms: {
       section_0: [
@@ -24372,7 +24372,7 @@ module.exports = [
     },
   },
   {
-    word "bezichtigen",
+    word: "bezichtigen",
     translation: "(transitive, formal) to behold, (transitive, formal) to visit",
     forms: {
       section_0: [
@@ -24402,7 +24402,7 @@ module.exports = [
     },
   },
   {
-    word "beziehen",
+    word: "beziehen",
     translation: "to move in, to cover, to upholster, (reflexive) to refer",
     forms: {
       section_0: [
@@ -24432,7 +24432,7 @@ module.exports = [
     },
   },
   {
-    word "beziffern",
+    word: "beziffern",
     translation: "To estimate, (reflexive) To number",
     forms: {
       section_0: [
@@ -24462,7 +24462,7 @@ module.exports = [
     },
   },
   {
-    word "bezweifeln",
+    word: "bezweifeln",
     translation: "(transitive) to doubt",
     forms: {
       section_0: [
@@ -24492,7 +24492,7 @@ module.exports = [
     },
   },
   {
-    word "bezwingen",
+    word: "bezwingen",
     translation: "to overcome, to defeat",
     forms: {
       section_0: [
@@ -24522,7 +24522,7 @@ module.exports = [
     },
   },
   {
-    word "biegen",
+    word: "biegen",
     translation: "(transitive, auxiliary: “haben”) to bend; to form (something) into a curve, (reflexive, auxiliary: “haben”) to have a curved shape, (intransitive, auxiliary: “sein”) to turn; to round a corner; to travel in a curved path",
     forms: {
       section_0: [
@@ -24552,11 +24552,11 @@ module.exports = [
     },
   },
   {
-    word "bieren",
+    word: "bieren",
     translation: "(informal) drinking beer",
   },
   {
-    word "bieten",
+    word: "bieten",
     translation: "(transitive) to offer; to present, (transitive or intransitive) to bid; to offer to pay a certain price, (reflexive, of an opportunity) to arise; to occur",
     forms: {
       section_0: [
@@ -24586,7 +24586,7 @@ module.exports = [
     },
   },
   {
-    word "bilden",
+    word: "bilden",
     translation: "(transitive) to form, (reflexive) to educate oneself",
     forms: {
       section_0: [
@@ -24616,7 +24616,7 @@ module.exports = [
     },
   },
   {
-    word "billigen",
+    word: "billigen",
     translation: "to approve, to accept",
     forms: {
       section_0: [
@@ -24646,7 +24646,7 @@ module.exports = [
     },
   },
   {
-    word "bimmeln",
+    word: "bimmeln",
     translation: "to jingle; to chime (make the sound of a small bell)",
     forms: {
       section_0: [
@@ -24676,7 +24676,7 @@ module.exports = [
     },
   },
   {
-    word "binden",
+    word: "binden",
     translation: "(transitive) to tie, (transitive) to wrap, (transitive) to bind (generally, legally/contractually, of food)",
     forms: {
       section_0: [
@@ -24706,11 +24706,11 @@ module.exports = [
     },
   },
   {
-    word "Bindfäden regnen",
+    word: "Bindfäden regnen",
     translation: "(idiomatic) To rain cats and dogs, rain heavily or copiously (literally to rain yarn)",
   },
   {
-    word "bitten",
+    word: "bitten",
     translation: "past participle of bite",
     forms: {
       section_0: [
@@ -24740,19 +24740,19 @@ module.exports = [
     },
   },
   {
-    word "biwakieren",
+    word: "biwakieren",
     translation: "to bivouac",
   },
   {
-    word "blaffen",
+    word: "blaffen",
     translation: "(intransitive) to bark, like a canine and certain others species, (intransitive) to shout rudely etc, (intransitive) to grumble, notably said of a hungry stomach, (intransitive) to utter pointless sounds, eg protest or argue in vain",
   },
   {
-    word "blaken",
+    word: "blaken",
     translation: "(intransitive) to scorch, blaze, (intransitive, figuratively) to be extremely good, to be full of (something)",
   },
   {
-    word "blamieren",
+    word: "blamieren",
     translation: "(transitive) to embarrass, (reflexive) to disgrace oneself",
     forms: {
       section_0: [
@@ -24782,11 +24782,11 @@ module.exports = [
     },
   },
   {
-    word "blanchieren",
+    word: "blanchieren",
     translation: "(cooking) to blanche",
   },
   {
-    word "blasen",
+    word: "blasen",
     translation: "(transitive or intransitive) to blow, (transitive, music) to play (a wind instrument), (vulgar) to fellate, to perform oral sex",
     forms: {
       section_0: [
@@ -24816,11 +24816,11 @@ module.exports = [
     },
   },
   {
-    word "blassen",
+    word: "blassen",
     translation: "Switzerland and Liechtenstein standard spelling of blaßen",
   },
   {
-    word "blättern",
+    word: "blättern",
     translation: "to browse",
     forms: {
       section_0: [
@@ -24850,19 +24850,19 @@ module.exports = [
     },
   },
   {
-    word "blau machen",
+    word: "blau machen",
     translation: "To (illegally) stop working for one day",
   },
   {
-    word "blauen",
+    word: "blauen",
     translation: "(poetic) to turn blue",
   },
   {
-    word "Blech reden",
+    word: "Blech reden",
     translation: "(idiomatic) To talk nonsense",
   },
   {
-    word "bleiben",
+    word: "bleiben",
     translation: "(intransitive) to remain (to continue to be), (intransitive, + infinitive) to keep (on); to continue (see usage notes below), (intransitive) to stay; to remain in a place, (intransitive) to be; to be stuck; implying tardiness, (intransitive, + dative) to be left for someone, (intransitive, + bei) to stick with; to stay with",
     forms: {
       section_0: [
@@ -24892,7 +24892,7 @@ module.exports = [
     },
   },
   {
-    word "bleichen",
+    word: "bleichen",
     translation: "(transitive, auxiliary: “haben”) to bleach, (intransitive, auxiliary: “sein”) to fade, to lose colour",
     forms: {
       section_0: [
@@ -24922,7 +24922,7 @@ module.exports = [
     },
   },
   {
-    word "blenden",
+    word: "blenden",
     translation: "(transitive, archaic) to blind",
     forms: {
       section_0: [
@@ -24952,7 +24952,7 @@ module.exports = [
     },
   },
   {
-    word "blicken",
+    word: "blicken",
     translation: "(intransitive) To become pale, (intransitive) To shine",
     forms: {
       section_0: [
@@ -24982,7 +24982,7 @@ module.exports = [
     },
   },
   {
-    word "blinken",
+    word: "blinken",
     translation: "(intransitive) to shine, to glitter (reflect light)",
     forms: {
       section_0: [
@@ -25012,7 +25012,7 @@ module.exports = [
     },
   },
   {
-    word "blinzeln",
+    word: "blinzeln",
     translation: "to squint",
     forms: {
       section_0: [
@@ -25042,11 +25042,11 @@ module.exports = [
     },
   },
   {
-    word "blitzdingsen",
+    word: "blitzdingsen",
     translation: "to erase someon(e)'(s) memories of a specific event",
   },
   {
-    word "blitzen",
+    word: "blitzen",
     translation: "(intransitive) to lighten, (intransitive) to flash, (intransitive) to sparkle, (transitive, speed camera or red light camera) to flash",
     forms: {
       section_0: [
@@ -25076,7 +25076,7 @@ module.exports = [
     },
   },
   {
-    word "blockieren",
+    word: "blockieren",
     translation: "(transitive) to block, (transitive, transport) to lock",
     forms: {
       section_0: [
@@ -25106,7 +25106,7 @@ module.exports = [
     },
   },
   {
-    word "blöken",
+    word: "blöken",
     translation: "to bleat, to baa (make the sound of sheep and some other animals)",
     forms: {
       section_0: [
@@ -25136,15 +25136,15 @@ module.exports = [
     },
   },
   {
-    word "blondieren",
+    word: "blondieren",
     translation: "(of hair) to dye blond",
   },
   {
-    word "blubbern",
+    word: "blubbern",
     translation: "to bubble (to rise up in bubbles)",
   },
   {
-    word "bluffen",
+    word: "bluffen",
     translation: "to bluff",
     forms: {
       section_0: [
@@ -25174,7 +25174,7 @@ module.exports = [
     },
   },
   {
-    word "blühen",
+    word: "blühen",
     translation: "to blossom or bloom, to thrive or flourish",
     forms: {
       section_0: [
@@ -25204,7 +25204,7 @@ module.exports = [
     },
   },
   {
-    word "bluten",
+    word: "bluten",
     translation: "to bleed",
     forms: {
       section_0: [
@@ -25234,7 +25234,7 @@ module.exports = [
     },
   },
   {
-    word "bohnern",
+    word: "bohnern",
     translation: "to polish with wax, (regional) to scrub",
     forms: {
       section_0: [
@@ -25264,7 +25264,7 @@ module.exports = [
     },
   },
   {
-    word "bohren",
+    word: "bohren",
     translation: "to bore, to drill",
     forms: {
       section_0: [
@@ -25294,15 +25294,15 @@ module.exports = [
     },
   },
   {
-    word "bölken",
+    word: "bölken",
     translation: "(most often of cattle) to bawl; to roar, (of people) to shout in a coarse manner; to bluster; to rumble",
   },
   {
-    word "bollern",
+    word: "bollern",
     translation: "to thud (make the sound of a dull impact)",
   },
   {
-    word "bombardieren",
+    word: "bombardieren",
     translation: "to bomb, to bombard",
     forms: {
       section_0: [
@@ -25332,15 +25332,15 @@ module.exports = [
     },
   },
   {
-    word "boomen",
+    word: "boomen",
     translation: "to boom",
   },
   {
-    word "booten",
+    word: "booten",
     translation: "(computing) to boot",
   },
   {
-    word "borgen",
+    word: "borgen",
     translation: "(transitive) to secure, to keep safe, (transitive) to guarantee",
     forms: {
       section_0: [
@@ -25370,11 +25370,11 @@ module.exports = [
     },
   },
   {
-    word "boßen",
+    word: "boßen",
     translation: "(transitive, southern Germany) To thrash",
   },
   {
-    word "boxen",
+    word: "boxen",
     translation: "third-person plural present indicative form of boxar",
     forms: {
       section_0: [
@@ -25404,7 +25404,7 @@ module.exports = [
     },
   },
   {
-    word "boykottieren",
+    word: "boykottieren",
     translation: "to boycott",
     forms: {
       section_0: [
@@ -25434,7 +25434,7 @@ module.exports = [
     },
   },
   {
-    word "branden",
+    word: "branden",
     translation: "(intransitive or transitive) to burn, (intransitive, of lamps and such) to be lit",
     forms: {
       section_0: [
@@ -25464,11 +25464,11 @@ module.exports = [
     },
   },
   {
-    word "brandschatzen",
+    word: "brandschatzen",
     translation: "(archaic) to extort under threat of arson, to set fire to",
   },
   {
-    word "braten",
+    word: "braten",
     translation: "(transitive or intransitive) to fry; to roast; to grill; to broil; to bake",
     forms: {
       section_0: [
@@ -25498,11 +25498,11 @@ module.exports = [
     },
   },
   {
-    word "bratschen",
+    word: "bratschen",
     translation: "to play a viola",
   },
   {
-    word "brauchen",
+    word: "brauchen",
     translation: "to need, to be in need of, to need to, to have to (in negation or with the adverb nur ‎(“just, only”))",
     forms: {
       section_0: [
@@ -25532,7 +25532,7 @@ module.exports = [
     },
   },
   {
-    word "brauen",
+    word: "brauen",
     translation: "to brew",
     forms: {
       section_0: [
@@ -25562,7 +25562,7 @@ module.exports = [
     },
   },
   {
-    word "bräunen",
+    word: "bräunen",
     translation: "to brown; to cook (something) in hot fat or oil until it becomes brown",
     forms: {
       section_0: [
@@ -25592,7 +25592,7 @@ module.exports = [
     },
   },
   {
-    word "brausen",
+    word: "brausen",
     translation: "to make noise; roar, to drive fast; race, (dated) to shower",
     forms: {
       section_0: [
@@ -25622,7 +25622,7 @@ module.exports = [
     },
   },
   {
-    word "brechen",
+    word: "brechen",
     translation: "(transitive, auxiliary: “haben”) to break, (transitive, physics, auxiliary: “haben”) to refract, (transitive or intransitive, colloquial, auxiliary: “haben”) to vomit, (transitive, auxiliary: “haben”) to fold, (intransitive, auxiliary: “sein”) to become broken; to break; to fracture",
     forms: {
       section_0: [
@@ -25652,7 +25652,7 @@ module.exports = [
     },
   },
   {
-    word "bremsen",
+    word: "bremsen",
     translation: "to brake, slow down, decelerate",
     forms: {
       section_0: [
@@ -25682,7 +25682,7 @@ module.exports = [
     },
   },
   {
-    word "brennen",
+    word: "brennen",
     translation: "(intransitive) to burn; to light on fire, (intransitive) to burn; to be on fire, (intransitive) to have a strong affection for; to be affectionate, (intransitive) to be lit, to be on (of a light or lamp), (intransitive) to irritate; to induce pain or another pianful sensation; to bite; to sting (especially in the eyes), (intransitive) to smart; to sting (a sore or wound), (transitive) to fire; to bake; to kiln (tiles and pottery), (transitive) to distil (alcoholic beverages such as schnapps), (transitive, computing) to burn; to archive data on a storage medium (such as CDs, DVDs, etc), (intransitive, figuratively) to emit heat, to roast, to bream (clean a ship etc by fire and scraping)",
     forms: {
       section_0: [
@@ -25712,11 +25712,11 @@ module.exports = [
     },
   },
   {
-    word "brillieren",
+    word: "brillieren",
     translation: "to shine",
   },
   {
-    word "bringen",
+    word: "bringen",
     translation: "(transitive) to bring; to fetch, (transitive) to take; to convey, (transitive) to lead; to cause; to bear, (transitive, with “an sich”) to acquire; to take possession of",
     forms: {
       section_0: [
@@ -25746,11 +25746,11 @@ module.exports = [
     },
   },
   {
-    word "brinnen",
+    word: "brinnen",
     translation: "(archaic or dialectal, intransitive) to burn",
   },
   {
-    word "bröckeln",
+    word: "bröckeln",
     translation: "to crumble",
     forms: {
       section_0: [
@@ -25780,11 +25780,11 @@ module.exports = [
     },
   },
   {
-    word "bromieren",
+    word: "bromieren",
     translation: "To brominate",
   },
   {
-    word "bröseln",
+    word: "bröseln",
     translation: "(intransitive) to crumble (of food), (intransitive) to crumble, fall apart, to disintegrate, (transitive) to crumble, to render into crumbs",
     forms: {
       section_0: [
@@ -25814,11 +25814,11 @@ module.exports = [
     },
   },
   {
-    word "browsen",
+    word: "browsen",
     translation: "(intransitive) to browse",
   },
   {
-    word "brühen",
+    word: "brühen",
     translation: "(with hot water, transitive) to blanch, pour seething water over, (with tea or coffee, transitive) to brew, put a pot on",
     forms: {
       section_0: [
@@ -25848,7 +25848,7 @@ module.exports = [
     },
   },
   {
-    word "brüllen",
+    word: "brüllen",
     translation: "(transitive and intransitive) to shout, roar",
     forms: {
       section_0: [
@@ -25878,7 +25878,7 @@ module.exports = [
     },
   },
   {
-    word "brummen",
+    word: "brummen",
     translation: "(bear etc) to growl, to hum, (of a business) to boom",
     forms: {
       section_0: [
@@ -25908,11 +25908,11 @@ module.exports = [
     },
   },
   {
-    word "brünieren",
+    word: "brünieren",
     translation: "To burnish, To blue (steel)",
   },
   {
-    word "brüskieren",
+    word: "brüskieren",
     translation: "to affront",
     forms: {
       section_0: [
@@ -25942,7 +25942,7 @@ module.exports = [
     },
   },
   {
-    word "brüten",
+    word: "brüten",
     translation: "(of birds) to brood",
     forms: {
       section_0: [
@@ -25972,7 +25972,7 @@ module.exports = [
     },
   },
   {
-    word "buchen",
+    word: "buchen",
     translation: "to book",
     forms: {
       section_0: [
@@ -26002,7 +26002,7 @@ module.exports = [
     },
   },
   {
-    word "buchstabieren",
+    word: "buchstabieren",
     translation: "to spell",
     forms: {
       section_0: [
@@ -26032,7 +26032,7 @@ module.exports = [
     },
   },
   {
-    word "bücken",
+    word: "bücken",
     translation: "(reflexive, with accusative) to bend down, to stoop",
     forms: {
       section_0: [
@@ -26062,7 +26062,7 @@ module.exports = [
     },
   },
   {
-    word "buddeln",
+    word: "buddeln",
     translation: "to dig (most often with one’s hands or paws)",
     forms: {
       section_0: [
@@ -26092,7 +26092,7 @@ module.exports = [
     },
   },
   {
-    word "büffeln",
+    word: "büffeln",
     translation: "to swot",
     forms: {
       section_0: [
@@ -26122,7 +26122,7 @@ module.exports = [
     },
   },
   {
-    word "bügeln",
+    word: "bügeln",
     translation: "to iron",
     forms: {
       section_0: [
@@ -26152,15 +26152,15 @@ module.exports = [
     },
   },
   {
-    word "bugsieren",
+    word: "bugsieren",
     translation: "to tow a ship, (colloquial) to put something in a place; to move something",
   },
   {
-    word "buhen",
+    word: "buhen",
     translation: "(intransitive) to boo",
   },
   {
-    word "bummeln",
+    word: "bummeln",
     translation: "to slack, to dawdle, to stroll, to ramble",
     forms: {
       section_0: [
@@ -26190,7 +26190,7 @@ module.exports = [
     },
   },
   {
-    word "bumsen",
+    word: "bumsen",
     translation: "(colloquial) to thud, (colloquial) to have sex",
     forms: {
       section_0: [
@@ -26220,7 +26220,7 @@ module.exports = [
     },
   },
   {
-    word "bündeln",
+    word: "bündeln",
     translation: "to bundle",
     forms: {
       section_0: [
@@ -26250,7 +26250,7 @@ module.exports = [
     },
   },
   {
-    word "bürsten",
+    word: "bürsten",
     translation: "to brush",
     forms: {
       section_0: [
@@ -26280,7 +26280,7 @@ module.exports = [
     },
   },
   {
-    word "büssen",
+    word: "büssen",
     translation: "Switzerland and Liechtenstein standard spelling of büßen",
     forms: {
       section_0: [
@@ -26310,7 +26310,7 @@ module.exports = [
     },
   },
   {
-    word "büßen",
+    word: "büßen",
     translation: "(transitive) to pay for, to make amends for, (intransitive, religion) to repent, to do penance",
     forms: {
       section_0: [
@@ -26340,23 +26340,23 @@ module.exports = [
     },
   },
   {
-    word "butzen",
+    word: "butzen",
     translation: "(obsolete) Synonym or alternative form of putzen",
   },
   {
-    word "bützen",
+    word: "bützen",
     translation: "(regional, chiefly western Germany) to kiss (most often in the context of Rhenish carnival)",
   },
   {
-    word "camouflieren",
+    word: "camouflieren",
     translation: "(dated) to camouflage",
   },
   {
-    word "changieren",
+    word: "changieren",
     translation: "(dated) to change",
   },
   {
-    word "charakterisieren",
+    word: "charakterisieren",
     translation: "(transitive) to characterize",
     forms: {
       section_0: [
@@ -26386,11 +26386,11 @@ module.exports = [
     },
   },
   {
-    word "chargieren",
+    word: "chargieren",
     translation: "(performing arts) to overact, (metallurgy, of a furnace) to feed, to load",
   },
   {
-    word "chatten",
+    word: "chatten",
     translation: "(intransitive, Internet) to chat",
     forms: {
       section_0: [
@@ -26420,11 +26420,11 @@ module.exports = [
     },
   },
   {
-    word "chauffieren",
+    word: "chauffieren",
     translation: "to chauffeur",
   },
   {
-    word "checken",
+    word: "checken",
     translation: "(transitive) to check (up), to inspect, examine",
     forms: {
       section_0: [
@@ -26454,7 +26454,7 @@ module.exports = [
     },
   },
   {
-    word "chiffrieren",
+    word: "chiffrieren",
     translation: "to encode",
     forms: {
       section_0: [
@@ -26484,51 +26484,51 @@ module.exports = [
     },
   },
   {
-    word "chillen",
+    word: "chillen",
     translation: "to chill (to relax, lie back)",
   },
   {
-    word "Chinesisch sprechen",
+    word: "Chinesisch sprechen",
     translation: "(idiomatic) to be unintelligible (literally to speak Chinese)",
   },
   {
-    word "chloroformieren",
+    word: "chloroformieren",
     translation: "To chloroform",
   },
   {
-    word "christianisieren",
+    word: "christianisieren",
     translation: "to Christianize",
   },
   {
-    word "colorieren",
+    word: "colorieren",
     translation: "Alternative spelling of kolorieren",
   },
   {
-    word "concessionieren",
+    word: "concessionieren",
     translation: "Obsolete spelling of konzessionieren",
   },
   {
-    word "coventrieren",
+    word: "coventrieren",
     translation: "To devastate or raze (a city) in the manner of the November 1940 aerial bombardment of Coventry, England",
   },
   {
-    word "coventrisieren",
+    word: "coventrisieren",
     translation: "Alternative form of coventrieren",
   },
   {
-    word "covern",
+    word: "covern",
     translation: "(music) to cover",
   },
   {
-    word "cremen",
+    word: "cremen",
     translation: "third-person plural present indicative form of cremar",
   },
   {
-    word "crèmen",
+    word: "crèmen",
     translation: "(Switzerland) Alternative form of cremen",
   },
   {
-    word "da sein",
+    word: "da sein",
     translation: "to be around, to exist",
     forms: {
       section_0: [
@@ -26558,7 +26558,7 @@ module.exports = [
     },
   },
   {
-    word "dahaben",
+    word: "dahaben",
     translation: "(colloquial) to have available, to have in stock, (colloquial) to have someone visiting",
     forms: {
       section_0: [
@@ -26588,7 +26588,7 @@ module.exports = [
     },
   },
   {
-    word "daherreden",
+    word: "daherreden",
     translation: "To speak foolishly; to drivel",
     forms: {
       section_0: [
@@ -26618,7 +26618,7 @@ module.exports = [
     },
   },
   {
-    word "dahinleben",
+    word: "dahinleben",
     translation: "to exist, (pejorative) to vegetate",
     forms: {
       section_0: [
@@ -26648,7 +26648,7 @@ module.exports = [
     },
   },
   {
-    word "dahinraffen",
+    word: "dahinraffen",
     translation: "(transitive) to kill (to cause a sudden death)",
     forms: {
       section_0: [
@@ -26678,7 +26678,7 @@ module.exports = [
     },
   },
   {
-    word "dämmen",
+    word: "dämmen",
     translation: "to dam, to insulate (a building)",
     forms: {
       section_0: [
@@ -26708,15 +26708,15 @@ module.exports = [
     },
   },
   {
-    word "dämonisieren",
+    word: "dämonisieren",
     translation: "to demonize",
   },
   {
-    word "Dampf ablassen",
+    word: "Dampf ablassen",
     translation: "(idiomatic, colloquial) to blow off steam",
   },
   {
-    word "dampfen",
+    word: "dampfen",
     translation: "To steam, to fume",
     forms: {
       section_0: [
@@ -26746,11 +26746,11 @@ module.exports = [
     },
   },
   {
-    word "dämpfen",
+    word: "dämpfen",
     translation: "to damp (to put out, as fire)",
   },
   {
-    word "danken",
+    word: "danken",
     translation: "(transitive) to thank",
     forms: {
       section_0: [
@@ -26780,7 +26780,7 @@ module.exports = [
     },
   },
   {
-    word "darbieten",
+    word: "darbieten",
     translation: "to offer or present something (eg as a religious offering), to exhibit a work of art or perform an artistic performance",
     forms: {
       section_0: [
@@ -26810,7 +26810,7 @@ module.exports = [
     },
   },
   {
-    word "darbringen",
+    word: "darbringen",
     translation: "(formal) to sacrifice, to offer, (formal) to perform",
     forms: {
       section_0: [
@@ -26840,7 +26840,7 @@ module.exports = [
     },
   },
   {
-    word "darlegen",
+    word: "darlegen",
     translation: "(formal) to present facts; to explain; to state",
     forms: {
       section_0: [
@@ -26870,7 +26870,7 @@ module.exports = [
     },
   },
   {
-    word "darstellen",
+    word: "darstellen",
     translation: "to depict; represent, to personate, to pose, to show",
     forms: {
       section_0: [
@@ -26900,7 +26900,7 @@ module.exports = [
     },
   },
   {
-    word "darüberliegen",
+    word: "darüberliegen",
     translation: "To overlay or cover, To top (offer or bid more than another)",
     forms: {
       section_0: [
@@ -26930,51 +26930,51 @@ module.exports = [
     },
   },
   {
-    word "das Bett hüten",
+    word: "das Bett hüten",
     translation: "(of a sick person) to stay in bed",
   },
   {
-    word "das Blaue vom Himmel versprechen",
+    word: "das Blaue vom Himmel versprechen",
     translation: "(idiomatic) To make a promise that cannot be fulfilled (literally: to promise [someone] the Blue out of the Blue Sky)",
   },
   {
-    word "das Gesicht verlieren",
+    word: "das Gesicht verlieren",
     translation: "to lose face",
   },
   {
-    word "das Handtuch werfen",
+    word: "das Handtuch werfen",
     translation: "(idiomatic, literally: 'to throw the towel') to throw in the towel",
   },
   {
-    word "das Kind beim Namen nennen",
+    word: "das Kind beim Namen nennen",
     translation: "(idiomatic) to call a spade a spade (to speak the truth)",
   },
   {
-    word "das Kind mit dem Bade ausschütten",
+    word: "das Kind mit dem Bade ausschütten",
     translation: "(idiomatic) to throw the baby out with the bathwater",
   },
   {
-    word "das Kriegsbeil ausgraben",
+    word: "das Kriegsbeil ausgraben",
     translation: "(idiomatic) to dig up the hatchet",
   },
   {
-    word "das Kriegsbeil begraben",
+    word: "das Kriegsbeil begraben",
     translation: "(idiomatic) bury the hatchet",
   },
   {
-    word "das macht nichts",
+    word: "das macht nichts",
     translation: "never mind, it does(n)'(t) matter (it is not important)",
   },
   {
-    word "das Wasser reichen können",
+    word: "das Wasser reichen können",
     translation: "(idiomatic) to hold a candle (literally: to hand the water)",
   },
   {
-    word "dastehen",
+    word: "dastehen",
     translation: "to stand there",
   },
   {
-    word "datieren",
+    word: "datieren",
     translation: "to date (ascribe a date to an object)",
     forms: {
       section_0: [
@@ -27004,7 +27004,7 @@ module.exports = [
     },
   },
   {
-    word "dauern",
+    word: "dauern",
     translation: "to last, to continue over time, to persist, to take (time)",
     forms: {
       section_0: [
@@ -27034,15 +27034,15 @@ module.exports = [
     },
   },
   {
-    word "Däumchen drehen",
+    word: "Däumchen drehen",
     translation: "(idiomatic) to twiddle on(e)'(s) thumbs",
   },
   {
-    word "Daumen drücken",
+    word: "Daumen drücken",
     translation: "to wish good luck; to cross on(e)'(s) fingers; (literally) to press on(e)'(s) thumbs",
   },
   {
-    word "davoneilen",
+    word: "davoneilen",
     translation: "(intransitive) to hurry away, to hasten away",
     forms: {
       section_0: [
@@ -27072,7 +27072,7 @@ module.exports = [
     },
   },
   {
-    word "davonfahren",
+    word: "davonfahren",
     translation: "(intransitive) to drive away; to pull away",
     forms: {
       section_0: [
@@ -27102,7 +27102,7 @@ module.exports = [
     },
   },
   {
-    word "davonkommen",
+    word: "davonkommen",
     translation: "to get off, to get away (To escape, usually with mild consequences), (with preposition mit) to get away with",
     forms: {
       section_0: [
@@ -27132,7 +27132,7 @@ module.exports = [
     },
   },
   {
-    word "davonlaufen",
+    word: "davonlaufen",
     translation: "to run away",
     forms: {
       section_0: [
@@ -27162,11 +27162,11 @@ module.exports = [
     },
   },
   {
-    word "dazufügen",
+    word: "dazufügen",
     translation: "to add to something",
   },
   {
-    word "dazugeben",
+    word: "dazugeben",
     translation: "to add to something",
     forms: {
       section_0: [
@@ -27196,7 +27196,7 @@ module.exports = [
     },
   },
   {
-    word "dazwischenkommen",
+    word: "dazwischenkommen",
     translation: "(intransitive) to get in the way",
     forms: {
       section_0: [
@@ -27226,11 +27226,11 @@ module.exports = [
     },
   },
   {
-    word "deaktivieren",
+    word: "deaktivieren",
     translation: "to deactivate",
   },
   {
-    word "dealen",
+    word: "dealen",
     translation: "to sell drugs",
     forms: {
       section_0: [
@@ -27260,7 +27260,7 @@ module.exports = [
     },
   },
   {
-    word "debattieren",
+    word: "debattieren",
     translation: "to debate",
     forms: {
       section_0: [
@@ -27290,19 +27290,19 @@ module.exports = [
     },
   },
   {
-    word "debuggen",
+    word: "debuggen",
     translation: "to debug",
   },
   {
-    word "debütieren",
+    word: "debütieren",
     translation: "to debut",
   },
   {
-    word "dechiffrieren",
+    word: "dechiffrieren",
     translation: "to decipher (to decode or decrypt a code or cipher)",
   },
   {
-    word "decken",
+    word: "decken",
     translation: "to cover (a roof, a loss, with a blanket, etc), (figuratively) to cover, to lay (as in laying the table), (soccer) to mark, (reflexive) to be congruent, to coincide",
     forms: {
       section_0: [
@@ -27332,15 +27332,15 @@ module.exports = [
     },
   },
   {
-    word "defäkieren",
+    word: "defäkieren",
     translation: "(intransitive) To defecate",
   },
   {
-    word "defenestrieren",
+    word: "defenestrieren",
     translation: "to defenestrate",
   },
   {
-    word "defilieren",
+    word: "defilieren",
     translation: "to march past; to parade past",
     forms: {
       section_0: [
@@ -27370,7 +27370,7 @@ module.exports = [
     },
   },
   {
-    word "definieren",
+    word: "definieren",
     translation: "to define",
     forms: {
       section_0: [
@@ -27400,15 +27400,15 @@ module.exports = [
     },
   },
   {
-    word "defragmentieren",
+    word: "defragmentieren",
     translation: "to defragment",
   },
   {
-    word "degustieren",
+    word: "degustieren",
     translation: "(Switzerland) to try (a food) critically, to determine how it tastes and smells",
   },
   {
-    word "dehnen",
+    word: "dehnen",
     translation: "to stretch",
     forms: {
       section_0: [
@@ -27438,11 +27438,11 @@ module.exports = [
     },
   },
   {
-    word "dehydrieren",
+    word: "dehydrieren",
     translation: "(organic chemistry) To dehydrogenate",
   },
   {
-    word "deklamieren",
+    word: "deklamieren",
     translation: "to declaim (to recite)",
     forms: {
       section_0: [
@@ -27472,7 +27472,7 @@ module.exports = [
     },
   },
   {
-    word "deklarieren",
+    word: "deklarieren",
     translation: "to declare (make a declaration; announce something formally or officially), (transitive, computing) to declare (explicitly include as part of a list of variables)",
     forms: {
       section_0: [
@@ -27502,15 +27502,15 @@ module.exports = [
     },
   },
   {
-    word "deklinieren",
+    word: "deklinieren",
     translation: "(grammar) to decline",
   },
   {
-    word "dekompilieren",
+    word: "dekompilieren",
     translation: "to decompile (to recreate the original source code)",
   },
   {
-    word "dekorieren",
+    word: "dekorieren",
     translation: "to decorate",
     forms: {
       section_0: [
@@ -27540,7 +27540,7 @@ module.exports = [
     },
   },
   {
-    word "delegieren",
+    word: "delegieren",
     translation: "to delegate",
     forms: {
       section_0: [
@@ -27570,11 +27570,11 @@ module.exports = [
     },
   },
   {
-    word "dematerialisieren",
+    word: "dematerialisieren",
     translation: "to dematerialize",
   },
   {
-    word "dementieren",
+    word: "dementieren",
     translation: "to deny (publicly or officially)",
     forms: {
       section_0: [
@@ -27604,11 +27604,11 @@ module.exports = [
     },
   },
   {
-    word "demobilisieren",
+    word: "demobilisieren",
     translation: "to demobilize",
   },
   {
-    word "demokratisieren",
+    word: "demokratisieren",
     translation: "to democratize",
     forms: {
       section_0: [
@@ -27638,7 +27638,7 @@ module.exports = [
     },
   },
   {
-    word "demonstrieren",
+    word: "demonstrieren",
     translation: "to demonstrate (to participate in or organize a public display of group opinion)",
     forms: {
       section_0: [
@@ -27668,7 +27668,7 @@ module.exports = [
     },
   },
   {
-    word "demontieren",
+    word: "demontieren",
     translation: "to dismantle",
     forms: {
       section_0: [
@@ -27698,15 +27698,15 @@ module.exports = [
     },
   },
   {
-    word "demoralisieren",
+    word: "demoralisieren",
     translation: "to demoralize",
   },
   {
-    word "demotivieren",
+    word: "demotivieren",
     translation: "to demotivate",
   },
   {
-    word "demütigen",
+    word: "demütigen",
     translation: "to humiliate",
     forms: {
       section_0: [
@@ -27736,51 +27736,51 @@ module.exports = [
     },
   },
   {
-    word "den Ast absägen, auf dem man sitzt",
+    word: "den Ast absägen, auf dem man sitzt",
     translation: "(idiomatic) to bite the hand that feeds you",
   },
   {
-    word "den Bach runter gehen",
+    word: "den Bach runter gehen",
     translation: "to go south (decline, fail)",
   },
   {
-    word "den Bach runtergehen",
+    word: "den Bach runtergehen",
     translation: "to go to hell in a handbasket (literally: to go down the stream)",
   },
   {
-    word "den Bock zum Gärtner machen",
+    word: "den Bock zum Gärtner machen",
     translation: "(idiomatic) put the fox in charge of the chickens",
   },
   {
-    word "den Faden verlieren",
+    word: "den Faden verlieren",
     translation: "(idiomatic) to lose the plot",
   },
   {
-    word "den Geist aufgeben",
+    word: "den Geist aufgeben",
     translation: "to give up the ghost",
   },
   {
-    word "den Löffel abgeben",
+    word: "den Löffel abgeben",
     translation: "(idiomatic) to bite the dust (literally: 'to hand over the spoon', 'to give away the spoon')",
   },
   {
-    word "den Nagel auf den Kopf treffen",
+    word: "den Nagel auf den Kopf treffen",
     translation: "(idiomatic) to hit the nail on the head",
   },
   {
-    word "den Rubikon überschreiten",
+    word: "den Rubikon überschreiten",
     translation: "cross the Rubicon (to make an irreversible decision)",
   },
   {
-    word "den Tod finden",
+    word: "den Tod finden",
     translation: "(chiefly literary) to die, usually in an accident or by homicide",
   },
   {
-    word "denaturieren",
+    word: "denaturieren",
     translation: "To denature",
   },
   {
-    word "denken",
+    word: "denken",
     translation: "(intransitive) to think [+ aan (object) = about, of]",
     forms: {
       section_0: [
@@ -27810,7 +27810,7 @@ module.exports = [
     },
   },
   {
-    word "denunzieren",
+    word: "denunzieren",
     translation: "to denounce, to inform against",
     forms: {
       section_0: [
@@ -27840,7 +27840,7 @@ module.exports = [
     },
   },
   {
-    word "deponieren",
+    word: "deponieren",
     translation: "(money) to deposit; to place, (waste) to deposit; to landfill",
     forms: {
       section_0: [
@@ -27870,19 +27870,19 @@ module.exports = [
     },
   },
   {
-    word "deregulieren",
+    word: "deregulieren",
     translation: "to deregulate",
   },
   {
-    word "desavouieren",
+    word: "desavouieren",
     translation: "to disavow",
   },
   {
-    word "desensibilisieren",
+    word: "desensibilisieren",
     translation: "to desensitize (cause to become insensitive)",
   },
   {
-    word "desertieren",
+    word: "desertieren",
     translation: "(military) to desert",
     forms: {
       section_0: [
@@ -27912,15 +27912,15 @@ module.exports = [
     },
   },
   {
-    word "designieren",
+    word: "designieren",
     translation: "to designate (mark out and make known; to point out; to name; to indicate)",
   },
   {
-    word "desillusionieren",
+    word: "desillusionieren",
     translation: "to disillusion",
   },
   {
-    word "desinfizieren",
+    word: "desinfizieren",
     translation: "to disinfect",
     forms: {
       section_0: [
@@ -27950,15 +27950,15 @@ module.exports = [
     },
   },
   {
-    word "desoxidieren",
+    word: "desoxidieren",
     translation: "To deoxidize",
   },
   {
-    word "destabilisieren",
+    word: "destabilisieren",
     translation: "to destabilize",
   },
   {
-    word "destillieren",
+    word: "destillieren",
     translation: "(chemistry) to distil (subject a substance to distillation)",
     forms: {
       section_0: [
@@ -27988,11 +27988,11 @@ module.exports = [
     },
   },
   {
-    word "detektieren",
+    word: "detektieren",
     translation: "To detect",
   },
   {
-    word "deuten",
+    word: "deuten",
     translation: "to interpret",
     forms: {
       section_0: [
@@ -28022,7 +28022,7 @@ module.exports = [
     },
   },
   {
-    word "diagnostizieren",
+    word: "diagnostizieren",
     translation: "to diagnose",
     forms: {
       section_0: [
@@ -28052,7 +28052,7 @@ module.exports = [
     },
   },
   {
-    word "dichten",
+    word: "dichten",
     translation: "(transitive) to close, (transitive) to stop up",
     forms: {
       section_0: [
@@ -28082,95 +28082,95 @@ module.exports = [
     },
   },
   {
-    word "die Bank sprengen",
+    word: "die Bank sprengen",
     translation: "(idiomatic) to break the bank",
   },
   {
-    word "die Beherrschung verlieren",
+    word: "die Beherrschung verlieren",
     translation: "to lose on(e)'(s) temper",
   },
   {
-    word "die Brust geben",
+    word: "die Brust geben",
     translation: "(intransitive, + dative) to nurse, to breastfeed (a baby)",
   },
   {
-    word "die Flinte ins Korn werfen",
+    word: "die Flinte ins Korn werfen",
     translation: "(idiomatic) to throw in the towel (to quit; to give up)",
   },
   {
-    word "die Hosen anhaben",
+    word: "die Hosen anhaben",
     translation: "(idiomatic) to wear the trousers (UK), to wear the pants (US)",
   },
   {
-    word "die kalte Schulter zeigen",
+    word: "die kalte Schulter zeigen",
     translation: "to give somebody the cold shoulder",
   },
   {
-    word "die Katze aus dem Sack lassen",
+    word: "die Katze aus dem Sack lassen",
     translation: "(idiomatic) to let the cat out of the bag",
   },
   {
-    word "die Klingen kreuzen",
+    word: "die Klingen kreuzen",
     translation: "(idiomatic) to cross swords",
   },
   {
-    word "die Kurve kratzen",
+    word: "die Kurve kratzen",
     translation: "(colloquial) to hit the road, to clear off, (colloquial) to take a turn, to escape (from an awkward position)",
   },
   {
-    word "die Nase voll haben",
+    word: "die Nase voll haben",
     translation: "(idiomatic) to be fed up (with something)",
   },
   {
-    word "die Radieschen von unten betrachten",
+    word: "die Radieschen von unten betrachten",
     translation: "(idiomatic, euphemistic) pushing up daisies",
   },
   {
-    word "die Schnauze voll haben",
+    word: "die Schnauze voll haben",
     translation: "(idiomatic) to be fed up",
   },
   {
-    word "die Spreu vom Weizen trennen",
+    word: "die Spreu vom Weizen trennen",
     translation: "(idiomatic) to separate the wheat from the chaff (to select only that which is of value)",
   },
   {
-    word "die zweite Geige spielen",
+    word: "die zweite Geige spielen",
     translation: "(idiomatic) to take a back seat, to play second fiddle (literally: to play the second violin)",
   },
   {
-    word "dienen",
+    word: "dienen",
     translation: "(transitive) to serve, (auxiliary, with te) to ought to, to be to, be expected to",
   },
   {
-    word "diffamieren",
+    word: "diffamieren",
     translation: "to vilify, to defame (say defamatory things about)",
   },
   {
-    word "differenzieren",
+    word: "differenzieren",
     translation: "to differentiate",
   },
   {
-    word "diffundieren",
+    word: "diffundieren",
     translation: "(chemistry, physics) To diffuse",
   },
   {
-    word "digerieren",
+    word: "digerieren",
     translation: "To digest",
   },
   {
-    word "diktieren",
+    word: "diktieren",
     translation: "to dictate",
   },
   {
-    word "dimerisieren",
+    word: "dimerisieren",
     translation: "(chemistry) To dimerize / dimerise",
   },
   {
-    word "dimmen",
+    word: "dimmen",
     translation: "(transitive) to dim, to make darker (especially a light), (intransitive, colloquial) to tone down oneself, to pipe down, to be quiet",
   },
   {
-    word "dingen",
+    word: "dingen",
     translation: "(transitive) to solicit",
     forms: {
       section_0: [
@@ -28200,11 +28200,11 @@ module.exports = [
     },
   },
   {
-    word "dinieren",
+    word: "dinieren",
     translation: "to dine",
   },
   {
-    word "dirigieren",
+    word: "dirigieren",
     translation: "(music) to conduct",
     forms: {
       section_0: [
@@ -28234,11 +28234,11 @@ module.exports = [
     },
   },
   {
-    word "diskreditieren",
+    word: "diskreditieren",
     translation: "to discredit",
   },
   {
-    word "diskriminieren",
+    word: "diskriminieren",
     translation: "to discriminate",
     forms: {
       section_0: [
@@ -28268,7 +28268,7 @@ module.exports = [
     },
   },
   {
-    word "diskutieren",
+    word: "diskutieren",
     translation: "to discuss",
     forms: {
       section_0: [
@@ -28298,19 +28298,19 @@ module.exports = [
     },
   },
   {
-    word "dissen",
+    word: "dissen",
     translation: "(intransitive) to leave, to go away, (transitive) to diss (to overwhelm someone with words)",
   },
   {
-    word "dissentieren",
+    word: "dissentieren",
     translation: "to dissent (to disagree)",
   },
   {
-    word "dissoziieren",
+    word: "dissoziieren",
     translation: "(chemistry) To dissociate",
   },
   {
-    word "distanzieren",
+    word: "distanzieren",
     translation: "to distance",
     forms: {
       section_0: [
@@ -28340,19 +28340,19 @@ module.exports = [
     },
   },
   {
-    word "disziplinieren",
+    word: "disziplinieren",
     translation: "to discipline",
   },
   {
-    word "divergieren",
+    word: "divergieren",
     translation: "(literally figuratively) to diverge (to run apart), (mathematics) to diverge",
   },
   {
-    word "diversifizieren",
+    word: "diversifizieren",
     translation: "to diversify",
   },
   {
-    word "dividieren",
+    word: "dividieren",
     translation: "(arithmetic) to divide",
     forms: {
       section_0: [
@@ -28382,7 +28382,7 @@ module.exports = [
     },
   },
   {
-    word "dokumentieren",
+    word: "dokumentieren",
     translation: "to document",
     forms: {
       section_0: [
@@ -28412,7 +28412,7 @@ module.exports = [
     },
   },
   {
-    word "dolmetschen",
+    word: "dolmetschen",
     translation: "to interpret (to act as an interpreter), (archaic) to translate",
     forms: {
       section_0: [
@@ -28442,11 +28442,11 @@ module.exports = [
     },
   },
   {
-    word "domestizieren",
+    word: "domestizieren",
     translation: "to domesticate",
   },
   {
-    word "dominieren",
+    word: "dominieren",
     translation: "to dominate",
     forms: {
       section_0: [
@@ -28476,7 +28476,7 @@ module.exports = [
     },
   },
   {
-    word "donnern",
+    word: "donnern",
     translation: "to thunder",
     forms: {
       section_0: [
@@ -28506,7 +28506,7 @@ module.exports = [
     },
   },
   {
-    word "dopen",
+    word: "dopen",
     translation: "(transitive) to dip, to immerse, (transitive, Christianity) to baptize, to christen, (transitive) to name (give a name to)",
     forms: {
       section_0: [
@@ -28536,11 +28536,11 @@ module.exports = [
     },
   },
   {
-    word "doppeln",
+    word: "doppeln",
     translation: "to double",
   },
   {
-    word "dösen",
+    word: "dösen",
     translation: "to doze (to be sleepy; to sleep lightly)",
     forms: {
       section_0: [
@@ -28570,7 +28570,7 @@ module.exports = [
     },
   },
   {
-    word "dotieren",
+    word: "dotieren",
     translation: "To endow, To dope or contaminate",
     forms: {
       section_0: [
@@ -28600,15 +28600,15 @@ module.exports = [
     },
   },
   {
-    word "doublieren",
+    word: "doublieren",
     translation: "Alternative spelling of dublieren",
   },
   {
-    word "downloaden",
+    word: "downloaden",
     translation: "(Internet) to download",
   },
   {
-    word "dramatisieren",
+    word: "dramatisieren",
     translation: "to dramatize",
     forms: {
       section_0: [
@@ -28638,7 +28638,7 @@ module.exports = [
     },
   },
   {
-    word "drängen",
+    word: "drängen",
     translation: "to press, to push",
     forms: {
       section_0: [
@@ -28668,7 +28668,7 @@ module.exports = [
     },
   },
   {
-    word "drankommen",
+    word: "drankommen",
     translation: "(colloquial) to touch, (colloquial) to be able to reach (an etwas + acc), (colloquial) to have on(e)'(s) go/turn",
     forms: {
       section_0: [
@@ -28698,15 +28698,15 @@ module.exports = [
     },
   },
   {
-    word "drapieren",
+    word: "drapieren",
     translation: "to drape",
   },
   {
-    word "draufdrücken",
+    word: "draufdrücken",
     translation: "(colloquial) to press, to push",
   },
   {
-    word "draufgehen",
+    word: "draufgehen",
     translation: "to fall apart",
     forms: {
       section_0: [
@@ -28736,7 +28736,7 @@ module.exports = [
     },
   },
   {
-    word "drehen",
+    word: "drehen",
     translation: "to turn, to revolve, rotate or roll, (cinematography) to shoot, to veer, to shape with a lathe",
     forms: {
       section_0: [
@@ -28766,7 +28766,7 @@ module.exports = [
     },
   },
   {
-    word "dreschen",
+    word: "dreschen",
     translation: "(transitive or intransitive) to thresh; to thrash",
     forms: {
       section_0: [
@@ -28796,7 +28796,7 @@ module.exports = [
     },
   },
   {
-    word "dressieren",
+    word: "dressieren",
     translation: "(animals) to train",
     forms: {
       section_0: [
@@ -28826,7 +28826,7 @@ module.exports = [
     },
   },
   {
-    word "dribbeln",
+    word: "dribbeln",
     translation: "(soccer) To dribble (to run with the ball, controlling its path with the feet), (basketball) To dribble",
     forms: {
       section_0: [
@@ -28856,7 +28856,7 @@ module.exports = [
     },
   },
   {
-    word "driften",
+    word: "driften",
     translation: "(intransitive) to drift (clarification of this German definition is being sought)",
     forms: {
       section_0: [
@@ -28886,7 +28886,7 @@ module.exports = [
     },
   },
   {
-    word "drillen",
+    word: "drillen",
     translation: "(transitive) to make vibrate, as with a pneumatic drill, (intransitive) to operate a pneumatic drill, (transitive) to drill, instruct by arduous exercise, notably in military context or style, (transitive) to domineer",
     forms: {
       section_0: [
@@ -28916,7 +28916,7 @@ module.exports = [
     },
   },
   {
-    word "dringen",
+    word: "dringen",
     translation: "(intransitive) to press, push, (intransitive) to insist, (intransitive) to force entry",
     forms: {
       section_0: [
@@ -28946,7 +28946,7 @@ module.exports = [
     },
   },
   {
-    word "drohen",
+    word: "drohen",
     translation: "to threaten",
     forms: {
       section_0: [
@@ -28976,7 +28976,7 @@ module.exports = [
     },
   },
   {
-    word "dröhnen",
+    word: "dröhnen",
     translation: "(intransitive) to boom; to thud; to roar (make a loud, dull sound; such as that of a military aircraft)",
     forms: {
       section_0: [
@@ -29006,7 +29006,7 @@ module.exports = [
     },
   },
   {
-    word "drosseln",
+    word: "drosseln",
     translation: "to curb, choke, throttle",
     forms: {
       section_0: [
@@ -29036,7 +29036,7 @@ module.exports = [
     },
   },
   {
-    word "drucken",
+    word: "drucken",
     translation: "to print",
     forms: {
       section_0: [
@@ -29066,7 +29066,7 @@ module.exports = [
     },
   },
   {
-    word "drücken",
+    word: "drücken",
     translation: "(transitive) to press; to push (eg, a door handle), (intransitive, reflexive) to shirk",
     forms: {
       section_0: [
@@ -29096,11 +29096,11 @@ module.exports = [
     },
   },
   {
-    word "dublieren",
+    word: "dublieren",
     translation: "(textiles) to double, (metalworking) to double, to plate, (billiards) to cushion",
   },
   {
-    word "ducken",
+    word: "ducken",
     translation: "(reflexive) to duck",
     forms: {
       section_0: [
@@ -29130,15 +29130,15 @@ module.exports = [
     },
   },
   {
-    word "duckmäusern",
+    word: "duckmäusern",
     translation: "(derogatory) to be submissive, to sneak (to hide)",
   },
   {
-    word "duellieren",
+    word: "duellieren",
     translation: "to duel",
   },
   {
-    word "duften",
+    word: "duften",
     translation: "to smell very pleasantly",
     forms: {
       section_0: [
@@ -29168,7 +29168,7 @@ module.exports = [
     },
   },
   {
-    word "dulden",
+    word: "dulden",
     translation: "third-person plural present indicative of duldar, third-person plural present subjunctive of duldar",
     forms: {
       section_0: [
@@ -29198,11 +29198,11 @@ module.exports = [
     },
   },
   {
-    word "dümpeln",
+    word: "dümpeln",
     translation: "(of boats) to be tied up bobbing up and down in the water, (figuratively) to be stuck; to be inactive or unsuccessful; to make no substantial progress",
   },
   {
-    word "düngen",
+    word: "düngen",
     translation: "to fertilize (a field)",
     forms: {
       section_0: [
@@ -29232,7 +29232,7 @@ module.exports = [
     },
   },
   {
-    word "dunkeln",
+    word: "dunkeln",
     translation: "to darken",
     forms: {
       section_0: [
@@ -29262,7 +29262,7 @@ module.exports = [
     },
   },
   {
-    word "dünken",
+    word: "dünken",
     translation: "(archaic) to seem (to appear)",
     forms: {
       section_0: [
@@ -29292,7 +29292,7 @@ module.exports = [
     },
   },
   {
-    word "dünsten",
+    word: "dünsten",
     translation: "(transitive, cooking) to steam, to braise, to stew",
     forms: {
       section_0: [
@@ -29322,15 +29322,15 @@ module.exports = [
     },
   },
   {
-    word "düpieren",
+    word: "düpieren",
     translation: "(transitive) to fool, to deceive, to dupe",
   },
   {
-    word "durch den Kakao ziehen",
+    word: "durch den Kakao ziehen",
     translation: "(idiomatic) to pull someon(e)'(s) leg, to make fun of somebody or something, to roast someone",
   },
   {
-    word "durchblättern",
+    word: "durchblättern",
     translation: "to thumb through (a book etc)",
     forms: {
       section_0: [
@@ -29360,7 +29360,7 @@ module.exports = [
     },
   },
   {
-    word "durchbluten",
+    word: "durchbluten",
     translation: "to bleed through",
     forms: {
       section_0: [
@@ -29390,7 +29390,7 @@ module.exports = [
     },
   },
   {
-    word "durchdenken",
+    word: "durchdenken",
     translation: "to think through, to reflect about, to deliberate",
     forms: {
       section_0: [
@@ -29420,7 +29420,7 @@ module.exports = [
     },
   },
   {
-    word "durchdrehen",
+    word: "durchdrehen",
     translation: "to freak out",
     forms: {
       section_0: [
@@ -29450,7 +29450,7 @@ module.exports = [
     },
   },
   {
-    word "durchdringen",
+    word: "durchdringen",
     translation: "(intransitive) to penetrate (with durch), (intransitive) to permeate (with durch)",
     forms: {
       section_0: [
@@ -29480,7 +29480,7 @@ module.exports = [
     },
   },
   {
-    word "durchfahren",
+    word: "durchfahren",
     translation: "To drive through",
     forms: {
       section_0: [
@@ -29510,7 +29510,7 @@ module.exports = [
     },
   },
   {
-    word "durchfallen",
+    word: "durchfallen",
     translation: "(with bei + dative) to fail, eg an examination, to fall flat; to flop, (transitive, with lassen) to fail (a student, a candidate)",
     forms: {
       section_0: [
@@ -29540,11 +29540,11 @@ module.exports = [
     },
   },
   {
-    word "durchfärben",
+    word: "durchfärben",
     translation: "(transitive) to imbue (to dye thoroughly)",
   },
   {
-    word "durchgehen",
+    word: "durchgehen",
     translation: "to walk through",
     forms: {
       section_0: [
@@ -29574,7 +29574,7 @@ module.exports = [
     },
   },
   {
-    word "durchhalten",
+    word: "durchhalten",
     translation: "(separable prefix) to hang on, preserve",
     forms: {
       section_0: [
@@ -29604,7 +29604,7 @@ module.exports = [
     },
   },
   {
-    word "durchkämmen",
+    word: "durchkämmen",
     translation: "to comb, to comb through (to search thoroughly)",
     forms: {
       section_0: [
@@ -29634,7 +29634,7 @@ module.exports = [
     },
   },
   {
-    word "durchkommen",
+    word: "durchkommen",
     translation: "to come through, to pass through, (of an exam, etc) to pass, to get through, to get by, to get along, to get away with, to become apparent",
     forms: {
       section_0: [
@@ -29664,7 +29664,7 @@ module.exports = [
     },
   },
   {
-    word "durchlaufen",
+    word: "durchlaufen",
     translation: "(literally) to run through",
     forms: {
       section_0: [
@@ -29694,7 +29694,7 @@ module.exports = [
     },
   },
   {
-    word "durchlüften",
+    word: "durchlüften",
     translation: "to aerate, to ventilate",
     forms: {
       section_0: [
@@ -29724,7 +29724,7 @@ module.exports = [
     },
   },
   {
-    word "durchmachen",
+    word: "durchmachen",
     translation: "to go through, to endure, to suffer, to undergo, to finish, to complete, (colloquial) to stay up all night, especially for a party all night",
     forms: {
       section_0: [
@@ -29754,7 +29754,7 @@ module.exports = [
     },
   },
   {
-    word "durchqueren",
+    word: "durchqueren",
     translation: "to cross, to walk across",
     forms: {
       section_0: [
@@ -29784,7 +29784,7 @@ module.exports = [
     },
   },
   {
-    word "durchringen",
+    word: "durchringen",
     translation: "(reflexive, separable) finally to make up on(e)'(s) mind",
     forms: {
       section_0: [
@@ -29814,15 +29814,15 @@ module.exports = [
     },
   },
   {
-    word "durchrütteln",
+    word: "durchrütteln",
     translation: "(transitive) to shake (a person back and forth)",
   },
   {
-    word "durchsagen",
+    word: "durchsagen",
     translation: "To announce over loudspeakers or on the radio",
   },
   {
-    word "durchsägen",
+    word: "durchsägen",
     translation: "to saw through",
     forms: {
       section_0: [
@@ -29852,7 +29852,7 @@ module.exports = [
     },
   },
   {
-    word "durchschauen",
+    word: "durchschauen",
     translation: "to see through (to look through something transparent)",
     forms: {
       section_0: [
@@ -29882,11 +29882,11 @@ module.exports = [
     },
   },
   {
-    word "durchschimmern",
+    word: "durchschimmern",
     translation: "To gleam, To shimmer through",
   },
   {
-    word "durchschreiten",
+    word: "durchschreiten",
     translation: "(transitive) to cross, to traverse",
     forms: {
       section_0: [
@@ -29916,7 +29916,7 @@ module.exports = [
     },
   },
   {
-    word "durchsetzen",
+    word: "durchsetzen",
     translation: "to enforce, (reflexive) to establish oneself",
     forms: {
       section_0: [
@@ -29946,7 +29946,7 @@ module.exports = [
     },
   },
   {
-    word "durchstreichen",
+    word: "durchstreichen",
     translation: "to cross out, strike through",
     forms: {
       section_0: [
@@ -29976,7 +29976,7 @@ module.exports = [
     },
   },
   {
-    word "durchströmen",
+    word: "durchströmen",
     translation: "(intransitive) to perfuse or permeate (with durch)",
     forms: {
       section_0: [
@@ -30006,7 +30006,7 @@ module.exports = [
     },
   },
   {
-    word "durchsuchen",
+    word: "durchsuchen",
     translation: "(transitive, a house, person, etc) to search",
     forms: {
       section_0: [
@@ -30036,7 +30036,7 @@ module.exports = [
     },
   },
   {
-    word "durchwachen",
+    word: "durchwachen",
     translation: "(transitive) to spend awake",
     forms: {
       section_0: [
@@ -30066,7 +30066,7 @@ module.exports = [
     },
   },
   {
-    word "durchwandern",
+    word: "durchwandern",
     translation: "To walk, wander or hike through; to perambulate, (chemistry) To transmigrate",
     forms: {
       section_0: [
@@ -30096,7 +30096,7 @@ module.exports = [
     },
   },
   {
-    word "durchwühlen",
+    word: "durchwühlen",
     translation: "(to make a thorough search) to ransack",
     forms: {
       section_0: [
@@ -30126,7 +30126,7 @@ module.exports = [
     },
   },
   {
-    word "durchziehen",
+    word: "durchziehen",
     translation: "(transitive) to pass, (intransitive) to soak, (transitive) to pull, (transitive) to pull through, (intransitive) to run, (transitive) to run through, (transitive) to traverse",
     forms: {
       section_0: [
@@ -30156,7 +30156,7 @@ module.exports = [
     },
   },
   {
-    word "durchzucken",
+    word: "durchzucken",
     translation: "(of flashes or other lights or figuratively) to flash through",
     forms: {
       section_0: [
@@ -30186,15 +30186,15 @@ module.exports = [
     },
   },
   {
-    word "durchzuführen",
+    word: "durchzuführen",
     translation: "zu-infinitive of durchführen",
   },
   {
-    word "durchzusetzen",
+    word: "durchzusetzen",
     translation: "zu-infinitive of durchsetzen",
   },
   {
-    word "durchzwängen",
+    word: "durchzwängen",
     translation: "to squeeze through",
     forms: {
       section_0: [
@@ -30224,7 +30224,7 @@ module.exports = [
     },
   },
   {
-    word "dürfen",
+    word: "dürfen",
     translation: "(auxiliary, infinitive replaces past participle) To be allowed (to do something); to be permitted (to do something); may, (intransitive or transitive, past participle as above) To be allowed or permitted to do something implied or previously stated; may, (subjunctive present, modal auxiliary verb) Expresses that something is estimated or probable",
     forms: {
       section_0: [
@@ -30254,7 +30254,7 @@ module.exports = [
     },
   },
   {
-    word "duschen",
+    word: "duschen",
     translation: "to shower",
     forms: {
       section_0: [
@@ -30284,7 +30284,7 @@ module.exports = [
     },
   },
   {
-    word "duzen",
+    word: "duzen",
     translation: "to address informally using the pronoun du, to thou",
     forms: {
       section_0: [
@@ -30314,7 +30314,7 @@ module.exports = [
     },
   },
   {
-    word "ebben",
+    word: "ebben",
     translation: "(intransitive) to ebb, to recede (especially of tides)",
     forms: {
       section_0: [
@@ -30344,7 +30344,7 @@ module.exports = [
     },
   },
   {
-    word "ebnen",
+    word: "ebnen",
     translation: "to level",
     forms: {
       section_0: [
@@ -30374,19 +30374,19 @@ module.exports = [
     },
   },
   {
-    word "echauffieren",
+    word: "echauffieren",
     translation: "(reflexive) to get steamed, to get excited",
   },
   {
-    word "edieren",
+    word: "edieren",
     translation: "(scholarly) to publish, to edit",
   },
   {
-    word "egalisieren",
+    word: "egalisieren",
     translation: "(sports) to level, equalise",
   },
   {
-    word "eggen",
+    word: "eggen",
     translation: "(transitive) to plow",
     forms: {
       section_0: [
@@ -30416,11 +30416,11 @@ module.exports = [
     },
   },
   {
-    word "ehelichen",
+    word: "ehelichen",
     translation: "(transitive) to espouse",
   },
   {
-    word "ehren",
+    word: "ehren",
     translation: "to honor",
     forms: {
       section_0: [
@@ -30450,7 +30450,7 @@ module.exports = [
     },
   },
   {
-    word "eichen",
+    word: "eichen",
     translation: "to calibrate, to gauge",
     forms: {
       section_0: [
@@ -30480,11 +30480,11 @@ module.exports = [
     },
   },
   {
-    word "eiern",
+    word: "eiern",
     translation: "(colloquial) to wobble (of a wheel)",
   },
   {
-    word "eignen",
+    word: "eignen",
     translation: "(reflexive) to suit",
     forms: {
       section_0: [
@@ -30514,7 +30514,7 @@ module.exports = [
     },
   },
   {
-    word "eilen",
+    word: "eilen",
     translation: "to hurry, to rush, to be urgent",
     forms: {
       section_0: [
@@ -30544,19 +30544,19 @@ module.exports = [
     },
   },
   {
-    word "ein Armutszeugnis ausstellen",
+    word: "ein Armutszeugnis ausstellen",
     translation: "(idiomatic) to show (someon(e)'(s)) incapacity (or incompetence)",
   },
   {
-    word "ein Exempel statuieren",
+    word: "ein Exempel statuieren",
     translation: "(idiomatic) to set a warning example (literally: to set an example)",
   },
   {
-    word "ein Hühnchen rupfen",
+    word: "ein Hühnchen rupfen",
     translation: "(idiomatic, intransitive, + mit, chiefly infinitive with müssen or haben zu) to take to task; to have a rebuking talk with",
   },
   {
-    word "einatmen",
+    word: "einatmen",
     translation: "to inhale, breathe in",
     forms: {
       section_0: [
@@ -30586,11 +30586,11 @@ module.exports = [
     },
   },
   {
-    word "einbalsamieren",
+    word: "einbalsamieren",
     translation: "to embalm",
   },
   {
-    word "einbauen",
+    word: "einbauen",
     translation: "to build in, to build into, to install",
     forms: {
       section_0: [
@@ -30620,15 +30620,15 @@ module.exports = [
     },
   },
   {
-    word "einbekennen",
+    word: "einbekennen",
     translation: "(Austria) to acknowledge",
   },
   {
-    word "einbetonieren",
+    word: "einbetonieren",
     translation: "to concrete: to encase in or cover with concrete",
   },
   {
-    word "einbetten",
+    word: "einbetten",
     translation: "to embed",
     forms: {
       section_0: [
@@ -30658,7 +30658,7 @@ module.exports = [
     },
   },
   {
-    word "einbeziehen",
+    word: "einbeziehen",
     translation: "To include, To integrate (into)",
     forms: {
       section_0: [
@@ -30688,7 +30688,7 @@ module.exports = [
     },
   },
   {
-    word "einbinden",
+    word: "einbinden",
     translation: "to bind something, to integrate, to involve somebody/something",
     forms: {
       section_0: [
@@ -30718,7 +30718,7 @@ module.exports = [
     },
   },
   {
-    word "einbläuen",
+    word: "einbläuen",
     translation: "to beat (something) into (someone), to impress (something) upon (someone)",
     forms: {
       section_0: [
@@ -30748,11 +30748,11 @@ module.exports = [
     },
   },
   {
-    word "einbleuen",
+    word: "einbleuen",
     translation: "(dated) Alternative form of einbläuen (impress (something) upon (someone))",
   },
   {
-    word "einbrechen",
+    word: "einbrechen",
     translation: "to break in, to break down",
     forms: {
       section_0: [
@@ -30782,7 +30782,7 @@ module.exports = [
     },
   },
   {
-    word "einbrennen",
+    word: "einbrennen",
     translation: "to inburn",
     forms: {
       section_0: [
@@ -30812,7 +30812,7 @@ module.exports = [
     },
   },
   {
-    word "einbringen",
+    word: "einbringen",
     translation: "To insert, introduce (into), To fetch (to obtain a price)",
     forms: {
       section_0: [
@@ -30842,7 +30842,7 @@ module.exports = [
     },
   },
   {
-    word "einchecken",
+    word: "einchecken",
     translation: "to check in",
     forms: {
       section_0: [
@@ -30872,11 +30872,11 @@ module.exports = [
     },
   },
   {
-    word "eindampfen",
+    word: "eindampfen",
     translation: "To evaporate, To vaporize",
   },
   {
-    word "eindecken",
+    word: "eindecken",
     translation: "(transitive) to cover, to roof",
     forms: {
       section_0: [
@@ -30906,7 +30906,7 @@ module.exports = [
     },
   },
   {
-    word "eindeutschen",
+    word: "eindeutschen",
     translation: "to Germanize: to adapt to the German language and its orthography, phonology, and/or morphology, to make (something) a part of Germany",
     forms: {
       section_0: [
@@ -30936,11 +30936,11 @@ module.exports = [
     },
   },
   {
-    word "eindosen",
+    word: "eindosen",
     translation: "to tin (place into a tin in order to preserve)",
   },
   {
-    word "eindringen",
+    word: "eindringen",
     translation: "to intrude",
     forms: {
       section_0: [
@@ -30970,23 +30970,23 @@ module.exports = [
     },
   },
   {
-    word "eine Affäre haben",
+    word: "eine Affäre haben",
     translation: "to have an affair",
   },
   {
-    word "eine lange Nase machen",
+    word: "eine lange Nase machen",
     translation: "(idiomatic) to thumb on(e)'(s) nose",
   },
   {
-    word "eine Nase drehen",
+    word: "eine Nase drehen",
     translation: "(idiomatic) to thumb on(e)'(s) nose",
   },
   {
-    word "einen runterholen",
+    word: "einen runterholen",
     translation: "(with dative, reflexive) to jerk off, (with dative, transitive) to jerk off",
   },
   {
-    word "einfahren",
+    word: "einfahren",
     translation: "to drive in, (a train into a station) to arrive, to pull in",
     forms: {
       section_0: [
@@ -31016,7 +31016,7 @@ module.exports = [
     },
   },
   {
-    word "einfallen",
+    word: "einfallen",
     translation: "(with dative) to occur (to somebody), to come (to somebody); to come to mind, (with dative) to remember, to invade",
     forms: {
       section_0: [
@@ -31046,7 +31046,7 @@ module.exports = [
     },
   },
   {
-    word "einfangen",
+    word: "einfangen",
     translation: "to capture",
     forms: {
       section_0: [
@@ -31076,7 +31076,7 @@ module.exports = [
     },
   },
   {
-    word "einfärben",
+    word: "einfärben",
     translation: "(to colour with dye) to dye",
     forms: {
       section_0: [
@@ -31106,7 +31106,7 @@ module.exports = [
     },
   },
   {
-    word "einfinden",
+    word: "einfinden",
     translation: "(reflexive) to arrive at a specific location",
     forms: {
       section_0: [
@@ -31136,7 +31136,7 @@ module.exports = [
     },
   },
   {
-    word "einflößen",
+    word: "einflößen",
     translation: "to feed to; to pour into someones mouth, (figuratively) to inspire with; to fill with",
     forms: {
       section_0: [
@@ -31166,7 +31166,7 @@ module.exports = [
     },
   },
   {
-    word "einflüstern",
+    word: "einflüstern",
     translation: "to whisper, to prompt, (figuratively) to insinuate, to suggest",
     forms: {
       section_0: [
@@ -31196,7 +31196,7 @@ module.exports = [
     },
   },
   {
-    word "einfrieren",
+    word: "einfrieren",
     translation: "to freeze (to lower somethin(g)'(s) temperature to freezing point), to freeze (wages, prices, etc)",
     forms: {
       section_0: [
@@ -31226,7 +31226,7 @@ module.exports = [
     },
   },
   {
-    word "einfügen",
+    word: "einfügen",
     translation: "to insert (put in between or into)",
     forms: {
       section_0: [
@@ -31256,7 +31256,7 @@ module.exports = [
     },
   },
   {
-    word "einführen",
+    word: "einführen",
     translation: "to introduce, (economics) to import, to initiate, to insert",
     forms: {
       section_0: [
@@ -31286,7 +31286,7 @@ module.exports = [
     },
   },
   {
-    word "eingeben",
+    word: "eingeben",
     translation: "to input",
     forms: {
       section_0: [
@@ -31316,7 +31316,7 @@ module.exports = [
     },
   },
   {
-    word "eingehen",
+    word: "eingehen",
     translation: "(intransitive with in + accusative, chiefly dated, literary) to enter; to go inside, (intransitive) to contract; to shrivel; to shrink, (intransitive, botany, otherwise disrespectful) to die, (intransitive with auf + accusative) to discuss; to treat; to elaborate on, (intransitive with auf + accusative) to respond to; to take (a question), (transitive) to contract; to conclude (an agreement)",
     forms: {
       section_0: [
@@ -31346,7 +31346,7 @@ module.exports = [
     },
   },
   {
-    word "eingestehen",
+    word: "eingestehen",
     translation: "To admit, confess, concede, acknowledge",
     forms: {
       section_0: [
@@ -31376,7 +31376,7 @@ module.exports = [
     },
   },
   {
-    word "eingießen",
+    word: "eingießen",
     translation: "to pour in",
     forms: {
       section_0: [
@@ -31406,7 +31406,7 @@ module.exports = [
     },
   },
   {
-    word "eingreifen",
+    word: "eingreifen",
     translation: "to intervene",
     forms: {
       section_0: [
@@ -31436,7 +31436,7 @@ module.exports = [
     },
   },
   {
-    word "einhalten",
+    word: "einhalten",
     translation: "to keep (an appointment, a promise etc), observe, follow (a tradition, rule, diet etc), to abide by, to comply with (a decision, rules etc), to maintain (speed, direction, course etc), (dated) discontinue, stop doing (something) (mit (etwas))",
     forms: {
       section_0: [
@@ -31466,7 +31466,7 @@ module.exports = [
     },
   },
   {
-    word "einheben",
+    word: "einheben",
     translation: "(Austria) to collect a fee",
     forms: {
       section_0: [
@@ -31496,11 +31496,11 @@ module.exports = [
     },
   },
   {
-    word "einheimsen",
+    word: "einheimsen",
     translation: "to earn",
   },
   {
-    word "einhergehen",
+    word: "einhergehen",
     translation: "To accompany",
     forms: {
       section_0: [
@@ -31530,7 +31530,7 @@ module.exports = [
     },
   },
   {
-    word "einholen",
+    word: "einholen",
     translation: "to catch up to, to reel",
     forms: {
       section_0: [
@@ -31560,7 +31560,7 @@ module.exports = [
     },
   },
   {
-    word "einigen",
+    word: "einigen",
     translation: "To unite or unify",
     forms: {
       section_0: [
@@ -31590,7 +31590,7 @@ module.exports = [
     },
   },
   {
-    word "einimpfen",
+    word: "einimpfen",
     translation: "to inculcate (teach by repeated instruction)",
     forms: {
       section_0: [
@@ -31620,7 +31620,7 @@ module.exports = [
     },
   },
   {
-    word "einkapseln",
+    word: "einkapseln",
     translation: "to encapsulate",
     forms: {
       section_0: [
@@ -31650,7 +31650,7 @@ module.exports = [
     },
   },
   {
-    word "einkaufen",
+    word: "einkaufen",
     translation: "To shop",
     forms: {
       section_0: [
@@ -31680,7 +31680,7 @@ module.exports = [
     },
   },
   {
-    word "einkochen",
+    word: "einkochen",
     translation: "to boil down, to preserve, to bottle (to preserve food by heating and sealing in a can, jar or bottle)",
     forms: {
       section_0: [
@@ -31710,7 +31710,7 @@ module.exports = [
     },
   },
   {
-    word "einladen",
+    word: "einladen",
     translation: "to invite, to load (something into a container)",
     forms: {
       section_0: [
@@ -31740,7 +31740,7 @@ module.exports = [
     },
   },
   {
-    word "einlagern",
+    word: "einlagern",
     translation: "To store, deposit",
     forms: {
       section_0: [
@@ -31770,7 +31770,7 @@ module.exports = [
     },
   },
   {
-    word "einlassen",
+    word: "einlassen",
     translation: "to let in, (sich einlassen auf): to get involved with, (ein Bad einlassen): to run a bath, to embed",
     forms: {
       section_0: [
@@ -31800,7 +31800,7 @@ module.exports = [
     },
   },
   {
-    word "einlaufen",
+    word: "einlaufen",
     translation: "(intransitive, auxiliary: 'sein') to run in, (of clothing, intransitive, auxiliary: 'sein') to shrink (by washing), (of ships, intransitive, auxiliary: 'sein') to enter port, (of shoes, transitive, auxiliary: 'haben') to break in, (sports, reflexive, auxiliary: 'haben') to warm up (by running)",
     forms: {
       section_0: [
@@ -31830,7 +31830,7 @@ module.exports = [
     },
   },
   {
-    word "einleben",
+    word: "einleben",
     translation: "(reflexive) to settle in",
     forms: {
       section_0: [
@@ -31860,7 +31860,7 @@ module.exports = [
     },
   },
   {
-    word "einlegen",
+    word: "einlegen",
     translation: "to insert, to put in, to inlay, (a break) to have, (a protest or appeal) to file, (cooking) to pickle",
     forms: {
       section_0: [
@@ -31890,7 +31890,7 @@ module.exports = [
     },
   },
   {
-    word "einleiten",
+    word: "einleiten",
     translation: "to commence, initiate, trigger, instigate, start",
     forms: {
       section_0: [
@@ -31920,7 +31920,7 @@ module.exports = [
     },
   },
   {
-    word "einlesen",
+    word: "einlesen",
     translation: "to input, to read, to swipe, (computing) to read, to read in",
     forms: {
       section_0: [
@@ -31950,11 +31950,11 @@ module.exports = [
     },
   },
   {
-    word "einloggen",
+    word: "einloggen",
     translation: "to log in (gain access to a computer system)",
   },
   {
-    word "einlösen",
+    word: "einlösen",
     translation: "(transitive, banking, of a security or bond) to redeem, (transitive, banking, of a check) to cash, (transitive, of a promise) to redeem",
     forms: {
       section_0: [
@@ -31984,7 +31984,7 @@ module.exports = [
     },
   },
   {
-    word "einmachen",
+    word: "einmachen",
     translation: "(transitive, cooking) to can (to preserve food by heating and sealing in a can or jar), to fix, to fit into",
     forms: {
       section_0: [
@@ -32014,7 +32014,7 @@ module.exports = [
     },
   },
   {
-    word "einmarschieren",
+    word: "einmarschieren",
     translation: "invade",
     forms: {
       section_0: [
@@ -32044,7 +32044,7 @@ module.exports = [
     },
   },
   {
-    word "einmischen",
+    word: "einmischen",
     translation: "(reflexive) to interfere, to intervene, (transitive, rare) to mix into, to blend into",
     forms: {
       section_0: [
@@ -32074,11 +32074,11 @@ module.exports = [
     },
   },
   {
-    word "einmotten",
+    word: "einmotten",
     translation: "(transitive) to mothball",
   },
   {
-    word "einnehmen",
+    word: "einnehmen",
     translation: "(military) to conquer, (of meals or medicine) to take, to have",
     forms: {
       section_0: [
@@ -32108,7 +32108,7 @@ module.exports = [
     },
   },
   {
-    word "einölen",
+    word: "einölen",
     translation: "to oil",
     forms: {
       section_0: [
@@ -32138,7 +32138,7 @@ module.exports = [
     },
   },
   {
-    word "einordnen",
+    word: "einordnen",
     translation: "to classify (to determine the class of an item)",
     forms: {
       section_0: [
@@ -32168,7 +32168,7 @@ module.exports = [
     },
   },
   {
-    word "einpacken",
+    word: "einpacken",
     translation: "(transitive, a gift, etc) to wrap up; to pack up",
     forms: {
       section_0: [
@@ -32198,11 +32198,11 @@ module.exports = [
     },
   },
   {
-    word "einpennen",
+    word: "einpennen",
     translation: "to doze off, to conk out",
   },
   {
-    word "einprägen",
+    word: "einprägen",
     translation: "(transitive) to imprint (to leave a print, impression, image, etc), (dative reflexive) to memorize, (accusative reflexive) to etch into one’s mind (make a lasting impression)",
     forms: {
       section_0: [
@@ -32232,11 +32232,11 @@ module.exports = [
     },
   },
   {
-    word "einprogrammieren",
+    word: "einprogrammieren",
     translation: "(transitive) to program, to program into",
   },
   {
-    word "einräumen",
+    word: "einräumen",
     translation: "To grant, concede, admit",
     forms: {
       section_0: [
@@ -32266,7 +32266,7 @@ module.exports = [
     },
   },
   {
-    word "einreden",
+    word: "einreden",
     translation: "to talk into (doing/believing something), convince, persuade",
     forms: {
       section_0: [
@@ -32296,7 +32296,7 @@ module.exports = [
     },
   },
   {
-    word "einreichen",
+    word: "einreichen",
     translation: "to send in, to hand in, to submit",
     forms: {
       section_0: [
@@ -32326,7 +32326,7 @@ module.exports = [
     },
   },
   {
-    word "einreisen",
+    word: "einreisen",
     translation: "to enter (a country)",
     forms: {
       section_0: [
@@ -32356,7 +32356,7 @@ module.exports = [
     },
   },
   {
-    word "einrichten",
+    word: "einrichten",
     translation: "to furnish, to arrange",
     forms: {
       section_0: [
@@ -32386,7 +32386,7 @@ module.exports = [
     },
   },
   {
-    word "einrühren",
+    word: "einrühren",
     translation: "to stir in",
     forms: {
       section_0: [
@@ -32416,7 +32416,7 @@ module.exports = [
     },
   },
   {
-    word "einsargen",
+    word: "einsargen",
     translation: "to coffin",
     forms: {
       section_0: [
@@ -32446,7 +32446,7 @@ module.exports = [
     },
   },
   {
-    word "einschalten",
+    word: "einschalten",
     translation: "to switch on, (transitive) to call in, (reflexive) to intervene",
     forms: {
       section_0: [
@@ -32476,7 +32476,7 @@ module.exports = [
     },
   },
   {
-    word "einschätzen",
+    word: "einschätzen",
     translation: "to judge, to assess",
     forms: {
       section_0: [
@@ -32506,7 +32506,7 @@ module.exports = [
     },
   },
   {
-    word "einschenken",
+    word: "einschenken",
     translation: "to pour (a drink into a glass or cup)",
     forms: {
       section_0: [
@@ -32536,7 +32536,7 @@ module.exports = [
     },
   },
   {
-    word "einschlafen",
+    word: "einschlafen",
     translation: "to fall asleep",
     forms: {
       section_0: [
@@ -32566,7 +32566,7 @@ module.exports = [
     },
   },
   {
-    word "einschlagen",
+    word: "einschlagen",
     translation: "(transitive) to smash, (transitive) to gouge, to strike (of lighting)",
     forms: {
       section_0: [
@@ -32596,7 +32596,7 @@ module.exports = [
     },
   },
   {
-    word "einschliessen",
+    word: "einschliessen",
     translation: "Switzerland and Liechtenstein standard spelling of einschließen",
     forms: {
       section_0: [
@@ -32626,7 +32626,7 @@ module.exports = [
     },
   },
   {
-    word "einschließen",
+    word: "einschließen",
     translation: "to lock up, to include",
     forms: {
       section_0: [
@@ -32656,7 +32656,7 @@ module.exports = [
     },
   },
   {
-    word "einschmeicheln",
+    word: "einschmeicheln",
     translation: "(reflexive) to ingratiate oneself (get favor through flattery)",
     forms: {
       section_0: [
@@ -32686,7 +32686,7 @@ module.exports = [
     },
   },
   {
-    word "einschneiden",
+    word: "einschneiden",
     translation: "to engrave; to carve",
     forms: {
       section_0: [
@@ -32716,7 +32716,7 @@ module.exports = [
     },
   },
   {
-    word "einschneien",
+    word: "einschneien",
     translation: "(intransitive, auxiliary sein) to be snowed in, (transitive, auxiliary haben) to snow in",
     forms: {
       section_0: [
@@ -32746,7 +32746,7 @@ module.exports = [
     },
   },
   {
-    word "einschränken",
+    word: "einschränken",
     translation: "(transitive) to constrain, (reflexive) to economize",
     forms: {
       section_0: [
@@ -32776,7 +32776,7 @@ module.exports = [
     },
   },
   {
-    word "einschreiben",
+    word: "einschreiben",
     translation: "(reflexive) to enroll, enlist",
     forms: {
       section_0: [
@@ -32806,7 +32806,7 @@ module.exports = [
     },
   },
   {
-    word "einschüchtern",
+    word: "einschüchtern",
     translation: "to intimidate",
     forms: {
       section_0: [
@@ -32836,7 +32836,7 @@ module.exports = [
     },
   },
   {
-    word "einsehen",
+    word: "einsehen",
     translation: "(separable prefix) to comprehend, understand, recognize, realize, accept, (separable prefix) to see into",
     forms: {
       section_0: [
@@ -32866,7 +32866,7 @@ module.exports = [
     },
   },
   {
-    word "einseifen",
+    word: "einseifen",
     translation: "to soap",
     forms: {
       section_0: [
@@ -32896,7 +32896,7 @@ module.exports = [
     },
   },
   {
-    word "einsetzen",
+    word: "einsetzen",
     translation: "to put in; set in; insert, to use; employ, to appoint, to risk, to stake, (reflexive) to speak up for",
     forms: {
       section_0: [
@@ -32926,7 +32926,7 @@ module.exports = [
     },
   },
   {
-    word "einsparen",
+    word: "einsparen",
     translation: "To save on, To reduce, cut down on",
     forms: {
       section_0: [
@@ -32956,7 +32956,7 @@ module.exports = [
     },
   },
   {
-    word "einsperren",
+    word: "einsperren",
     translation: "(transitive) to lock up, to imprison, to jail",
     forms: {
       section_0: [
@@ -32986,7 +32986,7 @@ module.exports = [
     },
   },
   {
-    word "einspritzen",
+    word: "einspritzen",
     translation: "(technology) to inject",
     forms: {
       section_0: [
@@ -33016,7 +33016,7 @@ module.exports = [
     },
   },
   {
-    word "einstehen",
+    word: "einstehen",
     translation: "To vouch (for), take responsibility (for)",
     forms: {
       section_0: [
@@ -33046,7 +33046,7 @@ module.exports = [
     },
   },
   {
-    word "einsteigen",
+    word: "einsteigen",
     translation: "to get in, to get on",
     forms: {
       section_0: [
@@ -33076,7 +33076,7 @@ module.exports = [
     },
   },
   {
-    word "einstellen",
+    word: "einstellen",
     translation: "to employ, to hire, to adjust, (reflexive) to prepare, (reflexive) to appear, to cease, to stop",
     forms: {
       section_0: [
@@ -33106,7 +33106,7 @@ module.exports = [
     },
   },
   {
-    word "einstimmen",
+    word: "einstimmen",
     translation: "to join in",
     forms: {
       section_0: [
@@ -33136,7 +33136,7 @@ module.exports = [
     },
   },
   {
-    word "einstreuen",
+    word: "einstreuen",
     translation: "to intersperse",
     forms: {
       section_0: [
@@ -33166,7 +33166,7 @@ module.exports = [
     },
   },
   {
-    word "einstufen",
+    word: "einstufen",
     translation: "categorize, class, classify",
     forms: {
       section_0: [
@@ -33196,7 +33196,7 @@ module.exports = [
     },
   },
   {
-    word "einstürzen",
+    word: "einstürzen",
     translation: "(building or other construction) to collapse",
     forms: {
       section_0: [
@@ -33226,7 +33226,7 @@ module.exports = [
     },
   },
   {
-    word "eintauchen",
+    word: "eintauchen",
     translation: "to plunge, to immerse, to dip, to steep",
     forms: {
       section_0: [
@@ -33256,7 +33256,7 @@ module.exports = [
     },
   },
   {
-    word "einteilen",
+    word: "einteilen",
     translation: "to divide up",
     forms: {
       section_0: [
@@ -33286,7 +33286,7 @@ module.exports = [
     },
   },
   {
-    word "eintippen",
+    word: "eintippen",
     translation: "to type in",
     forms: {
       section_0: [
@@ -33316,7 +33316,7 @@ module.exports = [
     },
   },
   {
-    word "eintragen",
+    word: "eintragen",
     translation: "to enter, to record",
     forms: {
       section_0: [
@@ -33346,7 +33346,7 @@ module.exports = [
     },
   },
   {
-    word "eintreffen",
+    word: "eintreffen",
     translation: "to arrive, to come true",
     forms: {
       section_0: [
@@ -33376,7 +33376,7 @@ module.exports = [
     },
   },
   {
-    word "eintreten",
+    word: "eintreten",
     translation: "to enter, to occur, to eventuate",
     forms: {
       section_0: [
@@ -33406,11 +33406,11 @@ module.exports = [
     },
   },
   {
-    word "eintrudeln",
+    word: "eintrudeln",
     translation: "(colloquial) to arrive (often late and/or one by one)",
   },
   {
-    word "einwandern",
+    word: "einwandern",
     translation: "to immigrate",
     forms: {
       section_0: [
@@ -33440,11 +33440,11 @@ module.exports = [
     },
   },
   {
-    word "einwecken",
+    word: "einwecken",
     translation: "to can (to preserve by heating and sealing in a jar)",
   },
   {
-    word "einweichen",
+    word: "einweichen",
     translation: "to soak",
     forms: {
       section_0: [
@@ -33474,7 +33474,7 @@ module.exports = [
     },
   },
   {
-    word "einweihen",
+    word: "einweihen",
     translation: "to initiate, to inaugurate, to consecrate",
     forms: {
       section_0: [
@@ -33504,7 +33504,7 @@ module.exports = [
     },
   },
   {
-    word "einweisen",
+    word: "einweisen",
     translation: "to brief, instruct, to take to a medical facility",
     forms: {
       section_0: [
@@ -33534,7 +33534,7 @@ module.exports = [
     },
   },
   {
-    word "einwenden",
+    word: "einwenden",
     translation: "to object, to oppose, to argue, to demur",
     forms: {
       section_0: [
@@ -33564,7 +33564,7 @@ module.exports = [
     },
   },
   {
-    word "einwickeln",
+    word: "einwickeln",
     translation: "to envelop, wrap up, wrap (enclose in fabric, paper, etc), to fool, take in (deceive, hoodwink)",
     forms: {
       section_0: [
@@ -33594,7 +33594,7 @@ module.exports = [
     },
   },
   {
-    word "einwilligen",
+    word: "einwilligen",
     translation: "to consent (to), to agree (to)",
     forms: {
       section_0: [
@@ -33624,7 +33624,7 @@ module.exports = [
     },
   },
   {
-    word "einzahlen",
+    word: "einzahlen",
     translation: "(banking) to deposit (to put money or funds into an account)",
     forms: {
       section_0: [
@@ -33654,7 +33654,7 @@ module.exports = [
     },
   },
   {
-    word "einzäunen",
+    word: "einzäunen",
     translation: "to fence in, to fence, to enclose",
     forms: {
       section_0: [
@@ -33684,7 +33684,7 @@ module.exports = [
     },
   },
   {
-    word "einziehen",
+    word: "einziehen",
     translation: "(auxiliary sein) to move in, (auxiliary haben) to reel, (auxiliary haben) to retract",
     forms: {
       section_0: [
@@ -33714,27 +33714,27 @@ module.exports = [
     },
   },
   {
-    word "einzuführen",
+    word: "einzuführen",
     translation: "zu-infinitive of einführen",
   },
   {
-    word "einzuladen",
+    word: "einzuladen",
     translation: "zu-infinitive of einladen",
   },
   {
-    word "einzurichten",
+    word: "einzurichten",
     translation: "zu-infinitive of einrichten",
   },
   {
-    word "Eis laufen",
+    word: "Eis laufen",
     translation: "Spelling reform of 1996 spelling of eislaufen",
   },
   {
-    word "eisen",
+    word: "eisen",
     translation: "(transitive) to demand, (transitive) to claim, (transitive) to require",
   },
   {
-    word "eislaufen",
+    word: "eislaufen",
     translation: "ice-skate",
     forms: {
       section_0: [
@@ -33764,7 +33764,7 @@ module.exports = [
     },
   },
   {
-    word "eitern",
+    word: "eitern",
     translation: "to suppurate (form or discharge pus)",
     forms: {
       section_0: [
@@ -33794,11 +33794,11 @@ module.exports = [
     },
   },
   {
-    word "ejakulieren",
+    word: "ejakulieren",
     translation: "to ejaculate (of a male, to eject semen, or, of a female, to eject vaginal fluid during an orgasm)",
   },
   {
-    word "ekeln",
+    word: "ekeln",
     translation: "(reflexive, with vor) to be disgusted, (more formal, transitive) to disgust",
     forms: {
       section_0: [
@@ -33828,7 +33828,7 @@ module.exports = [
     },
   },
   {
-    word "elektrisieren",
+    word: "elektrisieren",
     translation: "electrify (supply electricity to), electrify (excite suddenly)",
     forms: {
       section_0: [
@@ -33858,11 +33858,11 @@ module.exports = [
     },
   },
   {
-    word "elektrisiren",
+    word: "elektrisiren",
     translation: "Obsolete spelling of elektrisieren",
   },
   {
-    word "eliminieren",
+    word: "eliminieren",
     translation: "to eliminate",
     forms: {
       section_0: [
@@ -33892,15 +33892,15 @@ module.exports = [
     },
   },
   {
-    word "eloxieren",
+    word: "eloxieren",
     translation: "To anodize",
   },
   {
-    word "emaillieren",
+    word: "emaillieren",
     translation: "to enamel",
   },
   {
-    word "emanzipieren",
+    word: "emanzipieren",
     translation: "emancipate",
     forms: {
       section_0: [
@@ -33930,11 +33930,11 @@ module.exports = [
     },
   },
   {
-    word "emendieren",
+    word: "emendieren",
     translation: "to emend (to correct and revise)",
   },
   {
-    word "emigrieren",
+    word: "emigrieren",
     translation: "to emigrate",
     forms: {
       section_0: [
@@ -33964,11 +33964,11 @@ module.exports = [
     },
   },
   {
-    word "emittieren",
+    word: "emittieren",
     translation: "to emit (to send out or give off)",
   },
   {
-    word "empfangen",
+    word: "empfangen",
     translation: "(transitive) to receive, (transitive) to greet; to welcome, (transitive or intransitive, biology) to conceive; to become pregnant (with)",
     forms: {
       section_0: [
@@ -33998,7 +33998,7 @@ module.exports = [
     },
   },
   {
-    word "empfehlen",
+    word: "empfehlen",
     translation: "(transitive) to recommend; to advocate, (reflexive) to offer on(e)'(s) services",
     forms: {
       section_0: [
@@ -34028,7 +34028,7 @@ module.exports = [
     },
   },
   {
-    word "empfinden",
+    word: "empfinden",
     translation: "to feel (to sense)",
     forms: {
       section_0: [
@@ -34058,7 +34058,7 @@ module.exports = [
     },
   },
   {
-    word "empören",
+    word: "empören",
     translation: "(reflexive) to be outraged, (transitive) to outrage",
     forms: {
       section_0: [
@@ -34088,11 +34088,11 @@ module.exports = [
     },
   },
   {
-    word "emulieren",
+    word: "emulieren",
     translation: "(computing) to emulate",
   },
   {
-    word "enden",
+    word: "enden",
     translation: "to end",
     forms: {
       section_0: [
@@ -34122,11 +34122,11 @@ module.exports = [
     },
   },
   {
-    word "endlagern",
+    word: "endlagern",
     translation: "(of waste, especially radioactive waste) to store permanently, to dispose of permanently",
   },
   {
-    word "engagieren",
+    word: "engagieren",
     translation: "(transitive, to hire an artist) to engage, (reflexive) to get involved, to be involved",
     forms: {
       section_0: [
@@ -34156,7 +34156,7 @@ module.exports = [
     },
   },
   {
-    word "entarten",
+    word: "entarten",
     translation: "degenerate",
     forms: {
       section_0: [
@@ -34186,7 +34186,7 @@ module.exports = [
     },
   },
   {
-    word "entbehren",
+    word: "entbehren",
     translation: "to do without, to dispense with, to be deprived of, (+ genitive) to be without, to lack, to miss",
     forms: {
       section_0: [
@@ -34216,7 +34216,7 @@ module.exports = [
     },
   },
   {
-    word "entbinden",
+    word: "entbinden",
     translation: "to birth a child, to free someone from a job or duty; to release; to set free",
     forms: {
       section_0: [
@@ -34246,7 +34246,7 @@ module.exports = [
     },
   },
   {
-    word "entblößen",
+    word: "entblößen",
     translation: "to divest, to denude, to free oneself of, to deprive of, to expose something hidden, to reveal",
     forms: {
       section_0: [
@@ -34276,7 +34276,7 @@ module.exports = [
     },
   },
   {
-    word "entbrennen",
+    word: "entbrennen",
     translation: "(intransitive) to burst",
     forms: {
       section_0: [
@@ -34306,7 +34306,7 @@ module.exports = [
     },
   },
   {
-    word "entdecken",
+    word: "entdecken",
     translation: "to discover, to spot",
     forms: {
       section_0: [
@@ -34336,11 +34336,11 @@ module.exports = [
     },
   },
   {
-    word "enteisen",
+    word: "enteisen",
     translation: "to deice (remove ice)",
   },
   {
-    word "enterben",
+    word: "enterben",
     translation: "to disinherit",
     forms: {
       section_0: [
@@ -34370,11 +34370,11 @@ module.exports = [
     },
   },
   {
-    word "entern",
+    word: "entern",
     translation: "to board (an enemy ship)",
   },
   {
-    word "entfachen",
+    word: "entfachen",
     translation: "to kindle, to stir up",
     forms: {
       section_0: [
@@ -34404,7 +34404,7 @@ module.exports = [
     },
   },
   {
-    word "entfallen",
+    word: "entfallen",
     translation: "To drop or be dropped, To lapse or be cancelled, To slip on(e)'(s) memory",
     forms: {
       section_0: [
@@ -34434,7 +34434,7 @@ module.exports = [
     },
   },
   {
-    word "entfalten",
+    word: "entfalten",
     translation: "to unfold (to undo a folding)",
     forms: {
       section_0: [
@@ -34464,7 +34464,7 @@ module.exports = [
     },
   },
   {
-    word "entfärben",
+    word: "entfärben",
     translation: "To discolour or bleach",
     forms: {
       section_0: [
@@ -34494,7 +34494,7 @@ module.exports = [
     },
   },
   {
-    word "entfernen",
+    word: "entfernen",
     translation: "(transitive) to remove, (reflexive) to gradually move away; to recede; to retreat; to diverge, (reflexive) to stray; to deviate; to depart (from a group, a route, etc), (reflexive, military or related context) to desert; to go absent; to leave without permission, (reflexive, formal) to leave a place; to remove oneself",
     forms: {
       section_0: [
@@ -34524,7 +34524,7 @@ module.exports = [
     },
   },
   {
-    word "entfesseln",
+    word: "entfesseln",
     translation: "to unchain",
     forms: {
       section_0: [
@@ -34554,7 +34554,7 @@ module.exports = [
     },
   },
   {
-    word "entfliehen",
+    word: "entfliehen",
     translation: "to escape",
     forms: {
       section_0: [
@@ -34584,11 +34584,11 @@ module.exports = [
     },
   },
   {
-    word "entfolgen",
+    word: "entfolgen",
     translation: "(Internet, with dative) to unfollow (unsubscribe from a particular information feed)",
   },
   {
-    word "entfremden",
+    word: "entfremden",
     translation: "to estrange, to alienate",
     forms: {
       section_0: [
@@ -34618,11 +34618,11 @@ module.exports = [
     },
   },
   {
-    word "entfrosten",
+    word: "entfrosten",
     translation: "to defrost",
   },
   {
-    word "entführen",
+    word: "entführen",
     translation: "(transitive) to abduct, to kidnap",
     forms: {
       section_0: [
@@ -34652,7 +34652,7 @@ module.exports = [
     },
   },
   {
-    word "entgegeneilen",
+    word: "entgegeneilen",
     translation: "to hasten towards (something), to rush to meet (someone)",
     forms: {
       section_0: [
@@ -34682,7 +34682,7 @@ module.exports = [
     },
   },
   {
-    word "entgegenschlagen",
+    word: "entgegenschlagen",
     translation: "(often metaphorical) to assail someone, to be faced by someone, to throw against someone",
     forms: {
       section_0: [
@@ -34712,7 +34712,7 @@ module.exports = [
     },
   },
   {
-    word "entgegenwirken",
+    word: "entgegenwirken",
     translation: "To counteract or counter, To thwart",
     forms: {
       section_0: [
@@ -34742,7 +34742,7 @@ module.exports = [
     },
   },
   {
-    word "entgehen",
+    word: "entgehen",
     translation: "(transitive) to miss, to slip, (intransitive) to escape",
     forms: {
       section_0: [
@@ -34772,7 +34772,7 @@ module.exports = [
     },
   },
   {
-    word "entgleisen",
+    word: "entgleisen",
     translation: "(intransitive) to derail, come off the tracks (also figuratively)",
     forms: {
       section_0: [
@@ -34802,7 +34802,7 @@ module.exports = [
     },
   },
   {
-    word "enthalten",
+    word: "enthalten",
     translation: "to contain, comprise or include, (reflexive, with genitive) to abstain from",
     forms: {
       section_0: [
@@ -34832,19 +34832,19 @@ module.exports = [
     },
   },
   {
-    word "enthärten",
+    word: "enthärten",
     translation: "To soften",
   },
   {
-    word "enthaupten",
+    word: "enthaupten",
     translation: "to behead, to decapitate",
   },
   {
-    word "entheiligen",
+    word: "entheiligen",
     translation: "to desecrate",
   },
   {
-    word "enthüllen",
+    word: "enthüllen",
     translation: "to unveil",
     forms: {
       section_0: [
@@ -34874,23 +34874,23 @@ module.exports = [
     },
   },
   {
-    word "entionisieren",
+    word: "entionisieren",
     translation: "To deionize",
   },
   {
-    word "entjungfern",
+    word: "entjungfern",
     translation: "to deflower (to take somebody’s virginity)",
   },
   {
-    word "entkeimen",
+    word: "entkeimen",
     translation: "to disinfect",
   },
   {
-    word "entkokainisieren",
+    word: "entkokainisieren",
     translation: "to decocainize",
   },
   {
-    word "entkommen",
+    word: "entkommen",
     translation: "to escape",
     forms: {
       section_0: [
@@ -34920,7 +34920,7 @@ module.exports = [
     },
   },
   {
-    word "entkorken",
+    word: "entkorken",
     translation: "to uncork",
     forms: {
       section_0: [
@@ -34950,11 +34950,11 @@ module.exports = [
     },
   },
   {
-    word "entkörperlichen",
+    word: "entkörperlichen",
     translation: "to disembody",
   },
   {
-    word "entkräften",
+    word: "entkräften",
     translation: "to refute",
     forms: {
       section_0: [
@@ -34984,11 +34984,11 @@ module.exports = [
     },
   },
   {
-    word "entkriminalisieren",
+    word: "entkriminalisieren",
     translation: "to decriminalize",
   },
   {
-    word "entladen",
+    word: "entladen",
     translation: "to unload, to discharge",
     forms: {
       section_0: [
@@ -35018,7 +35018,7 @@ module.exports = [
     },
   },
   {
-    word "entlangfahren",
+    word: "entlangfahren",
     translation: "to drive along",
     forms: {
       section_0: [
@@ -35048,7 +35048,7 @@ module.exports = [
     },
   },
   {
-    word "entlassen",
+    word: "entlassen",
     translation: "(a prisoner or patient) to release, (from a job) to dismiss, to fire",
     forms: {
       section_0: [
@@ -35078,7 +35078,7 @@ module.exports = [
     },
   },
   {
-    word "entlasten",
+    word: "entlasten",
     translation: "To relieve, ease, To discharge, release, To exonerate",
     forms: {
       section_0: [
@@ -35108,7 +35108,7 @@ module.exports = [
     },
   },
   {
-    word "entlauben",
+    word: "entlauben",
     translation: "to defoliate",
     forms: {
       section_0: [
@@ -35138,7 +35138,7 @@ module.exports = [
     },
   },
   {
-    word "entleeren",
+    word: "entleeren",
     translation: "to empty (to make empty)",
     forms: {
       section_0: [
@@ -35168,7 +35168,7 @@ module.exports = [
     },
   },
   {
-    word "entlehnen",
+    word: "entlehnen",
     translation: "To borrow",
     forms: {
       section_0: [
@@ -35198,7 +35198,7 @@ module.exports = [
     },
   },
   {
-    word "entmachten",
+    word: "entmachten",
     translation: "(transitive) To deprive someone/something of his/its power, to depower",
     forms: {
       section_0: [
@@ -35228,15 +35228,15 @@ module.exports = [
     },
   },
   {
-    word "entmineralisieren",
+    word: "entmineralisieren",
     translation: "to demineralize",
   },
   {
-    word "entmischen",
+    word: "entmischen",
     translation: "To unmix or demix, To exsolve",
   },
   {
-    word "entmutigen",
+    word: "entmutigen",
     translation: "to discourage (to take away or reduce the courage of)",
     forms: {
       section_0: [
@@ -35266,7 +35266,7 @@ module.exports = [
     },
   },
   {
-    word "entnehmen",
+    word: "entnehmen",
     translation: "to take from, to extract, withdraw, unload, remove, to learn from",
     forms: {
       section_0: [
@@ -35296,11 +35296,11 @@ module.exports = [
     },
   },
   {
-    word "entpacken",
+    word: "entpacken",
     translation: "(computing) to decompress",
   },
   {
-    word "enträtseln",
+    word: "enträtseln",
     translation: "to solve, to disentangle, to unravel, to unriddle",
     forms: {
       section_0: [
@@ -35330,7 +35330,7 @@ module.exports = [
     },
   },
   {
-    word "entreißen",
+    word: "entreißen",
     translation: "To wrest (from)",
     forms: {
       section_0: [
@@ -35360,7 +35360,7 @@ module.exports = [
     },
   },
   {
-    word "entrichten",
+    word: "entrichten",
     translation: "to pay",
     forms: {
       section_0: [
@@ -35390,7 +35390,7 @@ module.exports = [
     },
   },
   {
-    word "entrümpeln",
+    word: "entrümpeln",
     translation: "to remove junk",
     forms: {
       section_0: [
@@ -35420,11 +35420,11 @@ module.exports = [
     },
   },
   {
-    word "entsaften",
+    word: "entsaften",
     translation: "to juice, to extract the juice of",
   },
   {
-    word "entsagen",
+    word: "entsagen",
     translation: "(+ dative) to renounce, to relinquish, to disclaim, to waive, to abandon, to abjure, to abnegate, to abdicate",
     forms: {
       section_0: [
@@ -35454,7 +35454,7 @@ module.exports = [
     },
   },
   {
-    word "entschädigen",
+    word: "entschädigen",
     translation: "to compensate; to indemnify",
     forms: {
       section_0: [
@@ -35484,7 +35484,7 @@ module.exports = [
     },
   },
   {
-    word "entschärfen",
+    word: "entschärfen",
     translation: "to defuse",
     forms: {
       section_0: [
@@ -35514,7 +35514,7 @@ module.exports = [
     },
   },
   {
-    word "entscheiden",
+    word: "entscheiden",
     translation: "(transitive or intransitive) to decide",
     forms: {
       section_0: [
@@ -35544,7 +35544,7 @@ module.exports = [
     },
   },
   {
-    word "entschlafen",
+    word: "entschlafen",
     translation: "(poetic, euphemistic, death) to fall asleep (often in the phrase: sanft entschlafen)",
     forms: {
       section_0: [
@@ -35574,7 +35574,7 @@ module.exports = [
     },
   },
   {
-    word "entschleiern",
+    word: "entschleiern",
     translation: "to unveil",
     forms: {
       section_0: [
@@ -35604,7 +35604,7 @@ module.exports = [
     },
   },
   {
-    word "entschließen",
+    word: "entschließen",
     translation: "(reflexive) to decide",
     forms: {
       section_0: [
@@ -35634,7 +35634,7 @@ module.exports = [
     },
   },
   {
-    word "entschlüsseln",
+    word: "entschlüsseln",
     translation: "to decrypt",
     forms: {
       section_0: [
@@ -35664,7 +35664,7 @@ module.exports = [
     },
   },
   {
-    word "entschuldigen",
+    word: "entschuldigen",
     translation: "(transitive) to excuse, (reflexive) to apologize, to apologise",
     forms: {
       section_0: [
@@ -35694,7 +35694,7 @@ module.exports = [
     },
   },
   {
-    word "entsenden",
+    word: "entsenden",
     translation: "to dispatch",
     forms: {
       section_0: [
@@ -35724,7 +35724,7 @@ module.exports = [
     },
   },
   {
-    word "entsetzen",
+    word: "entsetzen",
     translation: "to shock, to horrify, to appall, (military, dated) to relieve (a town or fortress from a siege)",
     forms: {
       section_0: [
@@ -35754,7 +35754,7 @@ module.exports = [
     },
   },
   {
-    word "entsinnen",
+    word: "entsinnen",
     translation: "(reflexive) to recall; to remember; to recollect",
     forms: {
       section_0: [
@@ -35784,11 +35784,11 @@ module.exports = [
     },
   },
   {
-    word "entsorgen",
+    word: "entsorgen",
     translation: "(waste, especially nuclear or toxic) to dispose of",
   },
   {
-    word "entspannen",
+    word: "entspannen",
     translation: "to relax",
     forms: {
       section_0: [
@@ -35818,7 +35818,7 @@ module.exports = [
     },
   },
   {
-    word "entsprechen",
+    word: "entsprechen",
     translation: "to correspond (be equivalent or similar in character, etc), to meet (satisfy, comply with)",
     forms: {
       section_0: [
@@ -35848,7 +35848,7 @@ module.exports = [
     },
   },
   {
-    word "entspringen",
+    word: "entspringen",
     translation: "to arise, originate, spring (start to exist)",
     forms: {
       section_0: [
@@ -35878,7 +35878,7 @@ module.exports = [
     },
   },
   {
-    word "entstammen",
+    word: "entstammen",
     translation: "To come from, To derive or stem from",
     forms: {
       section_0: [
@@ -35908,7 +35908,7 @@ module.exports = [
     },
   },
   {
-    word "entstehen",
+    word: "entstehen",
     translation: "to come into being, to arise, to develop",
     forms: {
       section_0: [
@@ -35938,7 +35938,7 @@ module.exports = [
     },
   },
   {
-    word "entsteigen",
+    word: "entsteigen",
     translation: "(literary) to get out of",
     forms: {
       section_0: [
@@ -35968,11 +35968,11 @@ module.exports = [
     },
   },
   {
-    word "entsteinen",
+    word: "entsteinen",
     translation: "to pit; to remove the pit of (an apricot, cherry, etc)",
   },
   {
-    word "entstellen",
+    word: "entstellen",
     translation: "(transitive) to disfigure somebod(y)'(s) looks, (transitive) to distort the truth, (transitive) to disrupt text or code",
     forms: {
       section_0: [
@@ -36002,11 +36002,11 @@ module.exports = [
     },
   },
   {
-    word "enttarnen",
+    word: "enttarnen",
     translation: "(espionage, of a spy or an agent) to expose, to unmask, to uncover",
   },
   {
-    word "enttäuschen",
+    word: "enttäuschen",
     translation: "to disappoint",
     forms: {
       section_0: [
@@ -36036,15 +36036,15 @@ module.exports = [
     },
   },
   {
-    word "entteeren",
+    word: "entteeren",
     translation: "to remove the tar",
   },
   {
-    word "entthronen",
+    word: "entthronen",
     translation: "to dethrone",
   },
   {
-    word "entvölkern",
+    word: "entvölkern",
     translation: "to depopulate",
     forms: {
       section_0: [
@@ -36074,7 +36074,7 @@ module.exports = [
     },
   },
   {
-    word "entwaffnen",
+    word: "entwaffnen",
     translation: "to disarm",
     forms: {
       section_0: [
@@ -36104,11 +36104,11 @@ module.exports = [
     },
   },
   {
-    word "entwarnen",
+    word: "entwarnen",
     translation: "to give the all-clear",
   },
   {
-    word "entwässern",
+    word: "entwässern",
     translation: "To drain, To dehydrate or desiccate",
     forms: {
       section_0: [
@@ -36138,7 +36138,7 @@ module.exports = [
     },
   },
   {
-    word "entweichen",
+    word: "entweichen",
     translation: "To escape, To leak (of gas)",
     forms: {
       section_0: [
@@ -36168,7 +36168,7 @@ module.exports = [
     },
   },
   {
-    word "entwenden",
+    word: "entwenden",
     translation: "to steal",
     forms: {
       section_0: [
@@ -36198,7 +36198,7 @@ module.exports = [
     },
   },
   {
-    word "entwerfen",
+    word: "entwerfen",
     translation: "to sketch, to draft, to devise, design",
     forms: {
       section_0: [
@@ -36228,7 +36228,7 @@ module.exports = [
     },
   },
   {
-    word "entwerten",
+    word: "entwerten",
     translation: "to devalue, to invalidate, (a ticket) to punch, to stamp, to validate",
     forms: {
       section_0: [
@@ -36258,7 +36258,7 @@ module.exports = [
     },
   },
   {
-    word "entwickeln",
+    word: "entwickeln",
     translation: "(transitive) to develop, (reflexive) to shape up",
     forms: {
       section_0: [
@@ -36288,7 +36288,7 @@ module.exports = [
     },
   },
   {
-    word "entwirren",
+    word: "entwirren",
     translation: "to disentangle, to unravel",
     forms: {
       section_0: [
@@ -36318,7 +36318,7 @@ module.exports = [
     },
   },
   {
-    word "entwischen",
+    word: "entwischen",
     translation: "to escape",
     forms: {
       section_0: [
@@ -36348,7 +36348,7 @@ module.exports = [
     },
   },
   {
-    word "entziehen",
+    word: "entziehen",
     translation: "to revoke (a right or permission), to withdraw (to remove, stop providing), to extract (to withdraw by a mechanical or chemical process), (reflexive) to shirk, escape, avoid (on(e)'(s) responsibilities, the consequences of on(e)'(s) actions, etc)",
     forms: {
       section_0: [
@@ -36378,7 +36378,7 @@ module.exports = [
     },
   },
   {
-    word "entziffern",
+    word: "entziffern",
     translation: "decipher",
     forms: {
       section_0: [
@@ -36408,7 +36408,7 @@ module.exports = [
     },
   },
   {
-    word "entzünden",
+    word: "entzünden",
     translation: "(transitive) to ignite, to inflame, (reflexive) to ignite, to inflame, (reflexive, medicine) to inflame",
     forms: {
       section_0: [
@@ -36438,7 +36438,7 @@ module.exports = [
     },
   },
   {
-    word "entzweien",
+    word: "entzweien",
     translation: "to divide",
     forms: {
       section_0: [
@@ -36468,11 +36468,11 @@ module.exports = [
     },
   },
   {
-    word "epilieren",
+    word: "epilieren",
     translation: "to epilate (remove body hairs)",
   },
   {
-    word "erachten",
+    word: "erachten",
     translation: "To consider, To deem",
     forms: {
       section_0: [
@@ -36502,7 +36502,7 @@ module.exports = [
     },
   },
   {
-    word "erarbeiten",
+    word: "erarbeiten",
     translation: "To work out, To obtain by hard work, To develop, To assemble, compose",
     forms: {
       section_0: [
@@ -36532,7 +36532,7 @@ module.exports = [
     },
   },
   {
-    word "erbarmen",
+    word: "erbarmen",
     translation: "(intransitive) to have mercy, to take pity",
     forms: {
       section_0: [
@@ -36562,7 +36562,7 @@ module.exports = [
     },
   },
   {
-    word "erbauen",
+    word: "erbauen",
     translation: "to build, erect",
     forms: {
       section_0: [
@@ -36592,7 +36592,7 @@ module.exports = [
     },
   },
   {
-    word "erben",
+    word: "erben",
     translation: "to inherit",
     forms: {
       section_0: [
@@ -36622,7 +36622,7 @@ module.exports = [
     },
   },
   {
-    word "erblassen",
+    word: "erblassen",
     translation: "(literally) to turn pale; to turn white, (figuratively) to die",
     forms: {
       section_0: [
@@ -36652,7 +36652,7 @@ module.exports = [
     },
   },
   {
-    word "erbrechen",
+    word: "erbrechen",
     translation: "(formal, reflexive) to vomit, (significantly less formal, transitive) to vomit something (out), (archaic, transitive) to break something open",
     forms: {
       section_0: [
@@ -36682,7 +36682,7 @@ module.exports = [
     },
   },
   {
-    word "erbringen",
+    word: "erbringen",
     translation: "To render, yield, produce, give, furnish",
     forms: {
       section_0: [
@@ -36712,11 +36712,11 @@ module.exports = [
     },
   },
   {
-    word "erbrüten",
+    word: "erbrüten",
     translation: "to hatch, to breed",
   },
   {
-    word "erden",
+    word: "erden",
     translation: "to earth (electrically)",
     forms: {
       section_0: [
@@ -36746,7 +36746,7 @@ module.exports = [
     },
   },
   {
-    word "erdenken",
+    word: "erdenken",
     translation: "to think up",
     forms: {
       section_0: [
@@ -36776,7 +36776,7 @@ module.exports = [
     },
   },
   {
-    word "erdrosseln",
+    word: "erdrosseln",
     translation: "to strangle, throttle",
     forms: {
       section_0: [
@@ -36806,7 +36806,7 @@ module.exports = [
     },
   },
   {
-    word "erdrücken",
+    word: "erdrücken",
     translation: "(transitive) to squeeze dead, to kill by squeezing",
     forms: {
       section_0: [
@@ -36836,7 +36836,7 @@ module.exports = [
     },
   },
   {
-    word "ereignen",
+    word: "ereignen",
     translation: "(reflexive) to occur",
     forms: {
       section_0: [
@@ -36866,7 +36866,7 @@ module.exports = [
     },
   },
   {
-    word "erfahren",
+    word: "erfahren",
     translation: "to learn, to come to know, to experience",
     forms: {
       section_0: [
@@ -36896,7 +36896,7 @@ module.exports = [
     },
   },
   {
-    word "erfassen",
+    word: "erfassen",
     translation: "to grasp, grip, to realize, conceive, comprehend, to capture, collect, measure, record",
     forms: {
       section_0: [
@@ -36926,7 +36926,7 @@ module.exports = [
     },
   },
   {
-    word "erfinden",
+    word: "erfinden",
     translation: "(transitive) to invent, (transitive) to fabricate (something untrue); to make up (a story), (transitive) to find out, to discover",
     forms: {
       section_0: [
@@ -36956,7 +36956,7 @@ module.exports = [
     },
   },
   {
-    word "erfolgen",
+    word: "erfolgen",
     translation: "To happen, occur, take place, To follow, ensue",
     forms: {
       section_0: [
@@ -36986,7 +36986,7 @@ module.exports = [
     },
   },
   {
-    word "erfordern",
+    word: "erfordern",
     translation: "to necessitate, to require",
     forms: {
       section_0: [
@@ -37016,7 +37016,7 @@ module.exports = [
     },
   },
   {
-    word "erfragen",
+    word: "erfragen",
     translation: "(transitive) to inquire",
     forms: {
       section_0: [
@@ -37046,7 +37046,7 @@ module.exports = [
     },
   },
   {
-    word "erfreuen",
+    word: "erfreuen",
     translation: "to please, (reflexive) to enjoy",
     forms: {
       section_0: [
@@ -37076,7 +37076,7 @@ module.exports = [
     },
   },
   {
-    word "erfrischen",
+    word: "erfrischen",
     translation: "to refresh (to renew or revitalize, especially by consuming beverages)",
     forms: {
       section_0: [
@@ -37106,7 +37106,7 @@ module.exports = [
     },
   },
   {
-    word "erfüllen",
+    word: "erfüllen",
     translation: "(transitive) to fill (with something physical or abstract), (transitive) to fulfill / fulfil, (reflexive) to come true",
     forms: {
       section_0: [
@@ -37136,7 +37136,7 @@ module.exports = [
     },
   },
   {
-    word "ergänzen",
+    word: "ergänzen",
     translation: "(transitive) to fill, fill out, complete, (transitive) to add",
     forms: {
       section_0: [
@@ -37166,7 +37166,7 @@ module.exports = [
     },
   },
   {
-    word "ergattern",
+    word: "ergattern",
     translation: "(informal, transitive) to grab; to snatch; to get",
     forms: {
       section_0: [
@@ -37196,7 +37196,7 @@ module.exports = [
     },
   },
   {
-    word "ergeben",
+    word: "ergeben",
     translation: "to yield, produce, (reflexive) to surrender, to arise, result, turn out, (takes a reflexive pronoun, impersonal) to happen",
     forms: {
       section_0: [
@@ -37226,7 +37226,7 @@ module.exports = [
     },
   },
   {
-    word "ergehen",
+    word: "ergehen",
     translation: "(formal, intransitive) to go out, to be issued, (intransitive) to go (well, badly etc for someone), (reflexive) to hold forth, expatiate (über (+ acc) on), (reflexive) to indulge (oneself) (in (+ dat) in), (reflexive, literary) to take a stroll",
     forms: {
       section_0: [
@@ -37256,7 +37256,7 @@ module.exports = [
     },
   },
   {
-    word "ergießen",
+    word: "ergießen",
     translation: "(reflexive) to gush",
     forms: {
       section_0: [
@@ -37286,7 +37286,7 @@ module.exports = [
     },
   },
   {
-    word "ergötzen",
+    word: "ergötzen",
     translation: "(transitive) (with genitive) to compensate (someone for some damage), (transitive) to delight or gladden, (reflexive) sich ergötzen (an) to cherish, to be amused (by)",
     forms: {
       section_0: [
@@ -37316,7 +37316,7 @@ module.exports = [
     },
   },
   {
-    word "ergrauen",
+    word: "ergrauen",
     translation: "to grey (to become grey)",
     forms: {
       section_0: [
@@ -37346,7 +37346,7 @@ module.exports = [
     },
   },
   {
-    word "ergreifen",
+    word: "ergreifen",
     translation: "to seize, to take up (a job, etc)",
     forms: {
       section_0: [
@@ -37376,11 +37376,11 @@ module.exports = [
     },
   },
   {
-    word "ergrimmen",
+    word: "ergrimmen",
     translation: "to become incensed, become furious",
   },
   {
-    word "erhalten",
+    word: "erhalten",
     translation: "to maintain, uphold, to receive, obtain, to save",
     forms: {
       section_0: [
@@ -37410,7 +37410,7 @@ module.exports = [
     },
   },
   {
-    word "erhärten",
+    word: "erhärten",
     translation: "To harden, To affirm, corroborate, substantiate, To petrify",
     forms: {
       section_0: [
@@ -37440,7 +37440,7 @@ module.exports = [
     },
   },
   {
-    word "erheben",
+    word: "erheben",
     translation: "to raise, lift (eg arm, voice), to levy, charge, to gather, collect (eg data, material), to bring (charges)",
     forms: {
       section_0: [
@@ -37470,7 +37470,7 @@ module.exports = [
     },
   },
   {
-    word "erhellen",
+    word: "erhellen",
     translation: "(also figuratively) to illuminate, to brighten, (reflexive, also figuratively) to illuminate, to brighten",
     forms: {
       section_0: [
@@ -37500,7 +37500,7 @@ module.exports = [
     },
   },
   {
-    word "erhitzen",
+    word: "erhitzen",
     translation: "(transitive) To heat (to cause an increase in temperature of an object or space); to warm; to inflame, (reflexive) To grow hot or warm; to become heated; to fly into a passion",
     forms: {
       section_0: [
@@ -37530,7 +37530,7 @@ module.exports = [
     },
   },
   {
-    word "erhoffen",
+    word: "erhoffen",
     translation: "To hope (for); desire; want (to)",
     forms: {
       section_0: [
@@ -37560,7 +37560,7 @@ module.exports = [
     },
   },
   {
-    word "erhöhen",
+    word: "erhöhen",
     translation: "to heighten, raise, to increase, to exalt",
     forms: {
       section_0: [
@@ -37590,7 +37590,7 @@ module.exports = [
     },
   },
   {
-    word "erholen",
+    word: "erholen",
     translation: "(reflexive) to relax, to recover, to recuperate",
     forms: {
       section_0: [
@@ -37620,7 +37620,7 @@ module.exports = [
     },
   },
   {
-    word "erinnern",
+    word: "erinnern",
     translation: "(transitive) to remind, (reflexive) to remember, (transitive, colloquial, rare) to remember",
     forms: {
       section_0: [
@@ -37650,11 +37650,11 @@ module.exports = [
     },
   },
   {
-    word "erkalten",
+    word: "erkalten",
     translation: "(intransitive) To cool down",
   },
   {
-    word "erkälten",
+    word: "erkälten",
     translation: "(reflexive) to catch a cold",
     forms: {
       section_0: [
@@ -37684,7 +37684,7 @@ module.exports = [
     },
   },
   {
-    word "erkennen",
+    word: "erkennen",
     translation: "(transitive) to acknowledge, to recognize",
     forms: {
       section_0: [
@@ -37714,7 +37714,7 @@ module.exports = [
     },
   },
   {
-    word "erkiesen",
+    word: "erkiesen",
     translation: "to pick, go for, choose",
     forms: {
       section_0: [
@@ -37744,7 +37744,7 @@ module.exports = [
     },
   },
   {
-    word "erklären",
+    word: "erklären",
     translation: "to explain, to declare, to assert",
     forms: {
       section_0: [
@@ -37774,7 +37774,7 @@ module.exports = [
     },
   },
   {
-    word "erklimmen",
+    word: "erklimmen",
     translation: "(transitive) to climb",
     forms: {
       section_0: [
@@ -37804,7 +37804,7 @@ module.exports = [
     },
   },
   {
-    word "erklingen",
+    word: "erklingen",
     translation: "to sound (to produce a sound)",
     forms: {
       section_0: [
@@ -37834,7 +37834,7 @@ module.exports = [
     },
   },
   {
-    word "erkranken",
+    word: "erkranken",
     translation: "to fall ill, to sicken",
     forms: {
       section_0: [
@@ -37864,7 +37864,7 @@ module.exports = [
     },
   },
   {
-    word "erkunden",
+    word: "erkunden",
     translation: "to explore, to investigate",
     forms: {
       section_0: [
@@ -37894,7 +37894,7 @@ module.exports = [
     },
   },
   {
-    word "erkundigen",
+    word: "erkundigen",
     translation: "(reflexive) to inquire (to get information)",
     forms: {
       section_0: [
@@ -37924,11 +37924,11 @@ module.exports = [
     },
   },
   {
-    word "erlaben",
+    word: "erlaben",
     translation: "invigorate, refresh",
   },
   {
-    word "erlangen",
+    word: "erlangen",
     translation: "to achieve, to obtain, to gain",
     forms: {
       section_0: [
@@ -37958,7 +37958,7 @@ module.exports = [
     },
   },
   {
-    word "erlassen",
+    word: "erlassen",
     translation: "(transitive) to issue (a law, an act); to promulgate, to enact (a regulation), (transitive) to let off (a penalty), (transitive) to abate (debt, taxes), (transitive) to waive (a fee), (transitive) to remit (a liability)",
     forms: {
       section_0: [
@@ -37988,7 +37988,7 @@ module.exports = [
     },
   },
   {
-    word "erlauben",
+    word: "erlauben",
     translation: "to permit",
     forms: {
       section_0: [
@@ -38018,7 +38018,7 @@ module.exports = [
     },
   },
   {
-    word "erläutern",
+    word: "erläutern",
     translation: "to explain",
     forms: {
       section_0: [
@@ -38048,7 +38048,7 @@ module.exports = [
     },
   },
   {
-    word "erleben",
+    word: "erleben",
     translation: "to experience, to see, live to see, witness, to undergo",
     forms: {
       section_0: [
@@ -38078,7 +38078,7 @@ module.exports = [
     },
   },
   {
-    word "erledigen",
+    word: "erledigen",
     translation: "to finish, to complete, to take care of, to see to, to handle",
     forms: {
       section_0: [
@@ -38108,7 +38108,7 @@ module.exports = [
     },
   },
   {
-    word "erleichtern",
+    word: "erleichtern",
     translation: "to facilitate, (reflexive) to relieve oneself",
     forms: {
       section_0: [
@@ -38138,7 +38138,7 @@ module.exports = [
     },
   },
   {
-    word "erleiden",
+    word: "erleiden",
     translation: "(transitive) to suffer, to endure, to undergo",
     forms: {
       section_0: [
@@ -38168,7 +38168,7 @@ module.exports = [
     },
   },
   {
-    word "erlesen",
+    word: "erlesen",
     translation: "To select, choose",
     forms: {
       section_0: [
@@ -38198,7 +38198,7 @@ module.exports = [
     },
   },
   {
-    word "erliegen",
+    word: "erliegen",
     translation: "To succumb (all senses), yield, To indulge",
     forms: {
       section_0: [
@@ -38228,7 +38228,7 @@ module.exports = [
     },
   },
   {
-    word "erlöschen",
+    word: "erlöschen",
     translation: "(intransitive) to extinguish; to become extinct, (intransitive) to go out; to die out, (intransitive) to lapse; to expire",
     forms: {
       section_0: [
@@ -38258,7 +38258,7 @@ module.exports = [
     },
   },
   {
-    word "erlösen",
+    word: "erlösen",
     translation: "to deliver, to release",
     forms: {
       section_0: [
@@ -38288,7 +38288,7 @@ module.exports = [
     },
   },
   {
-    word "ermächtigen",
+    word: "ermächtigen",
     translation: "to authorize",
     forms: {
       section_0: [
@@ -38318,7 +38318,7 @@ module.exports = [
     },
   },
   {
-    word "ermitteln",
+    word: "ermitteln",
     translation: "To ascertain, determine, investigate, detect, identify",
     forms: {
       section_0: [
@@ -38348,7 +38348,7 @@ module.exports = [
     },
   },
   {
-    word "ermöglichen",
+    word: "ermöglichen",
     translation: "(transitive) to make possible",
     forms: {
       section_0: [
@@ -38378,7 +38378,7 @@ module.exports = [
     },
   },
   {
-    word "ermorden",
+    word: "ermorden",
     translation: "(transitive) to murder",
     forms: {
       section_0: [
@@ -38408,7 +38408,7 @@ module.exports = [
     },
   },
   {
-    word "ermüden",
+    word: "ermüden",
     translation: "to tire; to fatigue",
     forms: {
       section_0: [
@@ -38438,7 +38438,7 @@ module.exports = [
     },
   },
   {
-    word "ermutigen",
+    word: "ermutigen",
     translation: "to encourage",
     forms: {
       section_0: [
@@ -38468,7 +38468,7 @@ module.exports = [
     },
   },
   {
-    word "ernähren",
+    word: "ernähren",
     translation: "(transitive) to nourish, to feed",
     forms: {
       section_0: [
@@ -38498,7 +38498,7 @@ module.exports = [
     },
   },
   {
-    word "ernennen",
+    word: "ernennen",
     translation: "to appoint, to name",
     forms: {
       section_0: [
@@ -38528,7 +38528,7 @@ module.exports = [
     },
   },
   {
-    word "erneuern",
+    word: "erneuern",
     translation: "(transitive) to renew",
     forms: {
       section_0: [
@@ -38558,7 +38558,7 @@ module.exports = [
     },
   },
   {
-    word "erniedrigen",
+    word: "erniedrigen",
     translation: "to abase (to lower so as to hurt feelings), to dishonor, to humble",
     forms: {
       section_0: [
@@ -38588,7 +38588,7 @@ module.exports = [
     },
   },
   {
-    word "ernten",
+    word: "ernten",
     translation: "to harvest",
     forms: {
       section_0: [
@@ -38618,7 +38618,7 @@ module.exports = [
     },
   },
   {
-    word "ernüchtern",
+    word: "ernüchtern",
     translation: "to sober (to make or become sober)",
     forms: {
       section_0: [
@@ -38648,7 +38648,7 @@ module.exports = [
     },
   },
   {
-    word "erobern",
+    word: "erobern",
     translation: "(transitive) to conquer, (transitive) to win",
     forms: {
       section_0: [
@@ -38678,7 +38678,7 @@ module.exports = [
     },
   },
   {
-    word "eröffnen",
+    word: "eröffnen",
     translation: "(a ceremony, game, shop, etc) to open, (figuratively, a possibility, perspective, etc) to open up",
     forms: {
       section_0: [
@@ -38708,7 +38708,7 @@ module.exports = [
     },
   },
   {
-    word "erörtern",
+    word: "erörtern",
     translation: "to discuss (to converse or debate concerning a particular topic)",
     forms: {
       section_0: [
@@ -38738,7 +38738,7 @@ module.exports = [
     },
   },
   {
-    word "erpressen",
+    word: "erpressen",
     translation: "to blackmail",
     forms: {
       section_0: [
@@ -38768,7 +38768,7 @@ module.exports = [
     },
   },
   {
-    word "erproben",
+    word: "erproben",
     translation: "To test, To prove",
     forms: {
       section_0: [
@@ -38798,7 +38798,7 @@ module.exports = [
     },
   },
   {
-    word "erraten",
+    word: "erraten",
     translation: "to determine (something) through advise or empathy, to guess (something) correctly, to divine",
     forms: {
       section_0: [
@@ -38828,7 +38828,7 @@ module.exports = [
     },
   },
   {
-    word "errechnen",
+    word: "errechnen",
     translation: "To reckon, calculate, compute",
     forms: {
       section_0: [
@@ -38858,7 +38858,7 @@ module.exports = [
     },
   },
   {
-    word "erregen",
+    word: "erregen",
     translation: "to thrill; arouse; excite; titillate",
     forms: {
       section_0: [
@@ -38888,7 +38888,7 @@ module.exports = [
     },
   },
   {
-    word "erreichen",
+    word: "erreichen",
     translation: "to reach, to catch, to accomplish",
     forms: {
       section_0: [
@@ -38918,7 +38918,7 @@ module.exports = [
     },
   },
   {
-    word "errichten",
+    word: "errichten",
     translation: "to build, construct",
     forms: {
       section_0: [
@@ -38948,7 +38948,7 @@ module.exports = [
     },
   },
   {
-    word "erröten",
+    word: "erröten",
     translation: "to blush",
     forms: {
       section_0: [
@@ -38978,11 +38978,11 @@ module.exports = [
     },
   },
   {
-    word "erschaffen",
+    word: "erschaffen",
     translation: "(transitive) to create; to produce; to make",
   },
   {
-    word "erschallen",
+    word: "erschallen",
     translation: "erschallen (class 3 strong, third-person singular simple present erschallt, past tense erscholl, past participle erschollen, past subjunctive erschölle, auxiliary haben)",
     forms: {
       section_0: [
@@ -39012,11 +39012,11 @@ module.exports = [
     },
   },
   {
-    word "erschauern",
+    word: "erschauern",
     translation: "to shiver, to tremble, to thrill",
   },
   {
-    word "erscheinen",
+    word: "erscheinen",
     translation: "to be published, to be released, to appear, to seem",
     forms: {
       section_0: [
@@ -39046,7 +39046,7 @@ module.exports = [
     },
   },
   {
-    word "erschiessen",
+    word: "erschiessen",
     translation: "Switzerland and Liechtenstein standard spelling of erschießen",
     forms: {
       section_0: [
@@ -39076,7 +39076,7 @@ module.exports = [
     },
   },
   {
-    word "erschießen",
+    word: "erschießen",
     translation: "to shoot dead",
     forms: {
       section_0: [
@@ -39106,7 +39106,7 @@ module.exports = [
     },
   },
   {
-    word "erschlagen",
+    word: "erschlagen",
     translation: "to slay, to strike dead",
     forms: {
       section_0: [
@@ -39136,7 +39136,7 @@ module.exports = [
     },
   },
   {
-    word "erschließen",
+    word: "erschließen",
     translation: "To exploit or develop, To tap, To infer or deduce",
     forms: {
       section_0: [
@@ -39166,7 +39166,7 @@ module.exports = [
     },
   },
   {
-    word "erschöpfen",
+    word: "erschöpfen",
     translation: "to exhaust",
     forms: {
       section_0: [
@@ -39196,7 +39196,7 @@ module.exports = [
     },
   },
   {
-    word "erschrecken",
+    word: "erschrecken",
     translation: "(standard, intransitive, auxiliary sein) to be frightened; to be startled, (chiefly colloquial, reflexive, auxiliary haben) to be frightened; to be startled, (dated, transitive, auxiliary haben) to frighten; to scare (someone)",
     forms: {
       section_0: [
@@ -39226,7 +39226,7 @@ module.exports = [
     },
   },
   {
-    word "erschüttern",
+    word: "erschüttern",
     translation: "to shake",
     forms: {
       section_0: [
@@ -39256,7 +39256,7 @@ module.exports = [
     },
   },
   {
-    word "erschweren",
+    word: "erschweren",
     translation: "to complicate, to make hard or harder",
     forms: {
       section_0: [
@@ -39286,7 +39286,7 @@ module.exports = [
     },
   },
   {
-    word "ersetzen",
+    word: "ersetzen",
     translation: "to replace, to substitute",
     forms: {
       section_0: [
@@ -39316,7 +39316,7 @@ module.exports = [
     },
   },
   {
-    word "ersinnen",
+    word: "ersinnen",
     translation: "to imagine, think up",
     forms: {
       section_0: [
@@ -39346,7 +39346,7 @@ module.exports = [
     },
   },
   {
-    word "ersparen",
+    word: "ersparen",
     translation: "(transitive) to save, to save up, to put aside, (transitive) to save, to spare (To spare somebody from something bad)",
     forms: {
       section_0: [
@@ -39376,7 +39376,7 @@ module.exports = [
     },
   },
   {
-    word "erstarren",
+    word: "erstarren",
     translation: "to congeal, set or stiffen, to freeze, to become motionless",
     forms: {
       section_0: [
@@ -39406,7 +39406,7 @@ module.exports = [
     },
   },
   {
-    word "erstatten",
+    word: "erstatten",
     translation: "(transitive) to reimburse",
     forms: {
       section_0: [
@@ -39436,7 +39436,7 @@ module.exports = [
     },
   },
   {
-    word "erstaunen",
+    word: "erstaunen",
     translation: "to astonish, astound",
     forms: {
       section_0: [
@@ -39466,7 +39466,7 @@ module.exports = [
     },
   },
   {
-    word "erstechen",
+    word: "erstechen",
     translation: "to stab (to pierce or wound with pointed tool or weapon)",
     forms: {
       section_0: [
@@ -39496,7 +39496,7 @@ module.exports = [
     },
   },
   {
-    word "erstehen",
+    word: "erstehen",
     translation: "(transitive) to acquire, purchase",
     forms: {
       section_0: [
@@ -39526,11 +39526,11 @@ module.exports = [
     },
   },
   {
-    word "ersteigern",
+    word: "ersteigern",
     translation: "(transitive) to buy at an auction",
   },
   {
-    word "erstellen",
+    word: "erstellen",
     translation: "to create",
     forms: {
       section_0: [
@@ -39560,7 +39560,7 @@ module.exports = [
     },
   },
   {
-    word "ersterben",
+    word: "ersterben",
     translation: "(rare) to die, to die away, to gradually stop",
     forms: {
       section_0: [
@@ -39590,7 +39590,7 @@ module.exports = [
     },
   },
   {
-    word "ersticken",
+    word: "ersticken",
     translation: "to suffocate, to smother",
     forms: {
       section_0: [
@@ -39620,7 +39620,7 @@ module.exports = [
     },
   },
   {
-    word "erstrecken",
+    word: "erstrecken",
     translation: "(reflexive, of an object having a certain spatial extent) to extend, (reflexive, of an object having a certain temporal extent) to range, (reflexive, of an object having a certain thematic extent) to cover",
     forms: {
       section_0: [
@@ -39650,7 +39650,7 @@ module.exports = [
     },
   },
   {
-    word "erstürmen",
+    word: "erstürmen",
     translation: "(transitive) to take by storm",
     forms: {
       section_0: [
@@ -39680,7 +39680,7 @@ module.exports = [
     },
   },
   {
-    word "ersuchen",
+    word: "ersuchen",
     translation: "to ask or beseech (somebody to do something), to request (something from somebody)",
     forms: {
       section_0: [
@@ -39710,7 +39710,7 @@ module.exports = [
     },
   },
   {
-    word "ertappen",
+    word: "ertappen",
     translation: "to catch",
     forms: {
       section_0: [
@@ -39740,7 +39740,7 @@ module.exports = [
     },
   },
   {
-    word "erteilen",
+    word: "erteilen",
     translation: "to issue; to give (especially orders), (law) to grant",
     forms: {
       section_0: [
@@ -39770,11 +39770,11 @@ module.exports = [
     },
   },
   {
-    word "ertödten",
+    word: "ertödten",
     translation: "Obsolete spelling of ertöten",
   },
   {
-    word "ertönen",
+    word: "ertönen",
     translation: "(formal, intransitive) to sound; to ring out",
     forms: {
       section_0: [
@@ -39804,7 +39804,7 @@ module.exports = [
     },
   },
   {
-    word "ertragen",
+    word: "ertragen",
     translation: "to bear, to stand",
     forms: {
       section_0: [
@@ -39834,7 +39834,7 @@ module.exports = [
     },
   },
   {
-    word "ertrinken",
+    word: "ertrinken",
     translation: "to drown",
     forms: {
       section_0: [
@@ -39864,7 +39864,7 @@ module.exports = [
     },
   },
   {
-    word "erübrigen",
+    word: "erübrigen",
     translation: "(reflexive) to become unimportant or redundant",
     forms: {
       section_0: [
@@ -39894,7 +39894,7 @@ module.exports = [
     },
   },
   {
-    word "erwachen",
+    word: "erwachen",
     translation: "(intransitive) to awake (also figuratively)",
     forms: {
       section_0: [
@@ -39924,7 +39924,7 @@ module.exports = [
     },
   },
   {
-    word "erwachsen",
+    word: "erwachsen",
     translation: "(intransitive) to grow up, to grow, to spring up, to spring from, to proceed from, to accrue, to grow out of, to arise (difficulties, tasks)",
     forms: {
       section_0: [
@@ -39954,7 +39954,7 @@ module.exports = [
     },
   },
   {
-    word "erwägen",
+    word: "erwägen",
     translation: "to consider",
     forms: {
       section_0: [
@@ -39984,7 +39984,7 @@ module.exports = [
     },
   },
   {
-    word "erwähnen",
+    word: "erwähnen",
     translation: "to mention (to speak of something)",
     forms: {
       section_0: [
@@ -40014,7 +40014,7 @@ module.exports = [
     },
   },
   {
-    word "erwärmen",
+    word: "erwärmen",
     translation: "to warm, to heat, (reflexive) to warm up, to heat up",
     forms: {
       section_0: [
@@ -40044,7 +40044,7 @@ module.exports = [
     },
   },
   {
-    word "erwarten",
+    word: "erwarten",
     translation: "to expect, to await",
     forms: {
       section_0: [
@@ -40074,7 +40074,7 @@ module.exports = [
     },
   },
   {
-    word "erwecken",
+    word: "erwecken",
     translation: "(transitive) to awake, to arouse",
     forms: {
       section_0: [
@@ -40104,7 +40104,7 @@ module.exports = [
     },
   },
   {
-    word "erweisen",
+    word: "erweisen",
     translation: "to prove, accord",
     forms: {
       section_0: [
@@ -40134,7 +40134,7 @@ module.exports = [
     },
   },
   {
-    word "erweitern",
+    word: "erweitern",
     translation: "to extend, to expand",
     forms: {
       section_0: [
@@ -40164,7 +40164,7 @@ module.exports = [
     },
   },
   {
-    word "erwerben",
+    word: "erwerben",
     translation: "to acquire",
     forms: {
       section_0: [
@@ -40194,7 +40194,7 @@ module.exports = [
     },
   },
   {
-    word "erwidern",
+    word: "erwidern",
     translation: "to reply, to reciprocate",
     forms: {
       section_0: [
@@ -40224,11 +40224,11 @@ module.exports = [
     },
   },
   {
-    word "erwirtschaften",
+    word: "erwirtschaften",
     translation: "To earn, To generate (a profit)",
   },
   {
-    word "erwischen",
+    word: "erwischen",
     translation: "to catch",
     forms: {
       section_0: [
@@ -40258,7 +40258,7 @@ module.exports = [
     },
   },
   {
-    word "erwürgen",
+    word: "erwürgen",
     translation: "to strangle",
     forms: {
       section_0: [
@@ -40288,7 +40288,7 @@ module.exports = [
     },
   },
   {
-    word "erzählen",
+    word: "erzählen",
     translation: "to tell, to narrate",
     forms: {
       section_0: [
@@ -40318,11 +40318,11 @@ module.exports = [
     },
   },
   {
-    word "erzen",
+    word: "erzen",
     translation: "(historical, transitive) to address using the pronoun Er",
   },
   {
-    word "erzeugen",
+    word: "erzeugen",
     translation: "to produce, to generate, to cause",
     forms: {
       section_0: [
@@ -40352,7 +40352,7 @@ module.exports = [
     },
   },
   {
-    word "erziehen",
+    word: "erziehen",
     translation: "to educate",
     forms: {
       section_0: [
@@ -40382,7 +40382,7 @@ module.exports = [
     },
   },
   {
-    word "erzielen",
+    word: "erzielen",
     translation: "to achieve, to obtain, to attain, to reach, to arrive, to realize, to score (to earn points in a game)",
     forms: {
       section_0: [
@@ -40412,7 +40412,7 @@ module.exports = [
     },
   },
   {
-    word "erzwingen",
+    word: "erzwingen",
     translation: "to force (cause to occur, overcoming resistance)",
     forms: {
       section_0: [
@@ -40442,23 +40442,23 @@ module.exports = [
     },
   },
   {
-    word "es lebe",
+    word: "es lebe",
     translation: "long live",
   },
   {
-    word "es schaffen",
+    word: "es schaffen",
     translation: "(idiomatic) to make it",
   },
   {
-    word "eskalieren",
+    word: "eskalieren",
     translation: "to escalate",
   },
   {
-    word "eskortieren",
+    word: "eskortieren",
     translation: "to escort",
   },
   {
-    word "essen",
+    word: "essen",
     translation: "(transitive) to eat, (intransitive) to eat; to dine",
     forms: {
       section_0: [
@@ -40488,7 +40488,7 @@ module.exports = [
     },
   },
   {
-    word "etablieren",
+    word: "etablieren",
     translation: "to establish",
     forms: {
       section_0: [
@@ -40518,19 +40518,19 @@ module.exports = [
     },
   },
   {
-    word "etikettieren",
+    word: "etikettieren",
     translation: "to label, to tag",
   },
   {
-    word "etiolieren",
+    word: "etiolieren",
     translation: "(horticulture) to etiolate (to make pale through lack of light, especially a plant)",
   },
   {
-    word "europäisieren",
+    word: "europäisieren",
     translation: "to Europeanize",
   },
   {
-    word "evakuieren",
+    word: "evakuieren",
     translation: "to evacuate",
     forms: {
       section_0: [
@@ -40560,27 +40560,27 @@ module.exports = [
     },
   },
   {
-    word "evaluieren",
+    word: "evaluieren",
     translation: "to evaluate",
   },
   {
-    word "evangelisieren",
+    word: "evangelisieren",
     translation: "to evangelize",
   },
   {
-    word "evangelisiren",
+    word: "evangelisiren",
     translation: "Obsolete spelling of evangelisieren",
   },
   {
-    word "exekutieren",
+    word: "exekutieren",
     translation: "to execute (kill)",
   },
   {
-    word "exen",
+    word: "exen",
     translation: "(slang) to down (to drink or swallow)",
   },
   {
-    word "existieren",
+    word: "existieren",
     translation: "third-person plural pluperfect indicative of existir, third-person plural imperfect preterite subjunctive of existir",
     forms: {
       section_0: [
@@ -40610,19 +40610,19 @@ module.exports = [
     },
   },
   {
-    word "exmatrikulieren",
+    word: "exmatrikulieren",
     translation: "to deregister, to unenroll, to (as a school) remove (someone) from the register of students (due to that perso(n)'(s) graduation, withdrawal, expulsion, etc)",
   },
   {
-    word "exorzieren",
+    word: "exorzieren",
     translation: "to exorcise",
   },
   {
-    word "expandieren",
+    word: "expandieren",
     translation: "to expand",
   },
   {
-    word "experimentieren",
+    word: "experimentieren",
     translation: "to experiment",
     forms: {
       section_0: [
@@ -40652,11 +40652,11 @@ module.exports = [
     },
   },
   {
-    word "explizieren",
+    word: "explizieren",
     translation: "to explicate ((transitive) to explain meticulously or in great detail; to elucidate; to analyze)",
   },
   {
-    word "explodieren",
+    word: "explodieren",
     translation: "to explode",
     forms: {
       section_0: [
@@ -40686,7 +40686,7 @@ module.exports = [
     },
   },
   {
-    word "exportieren",
+    word: "exportieren",
     translation: "to export",
     forms: {
       section_0: [
@@ -40716,19 +40716,19 @@ module.exports = [
     },
   },
   {
-    word "extemporieren",
+    word: "extemporieren",
     translation: "to extemporize",
   },
   {
-    word "extrahieren",
+    word: "extrahieren",
     translation: "to extract",
   },
   {
-    word "extrudieren",
+    word: "extrudieren",
     translation: "To extrude",
   },
   {
-    word "fabulieren",
+    word: "fabulieren",
     translation: "To fabulate, tell stories",
     forms: {
       section_0: [
@@ -40758,11 +40758,11 @@ module.exports = [
     },
   },
   {
-    word "fachen",
+    word: "fachen",
     translation: "(rare) to kindle, ignite",
   },
   {
-    word "fahnden",
+    word: "fahnden",
     translation: "(law enforcement) to search",
     forms: {
       section_0: [
@@ -40792,7 +40792,7 @@ module.exports = [
     },
   },
   {
-    word "fahren",
+    word: "fahren",
     translation: "(intransitive, of a person) to go (by vehicle); to sail; to travel, (intransitive, of a person) to leave (by vehicle), (intransitive, of a vehicle) to go; to run; to drive; to sail, (intransitive, of a vehicle) to leave; to depart, (transitive or intransitive) to drive; to ride; to sail (a vehicle), (transitive) to take (someone somewhere by vehicle); to drive; to transport",
     forms: {
       section_0: [
@@ -40822,11 +40822,11 @@ module.exports = [
     },
   },
   {
-    word "fährste",
+    word: "fährste",
     translation: "Contraction of fährst du",
   },
   {
-    word "fallen",
+    word: "fallen",
     translation: "past participle of fall",
     forms: {
       section_0: [
@@ -40856,15 +40856,15 @@ module.exports = [
     },
   },
   {
-    word "fällen",
+    word: "fällen",
     translation: "(a tree) to cut down, to fell, (chemistry) to precipitate, (a decision) to make, (a judgement or sentence) to pass",
   },
   {
-    word "fallen lassen",
+    word: "fallen lassen",
     translation: "to drop (to allow to fall from on(e)'(s) grasp)",
   },
   {
-    word "fälschen",
+    word: "fälschen",
     translation: "to counterfeit, to forge",
     forms: {
       section_0: [
@@ -40894,7 +40894,7 @@ module.exports = [
     },
   },
   {
-    word "falten",
+    word: "falten",
     translation: "third-person plural present indicative form of faltar",
     forms: {
       section_0: [
@@ -40924,7 +40924,7 @@ module.exports = [
     },
   },
   {
-    word "falzen",
+    word: "falzen",
     translation: "to fold",
     forms: {
       section_0: [
@@ -40954,11 +40954,11 @@ module.exports = [
     },
   },
   {
-    word "fanatisieren",
+    word: "fanatisieren",
     translation: "to fanaticize",
   },
   {
-    word "fangen",
+    word: "fangen",
     translation: "(transitive) to catch (grab something flying in the air), (transitive) to catch; to capture (to take hold of a person or an animal), (reflexive) to improve in health; do well again; to do better, (reflexive) to calm down; to compose oneself, (colloquial, transitive, with reflexive dative) to catch (a disease; something unpleasant), (colloquial, with eine and reflexive dative) to be slapped",
     forms: {
       section_0: [
@@ -40988,11 +40988,11 @@ module.exports = [
     },
   },
   {
-    word "Farbe bekennen",
+    word: "Farbe bekennen",
     translation: "(card games) to follow suit, (idiomatic) to show on(e)'(s) true colors, declare oneself, (idiomatic) to nail on(e)'(s) colours to the mast, declare oneself, (idiomatic) to come clean",
   },
   {
-    word "färben",
+    word: "färben",
     translation: "to color, to dye",
     forms: {
       section_0: [
@@ -41022,15 +41022,15 @@ module.exports = [
     },
   },
   {
-    word "faschieren",
+    word: "faschieren",
     translation: "(Austria) to mince meat",
   },
   {
-    word "fasen",
+    word: "fasen",
     translation: "to chamfer",
   },
   {
-    word "fassen",
+    word: "fassen",
     translation: "to grasp",
     forms: {
       section_0: [
@@ -41060,7 +41060,7 @@ module.exports = [
     },
   },
   {
-    word "fasten",
+    word: "fasten",
     translation: "To attach or connect in a secure manner, To cause to take close effect; to make to tell; to land",
     forms: {
       section_0: [
@@ -41090,7 +41090,7 @@ module.exports = [
     },
   },
   {
-    word "faszinieren",
+    word: "faszinieren",
     translation: "to fascinate",
     forms: {
       section_0: [
@@ -41120,7 +41120,7 @@ module.exports = [
     },
   },
   {
-    word "fauchen",
+    word: "fauchen",
     translation: "(animal sound) to hiss, to spit",
     forms: {
       section_0: [
@@ -41150,7 +41150,7 @@ module.exports = [
     },
   },
   {
-    word "faulen",
+    word: "faulen",
     translation: "to rot (become decomposed by microorganisms)",
     forms: {
       section_0: [
@@ -41180,7 +41180,7 @@ module.exports = [
     },
   },
   {
-    word "faulenzen",
+    word: "faulenzen",
     translation: "to laze",
     forms: {
       section_0: [
@@ -41210,11 +41210,11 @@ module.exports = [
     },
   },
   {
-    word "favorisieren",
+    word: "favorisieren",
     translation: "to favor",
   },
   {
-    word "fechten",
+    word: "fechten",
     translation: "(intransitive) to fence, (intransitive, poetic) to fight",
     forms: {
       section_0: [
@@ -41244,7 +41244,7 @@ module.exports = [
     },
   },
   {
-    word "fegen",
+    word: "fegen",
     translation: "to sweep, to polish",
     forms: {
       section_0: [
@@ -41274,11 +41274,11 @@ module.exports = [
     },
   },
   {
-    word "fehlbesetzen",
+    word: "fehlbesetzen",
     translation: "(acting) to miscast, (position or job) to misassign",
   },
   {
-    word "fehlen",
+    word: "fehlen",
     translation: "to lack, to be absent, (dated) to fail",
     forms: {
       section_0: [
@@ -41308,11 +41308,11 @@ module.exports = [
     },
   },
   {
-    word "feien",
+    word: "feien",
     translation: "third-person plural imperfect indicative form of fer",
   },
   {
-    word "feiern",
+    word: "feiern",
     translation: "(transitive or intransitive) to celebrate; to party; applicable from the most solemn to the most revelrous forms, (transitive, colloquial, youth slang) to love; to adore",
     forms: {
       section_0: [
@@ -41342,7 +41342,7 @@ module.exports = [
     },
   },
   {
-    word "feilbieten",
+    word: "feilbieten",
     translation: "(transitive) to offer for sale",
     forms: {
       section_0: [
@@ -41372,7 +41372,7 @@ module.exports = [
     },
   },
   {
-    word "feilen",
+    word: "feilen",
     translation: "(to smooth with a file) to file",
     forms: {
       section_0: [
@@ -41402,7 +41402,7 @@ module.exports = [
     },
   },
   {
-    word "feilschen",
+    word: "feilschen",
     translation: "to haggle",
     forms: {
       section_0: [
@@ -41432,11 +41432,11 @@ module.exports = [
     },
   },
   {
-    word "fensterln",
+    word: "fensterln",
     translation: "(southern Germany, Austria, Switzerland) to visit a girl who is the object of on(e)'(s) affections at night, either by coming to her window or by climbing through it into her room",
   },
   {
-    word "ferngucken",
+    word: "ferngucken",
     translation: "(regional) to watch television",
     forms: {
       section_0: [
@@ -41466,7 +41466,7 @@ module.exports = [
     },
   },
   {
-    word "fernhalten",
+    word: "fernhalten",
     translation: "to keep away, to keep off",
     forms: {
       section_0: [
@@ -41496,7 +41496,7 @@ module.exports = [
     },
   },
   {
-    word "fernsehen",
+    word: "fernsehen",
     translation: "to watch television",
     forms: {
       section_0: [
@@ -41526,11 +41526,11 @@ module.exports = [
     },
   },
   {
-    word "fernzusehen",
+    word: "fernzusehen",
     translation: "zu-infinitive of fernsehen",
   },
   {
-    word "fertigen",
+    word: "fertigen",
     translation: "to produce, to manufacture",
     forms: {
       section_0: [
@@ -41560,7 +41560,7 @@ module.exports = [
     },
   },
   {
-    word "fertigmachen",
+    word: "fertigmachen",
     translation: "to complete (to finish)",
     forms: {
       section_0: [
@@ -41590,11 +41590,11 @@ module.exports = [
     },
   },
   {
-    word "fertigstellen",
+    word: "fertigstellen",
     translation: "to finish, to complete, to accomplish",
   },
   {
-    word "fesseln",
+    word: "fesseln",
     translation: "to chain, to bind, to rivet (someon(e)'(s) attention), to captivate",
     forms: {
       section_0: [
@@ -41624,19 +41624,19 @@ module.exports = [
     },
   },
   {
-    word "fest einprogrammieren",
+    word: "fest einprogrammieren",
     translation: "(computing) to hard code",
   },
   {
-    word "festen",
+    word: "festen",
     translation: "(transitive) to celebrate, to party",
   },
   {
-    word "festfragen",
+    word: "festfragen",
     translation: "(transitive) (South Africa (KwaZulu-Natal: Izotsha)) to drive somebody in a tight corner by posing questions; to put somebody in an embarrassing situation, to embarrass",
   },
   {
-    word "festhalten",
+    word: "festhalten",
     translation: "to hold; to adhere, to retain, to record; to capture, to detain",
     forms: {
       section_0: [
@@ -41666,7 +41666,7 @@ module.exports = [
     },
   },
   {
-    word "festigen",
+    word: "festigen",
     translation: "to consolidate; to strengthen",
     forms: {
       section_0: [
@@ -41696,7 +41696,7 @@ module.exports = [
     },
   },
   {
-    word "festlegen",
+    word: "festlegen",
     translation: "to set, to determine",
     forms: {
       section_0: [
@@ -41726,7 +41726,7 @@ module.exports = [
     },
   },
   {
-    word "festmachen",
+    word: "festmachen",
     translation: "to fix (something) on, to fasten, (nautical) to moor, to arrange, to demonstrate, exemplify",
     forms: {
       section_0: [
@@ -41756,7 +41756,7 @@ module.exports = [
     },
   },
   {
-    word "festnageln",
+    word: "festnageln",
     translation: "to nail (employ a nail as a fastener)",
     forms: {
       section_0: [
@@ -41786,7 +41786,7 @@ module.exports = [
     },
   },
   {
-    word "festnehmen",
+    word: "festnehmen",
     translation: "to arrest (take into legal custody)",
     forms: {
       section_0: [
@@ -41816,11 +41816,11 @@ module.exports = [
     },
   },
   {
-    word "festquatschen",
+    word: "festquatschen",
     translation: "(reflexive, informal) To become so absorbed in a conversation that you cannot let go of it (for a fairly long time), to get stuck nattering away, to get stuck in a chat",
   },
   {
-    word "festschreiben",
+    word: "festschreiben",
     translation: "To establish, codify, stipulate",
     forms: {
       section_0: [
@@ -41850,7 +41850,7 @@ module.exports = [
     },
   },
   {
-    word "festsetzen",
+    word: "festsetzen",
     translation: "to set (to determine), to arrest, to put in prison",
     forms: {
       section_0: [
@@ -41880,7 +41880,7 @@ module.exports = [
     },
   },
   {
-    word "feststellen",
+    word: "feststellen",
     translation: "to notice, to determine, to ascertain, to declare, to state",
     forms: {
       section_0: [
@@ -41910,7 +41910,7 @@ module.exports = [
     },
   },
   {
-    word "festwachsen",
+    word: "festwachsen",
     translation: "to grow on; to take root, to increase",
     forms: {
       section_0: [
@@ -41940,19 +41940,19 @@ module.exports = [
     },
   },
   {
-    word "festzulegen",
+    word: "festzulegen",
     translation: "zu-infinitive of festlegen",
   },
   {
-    word "festzunehmen",
+    word: "festzunehmen",
     translation: "zu-infinitive of festnehmen",
   },
   {
-    word "festzustellen",
+    word: "festzustellen",
     translation: "zu-infinitive of feststellen",
   },
   {
-    word "fetzen",
+    word: "fetzen",
     translation: "(intransitive, colloquial, auxiliary sein) to speed, to rush, (reflexive, colloquial, auxiliary haben) to fight, to wrangle, to squabble",
     forms: {
       section_0: [
@@ -41982,7 +41982,7 @@ module.exports = [
     },
   },
   {
-    word "feuern",
+    word: "feuern",
     translation: "(weaponry) to fire, (terminate employment) to fire, (feed a fire) to fire, (neurons) to fire",
     forms: {
       section_0: [
@@ -42012,11 +42012,11 @@ module.exports = [
     },
   },
   {
-    word "ficken",
+    word: "ficken",
     translation: "(vulgar) to fuck, (obsolete) to rub; to slide",
   },
   {
-    word "fiebern",
+    word: "fiebern",
     translation: "to have a high temperature, to enthuse, to be excited about something",
     forms: {
       section_0: [
@@ -42046,11 +42046,11 @@ module.exports = [
     },
   },
   {
-    word "fiepen",
+    word: "fiepen",
     translation: "(of a bird) to cheep, (of a dog) to whimper",
   },
   {
-    word "filtern",
+    word: "filtern",
     translation: "to filter",
     forms: {
       section_0: [
@@ -42080,15 +42080,15 @@ module.exports = [
     },
   },
   {
-    word "filtrieren",
+    word: "filtrieren",
     translation: "to filtrate",
   },
   {
-    word "filzen",
+    word: "filzen",
     translation: "(transitive, colloquial) to frisk (search somebody by feeling their clothes), (intransitive, colloquial) to sleep, rest, (transitive) to felt (make into felt), (intransitive) to become like felt",
   },
   {
-    word "finanzieren",
+    word: "finanzieren",
     translation: "to pay, to finance",
     forms: {
       section_0: [
@@ -42118,7 +42118,7 @@ module.exports = [
     },
   },
   {
-    word "finden",
+    word: "finden",
     translation: "to find",
     forms: {
       section_0: [
@@ -42148,11 +42148,11 @@ module.exports = [
     },
   },
   {
-    word "fingieren",
+    word: "fingieren",
     translation: "to feign (to represent by a false appearance of)",
   },
   {
-    word "fischen",
+    word: "fischen",
     translation: "to fish",
     forms: {
       section_0: [
@@ -42182,15 +42182,15 @@ module.exports = [
     },
   },
   {
-    word "fisseln",
+    word: "fisseln",
     translation: "(chiefly impersonal) to drizzle or flurry: to rain or snow lightly",
   },
   {
-    word "fisten",
+    word: "fisten",
     translation: "to fist-fuck",
   },
   {
-    word "fixieren",
+    word: "fixieren",
     translation: "to fixate",
     forms: {
       section_0: [
@@ -42220,7 +42220,7 @@ module.exports = [
     },
   },
   {
-    word "flackern",
+    word: "flackern",
     translation: "to flicker",
     forms: {
       section_0: [
@@ -42250,11 +42250,11 @@ module.exports = [
     },
   },
   {
-    word "fladern",
+    word: "fladern",
     translation: "(Austria) to steal",
   },
   {
-    word "flambieren",
+    word: "flambieren",
     translation: "to flambé",
     forms: {
       section_0: [
@@ -42284,11 +42284,11 @@ module.exports = [
     },
   },
   {
-    word "flanieren",
+    word: "flanieren",
     translation: "to stroll",
   },
   {
-    word "flankieren",
+    word: "flankieren",
     translation: "to flank",
     forms: {
       section_0: [
@@ -42318,11 +42318,11 @@ module.exports = [
     },
   },
   {
-    word "flattern",
+    word: "flattern",
     translation: "to flutter",
   },
   {
-    word "flechten",
+    word: "flechten",
     translation: "(transitive) to plait; to braid; to weave",
     forms: {
       section_0: [
@@ -42352,7 +42352,7 @@ module.exports = [
     },
   },
   {
-    word "flehen",
+    word: "flehen",
     translation: "to entreat",
     forms: {
       section_0: [
@@ -42382,7 +42382,7 @@ module.exports = [
     },
   },
   {
-    word "flektieren",
+    word: "flektieren",
     translation: "to inflect",
     forms: {
       section_0: [
@@ -42412,15 +42412,15 @@ module.exports = [
     },
   },
   {
-    word "flensen",
+    word: "flensen",
     translation: "to flense",
   },
   {
-    word "fleuchen",
+    word: "fleuchen",
     translation: "(poetic) to fly",
   },
   {
-    word "flicken",
+    word: "flicken",
     translation: "to patch up, to mend",
     forms: {
       section_0: [
@@ -42450,7 +42450,7 @@ module.exports = [
     },
   },
   {
-    word "fliegen",
+    word: "fliegen",
     translation: "(intransitive, auxiliary sein) to fly; to travel by air, (intransitive, figuratively, auxiliary sein) to rush; to fly; to go quickly, (transitive, auxiliary haben) to fly; to pilot, (transitive, auxiliary haben) to transport by air, (intransitive, colloquial, auxiliary sein) to get the axe, to get kicked out",
     forms: {
       section_0: [
@@ -42480,7 +42480,7 @@ module.exports = [
     },
   },
   {
-    word "fliehen",
+    word: "fliehen",
     translation: "(intransitive, auxiliary: “sein”) to flee; to escape, (intransitive, auxiliary: “sein”) to diverge, (transitive, auxiliary: “haben”) to flee from (someone); to avoid",
     forms: {
       section_0: [
@@ -42510,7 +42510,7 @@ module.exports = [
     },
   },
   {
-    word "fliessen",
+    word: "fliessen",
     translation: "Switzerland and Liechtenstein standard spelling of fließen",
     forms: {
       section_0: [
@@ -42540,7 +42540,7 @@ module.exports = [
     },
   },
   {
-    word "fließen",
+    word: "fließen",
     translation: "(intransitive) to flow",
     forms: {
       section_0: [
@@ -42570,11 +42570,11 @@ module.exports = [
     },
   },
   {
-    word "flirren",
+    word: "flirren",
     translation: "to vibrate, to quiver, to whirr, to flacker",
   },
   {
-    word "flirten",
+    word: "flirten",
     translation: "third-person plural present indicative form of flirtar",
     forms: {
       section_0: [
@@ -42604,7 +42604,7 @@ module.exports = [
     },
   },
   {
-    word "flittern",
+    word: "flittern",
     translation: "to glisten, sparkle",
     forms: {
       section_0: [
@@ -42634,7 +42634,7 @@ module.exports = [
     },
   },
   {
-    word "flitzen",
+    word: "flitzen",
     translation: "to speed, to whiz, to rush",
     forms: {
       section_0: [
@@ -42664,7 +42664,7 @@ module.exports = [
     },
   },
   {
-    word "flöten",
+    word: "flöten",
     translation: "to play the flute, to speak in a high voice, usually charmingly, (regional) to whistle, (regional, sports) to act as referee",
     forms: {
       section_0: [
@@ -42694,11 +42694,11 @@ module.exports = [
     },
   },
   {
-    word "flöten gehen",
+    word: "flöten gehen",
     translation: "(idiomatic, colloqial) to be lost, to be gone",
   },
   {
-    word "fluchen",
+    word: "fluchen",
     translation: "(intransitive) to swear, to curse",
     forms: {
       section_0: [
@@ -42728,7 +42728,7 @@ module.exports = [
     },
   },
   {
-    word "flüchten",
+    word: "flüchten",
     translation: "to flee (to run away; to escape)",
     forms: {
       section_0: [
@@ -42758,7 +42758,7 @@ module.exports = [
     },
   },
   {
-    word "fluktuieren",
+    word: "fluktuieren",
     translation: "to fluctuate",
     forms: {
       section_0: [
@@ -42788,19 +42788,19 @@ module.exports = [
     },
   },
   {
-    word "flunkern",
+    word: "flunkern",
     translation: "to tell harmless lies, to brag in an exaggerating way",
   },
   {
-    word "fluorieren",
+    word: "fluorieren",
     translation: "To fluorinate",
   },
   {
-    word "fluppen",
+    word: "fluppen",
     translation: "(colloquial, regional, auxiliary haben) to work; to work out; to succeed, (colloquial, regional, auxiliary sein) to slip",
   },
   {
-    word "flüstern",
+    word: "flüstern",
     translation: "to whisper",
     forms: {
       section_0: [
@@ -42830,7 +42830,7 @@ module.exports = [
     },
   },
   {
-    word "fluten",
+    word: "fluten",
     translation: "(transitive, nautical) to flood",
     forms: {
       section_0: [
@@ -42860,23 +42860,23 @@ module.exports = [
     },
   },
   {
-    word "flutschen",
+    word: "flutschen",
     translation: "(somewhat informal) to slip; to move smoothly (out of a grip or through something)",
   },
   {
-    word "fodern",
+    word: "fodern",
     translation: "(archaic) Alternative spelling of fordern",
   },
   {
-    word "föhnen",
+    word: "föhnen",
     translation: "to blow-dry",
   },
   {
-    word "fokussieren",
+    word: "fokussieren",
     translation: "(optics, photography) to focus (cause (rays of light, etc) to converge at a single point; adjust (a lens, an optical instrument)), to focus (concentrate on(e)'(s) attention)",
   },
   {
-    word "folgen",
+    word: "folgen",
     translation: "(with dative) to follow",
     forms: {
       section_0: [
@@ -42906,7 +42906,7 @@ module.exports = [
     },
   },
   {
-    word "folgern",
+    word: "folgern",
     translation: "to conclude, to deduce, to infer",
     forms: {
       section_0: [
@@ -42936,7 +42936,7 @@ module.exports = [
     },
   },
   {
-    word "foltern",
+    word: "foltern",
     translation: "to torture",
     forms: {
       section_0: [
@@ -42966,11 +42966,11 @@ module.exports = [
     },
   },
   {
-    word "fönen",
+    word: "fönen",
     translation: "Obsolete spelling of föhnen",
   },
   {
-    word "foppen",
+    word: "foppen",
     translation: "(transitive) to fool, to trick, to deceive",
     forms: {
       section_0: [
@@ -43000,11 +43000,11 @@ module.exports = [
     },
   },
   {
-    word "förchten",
+    word: "förchten",
     translation: "Dated form of fürchten",
   },
   {
-    word "forcieren",
+    word: "forcieren",
     translation: "to accelerate, to force, to push",
     forms: {
       section_0: [
@@ -43034,7 +43034,7 @@ module.exports = [
     },
   },
   {
-    word "fordern",
+    word: "fordern",
     translation: "(transitive) to demand, ask, (transitive) to claim, (transitive) to require, (transitive, figuratively) to challenge",
     forms: {
       section_0: [
@@ -43064,15 +43064,15 @@ module.exports = [
     },
   },
   {
-    word "fördern",
+    word: "fördern",
     translation: "(transitive) to further, to foster, (transitive) to support, (transitive) to advance, (transitive) to encourage, (transitive) to mine",
   },
   {
-    word "formatieren",
+    word: "formatieren",
     translation: "(computing) to format",
   },
   {
-    word "formen",
+    word: "formen",
     translation: "third-person plural present indicative of formar, third-person plural present subjunctive of formar",
     forms: {
       section_0: [
@@ -43102,15 +43102,15 @@ module.exports = [
     },
   },
   {
-    word "formieren",
+    word: "formieren",
     translation: "to deploy, to form up",
   },
   {
-    word "formiren",
+    word: "formiren",
     translation: "Obsolete spelling of formieren",
   },
   {
-    word "formulieren",
+    word: "formulieren",
     translation: "to frame (establish a context in words)",
     forms: {
       section_0: [
@@ -43140,7 +43140,7 @@ module.exports = [
     },
   },
   {
-    word "forschen",
+    word: "forschen",
     translation: "to research",
     forms: {
       section_0: [
@@ -43170,7 +43170,7 @@ module.exports = [
     },
   },
   {
-    word "fortfahren",
+    word: "fortfahren",
     translation: "(intransitive) to drive away, drive off, (transitive) to drive away, remove by means of a vehicle, (intransitive) to continue (intransitive: resume) (followed by mit ‎(“with”))",
     forms: {
       section_0: [
@@ -43200,7 +43200,7 @@ module.exports = [
     },
   },
   {
-    word "fortgehen",
+    word: "fortgehen",
     translation: "to continue, go on, keep on, carry on",
     forms: {
       section_0: [
@@ -43230,7 +43230,7 @@ module.exports = [
     },
   },
   {
-    word "fortkommen",
+    word: "fortkommen",
     translation: "to get away, to progress",
     forms: {
       section_0: [
@@ -43260,7 +43260,7 @@ module.exports = [
     },
   },
   {
-    word "fortpflanzen",
+    word: "fortpflanzen",
     translation: "to reproduce (to generate offspring)",
     forms: {
       section_0: [
@@ -43290,7 +43290,7 @@ module.exports = [
     },
   },
   {
-    word "fortschreiben",
+    word: "fortschreiben",
     translation: "To update, To uphold",
     forms: {
       section_0: [
@@ -43320,7 +43320,7 @@ module.exports = [
     },
   },
   {
-    word "fortschreiten",
+    word: "fortschreiten",
     translation: "to advance, achieve progress, to advance, proceed",
     forms: {
       section_0: [
@@ -43350,7 +43350,7 @@ module.exports = [
     },
   },
   {
-    word "fortsetzen",
+    word: "fortsetzen",
     translation: "to continue with something",
     forms: {
       section_0: [
@@ -43380,7 +43380,7 @@ module.exports = [
     },
   },
   {
-    word "fotografieren",
+    word: "fotografieren",
     translation: "to photograph",
     forms: {
       section_0: [
@@ -43410,7 +43410,7 @@ module.exports = [
     },
   },
   {
-    word "fotographieren",
+    word: "fotographieren",
     translation: "Nonstandard spelling of fotografieren",
     forms: {
       section_0: [
@@ -43440,15 +43440,15 @@ module.exports = [
     },
   },
   {
-    word "fotzen",
+    word: "fotzen",
     translation: "(colloquial, regional, Bavaria and Austria, slang) To slap someone in the face",
   },
   {
-    word "foulen",
+    word: "foulen",
     translation: "(sports) to foul (to make contact with an opposing player in order to gain advantage)",
   },
   {
-    word "fragen",
+    word: "fragen",
     translation: "to ask, (reflexive) to wonder",
     forms: {
       section_0: [
@@ -43478,19 +43478,19 @@ module.exports = [
     },
   },
   {
-    word "fragmentieren",
+    word: "fragmentieren",
     translation: "to fragment",
   },
   {
-    word "framen",
+    word: "framen",
     translation: "to frame",
   },
   {
-    word "frappieren",
+    word: "frappieren",
     translation: "to astound, to astonish",
   },
   {
-    word "fräsen",
+    word: "fräsen",
     translation: "to mill",
     forms: {
       section_0: [
@@ -43520,7 +43520,7 @@ module.exports = [
     },
   },
   {
-    word "fraternisieren",
+    word: "fraternisieren",
     translation: "to fraternize (to associate as friends with an enemy)",
     forms: {
       section_0: [
@@ -43550,11 +43550,11 @@ module.exports = [
     },
   },
   {
-    word "freien",
+    word: "freien",
     translation: "(archaic or poetic) to marry, (archaic or poetic) to ask for marriage; to propose, (archaic or poetic) to court; to woo",
   },
   {
-    word "freigeben",
+    word: "freigeben",
     translation: "To release, To set free, To declassify",
     forms: {
       section_0: [
@@ -43584,11 +43584,11 @@ module.exports = [
     },
   },
   {
-    word "freilassen",
+    word: "freilassen",
     translation: "to release, to free",
   },
   {
-    word "freimachen",
+    word: "freimachen",
     translation: "to stamp (a letter)",
     forms: {
       section_0: [
@@ -43618,11 +43618,11 @@ module.exports = [
     },
   },
   {
-    word "freischalten",
+    word: "freischalten",
     translation: "to activate, to unlock",
   },
   {
-    word "freisetzen",
+    word: "freisetzen",
     translation: "To release, liberate, To lay off (make redundant)",
     forms: {
       section_0: [
@@ -43652,7 +43652,7 @@ module.exports = [
     },
   },
   {
-    word "freisprechen",
+    word: "freisprechen",
     translation: "To acquit, To exonerate, To exculpate",
     forms: {
       section_0: [
@@ -43682,11 +43682,11 @@ module.exports = [
     },
   },
   {
-    word "fremdschämen",
+    word: "fremdschämen",
     translation: "(reflexive, informal) to feel ashamed about something someone else has done; to be embarrassed because someone else has embarrassed himself (and does(n)'(t) notice)",
   },
   {
-    word "fressen",
+    word: "fressen",
     translation: "(intransitive, of an animal) to eat; to feed, (intransitive, of a person, colloquial) to stuff oneself; to gorge oneself; to eat like a pig, (transitive, of an animal) to devour; to eat (something), (transitive, of a person, colloquial) to stuff oneself on (something); to gorge on (something), (transitive, colloquial, figuratively) to guzzle (eg gas); to burn through (eg money), (colloquial, perfect only) to despise, to have a pet peeve against",
     forms: {
       section_0: [
@@ -43716,11 +43716,11 @@ module.exports = [
     },
   },
   {
-    word "fretten",
+    word: "fretten",
     translation: "Alternative past participle of fret",
   },
   {
-    word "freuen",
+    word: "freuen",
     translation: "(transitive) to gladden, make glad, (reflexive) to be glad (about something: über + accusative), (reflexive) to look forward (to something: auf + accusative)",
     forms: {
       section_0: [
@@ -43750,15 +43750,15 @@ module.exports = [
     },
   },
   {
-    word "frickeln",
+    word: "frickeln",
     translation: "(colloquial) to rig, fiddle, tinker",
   },
   {
-    word "friemeln",
+    word: "friemeln",
     translation: "to fidget, fiddle",
   },
   {
-    word "frieren",
+    word: "frieren",
     translation: "(intransitive, of a liquid, auxiliary: “sein”) to freeze, (intransitive, of a person, auxiliary: “haben”) to feel cold, (intransitive, impersonal, auxiliary: “haben”) to be freezing",
     forms: {
       section_0: [
@@ -43788,11 +43788,11 @@ module.exports = [
     },
   },
   {
-    word "frikassieren",
+    word: "frikassieren",
     translation: "to fricassee",
   },
   {
-    word "frisieren",
+    word: "frisieren",
     translation: "to dress the hair, to fudge, to cook (books)",
     forms: {
       section_0: [
@@ -43822,15 +43822,15 @@ module.exports = [
     },
   },
   {
-    word "fritieren",
+    word: "fritieren",
     translation: "Alternative spelling of frittieren",
   },
   {
-    word "frittieren",
+    word: "frittieren",
     translation: "to deep-fry",
   },
   {
-    word "frohlocken",
+    word: "frohlocken",
     translation: "(intransitive) To rejoice, exult",
     forms: {
       section_0: [
@@ -43860,11 +43860,11 @@ module.exports = [
     },
   },
   {
-    word "frottieren",
+    word: "frottieren",
     translation: "to rub down",
   },
   {
-    word "frühstücken",
+    word: "frühstücken",
     translation: "to have breakfast",
     forms: {
       section_0: [
@@ -43894,7 +43894,7 @@ module.exports = [
     },
   },
   {
-    word "frustrieren",
+    word: "frustrieren",
     translation: "to frustrate",
     forms: {
       section_0: [
@@ -43924,11 +43924,11 @@ module.exports = [
     },
   },
   {
-    word "fügen",
+    word: "fügen",
     translation: "to join, to add, (reflexive) to submit, to comply",
   },
   {
-    word "fühlen",
+    word: "fühlen",
     translation: "(transitive) to feel, (reflexive) to feel",
     forms: {
       section_0: [
@@ -43958,7 +43958,7 @@ module.exports = [
     },
   },
   {
-    word "führen",
+    word: "führen",
     translation: "(transitive) to lead, (formal) to carry, to sell, (of a discussion, negotiation, etc) to hold, to have",
     forms: {
       section_0: [
@@ -43988,7 +43988,7 @@ module.exports = [
     },
   },
   {
-    word "füllen",
+    word: "füllen",
     translation: "to fill, (cooking) to stuff",
     forms: {
       section_0: [
@@ -44018,7 +44018,7 @@ module.exports = [
     },
   },
   {
-    word "fummeln",
+    word: "fummeln",
     translation: "to fumble, to fiddle",
     forms: {
       section_0: [
@@ -44048,11 +44048,11 @@ module.exports = [
     },
   },
   {
-    word "fündig werden",
+    word: "fündig werden",
     translation: "to strike mineral deposits through mining, (idiomatic) to hit paydirt, to strike it rich",
   },
   {
-    word "fungieren",
+    word: "fungieren",
     translation: "act (to behave in a certain way)",
     forms: {
       section_0: [
@@ -44082,7 +44082,7 @@ module.exports = [
     },
   },
   {
-    word "funkeln",
+    word: "funkeln",
     translation: "to sparkle",
     forms: {
       section_0: [
@@ -44112,11 +44112,11 @@ module.exports = [
     },
   },
   {
-    word "funktionalisieren",
+    word: "funktionalisieren",
     translation: "To functionalize",
   },
   {
-    word "funktionieren",
+    word: "funktionieren",
     translation: "to work, function",
     forms: {
       section_0: [
@@ -44146,11 +44146,11 @@ module.exports = [
     },
   },
   {
-    word "funzen",
+    word: "funzen",
     translation: "(Internet slang) To function, to work, (archaic) To light up an area Derived from Funzel ‎(“mine(r)'(s) headlamp”)",
   },
   {
-    word "fürchten",
+    word: "fürchten",
     translation: "(transitive) to fear, (reflexive) to be afraid",
     forms: {
       section_0: [
@@ -44180,23 +44180,23 @@ module.exports = [
     },
   },
   {
-    word "furzen",
+    word: "furzen",
     translation: "to fart",
   },
   {
-    word "füsilieren",
+    word: "füsilieren",
     translation: "(dated) to execute by firing squad",
   },
   {
-    word "fusionieren",
+    word: "fusionieren",
     translation: "to fusion",
   },
   {
-    word "Fuß fassen",
+    word: "Fuß fassen",
     translation: "(intransitive) to establish oneself",
   },
   {
-    word "fussen",
+    word: "fussen",
     translation: "Switzerland and Liechtenstein standard spelling of fußen",
     forms: {
       section_0: [
@@ -44226,11 +44226,11 @@ module.exports = [
     },
   },
   {
-    word "futtern",
+    word: "futtern",
     translation: "to feed",
   },
   {
-    word "füttern",
+    word: "füttern",
     translation: "to feed, to line (to cover the inner surface of)",
     forms: {
       section_0: [
@@ -44260,7 +44260,7 @@ module.exports = [
     },
   },
   {
-    word "gabeln",
+    word: "gabeln",
     translation: "to fork (use a fork to move food to mouth)",
     forms: {
       section_0: [
@@ -44290,11 +44290,11 @@ module.exports = [
     },
   },
   {
-    word "gackern",
+    word: "gackern",
     translation: "to cluck",
   },
   {
-    word "gaffen",
+    word: "gaffen",
     translation: "to stare at curiously, rubberneck",
     forms: {
       section_0: [
@@ -44324,7 +44324,7 @@ module.exports = [
     },
   },
   {
-    word "gähnen",
+    word: "gähnen",
     translation: "to yawn",
     forms: {
       section_0: [
@@ -44354,7 +44354,7 @@ module.exports = [
     },
   },
   {
-    word "galoppieren",
+    word: "galoppieren",
     translation: "to gallop",
     forms: {
       section_0: [
@@ -44384,7 +44384,7 @@ module.exports = [
     },
   },
   {
-    word "galvanisieren",
+    word: "galvanisieren",
     translation: "(transitive) to galvanize; to coat with a thin layer of metal by electrochemical means; to electroplate",
     forms: {
       section_0: [
@@ -44414,7 +44414,7 @@ module.exports = [
     },
   },
   {
-    word "gammeln",
+    word: "gammeln",
     translation: "(of food or figurative) to become old; to rot",
     forms: {
       section_0: [
@@ -44444,11 +44444,11 @@ module.exports = [
     },
   },
   {
-    word "ganz Ohr sein",
+    word: "ganz Ohr sein",
     translation: "(idiomatic) to be all ears (to listen carefully or eagerly; to anticipate)",
   },
   {
-    word "garantieren",
+    word: "garantieren",
     translation: "to guarantee",
     forms: {
       section_0: [
@@ -44478,7 +44478,7 @@ module.exports = [
     },
   },
   {
-    word "garen",
+    word: "garen",
     translation: "(ergative) to make/become ready (cooked)",
     forms: {
       section_0: [
@@ -44508,7 +44508,7 @@ module.exports = [
     },
   },
   {
-    word "gären",
+    word: "gären",
     translation: "(intransitive) to ferment",
     forms: {
       section_0: [
@@ -44538,7 +44538,7 @@ module.exports = [
     },
   },
   {
-    word "garnieren",
+    word: "garnieren",
     translation: "to garnish",
     forms: {
       section_0: [
@@ -44568,7 +44568,7 @@ module.exports = [
     },
   },
   {
-    word "gebären",
+    word: "gebären",
     translation: "(transitive) To give birth to; to bear, (intransitive) To give birth",
     forms: {
       section_0: [
@@ -44598,7 +44598,7 @@ module.exports = [
     },
   },
   {
-    word "geben",
+    word: "geben",
     translation: "(transitive) To give; to hand, (transitive) To present; to put, (impersonal, transitive) there to be (there is; there are); indicates that something exists",
     forms: {
       section_0: [
@@ -44628,7 +44628,7 @@ module.exports = [
     },
   },
   {
-    word "gebieten",
+    word: "gebieten",
     translation: "(transitive) to demand, (transitive) to command",
     forms: {
       section_0: [
@@ -44658,7 +44658,7 @@ module.exports = [
     },
   },
   {
-    word "gebrauchen",
+    word: "gebrauchen",
     translation: "to use",
     forms: {
       section_0: [
@@ -44688,7 +44688,7 @@ module.exports = [
     },
   },
   {
-    word "gedeihen",
+    word: "gedeihen",
     translation: "(intransitive) to thrive; to flourish; to prosper",
     forms: {
       section_0: [
@@ -44718,7 +44718,7 @@ module.exports = [
     },
   },
   {
-    word "gedenken",
+    word: "gedenken",
     translation: "(transitive) to remember, to commemorate",
     forms: {
       section_0: [
@@ -44748,11 +44748,11 @@ module.exports = [
     },
   },
   {
-    word "geext",
+    word: "geext",
     translation: "Past participle of exen",
   },
   {
-    word "gefährden",
+    word: "gefährden",
     translation: "(transitive) to endanger, compromise",
     forms: {
       section_0: [
@@ -44782,7 +44782,7 @@ module.exports = [
     },
   },
   {
-    word "gefallen",
+    word: "gefallen",
     translation: "(intransitive, with dative) to please; to appeal to",
     forms: {
       section_0: [
@@ -44812,7 +44812,7 @@ module.exports = [
     },
   },
   {
-    word "gefrieren",
+    word: "gefrieren",
     translation: "(intransitive) to freeze (to become solid due to low temperature)",
     forms: {
       section_0: [
@@ -44842,11 +44842,11 @@ module.exports = [
     },
   },
   {
-    word "gegenbeschuldigen",
+    word: "gegenbeschuldigen",
     translation: "to recriminate",
   },
   {
-    word "gegenüberstehen",
+    word: "gegenüberstehen",
     translation: "To face, confront",
     forms: {
       section_0: [
@@ -44876,7 +44876,7 @@ module.exports = [
     },
   },
   {
-    word "gegenüberstellen",
+    word: "gegenüberstellen",
     translation: "To contrast, To oppose, To confront",
     forms: {
       section_0: [
@@ -44906,11 +44906,11 @@ module.exports = [
     },
   },
   {
-    word "gegenüberzustehen",
+    word: "gegenüberzustehen",
     translation: "zu-infinitive of gegenüberstehen",
   },
   {
-    word "gegenzeichnen",
+    word: "gegenzeichnen",
     translation: "to countersign",
     forms: {
       section_0: [
@@ -44940,7 +44940,7 @@ module.exports = [
     },
   },
   {
-    word "gehen",
+    word: "gehen",
     translation: "(intransitive) to go, to walk, (transitive) to walk (some distance); to go (some distance) by foot, (intransitive) to leave, (intransitive) to leave, to take off (airplane, train), (impersonal, intransitive) to be going; to be alright; indicates how the dative object fares, (colloquial, intransitive) to be possible, (colloquial, intransitive) to work, to function (of a machine, method or the like), (colloquial, intransitive) to be in progress; to last, (regional or dated, impersonal, intransitive, with “auf” followed by a time) to approach; to be going (on some one)",
     forms: {
       section_0: [
@@ -44970,11 +44970,11 @@ module.exports = [
     },
   },
   {
-    word "gehn",
+    word: "gehn",
     translation: "(informal, poetic, dated in formal prose) Alternative form of gehen",
   },
   {
-    word "gehorchen",
+    word: "gehorchen",
     translation: "to obey, to listen to reason, hearken",
     forms: {
       section_0: [
@@ -45004,7 +45004,7 @@ module.exports = [
     },
   },
   {
-    word "gehören",
+    word: "gehören",
     translation: "to belong",
     forms: {
       section_0: [
@@ -45034,7 +45034,7 @@ module.exports = [
     },
   },
   {
-    word "geifern",
+    word: "geifern",
     translation: "to salivate, to revile",
     forms: {
       section_0: [
@@ -45064,7 +45064,7 @@ module.exports = [
     },
   },
   {
-    word "geizen",
+    word: "geizen",
     translation: "to be miserly, to be stingy, to be sparing",
     forms: {
       section_0: [
@@ -45094,7 +45094,7 @@ module.exports = [
     },
   },
   {
-    word "gelangen",
+    word: "gelangen",
     translation: "to get to a place",
     forms: {
       section_0: [
@@ -45124,7 +45124,7 @@ module.exports = [
     },
   },
   {
-    word "geleiten",
+    word: "geleiten",
     translation: "to escort; convoy",
     forms: {
       section_0: [
@@ -45154,11 +45154,11 @@ module.exports = [
     },
   },
   {
-    word "gelieren",
+    word: "gelieren",
     translation: "to gelatinize / gelatinise",
   },
   {
-    word "gelingen",
+    word: "gelingen",
     translation: "(intransitive) to succeed",
     forms: {
       section_0: [
@@ -45188,11 +45188,11 @@ module.exports = [
     },
   },
   {
-    word "geloben",
+    word: "geloben",
     translation: "(formal) to vow (to make a vow)",
   },
   {
-    word "gelten",
+    word: "gelten",
     translation: "(intransitive) to be valid; to count; to hold true, (intransitive) to be effective; to be in force, (transitive) to be worth, (intransitive, with a dative case personal object) to be meant for, (intransitive, with “als” or “für”) to be regarded (as something); to pass (for something), (impersonal) to be necessary, (intransitive, with “lassen”) to pass; to go; (Often translated with lassen as a unit into allow, endure, permit, accept, etc)",
     forms: {
       section_0: [
@@ -45222,11 +45222,11 @@ module.exports = [
     },
   },
   {
-    word "geltend machen",
+    word: "geltend machen",
     translation: "(transitive) to assert, to enforce, to put forward, (reflexive) to show, to make itself felt",
   },
   {
-    word "genehmigen",
+    word: "genehmigen",
     translation: "to permit, to sanction, to approve",
     forms: {
       section_0: [
@@ -45256,11 +45256,11 @@ module.exports = [
     },
   },
   {
-    word "generalisieren",
+    word: "generalisieren",
     translation: "to generalize",
   },
   {
-    word "generieren",
+    word: "generieren",
     translation: "to generate",
     forms: {
       section_0: [
@@ -45290,7 +45290,7 @@ module.exports = [
     },
   },
   {
-    word "genesen",
+    word: "genesen",
     translation: "(intransitive) to recover; to recuperate",
     forms: {
       section_0: [
@@ -45320,7 +45320,7 @@ module.exports = [
     },
   },
   {
-    word "genieren",
+    word: "genieren",
     translation: "(reflexive) to be ashamed, (reflexive) to be embarrassed, (transitive) to embarrass",
     forms: {
       section_0: [
@@ -45350,7 +45350,7 @@ module.exports = [
     },
   },
   {
-    word "geniessen",
+    word: "geniessen",
     translation: "Switzerland and Liechtenstein standard spelling of genießen",
     forms: {
       section_0: [
@@ -45380,7 +45380,7 @@ module.exports = [
     },
   },
   {
-    word "genießen",
+    word: "genießen",
     translation: "(transitive) to enjoy (an experience); to relish; to savor, (transitive, formal) to have (food or beverage), to eat, to drink, (figuratively) to receive; to have",
     forms: {
       section_0: [
@@ -45410,7 +45410,7 @@ module.exports = [
     },
   },
   {
-    word "genügen",
+    word: "genügen",
     translation: "(intransitive) to suffice, do, be enough",
     forms: {
       section_0: [
@@ -45440,7 +45440,7 @@ module.exports = [
     },
   },
   {
-    word "geraten",
+    word: "geraten",
     translation: "(intransitive) to turn out, succeed, (intransitive) to thrive, (intransitive, with “an ” or “auf ” and an accusative noun) to come (across, by); to fall (upon), (intransitive, with “in ” or “unter ” and a state or condition in the accusative) to get (into); to fall (into); to come (to); to fly (into)",
     forms: {
       section_0: [
@@ -45470,7 +45470,7 @@ module.exports = [
     },
   },
   {
-    word "gerben",
+    word: "gerben",
     translation: "to tan",
     forms: {
       section_0: [
@@ -45500,7 +45500,7 @@ module.exports = [
     },
   },
   {
-    word "gerinnen",
+    word: "gerinnen",
     translation: "to coagulate (become congealed)",
     forms: {
       section_0: [
@@ -45530,11 +45530,11 @@ module.exports = [
     },
   },
   {
-    word "geruhen",
+    word: "geruhen",
     translation: "to deign",
   },
   {
-    word "geschehen",
+    word: "geschehen",
     translation: "(intransitive) to occur; to happen, (with dative or with 'mit ', impersonal) to happen (to someone); to serve (someone)",
     forms: {
       section_0: [
@@ -45564,7 +45564,7 @@ module.exports = [
     },
   },
   {
-    word "gestalten",
+    word: "gestalten",
     translation: "to form, to shape, to create, to arrange",
     forms: {
       section_0: [
@@ -45594,7 +45594,7 @@ module.exports = [
     },
   },
   {
-    word "gestatten",
+    word: "gestatten",
     translation: "(transitive) to allow",
     forms: {
       section_0: [
@@ -45624,7 +45624,7 @@ module.exports = [
     },
   },
   {
-    word "gestehen",
+    word: "gestehen",
     translation: "to confess",
     forms: {
       section_0: [
@@ -45654,7 +45654,7 @@ module.exports = [
     },
   },
   {
-    word "gestikulieren",
+    word: "gestikulieren",
     translation: "to gesticulate",
     forms: {
       section_0: [
@@ -45684,7 +45684,7 @@ module.exports = [
     },
   },
   {
-    word "getrauen",
+    word: "getrauen",
     translation: "(reflexive) to dare",
     forms: {
       section_0: [
@@ -45714,11 +45714,11 @@ module.exports = [
     },
   },
   {
-    word "gewahren",
+    word: "gewahren",
     translation: "(literary, transitive) to become aware of",
   },
   {
-    word "gewähren",
+    word: "gewähren",
     translation: "to grant, to allow",
     forms: {
       section_0: [
@@ -45748,7 +45748,7 @@ module.exports = [
     },
   },
   {
-    word "gewährleisten",
+    word: "gewährleisten",
     translation: "to guarantee",
     forms: {
       section_0: [
@@ -45778,11 +45778,11 @@ module.exports = [
     },
   },
   {
-    word "gewärtigen",
+    word: "gewärtigen",
     translation: "(archaic) to expect",
   },
   {
-    word "gewinnen",
+    word: "gewinnen",
     translation: "(transitive or intransitive) to win; to gain, (transitive) to win over",
     forms: {
       section_0: [
@@ -45812,11 +45812,11 @@ module.exports = [
     },
   },
   {
-    word "gewittern",
+    word: "gewittern",
     translation: "to thunder and rain/snow",
   },
   {
-    word "gewöhnen",
+    word: "gewöhnen",
     translation: "(transitive with an) to get used to; to accustom oneself to; to adapt to",
     forms: {
       section_0: [
@@ -45846,19 +45846,19 @@ module.exports = [
     },
   },
   {
-    word "gezagt",
+    word: "gezagt",
     translation: "Past participle of zagen",
   },
   {
-    word "gibbeln",
+    word: "gibbeln",
     translation: "(colloquial, regional, western Germany) to giggle (to laugh in a silly or hysterical way)",
   },
   {
-    word "gieren",
+    word: "gieren",
     translation: "(nautical) to yaw",
   },
   {
-    word "giessen",
+    word: "giessen",
     translation: "Switzerland and Liechtenstein standard spelling of gießen",
     forms: {
       section_0: [
@@ -45888,7 +45888,7 @@ module.exports = [
     },
   },
   {
-    word "gießen",
+    word: "gießen",
     translation: "(transitive) to pour (of any liquid), (transitive, horticulture) to water, (impersonal, intransitive, of rain) to pour down; to rain strongly, (transitive) to cast; to found; to pour (of metal or glass)",
     forms: {
       section_0: [
@@ -45918,11 +45918,11 @@ module.exports = [
     },
   },
   {
-    word "gilden",
+    word: "gilden",
     translation: "plural past indicative and subjunctive of gillen",
   },
   {
-    word "gipfeln",
+    word: "gipfeln",
     translation: "to culminate",
     forms: {
       section_0: [
@@ -45952,7 +45952,7 @@ module.exports = [
     },
   },
   {
-    word "glänzen",
+    word: "glänzen",
     translation: "to shine, gleam, sparkle, glisten",
     forms: {
       section_0: [
@@ -45982,7 +45982,7 @@ module.exports = [
     },
   },
   {
-    word "glasieren",
+    word: "glasieren",
     translation: "to glaze",
     forms: {
       section_0: [
@@ -46012,7 +46012,7 @@ module.exports = [
     },
   },
   {
-    word "glätten",
+    word: "glätten",
     translation: "to smooth",
     forms: {
       section_0: [
@@ -46042,7 +46042,7 @@ module.exports = [
     },
   },
   {
-    word "glauben",
+    word: "glauben",
     translation: "to believe (to think someone/something exists = an + acc; to think something someone says is correct = dat), to think",
     forms: {
       section_0: [
@@ -46072,11 +46072,11 @@ module.exports = [
     },
   },
   {
-    word "glawben",
+    word: "glawben",
     translation: "Obsolete spelling of glauben",
   },
   {
-    word "gleichen",
+    word: "gleichen",
     translation: "(with a dative case object) to be like (something); to equal (something); to resemble, (reflexive) to be alike",
     forms: {
       section_0: [
@@ -46106,7 +46106,7 @@ module.exports = [
     },
   },
   {
-    word "gleichschalten",
+    word: "gleichschalten",
     translation: "(electrical engineering) (transitive) to synchronise, (Nazism) (transitive) to force into Gleichschaltung, (politics) (by extension) (transitive) to subjugate (someone)’s thought and action to the policies and worldview of the ruling class",
     forms: {
       section_0: [
@@ -46136,7 +46136,7 @@ module.exports = [
     },
   },
   {
-    word "gleiten",
+    word: "gleiten",
     translation: "(intransitive) to glide; to float; to move effortlessly, (intransitive) to slide; to slip; to transition smoothly",
     forms: {
       section_0: [
@@ -46166,7 +46166,7 @@ module.exports = [
     },
   },
   {
-    word "gliedern",
+    word: "gliedern",
     translation: "to structure, to organize, to divide",
     forms: {
       section_0: [
@@ -46196,7 +46196,7 @@ module.exports = [
     },
   },
   {
-    word "glimmen",
+    word: "glimmen",
     translation: "to shine, glow, shimmer",
     forms: {
       section_0: [
@@ -46226,23 +46226,23 @@ module.exports = [
     },
   },
   {
-    word "globalisieren",
+    word: "globalisieren",
     translation: "to globalize, to globalise",
   },
   {
-    word "glorifizieren",
+    word: "glorifizieren",
     translation: "to glorify",
   },
   {
-    word "glosen",
+    word: "glosen",
     translation: "to smoulder, to smolder",
   },
   {
-    word "glottalisieren",
+    word: "glottalisieren",
     translation: "(linguistics) to glottalize",
   },
   {
-    word "glotzen",
+    word: "glotzen",
     translation: "(colloquial) to stare, gape, gawk, goggle (eyes)",
     forms: {
       section_0: [
@@ -46272,7 +46272,7 @@ module.exports = [
     },
   },
   {
-    word "glücken",
+    word: "glücken",
     translation: "to succeed",
     forms: {
       section_0: [
@@ -46302,7 +46302,7 @@ module.exports = [
     },
   },
   {
-    word "glühen",
+    word: "glühen",
     translation: "to glow",
     forms: {
       section_0: [
@@ -46332,19 +46332,19 @@ module.exports = [
     },
   },
   {
-    word "glupschen",
+    word: "glupschen",
     translation: "to look with big eyes; to eye",
   },
   {
-    word "gnaden",
+    word: "gnaden",
     translation: "(archaic, with dative) to have mercy on somebody",
   },
   {
-    word "golfen",
+    word: "golfen",
     translation: "to play golf",
   },
   {
-    word "gönnen",
+    word: "gönnen",
     translation: "to allow, to afford, (reflexive) to indulge oneself, to treat oneself, to be happy for someone because of their happiness",
     forms: {
       section_0: [
@@ -46374,19 +46374,19 @@ module.exports = [
     },
   },
   {
-    word "googeln",
+    word: "googeln",
     translation: "to google",
   },
   {
-    word "goutieren",
+    word: "goutieren",
     translation: "to appreciate",
   },
   {
-    word "grabbeln",
+    word: "grabbeln",
     translation: "(regional, chiefly Northern Germany, informal) to grab",
   },
   {
-    word "graben",
+    word: "graben",
     translation: "(transitive or intransitive) to dig, (transitive, intransitive or reflexive, of an animal) to burrow",
     forms: {
       section_0: [
@@ -46416,7 +46416,7 @@ module.exports = [
     },
   },
   {
-    word "grämen",
+    word: "grämen",
     translation: "(transitive, dated or literary) to trouble; to worry; to make unhappy, (reflexive, dated or literary) to feelsorrow; to worry; to be unhappy",
     forms: {
       section_0: [
@@ -46446,23 +46446,23 @@ module.exports = [
     },
   },
   {
-    word "graphitieren",
+    word: "graphitieren",
     translation: "To graphitize",
   },
   {
-    word "grapschen",
+    word: "grapschen",
     translation: "(transitive, informal) to grab, (transitive, informal) to grab hold, (intransitive, informal) to make a grab for sth, (transitive, informal) to grope (touch closely and sexually)",
   },
   {
-    word "grasen",
+    word: "grasen",
     translation: "to graze",
   },
   {
-    word "grassieren",
+    word: "grassieren",
     translation: "(of diseases) to rampant, rage",
   },
   {
-    word "gratulieren",
+    word: "gratulieren",
     translation: "(intransitive, + dative) to congratulate",
     forms: {
       section_0: [
@@ -46492,7 +46492,7 @@ module.exports = [
     },
   },
   {
-    word "grauen",
+    word: "grauen",
     translation: "(impersonal, + dative) to cause terror, (reflexive) to be terrified, (intransitive, of the morning) to break, to become grey",
     forms: {
       section_0: [
@@ -46522,7 +46522,7 @@ module.exports = [
     },
   },
   {
-    word "grausen",
+    word: "grausen",
     translation: "(impersonal, + dative or accusative) to cause to feel dread, (reflexive) to feel dread",
     forms: {
       section_0: [
@@ -46552,7 +46552,7 @@ module.exports = [
     },
   },
   {
-    word "gravieren",
+    word: "gravieren",
     translation: "to engrave",
     forms: {
       section_0: [
@@ -46582,7 +46582,7 @@ module.exports = [
     },
   },
   {
-    word "greifen",
+    word: "greifen",
     translation: "(transitive) to grab; to grasp; to grip (something), (transitive) to grab; to seize; to snatch (in an aggressive way), (intransitive) to reach; to grab, (transitive) to capture (someone), (transitive, music, chords) to strike, (intransitive) to take hold; to bite",
     forms: {
       section_0: [
@@ -46612,11 +46612,11 @@ module.exports = [
     },
   },
   {
-    word "greinen",
+    word: "greinen",
     translation: "This term needs a translation to English Please help out and add a translation, then remove the text {{rfdef}}",
   },
   {
-    word "grenzen",
+    word: "grenzen",
     translation: "to border",
     forms: {
       section_0: [
@@ -46646,11 +46646,11 @@ module.exports = [
     },
   },
   {
-    word "grienen",
+    word: "grienen",
     translation: "to sob, to weep",
   },
   {
-    word "grillen",
+    word: "grillen",
     translation: "to grill",
     forms: {
       section_0: [
@@ -46680,11 +46680,11 @@ module.exports = [
     },
   },
   {
-    word "Grimassen schneiden",
+    word: "Grimassen schneiden",
     translation: "to grimace, to pull faces",
   },
   {
-    word "grinsen",
+    word: "grinsen",
     translation: "to grin",
     forms: {
       section_0: [
@@ -46714,7 +46714,7 @@ module.exports = [
     },
   },
   {
-    word "grölen",
+    word: "grölen",
     translation: "to bawl; to bellow; to chant",
     forms: {
       section_0: [
@@ -46744,7 +46744,7 @@ module.exports = [
     },
   },
   {
-    word "grollen",
+    word: "grollen",
     translation: "(transitive) to grumble, to thunder, (transitive) to be angry",
     forms: {
       section_0: [
@@ -46774,7 +46774,7 @@ module.exports = [
     },
   },
   {
-    word "grübeln",
+    word: "grübeln",
     translation: "to brood, to ponder, to ruminate, to muse",
     forms: {
       section_0: [
@@ -46804,7 +46804,7 @@ module.exports = [
     },
   },
   {
-    word "gründen",
+    word: "gründen",
     translation: "to build, to establish, to found, to institute, to plant",
     forms: {
       section_0: [
@@ -46834,7 +46834,7 @@ module.exports = [
     },
   },
   {
-    word "grünen",
+    word: "grünen",
     translation: "(intransitive) To be green; to become green",
     forms: {
       section_0: [
@@ -46864,11 +46864,11 @@ module.exports = [
     },
   },
   {
-    word "grunzen",
+    word: "grunzen",
     translation: "to grunt",
   },
   {
-    word "gruppieren",
+    word: "gruppieren",
     translation: "to arrange",
     forms: {
       section_0: [
@@ -46898,7 +46898,7 @@ module.exports = [
     },
   },
   {
-    word "grüssen",
+    word: "grüssen",
     translation: "Switzerland and Liechtenstein standard spelling of grüßen",
     forms: {
       section_0: [
@@ -46928,7 +46928,7 @@ module.exports = [
     },
   },
   {
-    word "grüßen",
+    word: "grüßen",
     translation: "to greet",
     forms: {
       section_0: [
@@ -46958,7 +46958,7 @@ module.exports = [
     },
   },
   {
-    word "gucken",
+    word: "gucken",
     translation: "(regional) to look, to direct on(e)'(s) gaze at something, (regional) to watch, to direct on(e)'(s) gaze at something for some time, (regional) to look, to have a certain facial expression",
     forms: {
       section_0: [
@@ -46988,7 +46988,7 @@ module.exports = [
     },
   },
   {
-    word "gurgeln",
+    word: "gurgeln",
     translation: "to gargle, to gurgle",
     forms: {
       section_0: [
@@ -47018,7 +47018,7 @@ module.exports = [
     },
   },
   {
-    word "gurren",
+    word: "gurren",
     translation: "to coo",
     forms: {
       section_0: [
@@ -47048,11 +47048,11 @@ module.exports = [
     },
   },
   {
-    word "gustieren",
+    word: "gustieren",
     translation: "(Austria) to try (something), to taste (something)",
   },
   {
-    word "haaren",
+    word: "haaren",
     translation: "To moult, To lose one’s hair",
     forms: {
       section_0: [
@@ -47082,7 +47082,7 @@ module.exports = [
     },
   },
   {
-    word "haben",
+    word: "haben",
     translation: "(transitive) to have; to possess, to own, (transitive) to have; to hold, to contain, (auxiliary, with a past participle) to have forms the perfect and past perfect tense, (reflexive, colloquial) to make a fuss, (colloquial, with es and mit) to be occupied with, to like",
     forms: {
       section_0: [
@@ -47112,11 +47112,11 @@ module.exports = [
     },
   },
   {
-    word "haben können",
+    word: "haben können",
     translation: "Used other than as an idiom: see haben, ‎ können, (idiomatic) to be able to stand or endure something, (idiomatic) to tolerate something (eg food)",
   },
   {
-    word "hacken",
+    word: "hacken",
     translation: "to chop, to hack, (colloquial) to be choppy, to not work properly, to not run smoothly",
     forms: {
       section_0: [
@@ -47146,15 +47146,15 @@ module.exports = [
     },
   },
   {
-    word "hadern",
+    word: "hadern",
     translation: "to bicker, quarrel, struggle (with), to be dissatisfied (with)",
   },
   {
-    word "haftbar machen",
+    word: "haftbar machen",
     translation: "to hold liable",
   },
   {
-    word "haften",
+    word: "haften",
     translation: "to stick, to be liable",
     forms: {
       section_0: [
@@ -47184,7 +47184,7 @@ module.exports = [
     },
   },
   {
-    word "hageln",
+    word: "hageln",
     translation: "(intransitive, impersonal, weather) to hail",
     forms: {
       section_0: [
@@ -47214,7 +47214,7 @@ module.exports = [
     },
   },
   {
-    word "häkeln",
+    word: "häkeln",
     translation: "to crochet",
     forms: {
       section_0: [
@@ -47244,7 +47244,7 @@ module.exports = [
     },
   },
   {
-    word "haken",
+    word: "haken",
     translation: "(transitive) to hook, to catch, (transitive) to crochet, (transitive) to long strongly for",
     forms: {
       section_0: [
@@ -47274,7 +47274,7 @@ module.exports = [
     },
   },
   {
-    word "halbieren",
+    word: "halbieren",
     translation: "to halve, to cut in half, to bisect",
     forms: {
       section_0: [
@@ -47304,7 +47304,7 @@ module.exports = [
     },
   },
   {
-    word "hallen",
+    word: "hallen",
     translation: "to echo",
     forms: {
       section_0: [
@@ -47334,11 +47334,11 @@ module.exports = [
     },
   },
   {
-    word "halogenieren",
+    word: "halogenieren",
     translation: "(chemistry) To halogenate",
   },
   {
-    word "halten",
+    word: "halten",
     translation: "(transitive) to hold, (transitive) to stop; to halt; to hold back, (transitive) to support; to hold up, (transitive) to keep; to maintain; to hold, (transitive, of animals) to keep, (intransitive) to hold; to keep; to stay, (intransitive) to stop, (transitive, with preposition für) to consider, to regard, (reflexive, with preposition: an) to adhere (to), (with preposition: von) expresses a positive or negative opinion depending on quantity",
     forms: {
       section_0: [
@@ -47368,7 +47368,7 @@ module.exports = [
     },
   },
   {
-    word "hämmern",
+    word: "hämmern",
     translation: "to hammer",
     forms: {
       section_0: [
@@ -47398,11 +47398,11 @@ module.exports = [
     },
   },
   {
-    word "hampeln",
+    word: "hampeln",
     translation: "to jump about, to fidget",
   },
   {
-    word "hamstern",
+    word: "hamstern",
     translation: "to hoard",
     forms: {
       section_0: [
@@ -47432,7 +47432,7 @@ module.exports = [
     },
   },
   {
-    word "handeln",
+    word: "handeln",
     translation: "to trade, to deal, to negotiate, haggle, to act, to take action, (with von) to be about, (reflexive, with um) to be, to happen to be",
     forms: {
       section_0: [
@@ -47462,7 +47462,7 @@ module.exports = [
     },
   },
   {
-    word "handhaben",
+    word: "handhaben",
     translation: "To handle, wield, manipulate, To manage, operate",
     forms: {
       section_0: [
@@ -47492,11 +47492,11 @@ module.exports = [
     },
   },
   {
-    word "hangen",
+    word: "hangen",
     translation: "(intransitive) to hang, (transitive) to hang",
   },
   {
-    word "hängen",
+    word: "hängen",
     translation: "(intransitive) to hang; to be suspended, (intransitive) to be attached to; to be fond of; to be devoted to; to cling to, (intransitive, somewhat informal) to depend on, (transitive, colloquial, otherwise proscribed) to hang something; to suspend",
     forms: {
       section_0: [
@@ -47526,7 +47526,7 @@ module.exports = [
     },
   },
   {
-    word "hantieren",
+    word: "hantieren",
     translation: "to handle; to tamper",
     forms: {
       section_0: [
@@ -47556,7 +47556,7 @@ module.exports = [
     },
   },
   {
-    word "hapern",
+    word: "hapern",
     translation: "(impersonal) to be scarce, insufficient, stagnant, problematic",
     forms: {
       section_0: [
@@ -47586,7 +47586,7 @@ module.exports = [
     },
   },
   {
-    word "harmonieren",
+    word: "harmonieren",
     translation: "(intransitive) to harmonize",
     forms: {
       section_0: [
@@ -47616,19 +47616,19 @@ module.exports = [
     },
   },
   {
-    word "harmonisieren",
+    word: "harmonisieren",
     translation: "(transitive) to harmonize",
   },
   {
-    word "Harn lassen",
+    word: "Harn lassen",
     translation: "(technical) to pass urine",
   },
   {
-    word "harnen",
+    word: "harnen",
     translation: "(very formal) to urinate",
   },
   {
-    word "harren",
+    word: "harren",
     translation: "to await",
     forms: {
       section_0: [
@@ -47658,7 +47658,7 @@ module.exports = [
     },
   },
   {
-    word "härten",
+    word: "härten",
     translation: "to solidify, harden, become hard, to set, harden, make hard",
     forms: {
       section_0: [
@@ -47688,7 +47688,7 @@ module.exports = [
     },
   },
   {
-    word "haschen",
+    word: "haschen",
     translation: "(dated) to catch, to consume hashish",
     forms: {
       section_0: [
@@ -47718,11 +47718,11 @@ module.exports = [
     },
   },
   {
-    word "haschieren",
+    word: "haschieren",
     translation: "(cooking) to hash",
   },
   {
-    word "hassen",
+    word: "hassen",
     translation: "to hate",
     forms: {
       section_0: [
@@ -47752,7 +47752,7 @@ module.exports = [
     },
   },
   {
-    word "hasten",
+    word: "hasten",
     translation: "To move in a quick fashion, To make someone speed up or make something happen quicker, To cause some scheduled event to happen earlier",
     forms: {
       section_0: [
@@ -47782,7 +47782,7 @@ module.exports = [
     },
   },
   {
-    word "hätscheln",
+    word: "hätscheln",
     translation: "to fondle, feel up, to pamper",
     forms: {
       section_0: [
@@ -47812,7 +47812,7 @@ module.exports = [
     },
   },
   {
-    word "hauen",
+    word: "hauen",
     translation: "(literary) to thrust, slash (with a weapon), (transitive) to cut, hew, (colloquial) to hit, beat, bang, whack, (reflexive, colloquial) to fling oneself, (regional) to chop, chop down",
     forms: {
       section_0: [
@@ -47842,7 +47842,7 @@ module.exports = [
     },
   },
   {
-    word "häufen",
+    word: "häufen",
     translation: "To heap (up), to pile up, To amass, accumulate, aggregate, (reflexive) to pile up, to accrete",
     forms: {
       section_0: [
@@ -47872,7 +47872,7 @@ module.exports = [
     },
   },
   {
-    word "hausen",
+    word: "hausen",
     translation: "(colloquial, humorous or derogatory) to dwell, to reside",
     forms: {
       section_0: [
@@ -47902,7 +47902,7 @@ module.exports = [
     },
   },
   {
-    word "häuten",
+    word: "häuten",
     translation: "(transitive) to skin, (reflexive) to moult",
     forms: {
       section_0: [
@@ -47932,7 +47932,7 @@ module.exports = [
     },
   },
   {
-    word "heben",
+    word: "heben",
     translation: "(transitive) to lift; to raise, (transitive) to heave; to hoist, (reflexive) to rise; to lift",
     forms: {
       section_0: [
@@ -47962,7 +47962,7 @@ module.exports = [
     },
   },
   {
-    word "hecheln",
+    word: "hecheln",
     translation: "to pant or breathe fast and loudly through one’s mouth (much like dogs do when hot or short of breath)",
     forms: {
       section_0: [
@@ -47992,11 +47992,11 @@ module.exports = [
     },
   },
   {
-    word "hecken",
+    word: "hecken",
     translation: "to hatch (devise), (of small animals) to give birth to a large number of young",
   },
   {
-    word "heften",
+    word: "heften",
     translation: "to fasten, to tack, to stick",
     forms: {
       section_0: [
@@ -48026,7 +48026,7 @@ module.exports = [
     },
   },
   {
-    word "hegen",
+    word: "hegen",
     translation: "to cherish, to harbor",
     forms: {
       section_0: [
@@ -48056,11 +48056,11 @@ module.exports = [
     },
   },
   {
-    word "hegen und pflegen",
+    word: "hegen und pflegen",
     translation: "to care for deeply, to maintain well",
   },
   {
-    word "hehlen",
+    word: "hehlen",
     translation: "(intransitive, + mit) to buy and sell stolen (or illegal) goods",
     forms: {
       section_0: [
@@ -48090,7 +48090,7 @@ module.exports = [
     },
   },
   {
-    word "heilen",
+    word: "heilen",
     translation: "to heal",
     forms: {
       section_0: [
@@ -48120,7 +48120,7 @@ module.exports = [
     },
   },
   {
-    word "heiligen",
+    word: "heiligen",
     translation: "to hallow, to sanctify",
     forms: {
       section_0: [
@@ -48150,7 +48150,7 @@ module.exports = [
     },
   },
   {
-    word "heiligsprechen",
+    word: "heiligsprechen",
     translation: "(Roman Catholicism) to canonize (declare someone a saint, thereby recommending their veneration to the whole Church)",
     forms: {
       section_0: [
@@ -48180,7 +48180,7 @@ module.exports = [
     },
   },
   {
-    word "heimkehren",
+    word: "heimkehren",
     translation: "to return home",
     forms: {
       section_0: [
@@ -48210,7 +48210,7 @@ module.exports = [
     },
   },
   {
-    word "heimkommen",
+    word: "heimkommen",
     translation: "to come home",
     forms: {
       section_0: [
@@ -48240,7 +48240,7 @@ module.exports = [
     },
   },
   {
-    word "heimzahlen",
+    word: "heimzahlen",
     translation: "to pay back",
     forms: {
       section_0: [
@@ -48270,7 +48270,7 @@ module.exports = [
     },
   },
   {
-    word "heiraten",
+    word: "heiraten",
     translation: "to marry",
     forms: {
       section_0: [
@@ -48300,7 +48300,7 @@ module.exports = [
     },
   },
   {
-    word "heischen",
+    word: "heischen",
     translation: "(transitive, formal) to request, to ask, to bespeak, (transitive, dated, formal) to beg, to implore",
     forms: {
       section_0: [
@@ -48330,7 +48330,7 @@ module.exports = [
     },
   },
   {
-    word "heissen",
+    word: "heissen",
     translation: "Switzerland and Liechtenstein standard spelling of heißen",
     forms: {
       section_0: [
@@ -48360,7 +48360,7 @@ module.exports = [
     },
   },
   {
-    word "heißen",
+    word: "heißen",
     translation: "(intransitive) to have a name; to be named; to be called; but implying that one “owns” this name, not necessarily that one goes by it, (transitive, dated except in fixed expressions) to call (someone something), (intransitive) to mean, (impersonal) to say, to be said; to go, run (like), (transitive) to direct, call to do something",
     forms: {
       section_0: [
@@ -48390,7 +48390,7 @@ module.exports = [
     },
   },
   {
-    word "heizen",
+    word: "heizen",
     translation: "to heat",
     forms: {
       section_0: [
@@ -48420,7 +48420,7 @@ module.exports = [
     },
   },
   {
-    word "helfen",
+    word: "helfen",
     translation: "to help (someone); to assist; to aid [+dative]",
     forms: {
       section_0: [
@@ -48450,19 +48450,19 @@ module.exports = [
     },
   },
   {
-    word "hellen",
+    word: "hellen",
     translation: "to incline",
   },
   {
-    word "hellsehen",
+    word: "hellsehen",
     translation: "to be clairvoyant",
   },
   {
-    word "hellt",
+    word: "hellt",
     translation: "past participle of hellen",
   },
   {
-    word "hemmen",
+    word: "hemmen",
     translation: "to check, to hamper",
     forms: {
       section_0: [
@@ -48492,7 +48492,7 @@ module.exports = [
     },
   },
   {
-    word "henken",
+    word: "henken",
     translation: "(transitive, dated or archaic) to hang; to execute by hanging",
     forms: {
       section_0: [
@@ -48522,11 +48522,11 @@ module.exports = [
     },
   },
   {
-    word "heparinisieren",
+    word: "heparinisieren",
     translation: "To heparinize",
   },
   {
-    word "herabfliegen",
+    word: "herabfliegen",
     translation: "(intransitive) To fly down",
     forms: {
       section_0: [
@@ -48556,11 +48556,11 @@ module.exports = [
     },
   },
   {
-    word "herabrieseln",
+    word: "herabrieseln",
     translation: "(formal) to trickle down",
   },
   {
-    word "herabsetzen",
+    word: "herabsetzen",
     translation: "to belittle (to knowingly say that something is smaller or less important than it actually is)",
     forms: {
       section_0: [
@@ -48590,7 +48590,7 @@ module.exports = [
     },
   },
   {
-    word "heranführen",
+    word: "heranführen",
     translation: "(transitive) to lead so/sth to, (transitive) to (slowly) introduce so to",
     forms: {
       section_0: [
@@ -48620,7 +48620,7 @@ module.exports = [
     },
   },
   {
-    word "herankommen",
+    word: "herankommen",
     translation: "to approach, to come close",
     forms: {
       section_0: [
@@ -48650,7 +48650,7 @@ module.exports = [
     },
   },
   {
-    word "heraufsetzen",
+    word: "heraufsetzen",
     translation: "To raise prices",
     forms: {
       section_0: [
@@ -48680,7 +48680,7 @@ module.exports = [
     },
   },
   {
-    word "herausbringen",
+    word: "herausbringen",
     translation: "To release or bring out",
     forms: {
       section_0: [
@@ -48710,7 +48710,7 @@ module.exports = [
     },
   },
   {
-    word "herausfinden",
+    word: "herausfinden",
     translation: "to find out",
     forms: {
       section_0: [
@@ -48740,7 +48740,7 @@ module.exports = [
     },
   },
   {
-    word "herausfordern",
+    word: "herausfordern",
     translation: "To challenge, To defy, To provoke",
     forms: {
       section_0: [
@@ -48770,7 +48770,7 @@ module.exports = [
     },
   },
   {
-    word "herausgeben",
+    word: "herausgeben",
     translation: "to release, publish",
     forms: {
       section_0: [
@@ -48800,7 +48800,7 @@ module.exports = [
     },
   },
   {
-    word "herausgefordert",
+    word: "herausgefordert",
     translation: "past participle of herausfordern",
     forms: {
       section_0: [
@@ -48830,11 +48830,11 @@ module.exports = [
     },
   },
   {
-    word "herauslösen",
+    word: "herauslösen",
     translation: "(chemistry) to dissolve out, to separate from",
   },
   {
-    word "herausnehmen",
+    word: "herausnehmen",
     translation: "to take out",
     forms: {
       section_0: [
@@ -48864,15 +48864,15 @@ module.exports = [
     },
   },
   {
-    word "herausprusten",
+    word: "herausprusten",
     translation: "to burst out with something while laughing out and snorting",
   },
   {
-    word "herausschauen",
+    word: "herausschauen",
     translation: "to look out, to be looking out (eg of a window), to peek out",
   },
   {
-    word "herausschreien",
+    word: "herausschreien",
     translation: "to shout out",
     forms: {
       section_0: [
@@ -48902,7 +48902,7 @@ module.exports = [
     },
   },
   {
-    word "herausstellen",
+    word: "herausstellen",
     translation: "To emphasize, underline, (reflexive) To come to light",
     forms: {
       section_0: [
@@ -48932,11 +48932,11 @@ module.exports = [
     },
   },
   {
-    word "herauszoomen",
+    word: "herauszoomen",
     translation: "to zoom out",
   },
   {
-    word "herbeieilen",
+    word: "herbeieilen",
     translation: "(intransitive) to come running",
     forms: {
       section_0: [
@@ -48966,7 +48966,7 @@ module.exports = [
     },
   },
   {
-    word "herbeiführen",
+    word: "herbeiführen",
     translation: "to precipitate, cause, induce",
     forms: {
       section_0: [
@@ -48996,11 +48996,11 @@ module.exports = [
     },
   },
   {
-    word "herbsten",
+    word: "herbsten",
     translation: "(intransitive, impersonal) to become autumn, (transitive, regional, colloquial) to harvest (ripe grapes for wine)",
   },
   {
-    word "hereinfallen",
+    word: "hereinfallen",
     translation: "to fall for something/somebody",
     forms: {
       section_0: [
@@ -49030,7 +49030,7 @@ module.exports = [
     },
   },
   {
-    word "hereinkommen",
+    word: "hereinkommen",
     translation: "to come in",
     forms: {
       section_0: [
@@ -49060,7 +49060,7 @@ module.exports = [
     },
   },
   {
-    word "hereinlassen",
+    word: "hereinlassen",
     translation: "to let in",
     forms: {
       section_0: [
@@ -49090,7 +49090,7 @@ module.exports = [
     },
   },
   {
-    word "hereinrufen",
+    word: "hereinrufen",
     translation: "to call in",
     forms: {
       section_0: [
@@ -49120,7 +49120,7 @@ module.exports = [
     },
   },
   {
-    word "hergehen",
+    word: "hergehen",
     translation: "(intransitive) To follow, to be going with, (intransitive, southern Germany, Austria) To come, (impersonal, slang) To happen, (intransitive, idiomatic) To turn active",
     forms: {
       section_0: [
@@ -49150,7 +49150,7 @@ module.exports = [
     },
   },
   {
-    word "herhören",
+    word: "herhören",
     translation: "to listen",
     forms: {
       section_0: [
@@ -49180,7 +49180,7 @@ module.exports = [
     },
   },
   {
-    word "herkommen",
+    word: "herkommen",
     translation: "to come over, come here (towards the speaker), to come from",
     forms: {
       section_0: [
@@ -49210,7 +49210,7 @@ module.exports = [
     },
   },
   {
-    word "herlaufen",
+    word: "herlaufen",
     translation: "to come running, to run with someone, run (ahead/behind etc someone)",
     forms: {
       section_0: [
@@ -49240,7 +49240,7 @@ module.exports = [
     },
   },
   {
-    word "herleiten",
+    word: "herleiten",
     translation: "To deduce, To derive",
     forms: {
       section_0: [
@@ -49270,11 +49270,11 @@ module.exports = [
     },
   },
   {
-    word "Herr werden",
+    word: "Herr werden",
     translation: "to master, to get under control",
   },
   {
-    word "herrichten",
+    word: "herrichten",
     translation: "to arrange, to prepare, to decorate, to renovate",
     forms: {
       section_0: [
@@ -49304,11 +49304,11 @@ module.exports = [
     },
   },
   {
-    word "herrklären",
+    word: "herrklären",
     translation: "(slang) to mansplain",
   },
   {
-    word "herrschen",
+    word: "herrschen",
     translation: "to rule",
     forms: {
       section_0: [
@@ -49338,7 +49338,7 @@ module.exports = [
     },
   },
   {
-    word "herrühren",
+    word: "herrühren",
     translation: "To spring, stem, arise or issue (from)",
     forms: {
       section_0: [
@@ -49368,7 +49368,7 @@ module.exports = [
     },
   },
   {
-    word "herstellen",
+    word: "herstellen",
     translation: "to restore, repair, to recover, recuperate",
     forms: {
       section_0: [
@@ -49398,7 +49398,7 @@ module.exports = [
     },
   },
   {
-    word "herumfliegen",
+    word: "herumfliegen",
     translation: "to fly around",
     forms: {
       section_0: [
@@ -49428,7 +49428,7 @@ module.exports = [
     },
   },
   {
-    word "herumlaufen",
+    word: "herumlaufen",
     translation: "(intransitive) to wander, (intransitive) to run around",
     forms: {
       section_0: [
@@ -49458,11 +49458,11 @@ module.exports = [
     },
   },
   {
-    word "herumquasseln",
+    word: "herumquasseln",
     translation: "to chitchat",
   },
   {
-    word "herumschleppen",
+    word: "herumschleppen",
     translation: "(colloquial) to drag/lug around",
     forms: {
       section_0: [
@@ -49492,7 +49492,7 @@ module.exports = [
     },
   },
   {
-    word "herumstehen",
+    word: "herumstehen",
     translation: "To stand around, To mingle",
     forms: {
       section_0: [
@@ -49522,7 +49522,7 @@ module.exports = [
     },
   },
   {
-    word "herumtreiben",
+    word: "herumtreiben",
     translation: "(reflexive) to run around, to hang around, to roam the streets",
     forms: {
       section_0: [
@@ -49552,7 +49552,7 @@ module.exports = [
     },
   },
   {
-    word "herunterfahren",
+    word: "herunterfahren",
     translation: "To shut down",
     forms: {
       section_0: [
@@ -49582,7 +49582,7 @@ module.exports = [
     },
   },
   {
-    word "herunterkommen",
+    word: "herunterkommen",
     translation: "to come down, to descend, to decay",
     forms: {
       section_0: [
@@ -49612,11 +49612,11 @@ module.exports = [
     },
   },
   {
-    word "herunterladen",
+    word: "herunterladen",
     translation: "(computing) to download (to transfer data from a remote computer to a local one)",
   },
   {
-    word "herunterlassen",
+    word: "herunterlassen",
     translation: "to lower, to drop",
     forms: {
       section_0: [
@@ -49646,19 +49646,19 @@ module.exports = [
     },
   },
   {
-    word "herunterspielen",
+    word: "herunterspielen",
     translation: "to downplay",
   },
   {
-    word "herunterzugeladen",
+    word: "herunterzugeladen",
     translation: "zu-infinitive of herunterladen",
   },
   {
-    word "herunterzuladen",
+    word: "herunterzuladen",
     translation: "zu-infinitive of herunterladen",
   },
   {
-    word "hervorbringen",
+    word: "hervorbringen",
     translation: "to bring forth",
     forms: {
       section_0: [
@@ -49688,7 +49688,7 @@ module.exports = [
     },
   },
   {
-    word "hervorgehen",
+    word: "hervorgehen",
     translation: "To result; to follow (logically), To arise (from)",
     forms: {
       section_0: [
@@ -49718,7 +49718,7 @@ module.exports = [
     },
   },
   {
-    word "hervorheben",
+    word: "hervorheben",
     translation: "to emphasize, highlight",
     forms: {
       section_0: [
@@ -49748,7 +49748,7 @@ module.exports = [
     },
   },
   {
-    word "hervorrufen",
+    word: "hervorrufen",
     translation: "to arouse, to evoke, to induce, to cause, to bring about",
     forms: {
       section_0: [
@@ -49778,11 +49778,11 @@ module.exports = [
     },
   },
   {
-    word "hervorzurufen",
+    word: "hervorzurufen",
     translation: "full infinitive of hervorrufen",
   },
   {
-    word "herzen",
+    word: "herzen",
     translation: "to hug, embrace, to caress",
     forms: {
       section_0: [
@@ -49812,7 +49812,7 @@ module.exports = [
     },
   },
   {
-    word "hetzen",
+    word: "hetzen",
     translation: "to agitate, (transitive with auf) to sic, to set upon (of dogs etc)",
     forms: {
       section_0: [
@@ -49842,7 +49842,7 @@ module.exports = [
     },
   },
   {
-    word "heucheln",
+    word: "heucheln",
     translation: "to feign (friendship, morality, etc); to be hypocritical",
     forms: {
       section_0: [
@@ -49872,11 +49872,11 @@ module.exports = [
     },
   },
   {
-    word "heuern",
+    word: "heuern",
     translation: "(nautical) to hire (a seaman)",
   },
   {
-    word "heulen",
+    word: "heulen",
     translation: "To conspire",
     forms: {
       section_0: [
@@ -49906,7 +49906,7 @@ module.exports = [
     },
   },
   {
-    word "hexen",
+    word: "hexen",
     translation: "to perfom witchcraft, cast a spell/spells, to work miracles",
     forms: {
       section_0: [
@@ -49936,23 +49936,23 @@ module.exports = [
     },
   },
   {
-    word "heylen",
+    word: "heylen",
     translation: "Obsolete spelling of heilen",
   },
   {
-    word "heyßen",
+    word: "heyßen",
     translation: "Obsolete spelling of heißen",
   },
   {
-    word "hicksen",
+    word: "hicksen",
     translation: "to hiccup",
   },
   {
-    word "hieven",
+    word: "hieven",
     translation: "plural past indicative and subjunctive of heffen",
   },
   {
-    word "hinaufschauen",
+    word: "hinaufschauen",
     translation: "(regional) to look up to/at",
     forms: {
       section_0: [
@@ -49982,11 +49982,11 @@ module.exports = [
     },
   },
   {
-    word "hinaufwollen",
+    word: "hinaufwollen",
     translation: "to want to go up, come up, etc",
   },
   {
-    word "hinausgehen",
+    word: "hinausgehen",
     translation: "to go out, (of a window etc) to look, to face",
     forms: {
       section_0: [
@@ -50016,7 +50016,7 @@ module.exports = [
     },
   },
   {
-    word "hinauslehnen",
+    word: "hinauslehnen",
     translation: "(reflexive) to lean out",
     forms: {
       section_0: [
@@ -50046,7 +50046,7 @@ module.exports = [
     },
   },
   {
-    word "hinausragen",
+    word: "hinausragen",
     translation: "To project or jut out, To tower over",
     forms: {
       section_0: [
@@ -50076,7 +50076,7 @@ module.exports = [
     },
   },
   {
-    word "hinausschieben",
+    word: "hinausschieben",
     translation: "to postpone",
     forms: {
       section_0: [
@@ -50106,7 +50106,7 @@ module.exports = [
     },
   },
   {
-    word "hinbekommen",
+    word: "hinbekommen",
     translation: "(colloquial, transitive) to manage, to succeed with",
     forms: {
       section_0: [
@@ -50136,7 +50136,7 @@ module.exports = [
     },
   },
   {
-    word "hindern",
+    word: "hindern",
     translation: "to impede, to prevent",
     forms: {
       section_0: [
@@ -50166,15 +50166,15 @@ module.exports = [
     },
   },
   {
-    word "hineinblättern",
+    word: "hineinblättern",
     translation: "to browse",
   },
   {
-    word "hineinblicken",
+    word: "hineinblicken",
     translation: "to look in",
   },
   {
-    word "hineinbringen",
+    word: "hineinbringen",
     translation: "to take in, (colloquial) to get in",
     forms: {
       section_0: [
@@ -50204,7 +50204,7 @@ module.exports = [
     },
   },
   {
-    word "hineingehen",
+    word: "hineingehen",
     translation: "to go in",
     forms: {
       section_0: [
@@ -50234,7 +50234,7 @@ module.exports = [
     },
   },
   {
-    word "hineinmischen",
+    word: "hineinmischen",
     translation: "(reflexive) to interfere, to intervene, (transitive) to mix into, to blend into",
     forms: {
       section_0: [
@@ -50264,19 +50264,19 @@ module.exports = [
     },
   },
   {
-    word "hineinmusen",
+    word: "hineinmusen",
     translation: "to mix into, to add as a mush",
   },
   {
-    word "hineinspielen",
+    word: "hineinspielen",
     translation: "to come into play, to have a part to play (in (+ acc) in)",
   },
   {
-    word "hineinzoomen",
+    word: "hineinzoomen",
     translation: "to zoom in",
   },
   {
-    word "hingehen",
+    word: "hingehen",
     translation: "to go (there), (of time) to pass",
     forms: {
       section_0: [
@@ -50306,7 +50306,7 @@ module.exports = [
     },
   },
   {
-    word "hinhalten",
+    word: "hinhalten",
     translation: "to hold out (with the hand etc), to stall (employ delaying tactics against)",
     forms: {
       section_0: [
@@ -50336,7 +50336,7 @@ module.exports = [
     },
   },
   {
-    word "hinhauen",
+    word: "hinhauen",
     translation: "(transitive, auxiliary verb: haben) to hit hard at a point, (transitive, auxiliary verb: haben) to toss something at a point, (intransitive, auxiliary verb: haben) to hurry up, (intransitive, auxiliary verb: haben) to go well; to proceed fine, (intransitive, auxiliary verb: sein) to fall violently, (reflexive, auxiliary verb: haben) to hit a hay; to hit a sack; to sleep",
     forms: {
       section_0: [
@@ -50366,7 +50366,7 @@ module.exports = [
     },
   },
   {
-    word "hinken",
+    word: "hinken",
     translation: "to limp, to walk lamely",
     forms: {
       section_0: [
@@ -50396,11 +50396,11 @@ module.exports = [
     },
   },
   {
-    word "hinknieen",
+    word: "hinknieen",
     translation: "to kneel down",
   },
   {
-    word "hinkriegen",
+    word: "hinkriegen",
     translation: "(colloquial, transitive) to manage, to succeed with",
     forms: {
       section_0: [
@@ -50430,7 +50430,7 @@ module.exports = [
     },
   },
   {
-    word "hinlegen",
+    word: "hinlegen",
     translation: "to lay down",
     forms: {
       section_0: [
@@ -50460,7 +50460,7 @@ module.exports = [
     },
   },
   {
-    word "hinnehmen",
+    word: "hinnehmen",
     translation: "To accept, To take",
     forms: {
       section_0: [
@@ -50490,7 +50490,7 @@ module.exports = [
     },
   },
   {
-    word "hinreißen",
+    word: "hinreißen",
     translation: "to enrapture",
     forms: {
       section_0: [
@@ -50520,7 +50520,7 @@ module.exports = [
     },
   },
   {
-    word "hinrichten",
+    word: "hinrichten",
     translation: "(to kill as punishment) to execute",
     forms: {
       section_0: [
@@ -50550,27 +50550,27 @@ module.exports = [
     },
   },
   {
-    word "hinsetzen",
+    word: "hinsetzen",
     translation: "(reflexive) to sit down, (transitive) to put, place (in a given position)",
   },
   {
-    word "hinstarren",
+    word: "hinstarren",
     translation: "(with preposition zu) to stare at, (followed by vor sich) to stare into space",
   },
   {
-    word "hinstellen",
+    word: "hinstellen",
     translation: "(transitive) to put down, (transitive) to describe, (reflexive) to stand; to park",
   },
   {
-    word "hinstrecken",
+    word: "hinstrecken",
     translation: "to stretch out, to hold out, (reflexive) to loll, (reflexive) to extend, to take (time)",
   },
   {
-    word "hinterfragen",
+    word: "hinterfragen",
     translation: "to question",
   },
   {
-    word "hinterlassen",
+    word: "hinterlassen",
     translation: "to leave, to leave behind, to bequeath",
     forms: {
       section_0: [
@@ -50600,7 +50600,7 @@ module.exports = [
     },
   },
   {
-    word "hinterlegen",
+    word: "hinterlegen",
     translation: "to deposit",
     forms: {
       section_0: [
@@ -50630,11 +50630,11 @@ module.exports = [
     },
   },
   {
-    word "hinters Licht führen",
+    word: "hinters Licht führen",
     translation: "(idiomatic, informal) pull the wool over somebod(y)'(s) eyes",
   },
   {
-    word "hintertreiben",
+    word: "hintertreiben",
     translation: "to foil (prevent from being accomplished)",
     forms: {
       section_0: [
@@ -50664,7 +50664,7 @@ module.exports = [
     },
   },
   {
-    word "hinterziehen",
+    word: "hinterziehen",
     translation: "to evade (taxation)",
     forms: {
       section_0: [
@@ -50694,7 +50694,7 @@ module.exports = [
     },
   },
   {
-    word "hinunterschlucken",
+    word: "hinunterschlucken",
     translation: "to swallow",
     forms: {
       section_0: [
@@ -50724,11 +50724,11 @@ module.exports = [
     },
   },
   {
-    word "hinwegschauen",
+    word: "hinwegschauen",
     translation: "Synonym of hinwegsehen",
   },
   {
-    word "hinwegsehen",
+    word: "hinwegsehen",
     translation: "to look over, (figuratively) to overlook, to ignore",
     forms: {
       section_0: [
@@ -50758,7 +50758,7 @@ module.exports = [
     },
   },
   {
-    word "hinwegtäuschen",
+    word: "hinwegtäuschen",
     translation: "(transitive, with proposition über) to belie",
     forms: {
       section_0: [
@@ -50788,7 +50788,7 @@ module.exports = [
     },
   },
   {
-    word "hinweisen",
+    word: "hinweisen",
     translation: "to portend (to signify), to point out",
     forms: {
       section_0: [
@@ -50818,11 +50818,11 @@ module.exports = [
     },
   },
   {
-    word "hinwollen",
+    word: "hinwollen",
     translation: "to want to go there",
   },
   {
-    word "hinzubekommen",
+    word: "hinzubekommen",
     translation: "(transitive) to get in addition",
     forms: {
       section_0: [
@@ -50852,7 +50852,7 @@ module.exports = [
     },
   },
   {
-    word "hinzufügen",
+    word: "hinzufügen",
     translation: "to add",
     forms: {
       section_0: [
@@ -50882,7 +50882,7 @@ module.exports = [
     },
   },
   {
-    word "hinzukommen",
+    word: "hinzukommen",
     translation: "to be added",
     forms: {
       section_0: [
@@ -50912,7 +50912,7 @@ module.exports = [
     },
   },
   {
-    word "hissen",
+    word: "hissen",
     translation: "(transitive, a flag or sail) to hoist",
     forms: {
       section_0: [
@@ -50942,7 +50942,7 @@ module.exports = [
     },
   },
   {
-    word "hochfliegen",
+    word: "hochfliegen",
     translation: "(intransitive) To fly up, (intransitive) To be hurled up",
     forms: {
       section_0: [
@@ -50972,7 +50972,7 @@ module.exports = [
     },
   },
   {
-    word "hochgehen",
+    word: "hochgehen",
     translation: "(intransitive, auxiliary verb: sein) to go high; to ascend",
     forms: {
       section_0: [
@@ -51002,7 +51002,7 @@ module.exports = [
     },
   },
   {
-    word "hochhalten",
+    word: "hochhalten",
     translation: "to hold up, to uphold",
     forms: {
       section_0: [
@@ -51032,11 +51032,11 @@ module.exports = [
     },
   },
   {
-    word "hochladen",
+    word: "hochladen",
     translation: "to upload (to transfer data)",
   },
   {
-    word "hochnehmen",
+    word: "hochnehmen",
     translation: "to tease",
     forms: {
       section_0: [
@@ -51066,19 +51066,19 @@ module.exports = [
     },
   },
   {
-    word "hochrechnen",
+    word: "hochrechnen",
     translation: "to project",
   },
   {
-    word "hochschleudern",
+    word: "hochschleudern",
     translation: "to throw up, to fling or hurl up high",
   },
   {
-    word "hochzuladen",
+    word: "hochzuladen",
     translation: "zu-infinitive of hochladen",
   },
   {
-    word "hocken",
+    word: "hocken",
     translation: "to squat",
     forms: {
       section_0: [
@@ -51108,7 +51108,7 @@ module.exports = [
     },
   },
   {
-    word "hoffen",
+    word: "hoffen",
     translation: "to hope",
     forms: {
       section_0: [
@@ -51138,7 +51138,7 @@ module.exports = [
     },
   },
   {
-    word "hökern",
+    word: "hökern",
     translation: "(intransitive) to trade",
     forms: {
       section_0: [
@@ -51168,7 +51168,7 @@ module.exports = [
     },
   },
   {
-    word "holen",
+    word: "holen",
     translation: "past participle of hele",
     forms: {
       section_0: [
@@ -51198,7 +51198,7 @@ module.exports = [
     },
   },
   {
-    word "holpern",
+    word: "holpern",
     translation: "to jolt, to bump, to rumble",
     forms: {
       section_0: [
@@ -51228,7 +51228,7 @@ module.exports = [
     },
   },
   {
-    word "homogenisieren",
+    word: "homogenisieren",
     translation: "To homogenize",
     forms: {
       section_0: [
@@ -51258,11 +51258,11 @@ module.exports = [
     },
   },
   {
-    word "hoppeln",
+    word: "hoppeln",
     translation: "to hop; to scuttle (describing, in particular, the movement of the hare)",
   },
   {
-    word "hopsen",
+    word: "hopsen",
     translation: "to hop; to lollop; to dance awkwardly",
     forms: {
       section_0: [
@@ -51292,7 +51292,7 @@ module.exports = [
     },
   },
   {
-    word "horchen",
+    word: "horchen",
     translation: "to eavesdrop (to hear a conversation one is not intended to hear), to hark",
     forms: {
       section_0: [
@@ -51322,7 +51322,7 @@ module.exports = [
     },
   },
   {
-    word "hören",
+    word: "hören",
     translation: "to hear, to listen to",
     forms: {
       section_0: [
@@ -51352,7 +51352,7 @@ module.exports = [
     },
   },
   {
-    word "horten",
+    word: "horten",
     translation: "to hoard",
     forms: {
       section_0: [
@@ -51382,7 +51382,7 @@ module.exports = [
     },
   },
   {
-    word "hüllen",
+    word: "hüllen",
     translation: "(with in) to wrap, to drape, to cover",
     forms: {
       section_0: [
@@ -51412,7 +51412,7 @@ module.exports = [
     },
   },
   {
-    word "humpeln",
+    word: "humpeln",
     translation: "to hobble, to limp",
     forms: {
       section_0: [
@@ -51442,7 +51442,7 @@ module.exports = [
     },
   },
   {
-    word "hungern",
+    word: "hungern",
     translation: "to hunger",
     forms: {
       section_0: [
@@ -51472,7 +51472,7 @@ module.exports = [
     },
   },
   {
-    word "hupen",
+    word: "hupen",
     translation: "to sound the horn",
     forms: {
       section_0: [
@@ -51502,11 +51502,11 @@ module.exports = [
     },
   },
   {
-    word "hupfen",
+    word: "hupfen",
     translation: "(colloquial, regional, southern Germany and Austria) Alternative form of hüpfen",
   },
   {
-    word "hüpfen",
+    word: "hüpfen",
     translation: "to hop, (of ball) to bounce",
     forms: {
       section_0: [
@@ -51536,11 +51536,11 @@ module.exports = [
     },
   },
   {
-    word "hüppen",
+    word: "hüppen",
     translation: "(colloquial, regional, northern and central Germany) Alternative form of hüpfen",
   },
   {
-    word "huschen",
+    word: "huschen",
     translation: "to scurry",
     forms: {
       section_0: [
@@ -51570,7 +51570,7 @@ module.exports = [
     },
   },
   {
-    word "husten",
+    word: "husten",
     translation: "to cough",
     forms: {
       section_0: [
@@ -51600,7 +51600,7 @@ module.exports = [
     },
   },
   {
-    word "hüten",
+    word: "hüten",
     translation: "(transitive) to watch, (of animals, transitive) to herd, to tend, (reflexive) to be wary, to watch out",
     forms: {
       section_0: [
@@ -51630,27 +51630,27 @@ module.exports = [
     },
   },
   {
-    word "hybridisieren",
+    word: "hybridisieren",
     translation: "To hybridize",
   },
   {
-    word "hydrieren",
+    word: "hydrieren",
     translation: "(organic chemistry) To hydrogenate, translation of hydrate in the film 'Back to the Future II'",
   },
   {
-    word "hydrolysieren",
+    word: "hydrolysieren",
     translation: "(chemistry) To hydrolyze / hydrolyse",
   },
   {
-    word "hyperventilieren",
+    word: "hyperventilieren",
     translation: "to hyperventilate",
   },
   {
-    word "iahen",
+    word: "iahen",
     translation: "to bray (of a donkey, to make a braying noise)",
   },
   {
-    word "idealisieren",
+    word: "idealisieren",
     translation: "to idealize, to idealise (UK)",
     forms: {
       section_0: [
@@ -51680,7 +51680,7 @@ module.exports = [
     },
   },
   {
-    word "identifizieren",
+    word: "identifizieren",
     translation: "to identify",
     forms: {
       section_0: [
@@ -51710,7 +51710,7 @@ module.exports = [
     },
   },
   {
-    word "ignorieren",
+    word: "ignorieren",
     translation: "to ignore",
     forms: {
       section_0: [
@@ -51740,7 +51740,7 @@ module.exports = [
     },
   },
   {
-    word "illustrieren",
+    word: "illustrieren",
     translation: "to illustrate",
     forms: {
       section_0: [
@@ -51770,31 +51770,31 @@ module.exports = [
     },
   },
   {
-    word "im Auge behalten",
+    word: "im Auge behalten",
     translation: "(idiomatic, transitive) to keep an eye on",
   },
   {
-    word "im Griff haben",
+    word: "im Griff haben",
     translation: "(idiomatic) to have under control (literally: to have in the grip)",
   },
   {
-    word "im Stich lassen",
+    word: "im Stich lassen",
     translation: "to abandon, to leave someone in the lurch",
   },
   {
-    word "im Sturm einnehmen",
+    word: "im Sturm einnehmen",
     translation: "(military or idiomatic) to take by storm",
   },
   {
-    word "im Sturm erobern",
+    word: "im Sturm erobern",
     translation: "(military or idiomatic) to take by storm",
   },
   {
-    word "im Sturm nehmen",
+    word: "im Sturm nehmen",
     translation: "(military or idiomatic) to take by storm",
   },
   {
-    word "imitieren",
+    word: "imitieren",
     translation: "to imitate",
     forms: {
       section_0: [
@@ -51824,7 +51824,7 @@ module.exports = [
     },
   },
   {
-    word "imkern",
+    word: "imkern",
     translation: "to keep bees",
     forms: {
       section_0: [
@@ -51854,7 +51854,7 @@ module.exports = [
     },
   },
   {
-    word "immigrieren",
+    word: "immigrieren",
     translation: "to immigrate",
     forms: {
       section_0: [
@@ -51884,7 +51884,7 @@ module.exports = [
     },
   },
   {
-    word "immunisieren",
+    word: "immunisieren",
     translation: "to immunize",
     forms: {
       section_0: [
@@ -51914,7 +51914,7 @@ module.exports = [
     },
   },
   {
-    word "impfen",
+    word: "impfen",
     translation: "to inoculate, to vaccinate",
     forms: {
       section_0: [
@@ -51944,19 +51944,19 @@ module.exports = [
     },
   },
   {
-    word "implementieren",
+    word: "implementieren",
     translation: "(computing) to implement (bring about)",
   },
   {
-    word "implizieren",
+    word: "implizieren",
     translation: "to imply (express suggestively)",
   },
   {
-    word "implodieren",
+    word: "implodieren",
     translation: "to implode",
   },
   {
-    word "imponieren",
+    word: "imponieren",
     translation: "to impress",
     forms: {
       section_0: [
@@ -51986,7 +51986,7 @@ module.exports = [
     },
   },
   {
-    word "importieren",
+    word: "importieren",
     translation: "to import (to bring something in from a foreign country), to import (to load a file into a software application for use as a resource in a greater data file)",
     forms: {
       section_0: [
@@ -52016,11 +52016,11 @@ module.exports = [
     },
   },
   {
-    word "imprägnieren",
+    word: "imprägnieren",
     translation: "to waterproof, to impregnate",
   },
   {
-    word "improvisieren",
+    word: "improvisieren",
     translation: "to improvise",
     forms: {
       section_0: [
@@ -52050,103 +52050,103 @@ module.exports = [
     },
   },
   {
-    word "in Abrede stellen",
+    word: "in Abrede stellen",
     translation: "to deny",
   },
   {
-    word "in Acht nehmen",
+    word: "in Acht nehmen",
     translation: "(reflexive) to take care, to be careful",
   },
   {
-    word "in Angriff nehmen",
+    word: "in Angriff nehmen",
     translation: "to tackle",
   },
   {
-    word "in Berufung gehen",
+    word: "in Berufung gehen",
     translation: "(law) to appeal",
   },
   {
-    word "in Betracht kommen",
+    word: "in Betracht kommen",
     translation: "(idiomatic) to come into consideration",
   },
   {
-    word "in Betracht ziehen",
+    word: "in Betracht ziehen",
     translation: "(idiomatic) to take into consideration",
   },
   {
-    word "in den Arsch kriechen",
+    word: "in den Arsch kriechen",
     translation: "(idiomatic, pejorative, colloquial, vulgar) to kiss arse",
   },
   {
-    word "in den falschen Hals kriegen",
+    word: "in den falschen Hals kriegen",
     translation: "(with accusative) to get something or someone wrong",
   },
   {
-    word "in den Rücken fallen",
+    word: "in den Rücken fallen",
     translation: "to stab somebody in the back",
   },
   {
-    word "in den Sand setzen",
+    word: "in den Sand setzen",
     translation: "(idiomatic, transitive) (of a project) to botch; (of money) to waste, to burn",
   },
   {
-    word "in den Wind sprechen",
+    word: "in den Wind sprechen",
     translation: "(idiomatic) To talk in vain",
   },
   {
-    word "in der Nase bohren",
+    word: "in der Nase bohren",
     translation: "to pick on(e)'(s) nose",
   },
   {
-    word "in der Tinte sitzen",
+    word: "in der Tinte sitzen",
     translation: "(idiomatic) To be in a fix; to be in trouble",
   },
   {
-    word "in die Bresche springen",
+    word: "in die Bresche springen",
     translation: "(idiomatic) to step into the breach",
   },
   {
-    word "in die Ehe bringen",
+    word: "in die Ehe bringen",
     translation: "(transitive, idiomatic) to own at the time of one’s marriage some wealth, which becomes the common property of the married couple according to the traditional (now optional) German system of Gütergemeinschaft, that is full community property including property owned before the marriage, (transitive, idiomatic) to have a child or children at the time of one’s marriage",
   },
   {
-    word "in die Luft sprengen",
+    word: "in die Luft sprengen",
     translation: "(idiomatic) to blow up (literally: 'to blow (up) in the air')",
   },
   {
-    word "in eine Schublade stecken",
+    word: "in eine Schublade stecken",
     translation: "(idiomatic) to pigeonhole (literally: to put into a drawer)",
   },
   {
-    word "in Frage stellen",
+    word: "in Frage stellen",
     translation: "(transitive) to question, to challenge, to cast doubt on",
   },
   {
-    word "in Kraft treten",
+    word: "in Kraft treten",
     translation: "(law) to become effective; to come into force",
   },
   {
-    word "in Saus und Braus leben",
+    word: "in Saus und Braus leben",
     translation: "(idiomatic) to live in clover, to live on the fat of the land",
   },
   {
-    word "in Strömen regnen",
+    word: "in Strömen regnen",
     translation: "rain cats and dogs (to rain very heavily)",
   },
   {
-    word "in Ungnade fallen",
+    word: "in Ungnade fallen",
     translation: "(idiomatic) to fall from grace",
   },
   {
-    word "in Zweifel ziehen",
+    word: "in Zweifel ziehen",
     translation: "(transitive) to question, to challenge, to cast doubt on",
   },
   {
-    word "inaktivieren",
+    word: "inaktivieren",
     translation: "(biology) To inactivate",
   },
   {
-    word "individualisieren",
+    word: "individualisieren",
     translation: "to individualize",
     forms: {
       section_0: [
@@ -52176,7 +52176,7 @@ module.exports = [
     },
   },
   {
-    word "indizieren",
+    word: "indizieren",
     translation: "to indicate, to hint, to put onto the Index, the official list of media not allowed to be distributed in Germany, to index",
     forms: {
       section_0: [
@@ -52206,11 +52206,11 @@ module.exports = [
     },
   },
   {
-    word "indoktrinieren",
+    word: "indoktrinieren",
     translation: "to indoctrinate",
   },
   {
-    word "industrialisieren",
+    word: "industrialisieren",
     translation: "to industrialize",
     forms: {
       section_0: [
@@ -52240,11 +52240,11 @@ module.exports = [
     },
   },
   {
-    word "induzieren",
+    word: "induzieren",
     translation: "To induce",
   },
   {
-    word "infizieren",
+    word: "infizieren",
     translation: "to infect",
     forms: {
       section_0: [
@@ -52274,7 +52274,7 @@ module.exports = [
     },
   },
   {
-    word "informieren",
+    word: "informieren",
     translation: "(transitive) to inform, to update, (reflexive) to be informed, to be updated",
     forms: {
       section_0: [
@@ -52304,11 +52304,11 @@ module.exports = [
     },
   },
   {
-    word "infrage stellen",
+    word: "infrage stellen",
     translation: "Alternative form of in Frage stellen",
   },
   {
-    word "inhaftieren",
+    word: "inhaftieren",
     translation: "to arrest",
     forms: {
       section_0: [
@@ -52338,7 +52338,7 @@ module.exports = [
     },
   },
   {
-    word "inhalieren",
+    word: "inhalieren",
     translation: "to inhale",
     forms: {
       section_0: [
@@ -52368,15 +52368,15 @@ module.exports = [
     },
   },
   {
-    word "initialisieren",
+    word: "initialisieren",
     translation: "to initialize / initialise",
   },
   {
-    word "initiieren",
+    word: "initiieren",
     translation: "to initiate",
   },
   {
-    word "injizieren",
+    word: "injizieren",
     translation: "(medicine) to inject",
     forms: {
       section_0: [
@@ -52406,11 +52406,11 @@ module.exports = [
     },
   },
   {
-    word "inlinern",
+    word: "inlinern",
     translation: "(intransitive, slightly informal) to skate on rollerblades",
   },
   {
-    word "innehalten",
+    word: "innehalten",
     translation: "to pause (to interrupt something)",
     forms: {
       section_0: [
@@ -52440,67 +52440,67 @@ module.exports = [
     },
   },
   {
-    word "ins Auge fassen",
+    word: "ins Auge fassen",
     translation: "to eye (to look at something as if with the intent to do something with that thing), to consider doing something",
   },
   {
-    word "ins Auge springen",
+    word: "ins Auge springen",
     translation: "to catch someon(e)'(s) eye",
   },
   {
-    word "ins Auge stechen",
+    word: "ins Auge stechen",
     translation: "to catch someon(e)'(s) eye",
   },
   {
-    word "ins Bockshorn jagen",
+    word: "ins Bockshorn jagen",
     translation: "(idiomatic) to buffalo, to intimidate",
   },
   {
-    word "ins Detail gehen",
+    word: "ins Detail gehen",
     translation: "(idiomatic) to go into details, to particularize",
   },
   {
-    word "ins Einzelne gehen",
+    word: "ins Einzelne gehen",
     translation: "(idiomatic) to go into details, to particularize",
   },
   {
-    word "ins Einzelne zu gehen",
+    word: "ins Einzelne zu gehen",
     translation: "zu-infinitive of ins Einzelne gehen",
   },
   {
-    word "ins Gebet nehmen",
+    word: "ins Gebet nehmen",
     translation: "to take to task",
   },
   {
-    word "ins Gewicht fallen",
+    word: "ins Gewicht fallen",
     translation: "(idiomatic) to carry weight",
   },
   {
-    word "ins Kraut schießen",
+    word: "ins Kraut schießen",
     translation: "(idiomatic) to run rampant",
   },
   {
-    word "ins Land ziehen",
+    word: "ins Land ziehen",
     translation: "to pass; to elapse",
   },
   {
-    word "ins Schwarze treffen",
+    word: "ins Schwarze treffen",
     translation: "(idiomatic) to hit the bullseye",
   },
   {
-    word "ins Visier geraten",
+    word: "ins Visier geraten",
     translation: "(idiomatic) to become a target",
   },
   {
-    word "ins Visier nehmen",
+    word: "ins Visier nehmen",
     translation: "(idiomatic) to target, to set sight on",
   },
   {
-    word "insistieren",
+    word: "insistieren",
     translation: "to insist",
   },
   {
-    word "inspirieren",
+    word: "inspirieren",
     translation: "to inspire",
     forms: {
       section_0: [
@@ -52530,7 +52530,7 @@ module.exports = [
     },
   },
   {
-    word "inspizieren",
+    word: "inspizieren",
     translation: "to inspect",
     forms: {
       section_0: [
@@ -52560,7 +52560,7 @@ module.exports = [
     },
   },
   {
-    word "installieren",
+    word: "installieren",
     translation: "to install (set something up for use)",
     forms: {
       section_0: [
@@ -52590,19 +52590,19 @@ module.exports = [
     },
   },
   {
-    word "instanziieren",
+    word: "instanziieren",
     translation: "to instantiate",
   },
   {
-    word "instituieren",
+    word: "instituieren",
     translation: "to institute (to begin or initiate something)",
   },
   {
-    word "instrumentalisieren",
+    word: "instrumentalisieren",
     translation: "To exploit",
   },
   {
-    word "inszenieren",
+    word: "inszenieren",
     translation: "to stage",
     forms: {
       section_0: [
@@ -52632,7 +52632,7 @@ module.exports = [
     },
   },
   {
-    word "integrieren",
+    word: "integrieren",
     translation: "to integrate",
     forms: {
       section_0: [
@@ -52662,11 +52662,11 @@ module.exports = [
     },
   },
   {
-    word "interagieren",
+    word: "interagieren",
     translation: "to interact",
   },
   {
-    word "interessieren",
+    word: "interessieren",
     translation: "(transitive) to interest, (reflexive, with für) to be interested in",
     forms: {
       section_0: [
@@ -52696,11 +52696,11 @@ module.exports = [
     },
   },
   {
-    word "interkulturalisieren",
+    word: "interkulturalisieren",
     translation: "to interculturalize",
   },
   {
-    word "internationalisieren",
+    word: "internationalisieren",
     translation: "to internationalize",
     forms: {
       section_0: [
@@ -52730,7 +52730,7 @@ module.exports = [
     },
   },
   {
-    word "internieren",
+    word: "internieren",
     translation: "(transitive, to imprison) to intern",
     forms: {
       section_0: [
@@ -52760,11 +52760,11 @@ module.exports = [
     },
   },
   {
-    word "interpolieren",
+    word: "interpolieren",
     translation: "to interpolate",
   },
   {
-    word "interpretieren",
+    word: "interpretieren",
     translation: "to interpret (to explain or tell the meaning of; to apprehend and represent by means of art), (music) to perform",
     forms: {
       section_0: [
@@ -52794,11 +52794,11 @@ module.exports = [
     },
   },
   {
-    word "intervenieren",
+    word: "intervenieren",
     translation: "to intervene",
   },
   {
-    word "interviewen",
+    word: "interviewen",
     translation: "to interview",
     forms: {
       section_0: [
@@ -52828,11 +52828,11 @@ module.exports = [
     },
   },
   {
-    word "intrigieren",
+    word: "intrigieren",
     translation: "to intrigue, to plot",
   },
   {
-    word "investieren",
+    word: "investieren",
     translation: "to invest (time, money, etc)",
     forms: {
       section_0: [
@@ -52862,11 +52862,11 @@ module.exports = [
     },
   },
   {
-    word "ionisieren",
+    word: "ionisieren",
     translation: "To ionize",
   },
   {
-    word "irreführen",
+    word: "irreführen",
     translation: "to mislead, to misguide",
     forms: {
       section_0: [
@@ -52896,7 +52896,7 @@ module.exports = [
     },
   },
   {
-    word "irren",
+    word: "irren",
     translation: "to wander",
     forms: {
       section_0: [
@@ -52926,7 +52926,7 @@ module.exports = [
     },
   },
   {
-    word "irritieren",
+    word: "irritieren",
     translation: "to confuse, to irritate",
     forms: {
       section_0: [
@@ -52956,7 +52956,7 @@ module.exports = [
     },
   },
   {
-    word "isolieren",
+    word: "isolieren",
     translation: "to isolate, to insulate",
     forms: {
       section_0: [
@@ -52986,11 +52986,11 @@ module.exports = [
     },
   },
   {
-    word "isomerisieren",
+    word: "isomerisieren",
     translation: "(chemistry, physics) To isomerise / isomerize",
   },
   {
-    word "jagen",
+    word: "jagen",
     translation: "(transitive) to hunt, (transitive) to tug (a boat), (ergative) to move quickly",
     forms: {
       section_0: [
@@ -53020,7 +53020,7 @@ module.exports = [
     },
   },
   {
-    word "jähren",
+    word: "jähren",
     translation: "(reflexive) to become one year old(er); to complete a year (or a specified number of years)",
     forms: {
       section_0: [
@@ -53050,7 +53050,7 @@ module.exports = [
     },
   },
   {
-    word "jammern",
+    word: "jammern",
     translation: "to wail, whine, moan, lament, whinge",
     forms: {
       section_0: [
@@ -53080,15 +53080,15 @@ module.exports = [
     },
   },
   {
-    word "jappen",
+    word: "jappen",
     translation: "to gasp for air",
   },
   {
-    word "japsen",
+    word: "japsen",
     translation: "to be out of breath, short of breath, to gasp for air",
   },
   {
-    word "jäten",
+    word: "jäten",
     translation: "to weed",
     forms: {
       section_0: [
@@ -53118,7 +53118,7 @@ module.exports = [
     },
   },
   {
-    word "jauchzen",
+    word: "jauchzen",
     translation: "to cheer, exalt",
     forms: {
       section_0: [
@@ -53148,7 +53148,7 @@ module.exports = [
     },
   },
   {
-    word "jaulen",
+    word: "jaulen",
     translation: "to yelp, to howl, to yowl (sound of a canine or a similar sound)",
     forms: {
       section_0: [
@@ -53178,31 +53178,31 @@ module.exports = [
     },
   },
   {
-    word "jemandem die Leviten lesen",
+    word: "jemandem die Leviten lesen",
     translation: "(idiomatic) to read someone the riot act, to reprimand someone",
   },
   {
-    word "jemandem einen Strich durch die Rechnung machen",
+    word: "jemandem einen Strich durch die Rechnung machen",
     translation: "(idiomatic) to thwart someon(e)'(s) plans",
   },
   {
-    word "jemandem etwas in die Schuhe schieben",
+    word: "jemandem etwas in die Schuhe schieben",
     translation: "to lay something at the feet of someone",
   },
   {
-    word "jemandem über den Weg laufen",
+    word: "jemandem über den Weg laufen",
     translation: "to cross someon(e)'(s) path, to run into someone",
   },
   {
-    word "jemandem zu schaffen machen",
+    word: "jemandem zu schaffen machen",
     translation: "to trouble",
   },
   {
-    word "jetten",
+    word: "jetten",
     translation: "to jet (To travel on a jet aircraft)",
   },
   {
-    word "jobben",
+    word: "jobben",
     translation: "For adults, to have many quickly varying jobs, or always only small engagements for work, or part-time employment(s), with low pay, and probably spend little effort on them, For school children, students, etc, to have a holiday job",
     forms: {
       section_0: [
@@ -53232,7 +53232,7 @@ module.exports = [
     },
   },
   {
-    word "jodeln",
+    word: "jodeln",
     translation: "to yodel",
     forms: {
       section_0: [
@@ -53262,7 +53262,7 @@ module.exports = [
     },
   },
   {
-    word "jonglieren",
+    word: "jonglieren",
     translation: "to juggle",
     forms: {
       section_0: [
@@ -53292,7 +53292,7 @@ module.exports = [
     },
   },
   {
-    word "jubeln",
+    word: "jubeln",
     translation: "(intransitive) to cheer",
     forms: {
       section_0: [
@@ -53322,7 +53322,7 @@ module.exports = [
     },
   },
   {
-    word "jucken",
+    word: "jucken",
     translation: "to itch, (slang) to bother",
     forms: {
       section_0: [
@@ -53352,7 +53352,7 @@ module.exports = [
     },
   },
   {
-    word "justieren",
+    word: "justieren",
     translation: "to set, to adjust",
     forms: {
       section_0: [
@@ -53382,35 +53382,35 @@ module.exports = [
     },
   },
   {
-    word "kabbeln",
+    word: "kabbeln",
     translation: "(reflexive, regional, chiefly Northern Germany) to tease each other, to fight with each other in a not dangerous way",
   },
   {
-    word "käbbeln",
+    word: "käbbeln",
     translation: "(nonstandard) Alternative spelling of kebbeln, itself an alternative form of kabbeln",
   },
   {
-    word "kabeln",
+    word: "kabeln",
     translation: "(dated) to cable (send a telegram by cable)",
   },
   {
-    word "kacheln",
+    word: "kacheln",
     translation: "(transitive, auxiliary verb haben) to tile, (colloquial, intransitive, auxiliary verb sein) to get going",
   },
   {
-    word "kacken",
+    word: "kacken",
     translation: "(slightly vulgar) To shit",
   },
   {
-    word "kalfatern",
+    word: "kalfatern",
     translation: "to caulk (to seal joints with caulk)",
   },
   {
-    word "kalibrieren",
+    word: "kalibrieren",
     translation: "to calibrate",
   },
   {
-    word "kalkulieren",
+    word: "kalkulieren",
     translation: "to calculate, to reckon",
     forms: {
       section_0: [
@@ -53440,11 +53440,11 @@ module.exports = [
     },
   },
   {
-    word "kalte Füße bekommen",
+    word: "kalte Füße bekommen",
     translation: "(idiomatic) to get cold feet",
   },
   {
-    word "kaltmachen",
+    word: "kaltmachen",
     translation: "(slang) To off someone",
     forms: {
       section_0: [
@@ -53474,11 +53474,11 @@ module.exports = [
     },
   },
   {
-    word "kaltzumachen",
+    word: "kaltzumachen",
     translation: "zu-infinitive of kaltmachen",
   },
   {
-    word "kämmen",
+    word: "kämmen",
     translation: "To comb",
     forms: {
       section_0: [
@@ -53508,7 +53508,7 @@ module.exports = [
     },
   },
   {
-    word "kämpfen",
+    word: "kämpfen",
     translation: "to fight, to struggle",
     forms: {
       section_0: [
@@ -53538,11 +53538,11 @@ module.exports = [
     },
   },
   {
-    word "kampieren",
+    word: "kampieren",
     translation: "to camp (live in a temporary accommodation)",
   },
   {
-    word "kanalisieren",
+    word: "kanalisieren",
     translation: "to channel, to canalise, to canalize",
     forms: {
       section_0: [
@@ -53572,7 +53572,7 @@ module.exports = [
     },
   },
   {
-    word "kandidieren",
+    word: "kandidieren",
     translation: "to be a candidate",
     forms: {
       section_0: [
@@ -53602,7 +53602,7 @@ module.exports = [
     },
   },
   {
-    word "kandieren",
+    word: "kandieren",
     translation: "to candy",
     forms: {
       section_0: [
@@ -53632,7 +53632,7 @@ module.exports = [
     },
   },
   {
-    word "kapern",
+    word: "kapern",
     translation: "(nautical, aviation) to capture, to seize, to hijack (a ship or airplane)",
     forms: {
       section_0: [
@@ -53662,7 +53662,7 @@ module.exports = [
     },
   },
   {
-    word "kapieren",
+    word: "kapieren",
     translation: "(informal) to understand intellectually; to get",
     forms: {
       section_0: [
@@ -53692,11 +53692,11 @@ module.exports = [
     },
   },
   {
-    word "kapitalisieren",
+    word: "kapitalisieren",
     translation: "(finance) to capitalize",
   },
   {
-    word "kapitulieren",
+    word: "kapitulieren",
     translation: "(military) to surrender, to capitulate, (by extension) to surrender, to give up",
     forms: {
       section_0: [
@@ -53726,7 +53726,7 @@ module.exports = [
     },
   },
   {
-    word "kappen",
+    word: "kappen",
     translation: "(transitive) To cut hair and model it, (transitive) To chop, as with an ax, (transitive) To cut down, fell (eg a tree), (figuratively) (in kappen op ) (intransitive) To criticize, (colloquial) (intransitive) To cease, give up, stop, (slang) To talk; notably, (intransitive) To plead, (transitive) To speak (a) slang",
     forms: {
       section_0: [
@@ -53756,7 +53756,7 @@ module.exports = [
     },
   },
   {
-    word "kapseln",
+    word: "kapseln",
     translation: "to encapsulate, (software, object-oriented programming) to encapsulate",
     forms: {
       section_0: [
@@ -53786,7 +53786,7 @@ module.exports = [
     },
   },
   {
-    word "kaputtmachen",
+    word: "kaputtmachen",
     translation: "(colloquial) to break",
     forms: {
       section_0: [
@@ -53816,11 +53816,11 @@ module.exports = [
     },
   },
   {
-    word "kaputtreparieren",
+    word: "kaputtreparieren",
     translation: "(colloquial) To break something in an attempt to repair it, typically after overestimating one’s own repair skills",
   },
   {
-    word "karikieren",
+    word: "karikieren",
     translation: "to caricature",
     forms: {
       section_0: [
@@ -53850,7 +53850,7 @@ module.exports = [
     },
   },
   {
-    word "karren",
+    word: "karren",
     translation: "to wheelbarrow",
     forms: {
       section_0: [
@@ -53880,19 +53880,19 @@ module.exports = [
     },
   },
   {
-    word "kartografieren",
+    word: "kartografieren",
     translation: "(to create a visual representation of a territory, etc via cartography) to map",
   },
   {
-    word "kartographieren",
+    word: "kartographieren",
     translation: "Alternative spelling of kartografieren",
   },
   {
-    word "kaschieren",
+    word: "kaschieren",
     translation: "to cover up",
   },
   {
-    word "kasernieren",
+    word: "kasernieren",
     translation: "(military) to barrack",
     forms: {
       section_0: [
@@ -53922,7 +53922,7 @@ module.exports = [
     },
   },
   {
-    word "kassieren",
+    word: "kassieren",
     translation: "to collect (money) for the goods or services one has provided, to take against someon(e)'(s) will, to take (something) away from (someone), to end (eg to put an end to or prevent the implementation of a law)",
     forms: {
       section_0: [
@@ -53952,7 +53952,7 @@ module.exports = [
     },
   },
   {
-    word "kasteien",
+    word: "kasteien",
     translation: "(religion, chiefly Christianity) to chasten (purify spiritually through austerity, asceticism, and/or bodily pain)",
     forms: {
       section_0: [
@@ -53982,7 +53982,7 @@ module.exports = [
     },
   },
   {
-    word "kastrieren",
+    word: "kastrieren",
     translation: "to castrate",
     forms: {
       section_0: [
@@ -54012,23 +54012,23 @@ module.exports = [
     },
   },
   {
-    word "katalogisieren",
+    word: "katalogisieren",
     translation: "to catalogue (to put into a catalogue)",
   },
   {
-    word "katalysieren",
+    word: "katalysieren",
     translation: "To catalyze / catalyse",
   },
   {
-    word "katapultieren",
+    word: "katapultieren",
     translation: "(transitive) to catapult",
   },
   {
-    word "kategorisieren",
+    word: "kategorisieren",
     translation: "to categorize",
   },
   {
-    word "kauen",
+    word: "kauen",
     translation: "to chew",
     forms: {
       section_0: [
@@ -54058,7 +54058,7 @@ module.exports = [
     },
   },
   {
-    word "kauern",
+    word: "kauern",
     translation: "to crouch; to cower",
     forms: {
       section_0: [
@@ -54088,7 +54088,7 @@ module.exports = [
     },
   },
   {
-    word "kaufen",
+    word: "kaufen",
     translation: "to buy",
     forms: {
       section_0: [
@@ -54118,15 +54118,15 @@ module.exports = [
     },
   },
   {
-    word "käufen",
+    word: "käufen",
     translation: "(regional, nonstandard) Alternative form of kaufen",
   },
   {
-    word "kebbeln",
+    word: "kebbeln",
     translation: "(reflexive, regional, chiefly western Germany) Alternative form of kabbeln",
   },
   {
-    word "kehren",
+    word: "kehren",
     translation: "to sweep",
     forms: {
       section_0: [
@@ -54156,7 +54156,7 @@ module.exports = [
     },
   },
   {
-    word "keifen",
+    word: "keifen",
     translation: "to rail or nag in a sharp voice (in such a way as, according to the stereotype, is typical of an enraged older woman)",
     forms: {
       section_0: [
@@ -54186,7 +54186,7 @@ module.exports = [
     },
   },
   {
-    word "keimen",
+    word: "keimen",
     translation: "to sprout, germinate, to stir (eg hope), to form (eg thought, decision), to awaken (eg love, yearning)",
     forms: {
       section_0: [
@@ -54216,7 +54216,7 @@ module.exports = [
     },
   },
   {
-    word "kennen",
+    word: "kennen",
     translation: "(transitive) to know (a person, a thing), be acquainted with, (auxiliary, colloquial, dialectal) Synonym of kunnen",
     forms: {
       section_0: [
@@ -54246,15 +54246,15 @@ module.exports = [
     },
   },
   {
-    word "kennen lernen",
+    word: "kennen lernen",
     translation: "(transitive) to get to know, become acquainted with (a person, place, thing); to befriend, (transitive) to meet; introduce oneself to; to present",
   },
   {
-    word "kennenlernen",
+    word: "kennenlernen",
     translation: "Alternative spelling of kennen lernen",
   },
   {
-    word "kennzeichnen",
+    word: "kennzeichnen",
     translation: "to flag, to mark",
     forms: {
       section_0: [
@@ -54284,7 +54284,7 @@ module.exports = [
     },
   },
   {
-    word "kentern",
+    word: "kentern",
     translation: "(nautical) to capsize",
     forms: {
       section_0: [
@@ -54314,7 +54314,7 @@ module.exports = [
     },
   },
   {
-    word "keuchen",
+    word: "keuchen",
     translation: "to gasp, to pant",
     forms: {
       section_0: [
@@ -54344,11 +54344,11 @@ module.exports = [
     },
   },
   {
-    word "keulen",
+    word: "keulen",
     translation: "(sick animals) to cull",
   },
   {
-    word "kichern",
+    word: "kichern",
     translation: "to giggle, snicker",
     forms: {
       section_0: [
@@ -54378,7 +54378,7 @@ module.exports = [
     },
   },
   {
-    word "kicken",
+    word: "kicken",
     translation: "to get a kick out of, kick (remove someone from an online activity)",
     forms: {
       section_0: [
@@ -54408,7 +54408,7 @@ module.exports = [
     },
   },
   {
-    word "kidnappen",
+    word: "kidnappen",
     translation: "to kidnap",
     forms: {
       section_0: [
@@ -54438,11 +54438,11 @@ module.exports = [
     },
   },
   {
-    word "kieken",
+    word: "kieken",
     translation: "To photograph, take/shoot (a) picture(s)",
   },
   {
-    word "kiesen",
+    word: "kiesen",
     translation: "(transitive, archaic, partly obsolete) to choose; to select",
     forms: {
       section_0: [
@@ -54472,7 +54472,7 @@ module.exports = [
     },
   },
   {
-    word "kiffen",
+    word: "kiffen",
     translation: "to smoke marijuana",
     forms: {
       section_0: [
@@ -54502,7 +54502,7 @@ module.exports = [
     },
   },
   {
-    word "killen",
+    word: "killen",
     translation: "(nautical) to shiver, (slang) to frag, kill",
     forms: {
       section_0: [
@@ -54532,7 +54532,7 @@ module.exports = [
     },
   },
   {
-    word "kippen",
+    word: "kippen",
     translation: "(transitive, auxiliary haben) to tilt, (transitive, auxiliary haben) to dump; to pour, (intransitive, auxiliary sein) to tip over",
     forms: {
       section_0: [
@@ -54562,7 +54562,7 @@ module.exports = [
     },
   },
   {
-    word "kitzeln",
+    word: "kitzeln",
     translation: "to tickle",
     forms: {
       section_0: [
@@ -54592,7 +54592,7 @@ module.exports = [
     },
   },
   {
-    word "klaffen",
+    word: "klaffen",
     translation: "to gape, to yawn",
     forms: {
       section_0: [
@@ -54622,11 +54622,11 @@ module.exports = [
     },
   },
   {
-    word "kläffen",
+    word: "kläffen",
     translation: "to yap",
   },
   {
-    word "klagen",
+    word: "klagen",
     translation: "(intransitive) to complain",
     forms: {
       section_0: [
@@ -54656,7 +54656,7 @@ module.exports = [
     },
   },
   {
-    word "klammern",
+    word: "klammern",
     translation: "to cling",
     forms: {
       section_0: [
@@ -54686,7 +54686,7 @@ module.exports = [
     },
   },
   {
-    word "klappen",
+    word: "klappen",
     translation: "to clap (make sound or music with the hands), to applaud (clap hands in order to praise), to smack, strike rather hard and/or loud, to crack with a loud sound, like a whip, to fold, to hinge, to wag on(e)'(s) lips, talk, converse",
     forms: {
       section_0: [
@@ -54716,7 +54716,7 @@ module.exports = [
     },
   },
   {
-    word "klappern",
+    word: "klappern",
     translation: "to clatter (make a rattling or clapping sound)",
     forms: {
       section_0: [
@@ -54746,7 +54746,7 @@ module.exports = [
     },
   },
   {
-    word "klären",
+    word: "klären",
     translation: "clarify, free from obscurities, clarify, remove contaminants",
     forms: {
       section_0: [
@@ -54776,7 +54776,7 @@ module.exports = [
     },
   },
   {
-    word "klarkommen",
+    word: "klarkommen",
     translation: "(informal) to cope; to come to terms, to deal with, to manage, to get along, to get on, to get by",
     forms: {
       section_0: [
@@ -54806,7 +54806,7 @@ module.exports = [
     },
   },
   {
-    word "klarmachen",
+    word: "klarmachen",
     translation: "(transitive) to make clear, (transitive) to get ready (a ship), (transitive) to clear (an airplane)",
     forms: {
       section_0: [
@@ -54836,7 +54836,7 @@ module.exports = [
     },
   },
   {
-    word "klarstellen",
+    word: "klarstellen",
     translation: "to get (something) straight, to put (something) straight, to clarify",
     forms: {
       section_0: [
@@ -54866,11 +54866,11 @@ module.exports = [
     },
   },
   {
-    word "klassifizieren",
+    word: "klassifizieren",
     translation: "to classify",
   },
   {
-    word "klatschen",
+    word: "klatschen",
     translation: "to clap, to gossip",
     forms: {
       section_0: [
@@ -54900,7 +54900,7 @@ module.exports = [
     },
   },
   {
-    word "klauen",
+    word: "klauen",
     translation: "(somewhat informal) to steal",
     forms: {
       section_0: [
@@ -54930,7 +54930,7 @@ module.exports = [
     },
   },
   {
-    word "kleben",
+    word: "kleben",
     translation: "(transitive, with an + accusative) to glue (onto), (intransitive, with an + dative) to stick (to), (intransitive) to be sticky",
     forms: {
       section_0: [
@@ -54960,7 +54960,7 @@ module.exports = [
     },
   },
   {
-    word "kleiden",
+    word: "kleiden",
     translation: "to dress, to clothe",
     forms: {
       section_0: [
@@ -54990,7 +54990,7 @@ module.exports = [
     },
   },
   {
-    word "klemmen",
+    word: "klemmen",
     translation: "(transitive) to clamp, to squeeze",
     forms: {
       section_0: [
@@ -55020,7 +55020,7 @@ module.exports = [
     },
   },
   {
-    word "klettern",
+    word: "klettern",
     translation: "to climb",
     forms: {
       section_0: [
@@ -55050,11 +55050,11 @@ module.exports = [
     },
   },
   {
-    word "klicken",
+    word: "klicken",
     translation: "to click (intransitive: click the left [or right] button of a mouse)",
   },
   {
-    word "klimatisieren",
+    word: "klimatisieren",
     translation: "to air-condition",
     forms: {
       section_0: [
@@ -55084,7 +55084,7 @@ module.exports = [
     },
   },
   {
-    word "klingeln",
+    word: "klingeln",
     translation: "to ring (to produce the sound of a bell or a similar sound)",
     forms: {
       section_0: [
@@ -55114,7 +55114,7 @@ module.exports = [
     },
   },
   {
-    word "klingen",
+    word: "klingen",
     translation: "(intransitive) to sound; to clink",
     forms: {
       section_0: [
@@ -55144,7 +55144,7 @@ module.exports = [
     },
   },
   {
-    word "klirren",
+    word: "klirren",
     translation: "(instransitive) to clink, to clank, to clash, to jingle, to clatter",
     forms: {
       section_0: [
@@ -55174,15 +55174,15 @@ module.exports = [
     },
   },
   {
-    word "klonen",
+    word: "klonen",
     translation: "to clone",
   },
   {
-    word "klönen",
+    word: "klönen",
     translation: "(regional, Northern Germany) to chat",
   },
   {
-    word "klopfen",
+    word: "klopfen",
     translation: "to knock, to beat, pulsate (heart)",
     forms: {
       section_0: [
@@ -55212,23 +55212,23 @@ module.exports = [
     },
   },
   {
-    word "kloppen",
+    word: "kloppen",
     translation: "(intransitive) to beat, hit, (intransitive) to knock, (intransitive) to defeat, (intransitive) to pulsate, like a heart, (intransitive) to be correct, to be true, (intransitive) to fit, work out, like a calculation; to make sense, to be true, (intransitive) to lead the devoutly professed, unmarried but non-congregational life of a Catholic klop",
   },
   {
-    word "klugreden",
+    word: "klugreden",
     translation: "To speak as a know-it-all",
   },
   {
-    word "klumpen",
+    word: "klumpen",
     translation: "to lump",
   },
   {
-    word "klüngeln",
+    word: "klüngeln",
     translation: "(western Germany) to be slow; to delay; to dawdle, (western Germany) to chatter (often in confidence, or seemingly so), to engage in nepotism and corruption",
   },
   {
-    word "knabbern",
+    word: "knabbern",
     translation: "to nibble",
     forms: {
       section_0: [
@@ -55258,7 +55258,7 @@ module.exports = [
     },
   },
   {
-    word "knacken",
+    word: "knacken",
     translation: "(intransitive) to make a cracking sound, (transitive) to crack, (transitive, figuratively) to crack, (transitive) to pick (a lock), (intransitive, informal) to sleep",
     forms: {
       section_0: [
@@ -55288,7 +55288,7 @@ module.exports = [
     },
   },
   {
-    word "knallen",
+    word: "knallen",
     translation: "to bang, pop, (colloquial) to fire, shoot, (informal) to do something intensely, fire up, (vulgar) To fuck",
     forms: {
       section_0: [
@@ -55318,7 +55318,7 @@ module.exports = [
     },
   },
   {
-    word "knarren",
+    word: "knarren",
     translation: "to creak",
     forms: {
       section_0: [
@@ -55348,7 +55348,7 @@ module.exports = [
     },
   },
   {
-    word "knautschen",
+    word: "knautschen",
     translation: "to squeeze; to crumple",
     forms: {
       section_0: [
@@ -55378,7 +55378,7 @@ module.exports = [
     },
   },
   {
-    word "knechten",
+    word: "knechten",
     translation: "to enslave",
     forms: {
       section_0: [
@@ -55408,7 +55408,7 @@ module.exports = [
     },
   },
   {
-    word "kneifen",
+    word: "kneifen",
     translation: "(transitive or intransitive) to pinch, to squeeze, (intransitive) to chicken out; to back out; to shirk",
     forms: {
       section_0: [
@@ -55438,7 +55438,7 @@ module.exports = [
     },
   },
   {
-    word "kneten",
+    word: "kneten",
     translation: "to knead",
     forms: {
       section_0: [
@@ -55468,11 +55468,11 @@ module.exports = [
     },
   },
   {
-    word "knibbeln",
+    word: "knibbeln",
     translation: "(regional, chiefly western Germany) to scrape with one’s fingernails so as to remove something (eg a price tag)",
   },
   {
-    word "knicken",
+    word: "knicken",
     translation: "(transitive, auxiliary haben) to crease; to fold; to bend (something that is stable, but not hard, eg paper), (intransitive, auxiliary sein) to be creased; to be folded; to be bent",
     forms: {
       section_0: [
@@ -55502,11 +55502,11 @@ module.exports = [
     },
   },
   {
-    word "knieen",
+    word: "knieen",
     translation: "to kneel",
   },
   {
-    word "knien",
+    word: "knien",
     translation: "to kneel",
     forms: {
       section_0: [
@@ -55536,7 +55536,7 @@ module.exports = [
     },
   },
   {
-    word "knipsen",
+    word: "knipsen",
     translation: "to nip; to pinch (particularly so as to pluck or cut off), to perforate (particularly a ticket, so as to invalidate), to photograph",
     forms: {
       section_0: [
@@ -55566,7 +55566,7 @@ module.exports = [
     },
   },
   {
-    word "knirschen",
+    word: "knirschen",
     translation: "(sound) to scrunch, to crunch, (on(e)'(s) teeth) to gnash, to grind",
     forms: {
       section_0: [
@@ -55596,7 +55596,7 @@ module.exports = [
     },
   },
   {
-    word "knistern",
+    word: "knistern",
     translation: "to sizzle; to crackle; to creak; chiefly referring to the sound of fire or of paper being crumpled",
     forms: {
       section_0: [
@@ -55626,7 +55626,7 @@ module.exports = [
     },
   },
   {
-    word "knittern",
+    word: "knittern",
     translation: "to crease, to crumple, to crinkle",
     forms: {
       section_0: [
@@ -55656,19 +55656,19 @@ module.exports = [
     },
   },
   {
-    word "knuddeln",
+    word: "knuddeln",
     translation: "to cuddle",
   },
   {
-    word "knüddeln",
+    word: "knüddeln",
     translation: "(regional, western Germany) to rumple (fabric, paper, etc), (regional, western Germany) to stuff something somewhere (eg clothes in a bag) thereby causing it to rumple",
   },
   {
-    word "knuffen",
+    word: "knuffen",
     translation: "to nudge; to jab; to pinch (usually playfully or even tenderly)",
   },
   {
-    word "knüpfen",
+    word: "knüpfen",
     translation: "to tie",
     forms: {
       section_0: [
@@ -55698,7 +55698,7 @@ module.exports = [
     },
   },
   {
-    word "knüppeln",
+    word: "knüppeln",
     translation: "to bludgeon, to thrash, to hit with a stick, (metal music) describes that a song is defined by a noticeably loud drum beat in a simple and steady uptempo rhythm",
     forms: {
       section_0: [
@@ -55728,7 +55728,7 @@ module.exports = [
     },
   },
   {
-    word "knurren",
+    word: "knurren",
     translation: "to growl",
     forms: {
       section_0: [
@@ -55758,11 +55758,11 @@ module.exports = [
     },
   },
   {
-    word "knuspern",
+    word: "knuspern",
     translation: "to crackle; to crunch (make the sound of crisp food)",
   },
   {
-    word "knutschen",
+    word: "knutschen",
     translation: "(transitive, intransitive or reflexive) to kiss passionately; to neck; to make out; to smooch",
     forms: {
       section_0: [
@@ -55792,11 +55792,11 @@ module.exports = [
     },
   },
   {
-    word "koagulieren",
+    word: "koagulieren",
     translation: "(intransitive, auxiliary 'sein') to coagulate, (transitive, auxiliary 'haben') to coagulate",
   },
   {
-    word "kochen",
+    word: "kochen",
     translation: "(intransitive) to boil, (transitive) to boil (to heat a liquid), (transitive) to boil (cook in boiling water), to cook, to prepare food",
     forms: {
       section_0: [
@@ -55826,11 +55826,11 @@ module.exports = [
     },
   },
   {
-    word "ködern",
+    word: "ködern",
     translation: "to bait",
   },
   {
-    word "kodieren",
+    word: "kodieren",
     translation: "to encode",
     forms: {
       section_0: [
@@ -55860,15 +55860,15 @@ module.exports = [
     },
   },
   {
-    word "koexistieren",
+    word: "koexistieren",
     translation: "to coexist, to co-exist",
   },
   {
-    word "kokeln",
+    word: "kokeln",
     translation: "to handle fire unsafely, to be burnt",
   },
   {
-    word "kokettieren",
+    word: "kokettieren",
     translation: "(with a person) to flirt, (with an idea) to toy, to play, to show off",
     forms: {
       section_0: [
@@ -55898,19 +55898,19 @@ module.exports = [
     },
   },
   {
-    word "kollabieren",
+    word: "kollabieren",
     translation: "to collapse",
   },
   {
-    word "kollationieren",
+    word: "kollationieren",
     translation: "to collate",
   },
   {
-    word "kollern",
+    word: "kollern",
     translation: "to gobble",
   },
   {
-    word "kollidieren",
+    word: "kollidieren",
     translation: "to collide",
     forms: {
       section_0: [
@@ -55940,15 +55940,15 @@ module.exports = [
     },
   },
   {
-    word "kolorieren",
+    word: "kolorieren",
     translation: "(a black and white film or photograph) to colorize",
   },
   {
-    word "kolportieren",
+    word: "kolportieren",
     translation: "(news or information) to spread",
   },
   {
-    word "kombinieren",
+    word: "kombinieren",
     translation: "to combine, to deduct",
     forms: {
       section_0: [
@@ -55978,7 +55978,7 @@ module.exports = [
     },
   },
   {
-    word "kommandieren",
+    word: "kommandieren",
     translation: "to command (be in charge)",
     forms: {
       section_0: [
@@ -56008,7 +56008,7 @@ module.exports = [
     },
   },
   {
-    word "kommen",
+    word: "kommen",
     translation: "to come",
     forms: {
       section_0: [
@@ -56038,7 +56038,7 @@ module.exports = [
     },
   },
   {
-    word "kommentieren",
+    word: "kommentieren",
     translation: "to comment, to comment on",
     forms: {
       section_0: [
@@ -56068,11 +56068,11 @@ module.exports = [
     },
   },
   {
-    word "kommerzialisieren",
+    word: "kommerzialisieren",
     translation: "to commercialize",
   },
   {
-    word "kommunizieren",
+    word: "kommunizieren",
     translation: "to communicate, to exchange information, to communicate, to receive Communion",
     forms: {
       section_0: [
@@ -56102,19 +56102,19 @@ module.exports = [
     },
   },
   {
-    word "kompensieren",
+    word: "kompensieren",
     translation: "to compensate",
   },
   {
-    word "kompilieren",
+    word: "kompilieren",
     translation: "(often pejorative) to compile or assemble information (without eg performing original research), (computing) to compile; to produce assembly or binary code from a program written in a higher-level language",
   },
   {
-    word "komplexieren",
+    word: "komplexieren",
     translation: "(chemistry) To complex (form a complex with)",
   },
   {
-    word "komplizieren",
+    word: "komplizieren",
     translation: "to complicate",
     forms: {
       section_0: [
@@ -56144,7 +56144,7 @@ module.exports = [
     },
   },
   {
-    word "komponieren",
+    word: "komponieren",
     translation: "(music) to compose",
     forms: {
       section_0: [
@@ -56174,19 +56174,19 @@ module.exports = [
     },
   },
   {
-    word "kompostieren",
+    word: "kompostieren",
     translation: "to compost",
   },
   {
-    word "komprimieren",
+    word: "komprimieren",
     translation: "to compress",
   },
   {
-    word "kompromittieren",
+    word: "kompromittieren",
     translation: "(transitive) to compromise",
   },
   {
-    word "kondensieren",
+    word: "kondensieren",
     translation: "to condense (to decrease size or volume)",
     forms: {
       section_0: [
@@ -56216,11 +56216,11 @@ module.exports = [
     },
   },
   {
-    word "konfigurieren",
+    word: "konfigurieren",
     translation: "to configure",
   },
   {
-    word "konfiszieren",
+    word: "konfiszieren",
     translation: "to confiscate",
     forms: {
       section_0: [
@@ -56250,7 +56250,7 @@ module.exports = [
     },
   },
   {
-    word "konfrontieren",
+    word: "konfrontieren",
     translation: "To confront",
     forms: {
       section_0: [
@@ -56280,7 +56280,7 @@ module.exports = [
     },
   },
   {
-    word "konjugieren",
+    word: "konjugieren",
     translation: "to conjugate (list the inflected forms of a verb for each person)",
     forms: {
       section_0: [
@@ -56310,11 +56310,11 @@ module.exports = [
     },
   },
   {
-    word "konkretisieren",
+    word: "konkretisieren",
     translation: "to concrete (to solidify)",
   },
   {
-    word "konkurrieren",
+    word: "konkurrieren",
     translation: "to compete",
     forms: {
       section_0: [
@@ -56344,7 +56344,7 @@ module.exports = [
     },
   },
   {
-    word "können",
+    word: "können",
     translation: "(auxiliary, with an infinitive, past participle: “können”) To be able (to do something); can, (auxiliary, with an infinitive, past participle: “können”) To be allowed (to do something); to be permitted (to do something); may, (transitive, past participle: “gekonnt”) To know how to do (something); to know; to understand; to be able to do (something); to be capable of; can do (something), (intransitive, past participle: “gekonnt”) To be able to do something implied; can, (intransitive, colloquial, usually in negation) to be possible, to make sense",
     forms: {
       section_0: [
@@ -56374,11 +56374,11 @@ module.exports = [
     },
   },
   {
-    word "konnotieren",
+    word: "konnotieren",
     translation: "to connote (to signify beyond principal meaning)",
   },
   {
-    word "konservieren",
+    word: "konservieren",
     translation: "to conserve, to preserve",
     forms: {
       section_0: [
@@ -56408,7 +56408,7 @@ module.exports = [
     },
   },
   {
-    word "konsolidieren",
+    word: "konsolidieren",
     translation: "to consolidate",
     forms: {
       section_0: [
@@ -56438,11 +56438,11 @@ module.exports = [
     },
   },
   {
-    word "konstatieren",
+    word: "konstatieren",
     translation: "to state",
   },
   {
-    word "konstituieren",
+    word: "konstituieren",
     translation: "to constitute",
     forms: {
       section_0: [
@@ -56472,7 +56472,7 @@ module.exports = [
     },
   },
   {
-    word "konstruieren",
+    word: "konstruieren",
     translation: "to design, to construct or fabricate",
     forms: {
       section_0: [
@@ -56502,11 +56502,11 @@ module.exports = [
     },
   },
   {
-    word "konsultieren",
+    word: "konsultieren",
     translation: "to consult",
   },
   {
-    word "konsumieren",
+    word: "konsumieren",
     translation: "to consume",
     forms: {
       section_0: [
@@ -56536,19 +56536,19 @@ module.exports = [
     },
   },
   {
-    word "kontaktieren",
+    word: "kontaktieren",
     translation: "to contact (establish communication with)",
   },
   {
-    word "kontaminieren",
+    word: "kontaminieren",
     translation: "to contaminate",
   },
   {
-    word "konterkarieren",
+    word: "konterkarieren",
     translation: "to thwart",
   },
   {
-    word "kontrahieren",
+    word: "kontrahieren",
     translation: "to contract",
     forms: {
       section_0: [
@@ -56578,7 +56578,7 @@ module.exports = [
     },
   },
   {
-    word "kontrastieren",
+    word: "kontrastieren",
     translation: "to contrast",
     forms: {
       section_0: [
@@ -56608,7 +56608,7 @@ module.exports = [
     },
   },
   {
-    word "kontrollieren",
+    word: "kontrollieren",
     translation: "to control, to check",
     forms: {
       section_0: [
@@ -56638,15 +56638,15 @@ module.exports = [
     },
   },
   {
-    word "konvergieren",
+    word: "konvergieren",
     translation: "converge (to approach each other), (mathematics) converge",
   },
   {
-    word "konvertieren",
+    word: "konvertieren",
     translation: "to convert",
   },
   {
-    word "konzentrieren",
+    word: "konzentrieren",
     translation: "(reflexive) to concentrate (on(e)'(s) mind or attention), (transitive) to concentrate (something)",
     forms: {
       section_0: [
@@ -56676,11 +56676,11 @@ module.exports = [
     },
   },
   {
-    word "konzessionieren",
+    word: "konzessionieren",
     translation: "to franchise, to grant (a company) the right to operate",
   },
   {
-    word "konzipieren",
+    word: "konzipieren",
     translation: "to conceptualise, to design",
     forms: {
       section_0: [
@@ -56710,11 +56710,11 @@ module.exports = [
     },
   },
   {
-    word "kooperieren",
+    word: "kooperieren",
     translation: "to cooperate",
   },
   {
-    word "koordinieren",
+    word: "koordinieren",
     translation: "(to synchronize activities) to coordinate",
     forms: {
       section_0: [
@@ -56744,7 +56744,7 @@ module.exports = [
     },
   },
   {
-    word "köpfen",
+    word: "köpfen",
     translation: "(death) to behead, (soccer) to head",
     forms: {
       section_0: [
@@ -56774,7 +56774,7 @@ module.exports = [
     },
   },
   {
-    word "kopieren",
+    word: "kopieren",
     translation: "to copy",
     forms: {
       section_0: [
@@ -56804,11 +56804,11 @@ module.exports = [
     },
   },
   {
-    word "kopieren und einfügen",
+    word: "kopieren und einfügen",
     translation: "(computing) to copy and paste",
   },
   {
-    word "koppeln",
+    word: "koppeln",
     translation: "To connect or interconnect, To couple or interlink",
     forms: {
       section_0: [
@@ -56838,15 +56838,15 @@ module.exports = [
     },
   },
   {
-    word "koproduzieren",
+    word: "koproduzieren",
     translation: "to coproduce",
   },
   {
-    word "kopulieren",
+    word: "kopulieren",
     translation: "to copulate",
   },
   {
-    word "kören",
+    word: "kören",
     translation: "to choose individual animals for breeding",
     forms: {
       section_0: [
@@ -56876,11 +56876,11 @@ module.exports = [
     },
   },
   {
-    word "korrelieren",
+    word: "korrelieren",
     translation: "To correlate",
   },
   {
-    word "korrespondieren",
+    word: "korrespondieren",
     translation: "(to correlate) to correspond, (to communicate by mail) to correspond",
     forms: {
       section_0: [
@@ -56910,7 +56910,7 @@ module.exports = [
     },
   },
   {
-    word "korrigieren",
+    word: "korrigieren",
     translation: "to correct, (homework or assignment) to mark",
     forms: {
       section_0: [
@@ -56940,7 +56940,7 @@ module.exports = [
     },
   },
   {
-    word "korrodieren",
+    word: "korrodieren",
     translation: "To corrode",
     forms: {
       section_0: [
@@ -56970,11 +56970,11 @@ module.exports = [
     },
   },
   {
-    word "korrumpieren",
+    word: "korrumpieren",
     translation: "to corrupt",
   },
   {
-    word "kosten",
+    word: "kosten",
     translation: "to cost",
     forms: {
       section_0: [
@@ -57004,11 +57004,11 @@ module.exports = [
     },
   },
   {
-    word "koten",
+    word: "koten",
     translation: "(technical or very formal) to defecate",
   },
   {
-    word "kotzen",
+    word: "kotzen",
     translation: "(informal, colloquial) to vomit; to puke",
     forms: {
       section_0: [
@@ -57038,7 +57038,7 @@ module.exports = [
     },
   },
   {
-    word "krabbeln",
+    word: "krabbeln",
     translation: "(intransitive) to crawl (typically, but not always, of a baby or insect), (transitive, auxiliary only haben) to tickle, especially by making fast movements with all fingers of one hand",
     forms: {
       section_0: [
@@ -57068,7 +57068,7 @@ module.exports = [
     },
   },
   {
-    word "krachen",
+    word: "krachen",
     translation: "to crash (collide, fall or come down violently), to crack, creak",
     forms: {
       section_0: [
@@ -57098,7 +57098,7 @@ module.exports = [
     },
   },
   {
-    word "krächzen",
+    word: "krächzen",
     translation: "(intransitive) to croak; to caw",
     forms: {
       section_0: [
@@ -57128,7 +57128,7 @@ module.exports = [
     },
   },
   {
-    word "krähen",
+    word: "krähen",
     translation: "to crow",
     forms: {
       section_0: [
@@ -57158,7 +57158,7 @@ module.exports = [
     },
   },
   {
-    word "krakeelen",
+    word: "krakeelen",
     translation: "to bawl; to shout (usually aggressively)",
     forms: {
       section_0: [
@@ -57188,11 +57188,11 @@ module.exports = [
     },
   },
   {
-    word "krakeln",
+    word: "krakeln",
     translation: "to scrawl (write irregularly)",
   },
   {
-    word "krallen",
+    word: "krallen",
     translation: "(reflexive) to hold on or cling, especially with claws, nails or fingers, (transitive) to dig fingers or nails into something, to claw at, (transitive) to bend on(e)'(s) fingers into a claw shape, (transitive, informal) to steal or seize",
     forms: {
       section_0: [
@@ -57222,7 +57222,7 @@ module.exports = [
     },
   },
   {
-    word "kramen",
+    word: "kramen",
     translation: "(colloquial) to rummage around, (Switzerland, colloquial) to do a bit of shopping",
     forms: {
       section_0: [
@@ -57252,7 +57252,7 @@ module.exports = [
     },
   },
   {
-    word "kränkeln",
+    word: "kränkeln",
     translation: "to be sickly",
     forms: {
       section_0: [
@@ -57282,15 +57282,15 @@ module.exports = [
     },
   },
   {
-    word "kränken",
+    word: "kränken",
     translation: "to insult, to offend, to hurt someon(e)'(s) feelings, to wound (psychologically), belittle",
   },
   {
-    word "krankmelden",
+    word: "krankmelden",
     translation: "(reflexive or transitive) to report sick",
   },
   {
-    word "kratzen",
+    word: "kratzen",
     translation: "to scratch",
     forms: {
       section_0: [
@@ -57320,7 +57320,7 @@ module.exports = [
     },
   },
   {
-    word "kraulen",
+    word: "kraulen",
     translation: "to fondle, to tickle",
     forms: {
       section_0: [
@@ -57350,7 +57350,7 @@ module.exports = [
     },
   },
   {
-    word "kräuseln",
+    word: "kräuseln",
     translation: "to crimp, to curl, to ripple, to ruffle",
     forms: {
       section_0: [
@@ -57380,11 +57380,11 @@ module.exports = [
     },
   },
   {
-    word "kreieren",
+    word: "kreieren",
     translation: "to create",
   },
   {
-    word "kreischen",
+    word: "kreischen",
     translation: "to squeal, to shriek, to screech, (birdwatching) to squawk",
     forms: {
       section_0: [
@@ -57414,7 +57414,7 @@ module.exports = [
     },
   },
   {
-    word "kreisen",
+    word: "kreisen",
     translation: "to circle, to wheel, (astronomy) to revolve",
     forms: {
       section_0: [
@@ -57444,23 +57444,23 @@ module.exports = [
     },
   },
   {
-    word "kreissen",
+    word: "kreissen",
     translation: "Switzerland and Liechtenstein standard spelling of kreißen",
   },
   {
-    word "kreißen",
+    word: "kreißen",
     translation: "(archaic) to moan, groan in pain, (childbirth) to wail or cry out in labour",
   },
   {
-    word "kremen",
+    word: "kremen",
     translation: "Alternative spelling of cremen",
   },
   {
-    word "kremieren",
+    word: "kremieren",
     translation: "to cremate",
   },
   {
-    word "krepieren",
+    word: "krepieren",
     translation: "to die miserably, croak",
     forms: {
       section_0: [
@@ -57490,7 +57490,7 @@ module.exports = [
     },
   },
   {
-    word "kreuzen",
+    word: "kreuzen",
     translation: "to cross, to crossbreed",
     forms: {
       section_0: [
@@ -57520,7 +57520,7 @@ module.exports = [
     },
   },
   {
-    word "kreuzigen",
+    word: "kreuzigen",
     translation: "to crucify",
     forms: {
       section_0: [
@@ -57550,7 +57550,7 @@ module.exports = [
     },
   },
   {
-    word "kribbeln",
+    word: "kribbeln",
     translation: "(body part; something on the skin) to prickle; to tickle, (person) to run about busily; to be restless; to sit down and stand up often, (rare, drink) to sparkle",
     forms: {
       section_0: [
@@ -57580,7 +57580,7 @@ module.exports = [
     },
   },
   {
-    word "kriechen",
+    word: "kriechen",
     translation: "(intransitive) to creep; to crawl",
     forms: {
       section_0: [
@@ -57610,7 +57610,7 @@ module.exports = [
     },
   },
   {
-    word "kriegen",
+    word: "kriegen",
     translation: "(chiefly colloquial) to get, (chiefly colloquial) to catch, to come down with, (dated, rare) to war",
     forms: {
       section_0: [
@@ -57640,11 +57640,11 @@ module.exports = [
     },
   },
   {
-    word "kriminalisieren",
+    word: "kriminalisieren",
     translation: "to criminalize",
   },
   {
-    word "kristallisieren",
+    word: "kristallisieren",
     translation: "to crystallize, to solidify (become hard)",
     forms: {
       section_0: [
@@ -57674,7 +57674,7 @@ module.exports = [
     },
   },
   {
-    word "kritisieren",
+    word: "kritisieren",
     translation: "to criticize, to criticise",
     forms: {
       section_0: [
@@ -57704,7 +57704,7 @@ module.exports = [
     },
   },
   {
-    word "kritzeln",
+    word: "kritzeln",
     translation: "to scribble (write carelessly), to scrawl (write irregularly), to write in very small letters",
     forms: {
       section_0: [
@@ -57734,7 +57734,7 @@ module.exports = [
     },
   },
   {
-    word "krönen",
+    word: "krönen",
     translation: "to crown",
     forms: {
       section_0: [
@@ -57764,19 +57764,19 @@ module.exports = [
     },
   },
   {
-    word "krosen",
+    word: "krosen",
     translation: "(colloquial, regional, western Germany) Alternative form of krösen",
   },
   {
-    word "krösen",
+    word: "krösen",
     translation: "(colloquial, regional, western Germany) to potter; to tamper; to move things back and forth (about the house); to be busy (with minor tasks), (colloquial, regional, western Germany) to rummage",
   },
   {
-    word "kucken",
+    word: "kucken",
     translation: "Alternative spelling of gucken",
   },
   {
-    word "kugeln",
+    word: "kugeln",
     translation: "To roll or bowl",
     forms: {
       section_0: [
@@ -57806,7 +57806,7 @@ module.exports = [
     },
   },
   {
-    word "kühlen",
+    word: "kühlen",
     translation: "to cool, to refrigerate",
     forms: {
       section_0: [
@@ -57836,7 +57836,7 @@ module.exports = [
     },
   },
   {
-    word "kullern",
+    word: "kullern",
     translation: "to roll slowly, to roll back and forth (eg on a trembling surface)",
     forms: {
       section_0: [
@@ -57866,7 +57866,7 @@ module.exports = [
     },
   },
   {
-    word "kultivieren",
+    word: "kultivieren",
     translation: "to cultivate",
     forms: {
       section_0: [
@@ -57896,7 +57896,7 @@ module.exports = [
     },
   },
   {
-    word "kümmern",
+    word: "kümmern",
     translation: "(reflexive) to take care, to look after, (transitive) to grieve, to afflict, to trouble, to concern",
     forms: {
       section_0: [
@@ -57926,15 +57926,15 @@ module.exports = [
     },
   },
   {
-    word "kumulieren",
+    word: "kumulieren",
     translation: "To cumulate",
   },
   {
-    word "künden",
+    word: "künden",
     translation: "(transitive) to announce, (intransitive) to tell (of), to bear witness (to)",
   },
   {
-    word "kundgeben",
+    word: "kundgeben",
     translation: "to announce",
     forms: {
       section_0: [
@@ -57964,7 +57964,7 @@ module.exports = [
     },
   },
   {
-    word "kündigen",
+    word: "kündigen",
     translation: "can, sack (to fire or terminate an employee), quit (to quit on(e)'(s) job or position in a firm), cancel (a contract)",
     forms: {
       section_0: [
@@ -57994,11 +57994,11 @@ module.exports = [
     },
   },
   {
-    word "kupieren",
+    word: "kupieren",
     translation: "(removal of part of an anima(l)'(s) tail or ears) to dock",
   },
   {
-    word "kurbeln",
+    word: "kurbeln",
     translation: "to crank",
     forms: {
       section_0: [
@@ -58028,7 +58028,7 @@ module.exports = [
     },
   },
   {
-    word "küren",
+    word: "küren",
     translation: "(formal, with zu) to elect someone (something honourable); to present someone (with an honour), (archaic or poetic) to choose; to elect (in general)",
     forms: {
       section_0: [
@@ -58058,7 +58058,7 @@ module.exports = [
     },
   },
   {
-    word "kurieren",
+    word: "kurieren",
     translation: "To cure (return to health)",
     forms: {
       section_0: [
@@ -58088,7 +58088,7 @@ module.exports = [
     },
   },
   {
-    word "kürzen",
+    word: "kürzen",
     translation: "to shorten, to abbreviate, (literature) to abridge, (mathematics) to cancel (a fraction, equation or term)",
     forms: {
       section_0: [
@@ -58118,7 +58118,7 @@ module.exports = [
     },
   },
   {
-    word "kuscheln",
+    word: "kuscheln",
     translation: "(intransitive, rarely transitive) to cuddle",
     forms: {
       section_0: [
@@ -58148,7 +58148,7 @@ module.exports = [
     },
   },
   {
-    word "küssen",
+    word: "küssen",
     translation: "to kiss, to make out",
     forms: {
       section_0: [
@@ -58178,19 +58178,19 @@ module.exports = [
     },
   },
   {
-    word "l.",
+    word: "l.",
     translation: "Abbreviation of lies and of the Latin lege (imperatives both meaning “read”)",
   },
   {
-    word "labern",
+    word: "labern",
     translation: "(obsolete, except possibly regionally) to slurp; to drink noisily, (informal) to talk or speak unnecessarily lengthily; to talk idly; to engage in unsubstantiated talk; to babble, (colloquial) to chat; to talk among each other (usually about light topics); the verb retains a certain nuance, but becomes rather neutral",
   },
   {
-    word "labialisieren",
+    word: "labialisieren",
     translation: "to labialize",
   },
   {
-    word "lächeln",
+    word: "lächeln",
     translation: "to smile",
     forms: {
       section_0: [
@@ -58220,7 +58220,7 @@ module.exports = [
     },
   },
   {
-    word "lachen",
+    word: "lachen",
     translation: "to laugh",
     forms: {
       section_0: [
@@ -58250,11 +58250,11 @@ module.exports = [
     },
   },
   {
-    word "lacken",
+    word: "lacken",
     translation: "(transitive) to lacquer",
   },
   {
-    word "lackieren",
+    word: "lackieren",
     translation: "to lacquer",
     forms: {
       section_0: [
@@ -58284,7 +58284,7 @@ module.exports = [
     },
   },
   {
-    word "laden",
+    word: "laden",
     translation: "past participle of lade",
     forms: {
       section_0: [
@@ -58314,7 +58314,7 @@ module.exports = [
     },
   },
   {
-    word "lagern",
+    word: "lagern",
     translation: "to store",
     forms: {
       section_0: [
@@ -58344,7 +58344,7 @@ module.exports = [
     },
   },
   {
-    word "lähmen",
+    word: "lähmen",
     translation: "to paralyze",
     forms: {
       section_0: [
@@ -58374,7 +58374,7 @@ module.exports = [
     },
   },
   {
-    word "lahmlegen",
+    word: "lahmlegen",
     translation: "(transitive) to bring to a standstill",
     forms: {
       section_0: [
@@ -58404,11 +58404,11 @@ module.exports = [
     },
   },
   {
-    word "laichen",
+    word: "laichen",
     translation: "(zoology) to spawn (to deposit numerous eggs in water)",
   },
   {
-    word "lallen",
+    word: "lallen",
     translation: "to babble",
     forms: {
       section_0: [
@@ -58438,15 +58438,15 @@ module.exports = [
     },
   },
   {
-    word "lamentieren",
+    word: "lamentieren",
     translation: "to lament",
   },
   {
-    word "lammen",
+    word: "lammen",
     translation: "to lamb",
   },
   {
-    word "lancieren",
+    word: "lancieren",
     translation: "to launch",
     forms: {
       section_0: [
@@ -58476,7 +58476,7 @@ module.exports = [
     },
   },
   {
-    word "landen",
+    word: "landen",
     translation: "(intransitive) To (arrive on) land, notably from the air (for birds, airplanes) and to a lesser extent by ship, (transitive) To land, bring an aircraft or other vehicle (down) to land, (transitive) To turn wild land (especially marshes) into arable land",
     forms: {
       section_0: [
@@ -58506,7 +58506,7 @@ module.exports = [
     },
   },
   {
-    word "langen",
+    word: "langen",
     translation: "(colloquial, southern) to reach for something, to grab, (colloquial, southern) to pass, to hand something to someone, (colloquial) to suffice, to be enough",
     forms: {
       section_0: [
@@ -58536,11 +58536,11 @@ module.exports = [
     },
   },
   {
-    word "langmachen",
+    word: "langmachen",
     translation: "(reflexive, somewhat informal) to stretch (in order to reach something), (reflexive, colloquial) to lie down, (transitive, colloquial) to scold harshly",
   },
   {
-    word "langweilen",
+    word: "langweilen",
     translation: "to bore (inspire boredom in somebody)",
     forms: {
       section_0: [
@@ -58570,11 +58570,11 @@ module.exports = [
     },
   },
   {
-    word "läppern",
+    word: "läppern",
     translation: "(reflexive, somewhat informal) to mount up from small individual amounts to a large sum",
   },
   {
-    word "lärmen",
+    word: "lärmen",
     translation: "to make lots of annoying noise, to make a racket; to din",
     forms: {
       section_0: [
@@ -58604,7 +58604,7 @@ module.exports = [
     },
   },
   {
-    word "lassen",
+    word: "lassen",
     translation: "to weld",
     forms: {
       section_0: [
@@ -58634,7 +58634,7 @@ module.exports = [
     },
   },
   {
-    word "lasten",
+    word: "lasten",
     translation: "(transitive, archaic) to emburden with a load, (transitive, archaic) to charge with a responsibility",
     forms: {
       section_0: [
@@ -58664,11 +58664,11 @@ module.exports = [
     },
   },
   {
-    word "latinisieren",
+    word: "latinisieren",
     translation: "to Latinize",
   },
   {
-    word "lauern",
+    word: "lauern",
     translation: "lurk; to follow, watch, or spy in hiding or in the background, to lie in ambush or in wait",
     forms: {
       section_0: [
@@ -58698,7 +58698,7 @@ module.exports = [
     },
   },
   {
-    word "laufen",
+    word: "laufen",
     translation: "(transitive or intransitive) to walk; to jog; to run (to move on foot; either at a normal or an increased speed), (intransitive, of a fluid) to flow; to leak; to run, (intransitive, of an event) to be in progress; to run, (intransitive, computing) to run, to execute (a program), (intransitive, of an event) to be in order; to work; to function, (intransitive, of time) to pass; to flow",
     forms: {
       section_0: [
@@ -58728,11 +58728,11 @@ module.exports = [
     },
   },
   {
-    word "laufen lassen",
+    word: "laufen lassen",
     translation: "(idiomatic) to release (literally: 'to let run'), to leave running",
   },
   {
-    word "lauschen",
+    word: "lauschen",
     translation: "to eavesdrop, to listen (to wait for a sound)",
     forms: {
       section_0: [
@@ -58762,11 +58762,11 @@ module.exports = [
     },
   },
   {
-    word "lauten",
+    word: "lauten",
     translation: "To sound, To read (have a certain wording)",
   },
   {
-    word "läuten",
+    word: "läuten",
     translation: "to ring: to make or to produce sound, to toll: to produce the sound of a bell",
     forms: {
       section_0: [
@@ -58796,7 +58796,7 @@ module.exports = [
     },
   },
   {
-    word "lavieren",
+    word: "lavieren",
     translation: "(nautical) to tack (manoeuvre a ship through strong winds), (figuratively) to manoeuvre so as to avoid difficulties",
     forms: {
       section_0: [
@@ -58826,11 +58826,11 @@ module.exports = [
     },
   },
   {
-    word "leaken",
+    word: "leaken",
     translation: "to leak (to reveal secret information to the public)",
   },
   {
-    word "leben",
+    word: "leben",
     translation: "(intransitive) to live, to be alive, (intransitive) to dwell, to reside, (intransitive) to live, to exist, to occupy a place, (intransitive, hyperbolic) To cope with, to live with, to deal with",
     forms: {
       section_0: [
@@ -58860,15 +58860,15 @@ module.exports = [
     },
   },
   {
-    word "leben und leben lassen",
+    word: "leben und leben lassen",
     translation: "live and let live (be tolerant)",
   },
   {
-    word "leben wie Gott in Frankreich",
+    word: "leben wie Gott in Frankreich",
     translation: "(idiomatic) to live in luxury (literally: to live like God in France)",
   },
   {
-    word "lecken",
+    word: "lecken",
     translation: "to lick",
     forms: {
       section_0: [
@@ -58898,7 +58898,7 @@ module.exports = [
     },
   },
   {
-    word "leeren",
+    word: "leeren",
     translation: "to empty",
     forms: {
       section_0: [
@@ -58928,7 +58928,7 @@ module.exports = [
     },
   },
   {
-    word "leerlaufen",
+    word: "leerlaufen",
     translation: "(intransitive) to empty, (intransitive) to idle, to run at idle",
     forms: {
       section_0: [
@@ -58958,7 +58958,7 @@ module.exports = [
     },
   },
   {
-    word "legalisieren",
+    word: "legalisieren",
     translation: "to legalize",
     forms: {
       section_0: [
@@ -58988,7 +58988,7 @@ module.exports = [
     },
   },
   {
-    word "legen",
+    word: "legen",
     translation: "to empty",
     forms: {
       section_0: [
@@ -59018,7 +59018,7 @@ module.exports = [
     },
   },
   {
-    word "legieren",
+    word: "legieren",
     translation: "To alloy, To thicken",
     forms: {
       section_0: [
@@ -59048,7 +59048,7 @@ module.exports = [
     },
   },
   {
-    word "lehnen",
+    word: "lehnen",
     translation: "(intransitive or reflexive) to lean, (transitive) to lean something",
     forms: {
       section_0: [
@@ -59078,7 +59078,7 @@ module.exports = [
     },
   },
   {
-    word "lehren",
+    word: "lehren",
     translation: "(transitive or intransitive) to teach a class, a subject; to be a teacher, (formal, transitive) to teach somebody something",
     forms: {
       section_0: [
@@ -59108,7 +59108,7 @@ module.exports = [
     },
   },
   {
-    word "leiden",
+    word: "leiden",
     translation: "(transitive) to lead, to take the lead, (transitive) to guide, (intransitive) to lead, to go, to follow a path to",
     forms: {
       section_0: [
@@ -59138,7 +59138,7 @@ module.exports = [
     },
   },
   {
-    word "leihen",
+    word: "leihen",
     translation: "(transitive) to lend; (US) to loan, (transitive) to borrow",
     forms: {
       section_0: [
@@ -59168,7 +59168,7 @@ module.exports = [
     },
   },
   {
-    word "leimen",
+    word: "leimen",
     translation: "to glue",
     forms: {
       section_0: [
@@ -59198,7 +59198,7 @@ module.exports = [
     },
   },
   {
-    word "leisten",
+    word: "leisten",
     translation: "to perform, (reflexive) to afford",
     forms: {
       section_0: [
@@ -59228,7 +59228,7 @@ module.exports = [
     },
   },
   {
-    word "leiten",
+    word: "leiten",
     translation: "to lead, to manage (an organization)",
     forms: {
       section_0: [
@@ -59258,7 +59258,7 @@ module.exports = [
     },
   },
   {
-    word "lenken",
+    word: "lenken",
     translation: "to steer, drive, to navigate, guide, to regulate",
     forms: {
       section_0: [
@@ -59288,7 +59288,7 @@ module.exports = [
     },
   },
   {
-    word "lernen",
+    word: "lernen",
     translation: "(intransitive, transitive) to learn, to study (revise/review materials), (intransitive) to train something, (dialectal, with dative) to teach",
     forms: {
       section_0: [
@@ -59318,7 +59318,7 @@ module.exports = [
     },
   },
   {
-    word "lesen",
+    word: "lesen",
     translation: "third-person plural preterite subjunctive of ler",
     forms: {
       section_0: [
@@ -59348,7 +59348,7 @@ module.exports = [
     },
   },
   {
-    word "leuchten",
+    word: "leuchten",
     translation: "to shine",
     forms: {
       section_0: [
@@ -59378,7 +59378,7 @@ module.exports = [
     },
   },
   {
-    word "leugnen",
+    word: "leugnen",
     translation: "to deny",
     forms: {
       section_0: [
@@ -59408,7 +59408,7 @@ module.exports = [
     },
   },
   {
-    word "lichten",
+    word: "lichten",
     translation: "to raise, to lift up, to empty out",
     forms: {
       section_0: [
@@ -59438,11 +59438,11 @@ module.exports = [
     },
   },
   {
-    word "lieb haben",
+    word: "lieb haben",
     translation: "(somewhat informal) to love",
   },
   {
-    word "liebäugeln",
+    word: "liebäugeln",
     translation: "(with an idea or thing) to flirt, to have on(e)'(s) eye on, to toy, (with a person) to make eyes at",
     forms: {
       section_0: [
@@ -59472,11 +59472,11 @@ module.exports = [
     },
   },
   {
-    word "Liebe machen",
+    word: "Liebe machen",
     translation: "make love (to engage in sexual intercourse)",
   },
   {
-    word "lieben",
+    word: "lieben",
     translation: "(usually transitive, sometimes intransitive) to love, to have a strong affection for (someone or something), (reflexive) to love one another, (reflexive, poetic) to make love, to have sex",
     forms: {
       section_0: [
@@ -59506,11 +59506,11 @@ module.exports = [
     },
   },
   {
-    word "liebhaben",
+    word: "liebhaben",
     translation: "Alternative spelling of lieb haben",
   },
   {
-    word "liefern",
+    word: "liefern",
     translation: "(goods) to supply (provide, make available for use), (crops) to yield (produce outcome), (information) to research, to read up on something, (battle, duel, war) to fight",
     forms: {
       section_0: [
@@ -59540,7 +59540,7 @@ module.exports = [
     },
   },
   {
-    word "liegen",
+    word: "liegen",
     translation: "(intransitive) to lie (to tell lies)",
     forms: {
       section_0: [
@@ -59570,23 +59570,23 @@ module.exports = [
     },
   },
   {
-    word "liegenlassen",
+    word: "liegenlassen",
     translation: "to misplace, to leave behind",
   },
   {
-    word "liieren",
+    word: "liieren",
     translation: "(reflexive, with someone) to ally, to associate, to establish a romantic relationship, to marry",
   },
   {
-    word "liken",
+    word: "liken",
     translation: "(transitive, followed by to or unto) To compare; to state that (something) is like (something else)",
   },
   {
-    word "limitieren",
+    word: "limitieren",
     translation: "to limit",
   },
   {
-    word "lindern",
+    word: "lindern",
     translation: "to alleviate, to ease, to relieve",
     forms: {
       section_0: [
@@ -59616,11 +59616,11 @@ module.exports = [
     },
   },
   {
-    word "linken",
+    word: "linken",
     translation: "deceive",
   },
   {
-    word "linsen",
+    word: "linsen",
     translation: "to peek",
     forms: {
       section_0: [
@@ -59650,7 +59650,7 @@ module.exports = [
     },
   },
   {
-    word "liquidieren",
+    word: "liquidieren",
     translation: "to liquidate",
     forms: {
       section_0: [
@@ -59680,7 +59680,7 @@ module.exports = [
     },
   },
   {
-    word "lispeln",
+    word: "lispeln",
     translation: "to lisp",
     forms: {
       section_0: [
@@ -59710,15 +59710,15 @@ module.exports = [
     },
   },
   {
-    word "listen",
+    word: "listen",
     translation: "(intransitive) To pay attention to a sound or speech, (intransitive) To expect or wait for a sound, such as a signal, (intransitive) To accept advice or obey instruction; to agree or assent, (transitive, archaic) To hear (something or someone), to pay attention to",
   },
   {
-    word "lizenzieren",
+    word: "lizenzieren",
     translation: "to license",
   },
   {
-    word "loben",
+    word: "loben",
     translation: "to praise",
     forms: {
       section_0: [
@@ -59748,7 +59748,7 @@ module.exports = [
     },
   },
   {
-    word "lochen",
+    word: "lochen",
     translation: "to punch (holes)",
     forms: {
       section_0: [
@@ -59778,7 +59778,7 @@ module.exports = [
     },
   },
   {
-    word "locken",
+    word: "locken",
     translation: "(Scotland, Northern England or obsolete) past participle of lock",
     forms: {
       section_0: [
@@ -59808,7 +59808,7 @@ module.exports = [
     },
   },
   {
-    word "lockern",
+    word: "lockern",
     translation: "to loosen, to ease, to relax",
     forms: {
       section_0: [
@@ -59838,7 +59838,7 @@ module.exports = [
     },
   },
   {
-    word "lodern",
+    word: "lodern",
     translation: "to blaze; to flare (fire)",
     forms: {
       section_0: [
@@ -59868,7 +59868,7 @@ module.exports = [
     },
   },
   {
-    word "löffeln",
+    word: "löffeln",
     translation: "to spoon (eat or scoop with a spoon)",
     forms: {
       section_0: [
@@ -59898,15 +59898,15 @@ module.exports = [
     },
   },
   {
-    word "logieren",
+    word: "logieren",
     translation: "to lodge",
   },
   {
-    word "lohnen",
+    word: "lohnen",
     translation: "(reflexive) to be worthwhile, (reflexive) to pay off",
   },
   {
-    word "lokalisieren",
+    word: "lokalisieren",
     translation: "to localize",
     forms: {
       section_0: [
@@ -59936,7 +59936,7 @@ module.exports = [
     },
   },
   {
-    word "löschen",
+    word: "löschen",
     translation: "(transitive) to extinguish (fire), (transitive) to satisfy (thirst), (transitive) to delete, to erase (remembrance, memory, data)",
     forms: {
       section_0: [
@@ -59966,11 +59966,11 @@ module.exports = [
     },
   },
   {
-    word "losen",
+    word: "losen",
     translation: "to draw lots; to draw straws; to toss up",
   },
   {
-    word "lösen",
+    word: "lösen",
     translation: "(transitive) to loose; to loosen; to detach; to remove, (transitive) to separate, (transitive) to cast off; to remove, (transitive, of a problem, puzzle, question, conflict, figuratively) to solve; to resolve; to answer, (reflexive) to come loose, (reflexive) to dissolve, (of a ticket) to buy, (transitive) to release; to undo; to untie; to ease, (transitive, of a relationship, figuratively) to dissolve; to disband; to break up; to end",
     forms: {
       section_0: [
@@ -60000,7 +60000,7 @@ module.exports = [
     },
   },
   {
-    word "losgeben",
+    word: "losgeben",
     translation: "to release, to set free",
     forms: {
       section_0: [
@@ -60030,7 +60030,7 @@ module.exports = [
     },
   },
   {
-    word "losgehen",
+    word: "losgehen",
     translation: "to leave, to start, to go off",
     forms: {
       section_0: [
@@ -60060,7 +60060,7 @@ module.exports = [
     },
   },
   {
-    word "loslassen",
+    word: "loslassen",
     translation: "to let loose, let go (physically or emotionally)",
     forms: {
       section_0: [
@@ -60090,7 +60090,7 @@ module.exports = [
     },
   },
   {
-    word "loslegen",
+    word: "loslegen",
     translation: "(intransitive, colloquial) To start forcefully",
     forms: {
       section_0: [
@@ -60120,11 +60120,11 @@ module.exports = [
     },
   },
   {
-    word "losprügeln",
+    word: "losprügeln",
     translation: "to start beating, thrashing",
   },
   {
-    word "löten",
+    word: "löten",
     translation: "to solder",
     forms: {
       section_0: [
@@ -60154,7 +60154,7 @@ module.exports = [
     },
   },
   {
-    word "lüften",
+    word: "lüften",
     translation: "to air, to ventilate",
     forms: {
       section_0: [
@@ -60184,7 +60184,7 @@ module.exports = [
     },
   },
   {
-    word "lügen",
+    word: "lügen",
     translation: "(intransitive) to tell a lie; to lie (to intentionally give false information), (intransitive, less often) to give false information (unintentionally)",
     forms: {
       section_0: [
@@ -60214,7 +60214,7 @@ module.exports = [
     },
   },
   {
-    word "lullen",
+    word: "lullen",
     translation: "(transitive) To talk/tell nonsense, (transitive) To mumble, (intransitive) To be occupied uttering one of the above noises, (intransitive) To loiter, waste time, hang around unproductively, (intransitive) To be weak / useless",
     forms: {
       section_0: [
@@ -60244,7 +60244,7 @@ module.exports = [
     },
   },
   {
-    word "lutschen",
+    word: "lutschen",
     translation: "to suck; to keep something in on(e)'(s) mouth while licking it constantly, as done with lollipops or hard candies",
     forms: {
       section_0: [
@@ -60274,7 +60274,7 @@ module.exports = [
     },
   },
   {
-    word "lynchen",
+    word: "lynchen",
     translation: "to lynch, to kill someone (in a mob or crowd)",
     forms: {
       section_0: [
@@ -60304,7 +60304,7 @@ module.exports = [
     },
   },
   {
-    word "machen",
+    word: "machen",
     translation: "(transitive) to make; to produce; to create an object, arrangement, situation etc, (transitive) to take (a photo), (transitive) to prepare (eg food, drinks), (transitive, informal) to do (to perform an action), (transitive, colloquial) to matter (only impersonally), (transitive, informal, colloquial) to come to; to total; to cost (prices), (transitive, informal, colloquial) to earn; to receive or create profit",
     forms: {
       section_0: [
@@ -60334,15 +60334,15 @@ module.exports = [
     },
   },
   {
-    word "macht nichts",
+    word: "macht nichts",
     translation: "never mind, it does(n)'(t) matter (it is not important)",
   },
   {
-    word "madigmachen",
+    word: "madigmachen",
     translation: "(somewhat informal) to put someone off something; to spoil something for someone, (somewhat informal) to try to talk someone out of something for selfish reasons",
   },
   {
-    word "magnetisieren",
+    word: "magnetisieren",
     translation: "To magnetize / magnetise",
     forms: {
       section_0: [
@@ -60372,7 +60372,7 @@ module.exports = [
     },
   },
   {
-    word "mähen",
+    word: "mähen",
     translation: "to mow",
     forms: {
       section_0: [
@@ -60402,7 +60402,7 @@ module.exports = [
     },
   },
   {
-    word "mahlen",
+    word: "mahlen",
     translation: "(transitive or intransitive) to grind",
     forms: {
       section_0: [
@@ -60432,7 +60432,7 @@ module.exports = [
     },
   },
   {
-    word "mahnen",
+    word: "mahnen",
     translation: "to urge (someone) to do a specific, necessary task, to beg fervidly, to warn (someone) of (something) emphatically, to remind pressingly, admonish",
     forms: {
       section_0: [
@@ -60462,11 +60462,11 @@ module.exports = [
     },
   },
   {
-    word "mailen",
+    word: "mailen",
     translation: "to email, e-mail",
   },
   {
-    word "mäkeln",
+    word: "mäkeln",
     translation: "(intransitive, with an + dative) to nag; to find fault with",
     forms: {
       section_0: [
@@ -60496,7 +60496,7 @@ module.exports = [
     },
   },
   {
-    word "malen",
+    word: "malen",
     translation: "to grind",
     forms: {
       section_0: [
@@ -60526,11 +60526,11 @@ module.exports = [
     },
   },
   {
-    word "malmen",
+    word: "malmen",
     translation: "(rare) to grind loudly (the teeth, for example as part of the process of eating or as bruxism)",
   },
   {
-    word "malochen",
+    word: "malochen",
     translation: "to drudge, labour",
     forms: {
       section_0: [
@@ -60560,7 +60560,7 @@ module.exports = [
     },
   },
   {
-    word "malträtieren",
+    word: "malträtieren",
     translation: "(chiefly informal) to mistreat something (use or treat with little care), (informal, humorous, otherwise archaic) to abuse; to maltreat someone",
     forms: {
       section_0: [
@@ -60590,11 +60590,11 @@ module.exports = [
     },
   },
   {
-    word "mampfen",
+    word: "mampfen",
     translation: "(colloquial) to munch",
   },
   {
-    word "managen",
+    word: "managen",
     translation: "to manage (organise)",
     forms: {
       section_0: [
@@ -60624,7 +60624,7 @@ module.exports = [
     },
   },
   {
-    word "mangeln",
+    word: "mangeln",
     translation: "to lack",
     forms: {
       section_0: [
@@ -60654,7 +60654,7 @@ module.exports = [
     },
   },
   {
-    word "manipulieren",
+    word: "manipulieren",
     translation: "to manipulate",
     forms: {
       section_0: [
@@ -60684,7 +60684,7 @@ module.exports = [
     },
   },
   {
-    word "manövrieren",
+    word: "manövrieren",
     translation: "to maneuver",
     forms: {
       section_0: [
@@ -60714,11 +60714,11 @@ module.exports = [
     },
   },
   {
-    word "marinieren",
+    word: "marinieren",
     translation: "to marinate",
   },
   {
-    word "markieren",
+    word: "markieren",
     translation: "to mark (indicate), (social networking) to tag (to mention a friend to notify)",
     forms: {
       section_0: [
@@ -60748,11 +60748,11 @@ module.exports = [
     },
   },
   {
-    word "marodieren",
+    word: "marodieren",
     translation: "(intransitive) to maraud",
   },
   {
-    word "marschieren",
+    word: "marschieren",
     translation: "to march (to walk with others in a column, in step), to march (to walk taking long, regular strides)",
     forms: {
       section_0: [
@@ -60782,7 +60782,7 @@ module.exports = [
     },
   },
   {
-    word "martern",
+    word: "martern",
     translation: "to torture, to martyr",
     forms: {
       section_0: [
@@ -60812,11 +60812,11 @@ module.exports = [
     },
   },
   {
-    word "Maske machen",
+    word: "Maske machen",
     translation: "(film production or theater) to make-up (an actor), to perform the activity of an make-up artist",
   },
   {
-    word "maskieren",
+    word: "maskieren",
     translation: "(transitive) to mask",
     forms: {
       section_0: [
@@ -60846,11 +60846,11 @@ module.exports = [
     },
   },
   {
-    word "massakrieren",
+    word: "massakrieren",
     translation: "to massacre",
   },
   {
-    word "massieren",
+    word: "massieren",
     translation: "(transitive) to massage, (transitive) to mass, concentrate",
     forms: {
       section_0: [
@@ -60880,7 +60880,7 @@ module.exports = [
     },
   },
   {
-    word "mästen",
+    word: "mästen",
     translation: "to fatten",
     forms: {
       section_0: [
@@ -60910,15 +60910,15 @@ module.exports = [
     },
   },
   {
-    word "masturbieren",
+    word: "masturbieren",
     translation: "masturbate (to masturbate)",
   },
   {
-    word "materialisieren",
+    word: "materialisieren",
     translation: "to materialize, to materialise (UK)",
   },
   {
-    word "mauern",
+    word: "mauern",
     translation: "to build a wall, to lay bricks",
     forms: {
       section_0: [
@@ -60948,11 +60948,11 @@ module.exports = [
     },
   },
   {
-    word "maximieren",
+    word: "maximieren",
     translation: "to maximize",
   },
   {
-    word "meckern",
+    word: "meckern",
     translation: "to bleat (sound of a goat), to moan, grouse, grump, bitch, beef, gripe",
     forms: {
       section_0: [
@@ -60982,11 +60982,11 @@ module.exports = [
     },
   },
   {
-    word "meditieren",
+    word: "meditieren",
     translation: "to meditate",
   },
   {
-    word "mehren",
+    word: "mehren",
     translation: "(transitive) to increase, (reflexive) to increase",
     forms: {
       section_0: [
@@ -61016,7 +61016,7 @@ module.exports = [
     },
   },
   {
-    word "meiden",
+    word: "meiden",
     translation: "(transitive) to avoid, (transitive) to shun",
     forms: {
       section_0: [
@@ -61046,11 +61046,11 @@ module.exports = [
     },
   },
   {
-    word "meiden wie die Pest",
+    word: "meiden wie die Pest",
     translation: "(simile, idiomatic) avoid like the plague",
   },
   {
-    word "meinen",
+    word: "meinen",
     translation: "to think (to be of the opinion), to mean, to signify, to mean, to intend, (colloquial) to say",
     forms: {
       section_0: [
@@ -61080,7 +61080,7 @@ module.exports = [
     },
   },
   {
-    word "meißeln",
+    word: "meißeln",
     translation: "to chisel",
     forms: {
       section_0: [
@@ -61110,7 +61110,7 @@ module.exports = [
     },
   },
   {
-    word "meistern",
+    word: "meistern",
     translation: "to master",
     forms: {
       section_0: [
@@ -61140,7 +61140,7 @@ module.exports = [
     },
   },
   {
-    word "melden",
+    word: "melden",
     translation: "(transitive) to report, communicate; let know",
     forms: {
       section_0: [
@@ -61170,11 +61170,11 @@ module.exports = [
     },
   },
   {
-    word "melieren",
+    word: "melieren",
     translation: "(textiles) to mix",
   },
   {
-    word "melken",
+    word: "melken",
     translation: "to milk",
     forms: {
       section_0: [
@@ -61204,7 +61204,7 @@ module.exports = [
     },
   },
   {
-    word "menstruieren",
+    word: "menstruieren",
     translation: "to menstruate",
     forms: {
       section_0: [
@@ -61234,7 +61234,7 @@ module.exports = [
     },
   },
   {
-    word "merken",
+    word: "merken",
     translation: "to mark, to notice",
     forms: {
       section_0: [
@@ -61264,11 +61264,11 @@ module.exports = [
     },
   },
   {
-    word "mesmerisieren",
+    word: "mesmerisieren",
     translation: "(medicine, historical) to mesmerize",
   },
   {
-    word "messen",
+    word: "messen",
     translation: "(transitive) to measure (something), (reflexive) to compete, (intransitive) to measure; to be a given size, height, width, length, etc",
     forms: {
       section_0: [
@@ -61298,7 +61298,7 @@ module.exports = [
     },
   },
   {
-    word "meßen",
+    word: "meßen",
     translation: "Obsolete spelling of messen",
     forms: {
       section_0: [
@@ -61328,7 +61328,7 @@ module.exports = [
     },
   },
   {
-    word "meucheln",
+    word: "meucheln",
     translation: "to assassin, assassinate",
     forms: {
       section_0: [
@@ -61358,7 +61358,7 @@ module.exports = [
     },
   },
   {
-    word "meutern",
+    word: "meutern",
     translation: "to mutiny",
     forms: {
       section_0: [
@@ -61388,7 +61388,7 @@ module.exports = [
     },
   },
   {
-    word "miauen",
+    word: "miauen",
     translation: "to meow",
     forms: {
       section_0: [
@@ -61418,7 +61418,7 @@ module.exports = [
     },
   },
   {
-    word "mieten",
+    word: "mieten",
     translation: "(transitive) to hire, to rent",
     forms: {
       section_0: [
@@ -61448,19 +61448,19 @@ module.exports = [
     },
   },
   {
-    word "migrieren",
+    word: "migrieren",
     translation: "to migrate",
   },
   {
-    word "mikrominiaturisieren",
+    word: "mikrominiaturisieren",
     translation: "to microminiaturize",
   },
   {
-    word "mikturieren",
+    word: "mikturieren",
     translation: "(medicine) to urinate, micturate",
   },
   {
-    word "mildern",
+    word: "mildern",
     translation: "to mitigate",
     forms: {
       section_0: [
@@ -61490,7 +61490,7 @@ module.exports = [
     },
   },
   {
-    word "mimen",
+    word: "mimen",
     translation: "to mime",
     forms: {
       section_0: [
@@ -61520,7 +61520,7 @@ module.exports = [
     },
   },
   {
-    word "mindern",
+    word: "mindern",
     translation: "to abate, to debase",
     forms: {
       section_0: [
@@ -61550,15 +61550,15 @@ module.exports = [
     },
   },
   {
-    word "mineralisieren",
+    word: "mineralisieren",
     translation: "to mineralize",
   },
   {
-    word "minimieren",
+    word: "minimieren",
     translation: "to minimize / minimise",
   },
   {
-    word "mischen",
+    word: "mischen",
     translation: "to mix, (card games) to shuffle",
     forms: {
       section_0: [
@@ -61588,7 +61588,7 @@ module.exports = [
     },
   },
   {
-    word "missachten",
+    word: "missachten",
     translation: "to ignore (deliberately pay no attention to), disregard",
     forms: {
       section_0: [
@@ -61618,7 +61618,7 @@ module.exports = [
     },
   },
   {
-    word "mißachten",
+    word: "mißachten",
     translation: "Formerly standard spelling of missachten which was deprecated in the spelling reform (Rechtschreibreform) of 1996",
     forms: {
       section_0: [
@@ -61648,7 +61648,7 @@ module.exports = [
     },
   },
   {
-    word "missbrauchen",
+    word: "missbrauchen",
     translation: "to abuse (use improperly), to maltreat; to abuse (treat improperly or violently), to abuse; to violate (rape or assault sexually)",
     forms: {
       section_0: [
@@ -61678,7 +61678,7 @@ module.exports = [
     },
   },
   {
-    word "mißbrauchen",
+    word: "mißbrauchen",
     translation: "Alternative spelling of missbrauchen",
     forms: {
       section_0: [
@@ -61708,7 +61708,7 @@ module.exports = [
     },
   },
   {
-    word "missgönnen",
+    word: "missgönnen",
     translation: "to grudge, begrudge",
     forms: {
       section_0: [
@@ -61738,7 +61738,7 @@ module.exports = [
     },
   },
   {
-    word "misshandeln",
+    word: "misshandeln",
     translation: "to mistreat, to abuse",
     forms: {
       section_0: [
@@ -61768,7 +61768,7 @@ module.exports = [
     },
   },
   {
-    word "mißhandeln",
+    word: "mißhandeln",
     translation: "Formerly standard spelling of misshandeln which was deprecated in the spelling reform (Rechtschreibreform) of 1996",
     forms: {
       section_0: [
@@ -61798,7 +61798,7 @@ module.exports = [
     },
   },
   {
-    word "misslingen",
+    word: "misslingen",
     translation: "(intransitive) to fail; to be unsuccessful",
     forms: {
       section_0: [
@@ -61828,7 +61828,7 @@ module.exports = [
     },
   },
   {
-    word "mißlingen",
+    word: "mißlingen",
     translation: "Formerly standard spelling of misslingen which was deprecated in the spelling reform (Rechtschreibreform) of 1996",
     forms: {
       section_0: [
@@ -61858,7 +61858,7 @@ module.exports = [
     },
   },
   {
-    word "misstrauen",
+    word: "misstrauen",
     translation: "to suspect, distrust, have doubts about",
     forms: {
       section_0: [
@@ -61888,7 +61888,7 @@ module.exports = [
     },
   },
   {
-    word "mißtrauen",
+    word: "mißtrauen",
     translation: "Formerly standard spelling of misstrauen which was deprecated in the spelling reform (Rechtschreibreform) of 1996",
     forms: {
       section_0: [
@@ -61918,7 +61918,7 @@ module.exports = [
     },
   },
   {
-    word "missverstehen",
+    word: "missverstehen",
     translation: "to misunderstand, to misapprehend",
     forms: {
       section_0: [
@@ -61948,7 +61948,7 @@ module.exports = [
     },
   },
   {
-    word "mißverstehen",
+    word: "mißverstehen",
     translation: "Formerly standard spelling of missverstehen which was deprecated in the spelling reform (Rechtschreibreform) of 1996",
     forms: {
       section_0: [
@@ -61978,19 +61978,19 @@ module.exports = [
     },
   },
   {
-    word "mit allen Wassern gewaschen sein",
+    word: "mit allen Wassern gewaschen sein",
     translation: "(idiomatic) know every trick in the book",
   },
   {
-    word "mit jemandem ins Gericht gehen",
+    word: "mit jemandem ins Gericht gehen",
     translation: "(idiomatic) to take a hard look at someone, to judge someone",
   },
   {
-    word "mit offenen Karten spielen",
+    word: "mit offenen Karten spielen",
     translation: "to play with the cards on the table",
   },
   {
-    word "mitbekommen",
+    word: "mitbekommen",
     translation: "(transitive) To get or be given something when leaving, (transitive) to notice, (transitive) to understand",
     forms: {
       section_0: [
@@ -62020,7 +62020,7 @@ module.exports = [
     },
   },
   {
-    word "mitbringen",
+    word: "mitbringen",
     translation: "(transitive) to bring along, to bring with, (transitive) to take along, to take with",
     forms: {
       section_0: [
@@ -62050,7 +62050,7 @@ module.exports = [
     },
   },
   {
-    word "mitdenken",
+    word: "mitdenken",
     translation: "to follow",
     forms: {
       section_0: [
@@ -62080,7 +62080,7 @@ module.exports = [
     },
   },
   {
-    word "mitfahren",
+    word: "mitfahren",
     translation: "to drive with",
     forms: {
       section_0: [
@@ -62110,11 +62110,11 @@ module.exports = [
     },
   },
   {
-    word "mitfinanzieren",
+    word: "mitfinanzieren",
     translation: "To cofinance",
   },
   {
-    word "mitfühlen",
+    word: "mitfühlen",
     translation: "to empathize, empathise, sympathize, sympathise",
     forms: {
       section_0: [
@@ -62144,7 +62144,7 @@ module.exports = [
     },
   },
   {
-    word "mitgehen",
+    word: "mitgehen",
     translation: "to come along, to accompany",
     forms: {
       section_0: [
@@ -62174,11 +62174,11 @@ module.exports = [
     },
   },
   {
-    word "mitgehen lassen",
+    word: "mitgehen lassen",
     translation: "(idiomatic) to steal, especially while being some place for some other purpose, to take something, possibly because one forgets to put it back",
   },
   {
-    word "mithalten",
+    word: "mithalten",
     translation: "to keep up with (stay even or ahead)",
     forms: {
       section_0: [
@@ -62208,7 +62208,7 @@ module.exports = [
     },
   },
   {
-    word "mithelfen",
+    word: "mithelfen",
     translation: "(reflexive) to help, to assist",
     forms: {
       section_0: [
@@ -62238,7 +62238,7 @@ module.exports = [
     },
   },
   {
-    word "mithören",
+    word: "mithören",
     translation: "to overhear, to listen to, to listen in, to eavesdrop, to listen in, (military, of enemy communications) to intercept",
     forms: {
       section_0: [
@@ -62268,7 +62268,7 @@ module.exports = [
     },
   },
   {
-    word "mitkommen",
+    word: "mitkommen",
     translation: "to come with, to join and come along with (another person), to understand (something)",
     forms: {
       section_0: [
@@ -62298,7 +62298,7 @@ module.exports = [
     },
   },
   {
-    word "mitmachen",
+    word: "mitmachen",
     translation: "(intransitive) to take part",
     forms: {
       section_0: [
@@ -62328,7 +62328,7 @@ module.exports = [
     },
   },
   {
-    word "mitnehmen",
+    word: "mitnehmen",
     translation: "to carry along, to pick up, to take away",
     forms: {
       section_0: [
@@ -62358,7 +62358,7 @@ module.exports = [
     },
   },
   {
-    word "mitreden",
+    word: "mitreden",
     translation: "to join in a conversation, to have a say",
     forms: {
       section_0: [
@@ -62388,7 +62388,7 @@ module.exports = [
     },
   },
   {
-    word "mitschwingen",
+    word: "mitschwingen",
     translation: "to resonate",
     forms: {
       section_0: [
@@ -62418,7 +62418,7 @@ module.exports = [
     },
   },
   {
-    word "mitsingen",
+    word: "mitsingen",
     translation: "to join in (singing)",
     forms: {
       section_0: [
@@ -62448,7 +62448,7 @@ module.exports = [
     },
   },
   {
-    word "mitspielen",
+    word: "mitspielen",
     translation: "To cooperate, To play along, To feature (in a film)",
     forms: {
       section_0: [
@@ -62478,7 +62478,7 @@ module.exports = [
     },
   },
   {
-    word "mitteilen",
+    word: "mitteilen",
     translation: "to inform, to tell, to communicate",
     forms: {
       section_0: [
@@ -62508,15 +62508,15 @@ module.exports = [
     },
   },
   {
-    word "mittheilen",
+    word: "mittheilen",
     translation: "Obsolete spelling of mitteilen which was deprecated in 1902 following the Second Orthographic Conference of 1901",
   },
   {
-    word "mitunterzeichnen",
+    word: "mitunterzeichnen",
     translation: "cosign (sign a document jointly with another person)",
   },
   {
-    word "mitwirken",
+    word: "mitwirken",
     translation: "to participate, cooperate",
     forms: {
       section_0: [
@@ -62546,7 +62546,7 @@ module.exports = [
     },
   },
   {
-    word "mitziehen",
+    word: "mitziehen",
     translation: "(sports) keep pace, keep up",
     forms: {
       section_0: [
@@ -62576,11 +62576,11 @@ module.exports = [
     },
   },
   {
-    word "mitzufinanzieren",
+    word: "mitzufinanzieren",
     translation: "zu-infinitive of mitfinanzieren",
   },
   {
-    word "mixen",
+    word: "mixen",
     translation: "mix",
     forms: {
       section_0: [
@@ -62610,7 +62610,7 @@ module.exports = [
     },
   },
   {
-    word "mobben",
+    word: "mobben",
     translation: "to bully",
     forms: {
       section_0: [
@@ -62640,7 +62640,7 @@ module.exports = [
     },
   },
   {
-    word "mobilisieren",
+    word: "mobilisieren",
     translation: "to mobilize",
     forms: {
       section_0: [
@@ -62670,11 +62670,11 @@ module.exports = [
     },
   },
   {
-    word "mobilmachen",
+    word: "mobilmachen",
     translation: "(military or in a general sense) to mobilize",
   },
   {
-    word "möblieren",
+    word: "möblieren",
     translation: "to furnish",
     forms: {
       section_0: [
@@ -62704,7 +62704,7 @@ module.exports = [
     },
   },
   {
-    word "modellieren",
+    word: "modellieren",
     translation: "(to build a model or to build from a substance) to model",
     forms: {
       section_0: [
@@ -62734,11 +62734,11 @@ module.exports = [
     },
   },
   {
-    word "moderieren",
+    word: "moderieren",
     translation: "(to act as a moderator) to moderate",
   },
   {
-    word "modern",
+    word: "modern",
     translation: "to rot, to molder",
     forms: {
       section_0: [
@@ -62768,7 +62768,7 @@ module.exports = [
     },
   },
   {
-    word "modernisieren",
+    word: "modernisieren",
     translation: "To modernize",
     forms: {
       section_0: [
@@ -62798,7 +62798,7 @@ module.exports = [
     },
   },
   {
-    word "modifizieren",
+    word: "modifizieren",
     translation: "(transitive) to modify",
     forms: {
       section_0: [
@@ -62828,7 +62828,7 @@ module.exports = [
     },
   },
   {
-    word "mogeln",
+    word: "mogeln",
     translation: "to cheat",
     forms: {
       section_0: [
@@ -62858,7 +62858,7 @@ module.exports = [
     },
   },
   {
-    word "mögen",
+    word: "mögen",
     translation: "(transitive) to like (something or someone), (auxiliary, with an infinitive) may (expresses a possibility, never a permission), (auxiliary, in negation, with an infinitive) to be hesitant to (do something), (auxiliary, in the present subjunctive, with an infinitive) may (paraphrases the optative), (transitive, in the past subjunctive) to want, (auxiliary, in the past subjunctive, with an infinitive) to want to; would like to; to wish to (do something)",
     forms: {
       section_0: [
@@ -62888,7 +62888,7 @@ module.exports = [
     },
   },
   {
-    word "mokieren",
+    word: "mokieren",
     translation: "(reflexive, with preposition: über) to mock (someone, something)",
     forms: {
       section_0: [
@@ -62918,11 +62918,11 @@ module.exports = [
     },
   },
   {
-    word "monogrammieren",
+    word: "monogrammieren",
     translation: "to monogram ((transitive) to mark something with a monogram)",
   },
   {
-    word "montieren",
+    word: "montieren",
     translation: "to mount, to set up",
     forms: {
       section_0: [
@@ -62952,7 +62952,7 @@ module.exports = [
     },
   },
   {
-    word "moppen",
+    word: "moppen",
     translation: "to mop",
     forms: {
       section_0: [
@@ -62982,11 +62982,11 @@ module.exports = [
     },
   },
   {
-    word "möppern",
+    word: "möppern",
     translation: "(colloquial, regional, western Germany) to grump, to grumble",
   },
   {
-    word "mopsen",
+    word: "mopsen",
     translation: "(colloquial, reflexive) to be bored, (informal) to steal something of low value",
     forms: {
       section_0: [
@@ -63016,7 +63016,7 @@ module.exports = [
     },
   },
   {
-    word "motivieren",
+    word: "motivieren",
     translation: "to motivate (encourage)",
     forms: {
       section_0: [
@@ -63046,11 +63046,11 @@ module.exports = [
     },
   },
   {
-    word "motten",
+    word: "motten",
     translation: "(intransitive) to fight, to row",
   },
   {
-    word "muessen",
+    word: "muessen",
     translation: "Nonstandard spelling of müssen used in some older texts and when technical limitations prevent the use of umlauts",
     forms: {
       section_0: [
@@ -63080,15 +63080,15 @@ module.exports = [
     },
   },
   {
-    word "müffeln",
+    word: "müffeln",
     translation: "to have a moldy smell, (generalized) to stink",
   },
   {
-    word "muffen",
+    word: "muffen",
     translation: "(colloquial) to have a moldy smell, (colloquial, generalized) to stink",
   },
   {
-    word "muhen",
+    word: "muhen",
     translation: "to moo (sound of a cow)",
     forms: {
       section_0: [
@@ -63118,11 +63118,11 @@ module.exports = [
     },
   },
   {
-    word "mulchen",
+    word: "mulchen",
     translation: "to mulch",
   },
   {
-    word "multiplizieren",
+    word: "multiplizieren",
     translation: "(mathematics) multiply (transitive: perform multiplication on (a number))",
     forms: {
       section_0: [
@@ -63152,7 +63152,7 @@ module.exports = [
     },
   },
   {
-    word "mumifizieren",
+    word: "mumifizieren",
     translation: "(transitive, auxiliary verb: haben) to mummify, (intransitive, auxiliary verb: sein) to mummify",
     forms: {
       section_0: [
@@ -63182,11 +63182,11 @@ module.exports = [
     },
   },
   {
-    word "mümmeln",
+    word: "mümmeln",
     translation: "(transitive or intransitive) to nibble",
   },
   {
-    word "münden",
+    word: "münden",
     translation: "to flow (into something), to lead (into something)",
     forms: {
       section_0: [
@@ -63216,7 +63216,7 @@ module.exports = [
     },
   },
   {
-    word "munkeln",
+    word: "munkeln",
     translation: "(chiefly impersonal) to rumour/rumor, (rather rare) to whisper; to mutter; to speak in private",
     forms: {
       section_0: [
@@ -63246,7 +63246,7 @@ module.exports = [
     },
   },
   {
-    word "murksen",
+    word: "murksen",
     translation: "(colloquial) to botch",
     forms: {
       section_0: [
@@ -63276,7 +63276,7 @@ module.exports = [
     },
   },
   {
-    word "murmeln",
+    word: "murmeln",
     translation: "to mumble, to murmur",
     forms: {
       section_0: [
@@ -63306,7 +63306,7 @@ module.exports = [
     },
   },
   {
-    word "murren",
+    word: "murren",
     translation: "to grumble",
     forms: {
       section_0: [
@@ -63336,11 +63336,11 @@ module.exports = [
     },
   },
   {
-    word "musicieren",
+    word: "musicieren",
     translation: "Obsolete spelling of musizieren",
   },
   {
-    word "musizieren",
+    word: "musizieren",
     translation: "to make music",
     forms: {
       section_0: [
@@ -63370,7 +63370,7 @@ module.exports = [
     },
   },
   {
-    word "müssen",
+    word: "müssen",
     translation: "(auxiliary, with an infinitive → “müssen” replaces the past participle) to have to (do something); must; to be obliged (to do something); to need (to do something), (intransitive, with past participle “gemusst”) to have to do something implied; must; to be obliged",
     forms: {
       section_0: [
@@ -63400,7 +63400,7 @@ module.exports = [
     },
   },
   {
-    word "mustern",
+    word: "mustern",
     translation: "to scrutinize",
     forms: {
       section_0: [
@@ -63430,11 +63430,11 @@ module.exports = [
     },
   },
   {
-    word "mutieren",
+    word: "mutieren",
     translation: "to mutate",
   },
   {
-    word "mutmaßen",
+    word: "mutmaßen",
     translation: "to guess, to speculate",
     forms: {
       section_0: [
@@ -63464,7 +63464,7 @@ module.exports = [
     },
   },
   {
-    word "nachäffen",
+    word: "nachäffen",
     translation: "to ape, to mimic",
     forms: {
       section_0: [
@@ -63494,7 +63494,7 @@ module.exports = [
     },
   },
   {
-    word "nachahmen",
+    word: "nachahmen",
     translation: "to copy, imitate, emulate (a person)",
     forms: {
       section_0: [
@@ -63524,7 +63524,7 @@ module.exports = [
     },
   },
   {
-    word "nachblicken",
+    word: "nachblicken",
     translation: "to (have a) look at",
     forms: {
       section_0: [
@@ -63554,7 +63554,7 @@ module.exports = [
     },
   },
   {
-    word "nachdenken",
+    word: "nachdenken",
     translation: "to think, to reflect",
     forms: {
       section_0: [
@@ -63584,7 +63584,7 @@ module.exports = [
     },
   },
   {
-    word "nachdrucken",
+    word: "nachdrucken",
     translation: "to reprint",
     forms: {
       section_0: [
@@ -63614,11 +63614,11 @@ module.exports = [
     },
   },
   {
-    word "nachfinanzieren",
+    word: "nachfinanzieren",
     translation: "To provide supplementary financing",
   },
   {
-    word "nachfolgen",
+    word: "nachfolgen",
     translation: "to follow after, to succeed",
     forms: {
       section_0: [
@@ -63648,7 +63648,7 @@ module.exports = [
     },
   },
   {
-    word "nachgeben",
+    word: "nachgeben",
     translation: "to give way, to give in, to collapse, to decrease, drop, fall",
     forms: {
       section_0: [
@@ -63678,7 +63678,7 @@ module.exports = [
     },
   },
   {
-    word "nachgehen",
+    word: "nachgehen",
     translation: "to follow, pursue (+ dative)",
     forms: {
       section_0: [
@@ -63708,7 +63708,7 @@ module.exports = [
     },
   },
   {
-    word "nachgeraten",
+    word: "nachgeraten",
     translation: "to take after (a parent or ancestor)",
     forms: {
       section_0: [
@@ -63738,7 +63738,7 @@ module.exports = [
     },
   },
   {
-    word "nachkommen",
+    word: "nachkommen",
     translation: "to comply (with), to meet, to satisfy (obligations, the law, requirements, etc), to keep up (with), to come later",
     forms: {
       section_0: [
@@ -63768,7 +63768,7 @@ module.exports = [
     },
   },
   {
-    word "nachladen",
+    word: "nachladen",
     translation: "to reload",
     forms: {
       section_0: [
@@ -63798,7 +63798,7 @@ module.exports = [
     },
   },
   {
-    word "nachlassen",
+    word: "nachlassen",
     translation: "(intransitive) to abate, (transitive, business) to discount, mark down",
     forms: {
       section_0: [
@@ -63828,11 +63828,11 @@ module.exports = [
     },
   },
   {
-    word "nachleben",
+    word: "nachleben",
     translation: "to follow (to live on(e)'(s) life according to a role model or someon(e)'(s) teachings, or on(e)'(s) own calling)",
   },
   {
-    word "nachmachen",
+    word: "nachmachen",
     translation: "(colloquial) to imitate, to copy",
     forms: {
       section_0: [
@@ -63862,7 +63862,7 @@ module.exports = [
     },
   },
   {
-    word "nachrechnen",
+    word: "nachrechnen",
     translation: "to recalculate, to check on(e)'(s) calculations",
     forms: {
       section_0: [
@@ -63892,7 +63892,7 @@ module.exports = [
     },
   },
   {
-    word "nachsagen",
+    word: "nachsagen",
     translation: "To repeat (a rumour etc), To accuse",
     forms: {
       section_0: [
@@ -63922,7 +63922,7 @@ module.exports = [
     },
   },
   {
-    word "nachschauen",
+    word: "nachschauen",
     translation: "to (have a) look; to look and see",
     forms: {
       section_0: [
@@ -63952,7 +63952,7 @@ module.exports = [
     },
   },
   {
-    word "nachschlagen",
+    word: "nachschlagen",
     translation: "to look up",
     forms: {
       section_0: [
@@ -63982,11 +63982,11 @@ module.exports = [
     },
   },
   {
-    word "nächtigen",
+    word: "nächtigen",
     translation: "to stay the night, to stay over, to crash",
   },
   {
-    word "nachvollziehen",
+    word: "nachvollziehen",
     translation: "to understand, to comprehend, to retrace, to reconstruct",
     forms: {
       section_0: [
@@ -64016,7 +64016,7 @@ module.exports = [
     },
   },
   {
-    word "nachweisen",
+    word: "nachweisen",
     translation: "to prove, substantiate, verify, establish, demonstrate",
     forms: {
       section_0: [
@@ -64046,23 +64046,23 @@ module.exports = [
     },
   },
   {
-    word "nachwürzen",
+    word: "nachwürzen",
     translation: "to add more spices to (something which one has already added spices to)",
   },
   {
-    word "nachzuholen",
+    word: "nachzuholen",
     translation: "zu-infinitive of nachholen",
   },
   {
-    word "nachzuweisen",
+    word: "nachzuweisen",
     translation: "zu-infinitive of nachweisen",
   },
   {
-    word "Nägel mit Köpfen machen",
+    word: "Nägel mit Köpfen machen",
     translation: "(idiomatic) to do a job professionally, to do it right, not half-assedly",
   },
   {
-    word "nageln",
+    word: "nageln",
     translation: "to nail (to hammer or drive a nail into something), to nail (of a male, to have sexual intercourse with a female), to produce a knocking sound",
     forms: {
       section_0: [
@@ -64092,7 +64092,7 @@ module.exports = [
     },
   },
   {
-    word "nagen",
+    word: "nagen",
     translation: "to gnaw",
     forms: {
       section_0: [
@@ -64122,7 +64122,7 @@ module.exports = [
     },
   },
   {
-    word "nahekommen",
+    word: "nahekommen",
     translation: "To approach or come close, To approximate",
     forms: {
       section_0: [
@@ -64152,11 +64152,11 @@ module.exports = [
     },
   },
   {
-    word "nahen",
+    word: "nahen",
     translation: "to approach",
   },
   {
-    word "nähen",
+    word: "nähen",
     translation: "to sew",
     forms: {
       section_0: [
@@ -64186,7 +64186,7 @@ module.exports = [
     },
   },
   {
-    word "nähern",
+    word: "nähern",
     translation: "(reflexive) to approach",
     forms: {
       section_0: [
@@ -64216,7 +64216,7 @@ module.exports = [
     },
   },
   {
-    word "nähren",
+    word: "nähren",
     translation: "to feed",
     forms: {
       section_0: [
@@ -64246,15 +64246,15 @@ module.exports = [
     },
   },
   {
-    word "namhaft machen",
+    word: "namhaft machen",
     translation: "(transitive) to make known, (transitive) to name, to designate",
   },
   {
-    word "narren",
+    word: "narren",
     translation: "third-person plural present indicative form of narrar",
   },
   {
-    word "naschen",
+    word: "naschen",
     translation: "to nibble, to eat sweets on the sly",
     forms: {
       section_0: [
@@ -64284,15 +64284,15 @@ module.exports = [
     },
   },
   {
-    word "nassmachen",
+    word: "nassmachen",
     translation: "To wetten",
   },
   {
-    word "nasszumachen",
+    word: "nasszumachen",
     translation: "zu-infinitive of nassmachen",
   },
   {
-    word "nationalisieren",
+    word: "nationalisieren",
     translation: "to nationalize",
     forms: {
       section_0: [
@@ -64322,11 +64322,11 @@ module.exports = [
     },
   },
   {
-    word "nazifizieren",
+    word: "nazifizieren",
     translation: "To Nazify",
   },
   {
-    word "nebeln",
+    word: "nebeln",
     translation: "to grow foggy, to lay a smokescreen",
     forms: {
       section_0: [
@@ -64356,7 +64356,7 @@ module.exports = [
     },
   },
   {
-    word "necken",
+    word: "necken",
     translation: "to tease",
     forms: {
       section_0: [
@@ -64386,7 +64386,7 @@ module.exports = [
     },
   },
   {
-    word "negieren",
+    word: "negieren",
     translation: "to negate",
     forms: {
       section_0: [
@@ -64416,7 +64416,7 @@ module.exports = [
     },
   },
   {
-    word "nehmen",
+    word: "nehmen",
     translation: "(transitive) to take, (reflexive) to cause oneself to be (in some state); to become; to take oneself (to some state), (transitive) to seize; to capture, (transitive) to receive; to accept",
     forms: {
       section_0: [
@@ -64446,7 +64446,7 @@ module.exports = [
     },
   },
   {
-    word "neiden",
+    word: "neiden",
     translation: "to have envy",
     forms: {
       section_0: [
@@ -64476,7 +64476,7 @@ module.exports = [
     },
   },
   {
-    word "neigen",
+    word: "neigen",
     translation: "To bend over, lean (towards), To tend, incline",
     forms: {
       section_0: [
@@ -64506,7 +64506,7 @@ module.exports = [
     },
   },
   {
-    word "nennen",
+    word: "nennen",
     translation: "(transitive) to name; to give a name to (someone); to call (someone something), (transitive) to call (someone or something by some name or title), (transitive) to mention, (transitive) to call out; to give (eg some request), (reflexive) to be called; to be named; to go by some name",
     forms: {
       section_0: [
@@ -64536,7 +64536,7 @@ module.exports = [
     },
   },
   {
-    word "nerven",
+    word: "nerven",
     translation: "to bug; to annoy",
     forms: {
       section_0: [
@@ -64566,11 +64566,11 @@ module.exports = [
     },
   },
   {
-    word "neustarten",
+    word: "neustarten",
     translation: "to restart",
   },
   {
-    word "neutralisieren",
+    word: "neutralisieren",
     translation: "to neutralize",
     forms: {
       section_0: [
@@ -64600,11 +64600,11 @@ module.exports = [
     },
   },
   {
-    word "nicht alle Tassen im Schrank haben",
+    word: "nicht alle Tassen im Schrank haben",
     translation: "(idiomatic) to not have all on(e)'(s) marbles, (being) a few cards short of a deck, have a screw loose, ",
   },
   {
-    word "nicken",
+    word: "nicken",
     translation: "to nod",
     forms: {
       section_0: [
@@ -64634,11 +64634,11 @@ module.exports = [
     },
   },
   {
-    word "niederknieen",
+    word: "niederknieen",
     translation: "to kneel down",
   },
   {
-    word "niederknien",
+    word: "niederknien",
     translation: "to kneel down, to genuflect",
     forms: {
       section_0: [
@@ -64668,7 +64668,7 @@ module.exports = [
     },
   },
   {
-    word "niederlassen",
+    word: "niederlassen",
     translation: "(reflexive) to settle, to relocate",
     forms: {
       section_0: [
@@ -64698,7 +64698,7 @@ module.exports = [
     },
   },
   {
-    word "niederlegen",
+    word: "niederlegen",
     translation: "(transitive) to lay down, (reflexive) to lie down",
     forms: {
       section_0: [
@@ -64728,7 +64728,7 @@ module.exports = [
     },
   },
   {
-    word "niederschlagen",
+    word: "niederschlagen",
     translation: "to defeat (an enemy), to quell (a rebellion), to strike (someone) down, to beat (someone) down; to force someone downwards, to cast down (on(e)'(s) eyes), to look down",
     forms: {
       section_0: [
@@ -64758,7 +64758,7 @@ module.exports = [
     },
   },
   {
-    word "niederstechen",
+    word: "niederstechen",
     translation: "(transitive) to stab down",
     forms: {
       section_0: [
@@ -64788,7 +64788,7 @@ module.exports = [
     },
   },
   {
-    word "niederstoßen",
+    word: "niederstoßen",
     translation: "(transitive) to thrust down, to knock down (to hit or knock (something) so that it falls)",
     forms: {
       section_0: [
@@ -64818,7 +64818,7 @@ module.exports = [
     },
   },
   {
-    word "nieseln",
+    word: "nieseln",
     translation: "(chiefly impersonal) to drizzle",
     forms: {
       section_0: [
@@ -64848,11 +64848,11 @@ module.exports = [
     },
   },
   {
-    word "niesen",
+    word: "niesen",
     translation: "(obsolete, intransitive) Alternative form of niezen",
   },
   {
-    word "nieten",
+    word: "nieten",
     translation: "(transitive) to staple",
     forms: {
       section_0: [
@@ -64882,7 +64882,7 @@ module.exports = [
     },
   },
   {
-    word "nippen",
+    word: "nippen",
     translation: "to sip, take a nip",
     forms: {
       section_0: [
@@ -64912,7 +64912,7 @@ module.exports = [
     },
   },
   {
-    word "nisten",
+    word: "nisten",
     translation: "(of animals) to nest",
     forms: {
       section_0: [
@@ -64942,7 +64942,7 @@ module.exports = [
     },
   },
   {
-    word "nivellieren",
+    word: "nivellieren",
     translation: "to level",
     forms: {
       section_0: [
@@ -64972,11 +64972,11 @@ module.exports = [
     },
   },
   {
-    word "nölen",
+    word: "nölen",
     translation: "to gripe",
   },
   {
-    word "nominieren",
+    word: "nominieren",
     translation: "to nominate",
     forms: {
       section_0: [
@@ -65006,7 +65006,7 @@ module.exports = [
     },
   },
   {
-    word "nörgeln",
+    word: "nörgeln",
     translation: "to nag, to grumble",
     forms: {
       section_0: [
@@ -65036,11 +65036,11 @@ module.exports = [
     },
   },
   {
-    word "nostrifizieren",
+    word: "nostrifizieren",
     translation: "to nostrify: to grant recognition to a degree from a foreign university, to nostrify: to adopt as part of on(e)'(s) own culture or language, (law) to naturalize: to grant citizenship to someone who previously had another citizenship",
   },
   {
-    word "notieren",
+    word: "notieren",
     translation: "to note, to note down, to write down",
     forms: {
       section_0: [
@@ -65070,7 +65070,7 @@ module.exports = [
     },
   },
   {
-    word "notlanden",
+    word: "notlanden",
     translation: "to make an emergency landing, to make a forced landing",
     forms: {
       section_0: [
@@ -65100,7 +65100,7 @@ module.exports = [
     },
   },
   {
-    word "numerieren",
+    word: "numerieren",
     translation: "Alternative spelling of nummerieren",
     forms: {
       section_0: [
@@ -65130,15 +65130,15 @@ module.exports = [
     },
   },
   {
-    word "nummerieren",
+    word: "nummerieren",
     translation: "to number",
   },
   {
-    word "nur Bahnhof verstehen",
+    word: "nur Bahnhof verstehen",
     translation: "(idiomatic) to understand nothing at all",
   },
   {
-    word "nuscheln",
+    word: "nuscheln",
     translation: "to mumble (to speak with lacking enunciation)",
     forms: {
       section_0: [
@@ -65168,7 +65168,7 @@ module.exports = [
     },
   },
   {
-    word "nutzen",
+    word: "nutzen",
     translation: "(transitive) to make use of; to deploy; to exploit; to harness; to take (the opportunity of), (transitive or intransitive, most often negated or in questions) to be useful, to be of use, to do good, (transitive or intransitive, + dative) to benefit someone, to help, to do good to",
     forms: {
       section_0: [
@@ -65198,23 +65198,23 @@ module.exports = [
     },
   },
   {
-    word "nützen",
+    word: "nützen",
     translation: "Alternative form of nutzen",
   },
   {
-    word "obfuskieren",
+    word: "obfuskieren",
     translation: "(computing) to obfuscate",
   },
   {
-    word "obsen",
+    word: "obsen",
     translation: "(jargon) to keep (somebody, something) under surveillance, to surveil",
   },
   {
-    word "observieren",
+    word: "observieren",
     translation: "to keep somebody or something under surveillance for any length of time (for a particular objective), (dated) to observe (scientifically)",
   },
   {
-    word "offenbaren",
+    word: "offenbaren",
     translation: "(transitive) to reveal, to disclose, (reflexive) to become evident, (reflexive, religion) to reveal oneself",
     forms: {
       section_0: [
@@ -65244,7 +65244,7 @@ module.exports = [
     },
   },
   {
-    word "offenlegen",
+    word: "offenlegen",
     translation: "to unfold, to disclose, to unveil, to reveal",
     forms: {
       section_0: [
@@ -65274,11 +65274,11 @@ module.exports = [
     },
   },
   {
-    word "offerieren",
+    word: "offerieren",
     translation: "(for sale) to offer",
   },
   {
-    word "öffnen",
+    word: "öffnen",
     translation: "to open",
     forms: {
       section_0: [
@@ -65308,15 +65308,15 @@ module.exports = [
     },
   },
   {
-    word "oktroyieren",
+    word: "oktroyieren",
     translation: "to impose",
   },
   {
-    word "Öl ins Feuer gießen",
+    word: "Öl ins Feuer gießen",
     translation: "(idiomatic) to add fuel to the fire (literally: to pour oil in the fire)",
   },
   {
-    word "ölen",
+    word: "ölen",
     translation: "to oil, (Switzerland) to press out some oil",
     forms: {
       section_0: [
@@ -65346,15 +65346,15 @@ module.exports = [
     },
   },
   {
-    word "onanieren",
+    word: "onanieren",
     translation: "to masturbate",
   },
   {
-    word "ondulieren",
+    word: "ondulieren",
     translation: "to undulate",
   },
   {
-    word "operieren",
+    word: "operieren",
     translation: "to operate (perform operation)",
     forms: {
       section_0: [
@@ -65384,7 +65384,7 @@ module.exports = [
     },
   },
   {
-    word "opfern",
+    word: "opfern",
     translation: "to sacrifice",
     forms: {
       section_0: [
@@ -65414,11 +65414,11 @@ module.exports = [
     },
   },
   {
-    word "optimieren",
+    word: "optimieren",
     translation: "(to make something optimal or more efficient) to optimize",
   },
   {
-    word "orchestrieren",
+    word: "orchestrieren",
     translation: "(music or figuratively) to orchestrate",
     forms: {
       section_0: [
@@ -65448,11 +65448,11 @@ module.exports = [
     },
   },
   {
-    word "ordern",
+    word: "ordern",
     translation: "to order (to request some product or service)",
   },
   {
-    word "ordnen",
+    word: "ordnen",
     translation: "to put in order, to order",
     forms: {
       section_0: [
@@ -65482,7 +65482,7 @@ module.exports = [
     },
   },
   {
-    word "organisieren",
+    word: "organisieren",
     translation: "to organize",
     forms: {
       section_0: [
@@ -65512,7 +65512,7 @@ module.exports = [
     },
   },
   {
-    word "orgeln",
+    word: "orgeln",
     translation: "to play the organ",
     forms: {
       section_0: [
@@ -65542,7 +65542,7 @@ module.exports = [
     },
   },
   {
-    word "orientieren",
+    word: "orientieren",
     translation: "(reflexive) to orient oneself; to orientate oneself (UK)",
     forms: {
       section_0: [
@@ -65572,7 +65572,7 @@ module.exports = [
     },
   },
   {
-    word "orten",
+    word: "orten",
     translation: "To locate",
     forms: {
       section_0: [
@@ -65602,15 +65602,15 @@ module.exports = [
     },
   },
   {
-    word "oszillieren",
+    word: "oszillieren",
     translation: "to oscillate",
   },
   {
-    word "outen",
+    word: "outen",
     translation: "(transitive, chiefly dialectal) To put out; extinguish",
   },
   {
-    word "oxidieren",
+    word: "oxidieren",
     translation: "To oxidize",
     forms: {
       section_0: [
@@ -65640,7 +65640,7 @@ module.exports = [
     },
   },
   {
-    word "paaren",
+    word: "paaren",
     translation: "(reflexive, zoology) to mate, to pair",
     forms: {
       section_0: [
@@ -65670,7 +65670,7 @@ module.exports = [
     },
   },
   {
-    word "pachten",
+    word: "pachten",
     translation: "to lease",
     forms: {
       section_0: [
@@ -65700,7 +65700,7 @@ module.exports = [
     },
   },
   {
-    word "packen",
+    word: "packen",
     translation: "(transitive or intransitive) to pack (luggage, a bundle, etc); to get packed, (transitive) to grab, to grip, to take, (informal, transitive) to manage, to stand, to cope, (slang, transitive) to take (a bus, train, etc), (regional or dated, reflexive) to beat it",
     forms: {
       section_0: [
@@ -65730,7 +65730,7 @@ module.exports = [
     },
   },
   {
-    word "paddeln",
+    word: "paddeln",
     translation: "to paddle",
     forms: {
       section_0: [
@@ -65760,7 +65760,7 @@ module.exports = [
     },
   },
   {
-    word "paffen",
+    word: "paffen",
     translation: "to puff, to emit smoke (of an oven, a machine), to smoke (of a person), particularly: to smoke without inhaling the smoke into the lungs",
     forms: {
       section_0: [
@@ -65790,15 +65790,15 @@ module.exports = [
     },
   },
   {
-    word "paginieren",
+    word: "paginieren",
     translation: "to paginate",
   },
   {
-    word "panaschieren",
+    word: "panaschieren",
     translation: "(electoral law, Germany, Switzerland) to split on(e)'(s) vote",
   },
   {
-    word "panieren",
+    word: "panieren",
     translation: "to bread",
     forms: {
       section_0: [
@@ -65828,23 +65828,23 @@ module.exports = [
     },
   },
   {
-    word "paralysieren",
+    word: "paralysieren",
     translation: "to paralyze",
   },
   {
-    word "parametrisieren",
+    word: "parametrisieren",
     translation: "to parametrize",
   },
   {
-    word "paraphrasieren",
+    word: "paraphrasieren",
     translation: "to paraphrase (to compose a paraphrase)",
   },
   {
-    word "parfümieren",
+    word: "parfümieren",
     translation: "to perfume",
   },
   {
-    word "parken",
+    word: "parken",
     translation: "to park",
     forms: {
       section_0: [
@@ -65874,27 +65874,27 @@ module.exports = [
     },
   },
   {
-    word "parkettieren",
+    word: "parkettieren",
     translation: "to parquet",
   },
   {
-    word "parkieren",
+    word: "parkieren",
     translation: "(Switzerland) to park",
   },
   {
-    word "parlieren",
+    word: "parlieren",
     translation: "to chat",
   },
   {
-    word "partitionieren",
+    word: "partitionieren",
     translation: "(computing) to partition",
   },
   {
-    word "parzellieren",
+    word: "parzellieren",
     translation: "to tile",
   },
   {
-    word "passen",
+    word: "passen",
     translation: "(obsolete) plural simple present form of pass",
     forms: {
       section_0: [
@@ -65924,7 +65924,7 @@ module.exports = [
     },
   },
   {
-    word "passieren",
+    word: "passieren",
     translation: "(auxiliary sein) to happen, (formal, auxiliary haben) to move beyond; pass, (cooking, auxiliary haben) to pass through a sieve, to strain",
     forms: {
       section_0: [
@@ -65954,7 +65954,7 @@ module.exports = [
     },
   },
   {
-    word "pasteurisieren",
+    word: "pasteurisieren",
     translation: "to pasteurize (to heat food in order to kill harmful organisms)",
     forms: {
       section_0: [
@@ -65984,11 +65984,11 @@ module.exports = [
     },
   },
   {
-    word "patentieren",
+    word: "patentieren",
     translation: "to patent (mostly used as in: to grant a patent; from the view of the applicant the passive form 'patentieren lassen' is commonly used)",
   },
   {
-    word "patrouillieren",
+    word: "patrouillieren",
     translation: "to patrol",
     forms: {
       section_0: [
@@ -66018,7 +66018,7 @@ module.exports = [
     },
   },
   {
-    word "patzen",
+    word: "patzen",
     translation: "to blunder",
     forms: {
       section_0: [
@@ -66048,7 +66048,7 @@ module.exports = [
     },
   },
   {
-    word "pauken",
+    word: "pauken",
     translation: "to beat a drum, (colloquial) to swot (study with effort)",
     forms: {
       section_0: [
@@ -66078,7 +66078,7 @@ module.exports = [
     },
   },
   {
-    word "peilen",
+    word: "peilen",
     translation: "(originally) To fathom, by casting a lead and line in order to ascertain the depth of water, (by extension) To test, probe, get the feel of",
     forms: {
       section_0: [
@@ -66108,7 +66108,7 @@ module.exports = [
     },
   },
   {
-    word "peinigen",
+    word: "peinigen",
     translation: "to torment, harry",
     forms: {
       section_0: [
@@ -66138,7 +66138,7 @@ module.exports = [
     },
   },
   {
-    word "peitschen",
+    word: "peitschen",
     translation: "to whip",
     forms: {
       section_0: [
@@ -66168,11 +66168,11 @@ module.exports = [
     },
   },
   {
-    word "pekzieren",
+    word: "pekzieren",
     translation: "(colloquial) to do something stupid",
   },
   {
-    word "pellen",
+    word: "pellen",
     translation: "to peel",
     forms: {
       section_0: [
@@ -66202,7 +66202,7 @@ module.exports = [
     },
   },
   {
-    word "pendeln",
+    word: "pendeln",
     translation: "to commute, (intransitive) to oscillate",
     forms: {
       section_0: [
@@ -66232,11 +66232,11 @@ module.exports = [
     },
   },
   {
-    word "penetrieren",
+    word: "penetrieren",
     translation: "to penetrate",
   },
   {
-    word "pennen",
+    word: "pennen",
     translation: "(slang) to sleep",
     forms: {
       section_0: [
@@ -66266,7 +66266,7 @@ module.exports = [
     },
   },
   {
-    word "pensionieren",
+    word: "pensionieren",
     translation: "(public service) to pension",
     forms: {
       section_0: [
@@ -66296,15 +66296,15 @@ module.exports = [
     },
   },
   {
-    word "per Anhalter fahren",
+    word: "per Anhalter fahren",
     translation: "to hitchhike",
   },
   {
-    word "perfektionieren",
+    word: "perfektionieren",
     translation: "to bring to perfection, to perfect",
   },
   {
-    word "perforieren",
+    word: "perforieren",
     translation: "to perforate (to pierce or penetrate)",
     forms: {
       section_0: [
@@ -66334,15 +66334,15 @@ module.exports = [
     },
   },
   {
-    word "peroxidieren",
+    word: "peroxidieren",
     translation: "To peroxide",
   },
   {
-    word "persiflieren",
+    word: "persiflieren",
     translation: "to satirize",
   },
   {
-    word "personifizieren",
+    word: "personifizieren",
     translation: "(transitive) to personify",
     forms: {
       section_0: [
@@ -66372,15 +66372,15 @@ module.exports = [
     },
   },
   {
-    word "pesen",
+    word: "pesen",
     translation: "third-person plural present indicative form of pesar",
   },
   {
-    word "pexieren",
+    word: "pexieren",
     translation: "Alternative form of pekzieren",
   },
   {
-    word "pfänden",
+    word: "pfänden",
     translation: "(law) to distrain",
     forms: {
       section_0: [
@@ -66410,11 +66410,11 @@ module.exports = [
     },
   },
   {
-    word "pfauchen",
+    word: "pfauchen",
     translation: "(still sometimes in Austria, dated also in southern Germany) Alternative form of fauchen",
   },
   {
-    word "pfeifen",
+    word: "pfeifen",
     translation: "(intransitive or transitive) to whistle (with on(e)'(s) mouth or a whistle), (intransitive or transitive, sports) to act as referee, (colloquial, intransitive with preposition auf) to be uninterested (in something or someone); to ignore; not to give a damn",
     forms: {
       section_0: [
@@ -66444,7 +66444,7 @@ module.exports = [
     },
   },
   {
-    word "pflanzen",
+    word: "pflanzen",
     translation: "to plant",
     forms: {
       section_0: [
@@ -66474,7 +66474,7 @@ module.exports = [
     },
   },
   {
-    word "pflegen",
+    word: "pflegen",
     translation: "(transitive) to look after; to care for, (medicine, transitive) to nurse, (intransitive, with “zu” followed by an infinitive verb) to perform habitually; to be accustomed [to doing something]; to be in the habit [of doing something]",
     forms: {
       section_0: [
@@ -66504,7 +66504,7 @@ module.exports = [
     },
   },
   {
-    word "pflücken",
+    word: "pflücken",
     translation: "to pluck",
     forms: {
       section_0: [
@@ -66534,7 +66534,7 @@ module.exports = [
     },
   },
   {
-    word "pflügen",
+    word: "pflügen",
     translation: "to plow, to plough",
     forms: {
       section_0: [
@@ -66564,7 +66564,7 @@ module.exports = [
     },
   },
   {
-    word "pfropfen",
+    word: "pfropfen",
     translation: "(regional) to plug, to graft (insert scions from one tree, or kind of tree, etc)",
     forms: {
       section_0: [
@@ -66594,11 +66594,11 @@ module.exports = [
     },
   },
   {
-    word "pharyngalisieren",
+    word: "pharyngalisieren",
     translation: "(linguistics) to pharyngealize",
   },
   {
-    word "philosophieren",
+    word: "philosophieren",
     translation: "to philosophize",
     forms: {
       section_0: [
@@ -66628,11 +66628,11 @@ module.exports = [
     },
   },
   {
-    word "picheln",
+    word: "picheln",
     translation: "to tipple (to drink alcohol regularly, but not to excess)",
   },
   {
-    word "picken",
+    word: "picken",
     translation: "to peck, to pick",
     forms: {
       section_0: [
@@ -66662,7 +66662,7 @@ module.exports = [
     },
   },
   {
-    word "picknicken",
+    word: "picknicken",
     translation: "to picnic, to have a picnic",
     forms: {
       section_0: [
@@ -66692,7 +66692,7 @@ module.exports = [
     },
   },
   {
-    word "piepen",
+    word: "piepen",
     translation: "to squeak, squeal, to creak, to wheeze (such as someone with asthma)",
     forms: {
       section_0: [
@@ -66722,7 +66722,7 @@ module.exports = [
     },
   },
   {
-    word "piesacken",
+    word: "piesacken",
     translation: "to badger (annoy badly)",
     forms: {
       section_0: [
@@ -66752,11 +66752,11 @@ module.exports = [
     },
   },
   {
-    word "pikieren",
+    word: "pikieren",
     translation: "to pique",
   },
   {
-    word "pilgern",
+    word: "pilgern",
     translation: "to pilgrimage",
     forms: {
       section_0: [
@@ -66786,11 +66786,11 @@ module.exports = [
     },
   },
   {
-    word "pimpern",
+    word: "pimpern",
     translation: "(vulgar) to fuck",
   },
   {
-    word "pinkeln",
+    word: "pinkeln",
     translation: "to pee",
     forms: {
       section_0: [
@@ -66820,19 +66820,19 @@ module.exports = [
     },
   },
   {
-    word "pipettieren",
+    word: "pipettieren",
     translation: "to pipet",
   },
   {
-    word "pissen",
+    word: "pissen",
     translation: "(colloquial) to piss",
   },
   {
-    word "placieren",
+    word: "placieren",
     translation: "Alternative spelling of platzieren",
   },
   {
-    word "plädieren",
+    word: "plädieren",
     translation: "to plead",
     forms: {
       section_0: [
@@ -66862,7 +66862,7 @@ module.exports = [
     },
   },
   {
-    word "plagiieren",
+    word: "plagiieren",
     translation: "to plagiarize",
     forms: {
       section_0: [
@@ -66892,7 +66892,7 @@ module.exports = [
     },
   },
   {
-    word "planen",
+    word: "planen",
     translation: "to plan",
     forms: {
       section_0: [
@@ -66922,7 +66922,7 @@ module.exports = [
     },
   },
   {
-    word "planschen",
+    word: "planschen",
     translation: "to plash, to splash",
     forms: {
       section_0: [
@@ -66952,11 +66952,11 @@ module.exports = [
     },
   },
   {
-    word "plantschen",
+    word: "plantschen",
     translation: "Alternative spelling of planschen",
   },
   {
-    word "plärren",
+    word: "plärren",
     translation: "(of babies, sometimes animals) to cry or weep in a shrill and continuous manner, to sing unmelodiously or cacophonously",
     forms: {
       section_0: [
@@ -66986,7 +66986,7 @@ module.exports = [
     },
   },
   {
-    word "platschen",
+    word: "platschen",
     translation: "to plash",
     forms: {
       section_0: [
@@ -67016,7 +67016,7 @@ module.exports = [
     },
   },
   {
-    word "platzen",
+    word: "platzen",
     translation: "to burst, (cheque) to bounce",
     forms: {
       section_0: [
@@ -67046,7 +67046,7 @@ module.exports = [
     },
   },
   {
-    word "platzieren",
+    word: "platzieren",
     translation: "to place, to plant",
     forms: {
       section_0: [
@@ -67076,7 +67076,7 @@ module.exports = [
     },
   },
   {
-    word "plaudern",
+    word: "plaudern",
     translation: "to chat",
     forms: {
       section_0: [
@@ -67106,15 +67106,15 @@ module.exports = [
     },
   },
   {
-    word "plazieren",
+    word: "plazieren",
     translation: "Obsolete spelling of platzieren",
   },
   {
-    word "plissieren",
+    word: "plissieren",
     translation: "(textiles) to pleat",
   },
   {
-    word "plumpsen",
+    word: "plumpsen",
     translation: "(informal) to flop, to plump",
     forms: {
       section_0: [
@@ -67144,7 +67144,7 @@ module.exports = [
     },
   },
   {
-    word "plündern",
+    word: "plündern",
     translation: "to loot, to plunder, to pillage, to raid",
     forms: {
       section_0: [
@@ -67174,7 +67174,7 @@ module.exports = [
     },
   },
   {
-    word "pochen",
+    word: "pochen",
     translation: "to brag",
     forms: {
       section_0: [
@@ -67204,11 +67204,11 @@ module.exports = [
     },
   },
   {
-    word "pochieren",
+    word: "pochieren",
     translation: "to poach (cook in simmering water)",
   },
   {
-    word "polarisieren",
+    word: "polarisieren",
     translation: "to polarize / polarise",
     forms: {
       section_0: [
@@ -67238,7 +67238,7 @@ module.exports = [
     },
   },
   {
-    word "polieren",
+    word: "polieren",
     translation: "to shine (to polish)",
     forms: {
       section_0: [
@@ -67268,11 +67268,11 @@ module.exports = [
     },
   },
   {
-    word "pollen",
+    word: "pollen",
     translation: "(computing) to poll, to periodically check the status of a device or variable",
   },
   {
-    word "poltern",
+    word: "poltern",
     translation: "to rumble, (figuratively) to rant (To speak or shout at length in an uncontrollable anger)",
     forms: {
       section_0: [
@@ -67302,23 +67302,23 @@ module.exports = [
     },
   },
   {
-    word "polymerisieren",
+    word: "polymerisieren",
     translation: "(chemistry) To polymerize",
   },
   {
-    word "popeln",
+    word: "popeln",
     translation: "to pick on(e)'(s) nose",
   },
   {
-    word "poppen",
+    word: "poppen",
     translation: "(obsolete) To play with puppets, To play (games etc) in general, To court and/or have sex, To show off, To make or provide (a) puppet(s) etc",
   },
   {
-    word "portraitieren",
+    word: "portraitieren",
     translation: "Alternative spelling of porträtieren",
   },
   {
-    word "porträtieren",
+    word: "porträtieren",
     translation: "to paint a portrait of, to portray",
     forms: {
       section_0: [
@@ -67348,7 +67348,7 @@ module.exports = [
     },
   },
   {
-    word "posieren",
+    word: "posieren",
     translation: "(to assume or maintain a pose) to pose",
     forms: {
       section_0: [
@@ -67378,19 +67378,19 @@ module.exports = [
     },
   },
   {
-    word "posten",
+    word: "posten",
     translation: "To (send by) mail, To post, place sentinels etc",
   },
   {
-    word "postulieren",
+    word: "postulieren",
     translation: "to postulate",
   },
   {
-    word "prädestinieren",
+    word: "prädestinieren",
     translation: "To predestine",
   },
   {
-    word "prägen",
+    word: "prägen",
     translation: "to mint, to characterize",
     forms: {
       section_0: [
@@ -67420,7 +67420,7 @@ module.exports = [
     },
   },
   {
-    word "prahlen",
+    word: "prahlen",
     translation: "to brag",
     forms: {
       section_0: [
@@ -67450,7 +67450,7 @@ module.exports = [
     },
   },
   {
-    word "prangen",
+    word: "prangen",
     translation: "to resplend, to show off, to flaunt",
     forms: {
       section_0: [
@@ -67480,11 +67480,11 @@ module.exports = [
     },
   },
   {
-    word "präsentieren",
+    word: "präsentieren",
     translation: "(transitive) present, (reflexive) introduce, (transitive, military) present arms",
   },
   {
-    word "prasseln",
+    word: "prasseln",
     translation: "to clatter, to crackle, (figuratively) to rain down, hail down",
     forms: {
       section_0: [
@@ -67514,7 +67514,7 @@ module.exports = [
     },
   },
   {
-    word "predigen",
+    word: "predigen",
     translation: "to preach",
     forms: {
       section_0: [
@@ -67544,7 +67544,7 @@ module.exports = [
     },
   },
   {
-    word "preisen",
+    word: "preisen",
     translation: "to hail, to laud, to praise",
     forms: {
       section_0: [
@@ -67574,7 +67574,7 @@ module.exports = [
     },
   },
   {
-    word "preisgeben",
+    word: "preisgeben",
     translation: "to abandon, to forsake or betray, to disclose, to reveal, to no longer keep secret",
     forms: {
       section_0: [
@@ -67604,7 +67604,7 @@ module.exports = [
     },
   },
   {
-    word "pressen",
+    word: "pressen",
     translation: "(transitive) to press, (intransitive, at birth) to push, (intransitive, at constipation) to strain oneself",
     forms: {
       section_0: [
@@ -67634,11 +67634,11 @@ module.exports = [
     },
   },
   {
-    word "pressieren",
+    word: "pressieren",
     translation: "(impersonal, + dative, chiefly southern Germany, Austria, Switzerland) to be pressing and urgent (for), (chiefly southern Germany, Austria, Switzerland) to rush, to be in a hurry",
   },
   {
-    word "prickeln",
+    word: "prickeln",
     translation: "to prickle, to sparkle",
     forms: {
       section_0: [
@@ -67668,11 +67668,11 @@ module.exports = [
     },
   },
   {
-    word "priorisieren",
+    word: "priorisieren",
     translation: "to prioritize",
   },
   {
-    word "privatisieren",
+    word: "privatisieren",
     translation: "to privatize",
     forms: {
       section_0: [
@@ -67702,7 +67702,7 @@ module.exports = [
     },
   },
   {
-    word "privilegieren",
+    word: "privilegieren",
     translation: "to privilege",
     forms: {
       section_0: [
@@ -67732,7 +67732,7 @@ module.exports = [
     },
   },
   {
-    word "proben",
+    word: "proben",
     translation: "to rehearse",
     forms: {
       section_0: [
@@ -67762,7 +67762,7 @@ module.exports = [
     },
   },
   {
-    word "probieren",
+    word: "probieren",
     translation: "to try, to taste, to sample",
     forms: {
       section_0: [
@@ -67792,11 +67792,11 @@ module.exports = [
     },
   },
   {
-    word "producieren",
+    word: "producieren",
     translation: "Obsolete spelling of produzieren",
   },
   {
-    word "produzieren",
+    word: "produzieren",
     translation: "to produce",
     forms: {
       section_0: [
@@ -67826,7 +67826,7 @@ module.exports = [
     },
   },
   {
-    word "profitieren",
+    word: "profitieren",
     translation: "To benefit, To profit",
     forms: {
       section_0: [
@@ -67856,11 +67856,11 @@ module.exports = [
     },
   },
   {
-    word "prognostizieren",
+    word: "prognostizieren",
     translation: "to predict, (medicine) to prognose",
   },
   {
-    word "programmieren",
+    word: "programmieren",
     translation: "to program (enter a program or other instructions into a computer)",
     forms: {
       section_0: [
@@ -67890,11 +67890,11 @@ module.exports = [
     },
   },
   {
-    word "projicieren",
+    word: "projicieren",
     translation: "Obsolete spelling of projizieren",
   },
   {
-    word "projizieren",
+    word: "projizieren",
     translation: "to project (cast (image/shadow))",
     forms: {
       section_0: [
@@ -67924,15 +67924,15 @@ module.exports = [
     },
   },
   {
-    word "prokrastinieren",
+    word: "prokrastinieren",
     translation: "To put off; to delay taking action; to wait until later, to procrastinate",
   },
   {
-    word "promotieren",
+    word: "promotieren",
     translation: "(chemistry) To promote (a catalyst)",
   },
   {
-    word "promovieren",
+    word: "promovieren",
     translation: "(education) to promote, (university) to do a PhD",
     forms: {
       section_0: [
@@ -67962,11 +67962,11 @@ module.exports = [
     },
   },
   {
-    word "pronunzieren",
+    word: "pronunzieren",
     translation: "to pronounce",
   },
   {
-    word "propagieren",
+    word: "propagieren",
     translation: "to propogate",
     forms: {
       section_0: [
@@ -67996,7 +67996,7 @@ module.exports = [
     },
   },
   {
-    word "prophezeien",
+    word: "prophezeien",
     translation: "to prophesy",
     forms: {
       section_0: [
@@ -68026,11 +68026,11 @@ module.exports = [
     },
   },
   {
-    word "prosten",
+    word: "prosten",
     translation: "to raise on(e)'(s) glass, to toast",
   },
   {
-    word "prostituieren",
+    word: "prostituieren",
     translation: "(transitive or reflexive) to prostitute",
     forms: {
       section_0: [
@@ -68060,11 +68060,11 @@ module.exports = [
     },
   },
   {
-    word "protegieren",
+    word: "protegieren",
     translation: "to sponsor",
   },
   {
-    word "protestieren",
+    word: "protestieren",
     translation: "to protest (to make a strong objection)",
     forms: {
       section_0: [
@@ -68094,7 +68094,7 @@ module.exports = [
     },
   },
   {
-    word "protokollieren",
+    word: "protokollieren",
     translation: "to record, protocol, take minutes of",
     forms: {
       section_0: [
@@ -68124,7 +68124,7 @@ module.exports = [
     },
   },
   {
-    word "provozieren",
+    word: "provozieren",
     translation: "to provoke",
     forms: {
       section_0: [
@@ -68154,11 +68154,11 @@ module.exports = [
     },
   },
   {
-    word "prozessieren",
+    word: "prozessieren",
     translation: "to litigate (to go to law)",
   },
   {
-    word "prüfen",
+    word: "prüfen",
     translation: "to examine",
     forms: {
       section_0: [
@@ -68188,7 +68188,7 @@ module.exports = [
     },
   },
   {
-    word "prügeln",
+    word: "prügeln",
     translation: "to beat (up), to strike",
     forms: {
       section_0: [
@@ -68218,7 +68218,7 @@ module.exports = [
     },
   },
   {
-    word "prusten",
+    word: "prusten",
     translation: "to snort (especially with laughter), to splutter",
     forms: {
       section_0: [
@@ -68248,15 +68248,15 @@ module.exports = [
     },
   },
   {
-    word "pubertieren",
+    word: "pubertieren",
     translation: "to go through puberty",
   },
   {
-    word "puddeln",
+    word: "puddeln",
     translation: "To puddle",
   },
   {
-    word "pudern",
+    word: "pudern",
     translation: "to powder",
     forms: {
       section_0: [
@@ -68286,11 +68286,11 @@ module.exports = [
     },
   },
   {
-    word "pullern",
+    word: "pullern",
     translation: "(regional) to pee",
   },
   {
-    word "pulsieren",
+    word: "pulsieren",
     translation: "to pulsate",
     forms: {
       section_0: [
@@ -68320,7 +68320,7 @@ module.exports = [
     },
   },
   {
-    word "pumpen",
+    word: "pumpen",
     translation: "to pump",
     forms: {
       section_0: [
@@ -68350,23 +68350,23 @@ module.exports = [
     },
   },
   {
-    word "punkten",
+    word: "punkten",
     translation: "to score",
   },
   {
-    word "pupsen",
+    word: "pupsen",
     translation: "to fart (to emit flatulent gases)",
   },
   {
-    word "purgieren",
+    word: "purgieren",
     translation: "(dated) to purify, to cleanse, (medicine) to purge (the bowels), (dated, law, reflexive) to refute, under oath, a claim; to clear oneself of an accusation via oath",
   },
   {
-    word "pürieren",
+    word: "pürieren",
     translation: "to puree",
   },
   {
-    word "pusten",
+    word: "pusten",
     translation: "to blow (usually with one’s mouth)",
     forms: {
       section_0: [
@@ -68396,7 +68396,7 @@ module.exports = [
     },
   },
   {
-    word "putschen",
+    word: "putschen",
     translation: "to organize a coup d'état",
     forms: {
       section_0: [
@@ -68426,7 +68426,7 @@ module.exports = [
     },
   },
   {
-    word "putzen",
+    word: "putzen",
     translation: "(transitive) to clean, (transitive) to polish",
     forms: {
       section_0: [
@@ -68456,7 +68456,7 @@ module.exports = [
     },
   },
   {
-    word "quadrieren",
+    word: "quadrieren",
     translation: "to square",
     forms: {
       section_0: [
@@ -68486,7 +68486,7 @@ module.exports = [
     },
   },
   {
-    word "quaken",
+    word: "quaken",
     translation: "(ducks) to quack, (frogs) to croak",
     forms: {
       section_0: [
@@ -68516,7 +68516,7 @@ module.exports = [
     },
   },
   {
-    word "quälen",
+    word: "quälen",
     translation: "to torment, agonize, smite",
     forms: {
       section_0: [
@@ -68546,7 +68546,7 @@ module.exports = [
     },
   },
   {
-    word "qualifizieren",
+    word: "qualifizieren",
     translation: "(transitive, to make someone competent or eligible) to qualify, (reflexive, to become competent or eligible) to qualify",
     forms: {
       section_0: [
@@ -68576,7 +68576,7 @@ module.exports = [
     },
   },
   {
-    word "qualmen",
+    word: "qualmen",
     translation: "to fume, (colloquial, tobacco) to smoke",
     forms: {
       section_0: [
@@ -68606,15 +68606,15 @@ module.exports = [
     },
   },
   {
-    word "quantisieren",
+    word: "quantisieren",
     translation: "to quantize",
   },
   {
-    word "quarzen",
+    word: "quarzen",
     translation: "(slang) to smoke",
   },
   {
-    word "quasseln",
+    word: "quasseln",
     translation: "jabber, natter, palaver, yap, gab, jaw, twaddle, rattle on, rabbit on (to talk a lot or talk nonsense)",
     forms: {
       section_0: [
@@ -68644,7 +68644,7 @@ module.exports = [
     },
   },
   {
-    word "quatschen",
+    word: "quatschen",
     translation: "to talk nonsense, to chatter, babble",
     forms: {
       section_0: [
@@ -68674,7 +68674,7 @@ module.exports = [
     },
   },
   {
-    word "quellen",
+    word: "quellen",
     translation: "to well, to swell, to soak",
     forms: {
       section_0: [
@@ -68704,11 +68704,11 @@ module.exports = [
     },
   },
   {
-    word "queren",
+    word: "queren",
     translation: "third-person plural present indicative of querer",
   },
   {
-    word "quetschen",
+    word: "quetschen",
     translation: "to squeeze, to squish",
     forms: {
       section_0: [
@@ -68738,7 +68738,7 @@ module.exports = [
     },
   },
   {
-    word "quietschen",
+    word: "quietschen",
     translation: "to squeak",
     forms: {
       section_0: [
@@ -68768,7 +68768,7 @@ module.exports = [
     },
   },
   {
-    word "rächen",
+    word: "rächen",
     translation: "(transitive) to revenge, (reflexive) to take revenge",
     forms: {
       section_0: [
@@ -68798,11 +68798,11 @@ module.exports = [
     },
   },
   {
-    word "Rad fahren",
+    word: "Rad fahren",
     translation: "To cycle, to ride a bike",
   },
   {
-    word "radebrechen",
+    word: "radebrechen",
     translation: "to smatter (speak a language with superficial knowledge) (literally to break upon the wheel)",
     forms: {
       section_0: [
@@ -68832,11 +68832,11 @@ module.exports = [
     },
   },
   {
-    word "radfahren",
+    word: "radfahren",
     translation: "Alternative spelling of Rad fahren",
   },
   {
-    word "radieren",
+    word: "radieren",
     translation: "to etch (to engrave), to erase, rub out",
     forms: {
       section_0: [
@@ -68866,7 +68866,7 @@ module.exports = [
     },
   },
   {
-    word "radikalisieren",
+    word: "radikalisieren",
     translation: "to radicalize, to radicalise",
     forms: {
       section_0: [
@@ -68896,7 +68896,7 @@ module.exports = [
     },
   },
   {
-    word "raffinieren",
+    word: "raffinieren",
     translation: "(technology) to refine",
     forms: {
       section_0: [
@@ -68926,7 +68926,7 @@ module.exports = [
     },
   },
   {
-    word "ragen",
+    word: "ragen",
     translation: "(intransitive) to rise up out, (intransitive) to stick out, to jut out",
     forms: {
       section_0: [
@@ -68956,19 +68956,19 @@ module.exports = [
     },
   },
   {
-    word "räkeln",
+    word: "räkeln",
     translation: "(reflexive) to pandiculate, to stretch",
   },
   {
-    word "rallen",
+    word: "rallen",
     translation: "(slang) to understand",
   },
   {
-    word "ramifizieren",
+    word: "ramifizieren",
     translation: "to ramify (to divide into branches)",
   },
   {
-    word "rammen",
+    word: "rammen",
     translation: "(transitive) To ram, to intentionally collide with (a ship or car or building) with the intention of damaging or sinking it, (transitive) To strike (something) hard, especially with an implement",
     forms: {
       section_0: [
@@ -68998,11 +68998,11 @@ module.exports = [
     },
   },
   {
-    word "ramponieren",
+    word: "ramponieren",
     translation: "to damage",
   },
   {
-    word "randalieren",
+    word: "randalieren",
     translation: "to riot, rampage (to make lots of noise and damage things or injure people)",
     forms: {
       section_0: [
@@ -69032,7 +69032,7 @@ module.exports = [
     },
   },
   {
-    word "rangieren",
+    word: "rangieren",
     translation: "(railway operations) to shunt",
     forms: {
       section_0: [
@@ -69062,7 +69062,7 @@ module.exports = [
     },
   },
   {
-    word "ranken",
+    word: "ranken",
     translation: "(intransitive or reflexive) to grow in tendrils (of plants like ivy), (figuratively, with haben) to be told (of stories, myths, etc)",
     forms: {
       section_0: [
@@ -69092,7 +69092,7 @@ module.exports = [
     },
   },
   {
-    word "rankommen",
+    word: "rankommen",
     translation: "(colloquial) Short for herankommen, (colloquial) Short for drankommen",
     forms: {
       section_0: [
@@ -69122,11 +69122,11 @@ module.exports = [
     },
   },
   {
-    word "rappen",
+    word: "rappen",
     translation: "to rap (speak lyrics in the style of rap music)",
   },
   {
-    word "rascheln",
+    word: "rascheln",
     translation: "to rustle",
     forms: {
       section_0: [
@@ -69156,7 +69156,7 @@ module.exports = [
     },
   },
   {
-    word "rasen",
+    word: "rasen",
     translation: "(auxiliary sein) to race, (auxiliary haben) to rage",
     forms: {
       section_0: [
@@ -69186,7 +69186,7 @@ module.exports = [
     },
   },
   {
-    word "rasieren",
+    word: "rasieren",
     translation: "to shave",
     forms: {
       section_0: [
@@ -69216,11 +69216,11 @@ module.exports = [
     },
   },
   {
-    word "räsonieren",
+    word: "räsonieren",
     translation: "to reason, to argue",
   },
   {
-    word "rasten",
+    word: "rasten",
     translation: "to rest",
     forms: {
       section_0: [
@@ -69250,7 +69250,7 @@ module.exports = [
     },
   },
   {
-    word "raten",
+    word: "raten",
     translation: "(intransitive) to advise; to recommend, (transitive) to guess",
     forms: {
       section_0: [
@@ -69280,11 +69280,11 @@ module.exports = [
     },
   },
   {
-    word "rathen",
+    word: "rathen",
     translation: "Obsolete spelling of raten",
   },
   {
-    word "ratifizieren",
+    word: "ratifizieren",
     translation: "(treaty) to ratify",
     forms: {
       section_0: [
@@ -69314,11 +69314,11 @@ module.exports = [
     },
   },
   {
-    word "rationieren",
+    word: "rationieren",
     translation: "to ration",
   },
   {
-    word "rätseln",
+    word: "rätseln",
     translation: "to puzzle over",
     forms: {
       section_0: [
@@ -69348,7 +69348,7 @@ module.exports = [
     },
   },
   {
-    word "rauben",
+    word: "rauben",
     translation: "(criminal act) to rob, (figuratively) to rob, to deprive, to take away",
     forms: {
       section_0: [
@@ -69378,7 +69378,7 @@ module.exports = [
     },
   },
   {
-    word "rauchen",
+    word: "rauchen",
     translation: "to smoke",
     forms: {
       section_0: [
@@ -69408,7 +69408,7 @@ module.exports = [
     },
   },
   {
-    word "räuchern",
+    word: "räuchern",
     translation: "to fumigate, cure",
     forms: {
       section_0: [
@@ -69438,7 +69438,7 @@ module.exports = [
     },
   },
   {
-    word "raufen",
+    word: "raufen",
     translation: "to brawl, to horseplay",
     forms: {
       section_0: [
@@ -69468,7 +69468,7 @@ module.exports = [
     },
   },
   {
-    word "räumen",
+    word: "räumen",
     translation: "to clear",
     forms: {
       section_0: [
@@ -69498,7 +69498,7 @@ module.exports = [
     },
   },
   {
-    word "rausbringen",
+    word: "rausbringen",
     translation: "to bring or take out",
     forms: {
       section_0: [
@@ -69528,7 +69528,7 @@ module.exports = [
     },
   },
   {
-    word "rauschen",
+    word: "rauschen",
     translation: "(auxiliary haben) to rustle, murmur, (auxiliary sein, figuratively) to sweep",
     forms: {
       section_0: [
@@ -69558,7 +69558,7 @@ module.exports = [
     },
   },
   {
-    word "rausfliegen",
+    word: "rausfliegen",
     translation: "(colloquial) to be kicked out",
     forms: {
       section_0: [
@@ -69588,7 +69588,7 @@ module.exports = [
     },
   },
   {
-    word "rauskriegen",
+    word: "rauskriegen",
     translation: "to find out, catch wind of",
     forms: {
       section_0: [
@@ -69618,7 +69618,7 @@ module.exports = [
     },
   },
   {
-    word "räuspern",
+    word: "räuspern",
     translation: "(reflexive) to clear on(e)'(s) throat, to cough slightly (when trying to get attention)",
     forms: {
       section_0: [
@@ -69648,7 +69648,7 @@ module.exports = [
     },
   },
   {
-    word "rausschmeißen",
+    word: "rausschmeißen",
     translation: "to kick out",
     forms: {
       section_0: [
@@ -69678,11 +69678,11 @@ module.exports = [
     },
   },
   {
-    word "rawben",
+    word: "rawben",
     translation: "Obsolete spelling of rauben",
   },
   {
-    word "reagieren",
+    word: "reagieren",
     translation: "to react; to respond",
     forms: {
       section_0: [
@@ -69712,7 +69712,7 @@ module.exports = [
     },
   },
   {
-    word "realisieren",
+    word: "realisieren",
     translation: "to realize (to make real, to implement), to realize (to become aware of)",
     forms: {
       section_0: [
@@ -69742,11 +69742,11 @@ module.exports = [
     },
   },
   {
-    word "reanimieren",
+    word: "reanimieren",
     translation: "(medicine) to reanimate",
   },
   {
-    word "rebellieren",
+    word: "rebellieren",
     translation: "to rebel",
     forms: {
       section_0: [
@@ -69776,11 +69776,11 @@ module.exports = [
     },
   },
   {
-    word "recherchieren",
+    word: "recherchieren",
     translation: "to research, to investigate",
   },
   {
-    word "rechnen",
+    word: "rechnen",
     translation: "to count, reckon, calculate, compute, (with 'mit') to expect",
     forms: {
       section_0: [
@@ -69810,11 +69810,11 @@ module.exports = [
     },
   },
   {
-    word "rechtdrehen",
+    word: "rechtdrehen",
     translation: "(nautical, of wind) to veer; to shift in a clockwise direction",
   },
   {
-    word "rechtfertigen",
+    word: "rechtfertigen",
     translation: "to justify (provide an explanation or reason)",
     forms: {
       section_0: [
@@ -69844,7 +69844,7 @@ module.exports = [
     },
   },
   {
-    word "recken",
+    word: "recken",
     translation: "(reflexive, to stretch on(e)'(s) muscles) to stretch",
     forms: {
       section_0: [
@@ -69874,11 +69874,11 @@ module.exports = [
     },
   },
   {
-    word "recyceln",
+    word: "recyceln",
     translation: "To recycle",
   },
   {
-    word "reden",
+    word: "reden",
     translation: "(nautical) to equip (a ship)",
     forms: {
       section_0: [
@@ -69908,11 +69908,11 @@ module.exports = [
     },
   },
   {
-    word "redigieren",
+    word: "redigieren",
     translation: "to edit, as in to make corrections to contents and to correct style and layout (clarification of this German definition is being sought)",
   },
   {
-    word "reduzieren",
+    word: "reduzieren",
     translation: "to reduce",
     forms: {
       section_0: [
@@ -69942,11 +69942,11 @@ module.exports = [
     },
   },
   {
-    word "referenzieren",
+    word: "referenzieren",
     translation: "to reference (refer to)",
   },
   {
-    word "referieren",
+    word: "referieren",
     translation: "to report, to refer",
     forms: {
       section_0: [
@@ -69976,7 +69976,7 @@ module.exports = [
     },
   },
   {
-    word "reflektieren",
+    word: "reflektieren",
     translation: "to reflect",
     forms: {
       section_0: [
@@ -70006,7 +70006,7 @@ module.exports = [
     },
   },
   {
-    word "reformieren",
+    word: "reformieren",
     translation: "to reform",
     forms: {
       section_0: [
@@ -70036,7 +70036,7 @@ module.exports = [
     },
   },
   {
-    word "regeln",
+    word: "regeln",
     translation: "to regulate",
     forms: {
       section_0: [
@@ -70066,7 +70066,7 @@ module.exports = [
     },
   },
   {
-    word "regen",
+    word: "regen",
     translation: "(informal) regenerate",
     forms: {
       section_0: [
@@ -70096,7 +70096,7 @@ module.exports = [
     },
   },
   {
-    word "regenerieren",
+    word: "regenerieren",
     translation: "(transitive) to regenerate (to construct or create anew, especially in an improved manner), (intransitive) to recover (to get better, regain health)",
     forms: {
       section_0: [
@@ -70126,7 +70126,7 @@ module.exports = [
     },
   },
   {
-    word "regieren",
+    word: "regieren",
     translation: "to govern",
     forms: {
       section_0: [
@@ -70156,7 +70156,7 @@ module.exports = [
     },
   },
   {
-    word "registrieren",
+    word: "registrieren",
     translation: "to register, to notice",
     forms: {
       section_0: [
@@ -70186,11 +70186,11 @@ module.exports = [
     },
   },
   {
-    word "reglementieren",
+    word: "reglementieren",
     translation: "to regularize; to regiment",
   },
   {
-    word "regnen",
+    word: "regnen",
     translation: "third-person plural present indicative form of regnar",
     forms: {
       section_0: [
@@ -70220,7 +70220,7 @@ module.exports = [
     },
   },
   {
-    word "regulieren",
+    word: "regulieren",
     translation: "to regulate",
     forms: {
       section_0: [
@@ -70250,7 +70250,7 @@ module.exports = [
     },
   },
   {
-    word "reiben",
+    word: "reiben",
     translation: "(transitive or intransitive) to rub; to chafe, (transitive) to grate",
     forms: {
       section_0: [
@@ -70280,7 +70280,7 @@ module.exports = [
     },
   },
   {
-    word "reichen",
+    word: "reichen",
     translation: "to reach, to pass, to hand, to give, to be sufficient",
     forms: {
       section_0: [
@@ -70310,7 +70310,7 @@ module.exports = [
     },
   },
   {
-    word "reifen",
+    word: "reifen",
     translation: "to ripen",
     forms: {
       section_0: [
@@ -70340,11 +70340,11 @@ module.exports = [
     },
   },
   {
-    word "reifizieren",
+    word: "reifizieren",
     translation: "(rare) to reify",
   },
   {
-    word "reihen",
+    word: "reihen",
     translation: "to tack, to crimp",
     forms: {
       section_0: [
@@ -70374,7 +70374,7 @@ module.exports = [
     },
   },
   {
-    word "reimen",
+    word: "reimen",
     translation: "to rhyme",
     forms: {
       section_0: [
@@ -70404,7 +70404,7 @@ module.exports = [
     },
   },
   {
-    word "reinfallen",
+    word: "reinfallen",
     translation: "(colloquial) to fall in",
     forms: {
       section_0: [
@@ -70434,7 +70434,7 @@ module.exports = [
     },
   },
   {
-    word "reinigen",
+    word: "reinigen",
     translation: "to clean",
     forms: {
       section_0: [
@@ -70464,7 +70464,7 @@ module.exports = [
     },
   },
   {
-    word "reinlegen",
+    word: "reinlegen",
     translation: "(colloquial) to spoof",
     forms: {
       section_0: [
@@ -70494,11 +70494,11 @@ module.exports = [
     },
   },
   {
-    word "reinstitutionalisieren",
+    word: "reinstitutionalisieren",
     translation: "to reinstitutionalize",
   },
   {
-    word "reisen",
+    word: "reisen",
     translation: "(intransitive) to travel",
     forms: {
       section_0: [
@@ -70528,7 +70528,7 @@ module.exports = [
     },
   },
   {
-    word "reissen",
+    word: "reissen",
     translation: "Switzerland and Liechtenstein standard spelling of reißen",
     forms: {
       section_0: [
@@ -70558,7 +70558,7 @@ module.exports = [
     },
   },
   {
-    word "reißen",
+    word: "reißen",
     translation: "(transitive, auxiliary: “haben”) to tear (something); to pull (something) apart, (intransitive, auxiliary: “sein”) to break; to become torn apart, (transitive, auxiliary: “haben”) to snatch; to wrench; to yank; to drag; to tug; to pull on (something)",
     forms: {
       section_0: [
@@ -70588,7 +70588,7 @@ module.exports = [
     },
   },
   {
-    word "reiten",
+    word: "reiten",
     translation: "(intransitive, auxiliary: “sein”) to ride; to travel by horse, (transitive, auxiliary: “haben”) to ride on the back of (someone or something)",
     forms: {
       section_0: [
@@ -70618,7 +70618,7 @@ module.exports = [
     },
   },
   {
-    word "reizen",
+    word: "reizen",
     translation: "to travel",
     forms: {
       section_0: [
@@ -70648,11 +70648,11 @@ module.exports = [
     },
   },
   {
-    word "rekapitulieren",
+    word: "rekapitulieren",
     translation: "to recapitulate",
   },
   {
-    word "rekeln",
+    word: "rekeln",
     translation: "(reflexive) Alternative form of räkeln",
     forms: {
       section_0: [
@@ -70682,7 +70682,7 @@ module.exports = [
     },
   },
   {
-    word "reklamieren",
+    word: "reklamieren",
     translation: "(intransitive) to complain, (transitive) to complain about; to query",
     forms: {
       section_0: [
@@ -70712,7 +70712,7 @@ module.exports = [
     },
   },
   {
-    word "rekonstruieren",
+    word: "rekonstruieren",
     translation: "to reconstruct",
     forms: {
       section_0: [
@@ -70742,7 +70742,7 @@ module.exports = [
     },
   },
   {
-    word "rekrutieren",
+    word: "rekrutieren",
     translation: "to recruit",
     forms: {
       section_0: [
@@ -70772,7 +70772,7 @@ module.exports = [
     },
   },
   {
-    word "rennen",
+    word: "rennen",
     translation: "(intransitive, about people or animals) to run, to move fast, (intransitive, about fluids) to run, flow, stream, (intransitive, about fluids) to flow together, combine, thicken, (intransitive) to leak, seep trough",
     forms: {
       section_0: [
@@ -70802,11 +70802,11 @@ module.exports = [
     },
   },
   {
-    word "renommieren",
+    word: "renommieren",
     translation: "to boast, to brag",
   },
   {
-    word "renovieren",
+    word: "renovieren",
     translation: "to renovate",
     forms: {
       section_0: [
@@ -70836,7 +70836,7 @@ module.exports = [
     },
   },
   {
-    word "reparieren",
+    word: "reparieren",
     translation: "to repair",
     forms: {
       section_0: [
@@ -70866,19 +70866,19 @@ module.exports = [
     },
   },
   {
-    word "replicieren",
+    word: "replicieren",
     translation: "Obsolete spelling of replizieren",
   },
   {
-    word "repliciren",
+    word: "repliciren",
     translation: "Obsolete spelling of replizieren",
   },
   {
-    word "replizieren",
+    word: "replizieren",
     translation: "to replicate",
   },
   {
-    word "repräsentieren",
+    word: "repräsentieren",
     translation: "to represent (to stand in the place of)",
     forms: {
       section_0: [
@@ -70908,7 +70908,7 @@ module.exports = [
     },
   },
   {
-    word "reproduzieren",
+    word: "reproduzieren",
     translation: "to reproduce",
     forms: {
       section_0: [
@@ -70938,7 +70938,7 @@ module.exports = [
     },
   },
   {
-    word "requirieren",
+    word: "requirieren",
     translation: "(military) to commandeer, to requisition, to seize",
     forms: {
       section_0: [
@@ -70968,7 +70968,7 @@ module.exports = [
     },
   },
   {
-    word "reservieren",
+    word: "reservieren",
     translation: "to reserve",
     forms: {
       section_0: [
@@ -70998,7 +70998,7 @@ module.exports = [
     },
   },
   {
-    word "respektieren",
+    word: "respektieren",
     translation: "to respect",
     forms: {
       section_0: [
@@ -71028,7 +71028,7 @@ module.exports = [
     },
   },
   {
-    word "restaurieren",
+    word: "restaurieren",
     translation: "(building, painting, etc) to restore",
     forms: {
       section_0: [
@@ -71058,7 +71058,7 @@ module.exports = [
     },
   },
   {
-    word "retten",
+    word: "retten",
     translation: "to save, to rescue",
     forms: {
       section_0: [
@@ -71088,7 +71088,7 @@ module.exports = [
     },
   },
   {
-    word "retuschieren",
+    word: "retuschieren",
     translation: "to retouch",
     forms: {
       section_0: [
@@ -71118,7 +71118,7 @@ module.exports = [
     },
   },
   {
-    word "reuen",
+    word: "reuen",
     translation: "to regret, to be sorry (for), to rue, to repent (of)",
     forms: {
       section_0: [
@@ -71148,11 +71148,11 @@ module.exports = [
     },
   },
   {
-    word "reüssieren",
+    word: "reüssieren",
     translation: "to succeed",
   },
   {
-    word "revanchieren",
+    word: "revanchieren",
     translation: "(reflexive) to return the favor",
     forms: {
       section_0: [
@@ -71182,7 +71182,7 @@ module.exports = [
     },
   },
   {
-    word "revidieren",
+    word: "revidieren",
     translation: "to revise",
     forms: {
       section_0: [
@@ -71212,7 +71212,7 @@ module.exports = [
     },
   },
   {
-    word "revoltieren",
+    word: "revoltieren",
     translation: "to revolt",
     forms: {
       section_0: [
@@ -71242,7 +71242,7 @@ module.exports = [
     },
   },
   {
-    word "revolutionieren",
+    word: "revolutionieren",
     translation: "to revolutionize",
     forms: {
       section_0: [
@@ -71272,7 +71272,7 @@ module.exports = [
     },
   },
   {
-    word "rezitieren",
+    word: "rezitieren",
     translation: "to recite",
     forms: {
       section_0: [
@@ -71302,11 +71302,11 @@ module.exports = [
     },
   },
   {
-    word "rhodinieren",
+    word: "rhodinieren",
     translation: "To rhodium-plate",
   },
   {
-    word "richten",
+    word: "richten",
     translation: "(transitive) to direct, aim",
     forms: {
       section_0: [
@@ -71336,7 +71336,7 @@ module.exports = [
     },
   },
   {
-    word "riechen",
+    word: "riechen",
     translation: "(transitive) to smell (something); to sniff (something), (intransitive) to use the sense of smell; to detect a smell, (intransitive) to reek; to smell bad, (intransitive) to have a scent; to smell (some way), (transitive, slang) to tolerate (someone); to stand (someone)",
     forms: {
       section_0: [
@@ -71366,7 +71366,7 @@ module.exports = [
     },
   },
   {
-    word "riffeln",
+    word: "riffeln",
     translation: "to groove (provide with narrow, parallel channels), to ripple (remove seeds from the stalks of flax by means of a comb)",
     forms: {
       section_0: [
@@ -71396,7 +71396,7 @@ module.exports = [
     },
   },
   {
-    word "ringeln",
+    word: "ringeln",
     translation: "(transitive) to twine, entwine, to curl, (reflexive) to curl",
     forms: {
       section_0: [
@@ -71426,7 +71426,7 @@ module.exports = [
     },
   },
   {
-    word "ringen",
+    word: "ringen",
     translation: "(intransitive) to wrestle, (intransitive) to struggle, (transitive) to wring (for example “hands”; but not “clothes”, for that see wringen)",
     forms: {
       section_0: [
@@ -71456,7 +71456,7 @@ module.exports = [
     },
   },
   {
-    word "rinnen",
+    word: "rinnen",
     translation: "to flow, to leak, to run, to trickle",
     forms: {
       section_0: [
@@ -71486,7 +71486,7 @@ module.exports = [
     },
   },
   {
-    word "riskieren",
+    word: "riskieren",
     translation: "to risk",
     forms: {
       section_0: [
@@ -71516,7 +71516,7 @@ module.exports = [
     },
   },
   {
-    word "ritzen",
+    word: "ritzen",
     translation: "to scratch",
     forms: {
       section_0: [
@@ -71546,7 +71546,7 @@ module.exports = [
     },
   },
   {
-    word "rivalisieren",
+    word: "rivalisieren",
     translation: "to rival",
     forms: {
       section_0: [
@@ -71576,7 +71576,7 @@ module.exports = [
     },
   },
   {
-    word "robben",
+    word: "robben",
     translation: "(when applied to humans) to creep, to crawl; to move on ground level, lying flatly on the stomach with the help of on(e)'(s) forearms or elbows, (when applied to seals) describing the typical movement of a seal on land",
     forms: {
       section_0: [
@@ -71606,15 +71606,15 @@ module.exports = [
     },
   },
   {
-    word "rochieren",
+    word: "rochieren",
     translation: "(chess) to castle (to perform the move of castling)",
   },
   {
-    word "rödeln",
+    word: "rödeln",
     translation: "to work (hard, especially to get something), to lash, to bind (especially with wires), (vulgar) to fuck (especially anally)",
   },
   {
-    word "roden",
+    word: "roden",
     translation: "third-person plural present indicative form of rodar",
     forms: {
       section_0: [
@@ -71644,7 +71644,7 @@ module.exports = [
     },
   },
   {
-    word "rollen",
+    word: "rollen",
     translation: "(ergative) to roll",
     forms: {
       section_0: [
@@ -71674,7 +71674,7 @@ module.exports = [
     },
   },
   {
-    word "romantisieren",
+    word: "romantisieren",
     translation: "to romanticize, to romanticise",
     forms: {
       section_0: [
@@ -71704,7 +71704,7 @@ module.exports = [
     },
   },
   {
-    word "röntgen",
+    word: "röntgen",
     translation: "to X-ray",
     forms: {
       section_0: [
@@ -71734,11 +71734,11 @@ module.exports = [
     },
   },
   {
-    word "rosten",
+    word: "rosten",
     translation: "to rust",
   },
   {
-    word "rösten",
+    word: "rösten",
     translation: "to toast, roast, or parch",
     forms: {
       section_0: [
@@ -71768,7 +71768,7 @@ module.exports = [
     },
   },
   {
-    word "rotieren",
+    word: "rotieren",
     translation: "to rotate",
     forms: {
       section_0: [
@@ -71798,27 +71798,27 @@ module.exports = [
     },
   },
   {
-    word "rotzen",
+    word: "rotzen",
     translation: "(vulgar) to spit, to gob (Br), to slag (Aus)",
   },
   {
-    word "rückdrehen",
+    word: "rückdrehen",
     translation: "(nautical, of wind) to back; to shift in an anticlockwise direction",
   },
   {
-    word "ruckeln",
+    word: "ruckeln",
     translation: "to jerk, shake",
   },
   {
-    word "rücken",
+    word: "rücken",
     translation: "(transitive) to move, to push, (intransitive) to move over",
   },
   {
-    word "rückgängig machen",
+    word: "rückgängig machen",
     translation: "undo",
   },
   {
-    word "rudern",
+    word: "rudern",
     translation: "(transitive, intransitive) to row (propel over water using oars), (intransitive) to flail (on(e)'(s) arms)",
     forms: {
       section_0: [
@@ -71848,7 +71848,7 @@ module.exports = [
     },
   },
   {
-    word "rufen",
+    word: "rufen",
     translation: "(intransitive) to call out; to shout; to cry; to shriek, (intransitive, with “nach ”) to call (for someone); to request the presence (of someone), (transitive) to call (something) out, (with dative object) to ask (someone) to do something; to call for (someone) to do something, (transitive) to call (someone), eg by telephone",
     forms: {
       section_0: [
@@ -71878,7 +71878,7 @@ module.exports = [
     },
   },
   {
-    word "rüffeln",
+    word: "rüffeln",
     translation: "to reprimand",
     forms: {
       section_0: [
@@ -71908,7 +71908,7 @@ module.exports = [
     },
   },
   {
-    word "rügen",
+    word: "rügen",
     translation: "to reprove (to convey on(e)'(s) disapproval of in a gentle, kind, sweet tone)",
     forms: {
       section_0: [
@@ -71938,7 +71938,7 @@ module.exports = [
     },
   },
   {
-    word "ruhen",
+    word: "ruhen",
     translation: "(intransitive, of something animate) to rest; to sleep, (intransitive, euphemistic, to be buried) to rest, (intransitive, of something inanimate) to be positioned; to rest, (intransitive, of a process or event) to stall; to be suspended",
     forms: {
       section_0: [
@@ -71968,7 +71968,7 @@ module.exports = [
     },
   },
   {
-    word "rühren",
+    word: "rühren",
     translation: "(transitive or intransitive) to stir, (transitive or intransitive) to move, (reflexive) to bustle",
     forms: {
       section_0: [
@@ -71998,7 +71998,7 @@ module.exports = [
     },
   },
   {
-    word "ruinieren",
+    word: "ruinieren",
     translation: "to ruin",
     forms: {
       section_0: [
@@ -72028,7 +72028,7 @@ module.exports = [
     },
   },
   {
-    word "rülpsen",
+    word: "rülpsen",
     translation: "to burp",
     forms: {
       section_0: [
@@ -72058,7 +72058,7 @@ module.exports = [
     },
   },
   {
-    word "rumalbern",
+    word: "rumalbern",
     translation: "to goof off, to fuck around",
     forms: {
       section_0: [
@@ -72088,11 +72088,11 @@ module.exports = [
     },
   },
   {
-    word "rumkümmeln",
+    word: "rumkümmeln",
     translation: "to hang out, in an especially sluggish manner; to loaf",
   },
   {
-    word "rummeln",
+    word: "rummeln",
     translation: "to rumble",
     forms: {
       section_0: [
@@ -72122,11 +72122,11 @@ module.exports = [
     },
   },
   {
-    word "runden",
+    word: "runden",
     translation: "plural past indicative and subjunctive of runnen",
   },
   {
-    word "runterkippen",
+    word: "runterkippen",
     translation: "to down (to drink or swallow)",
     forms: {
       section_0: [
@@ -72156,11 +72156,11 @@ module.exports = [
     },
   },
   {
-    word "runterkommen",
+    word: "runterkommen",
     translation: "(colloquial) Short for herunterkommen, (colloquial) to calm down",
   },
   {
-    word "runzeln",
+    word: "runzeln",
     translation: "to crinkle, to wrinkle",
     forms: {
       section_0: [
@@ -72190,7 +72190,7 @@ module.exports = [
     },
   },
   {
-    word "rupfen",
+    word: "rupfen",
     translation: "to pluck; to tear off; to rip; to rip off",
     forms: {
       section_0: [
@@ -72220,7 +72220,7 @@ module.exports = [
     },
   },
   {
-    word "russen",
+    word: "russen",
     translation: "Switzerland and Liechtenstein standard spelling of rußen",
     forms: {
       section_0: [
@@ -72250,7 +72250,7 @@ module.exports = [
     },
   },
   {
-    word "rußen",
+    word: "rußen",
     translation: "(intransitive, of candles and oil lamps) to smoke, (intransitive, of ovens) to produce soot, (transitive) to sooty",
     forms: {
       section_0: [
@@ -72280,7 +72280,7 @@ module.exports = [
     },
   },
   {
-    word "rüsten",
+    word: "rüsten",
     translation: "to equip, to prepare",
     forms: {
       section_0: [
@@ -72310,7 +72310,7 @@ module.exports = [
     },
   },
   {
-    word "rutschen",
+    word: "rutschen",
     translation: "to slide",
     forms: {
       section_0: [
@@ -72340,7 +72340,7 @@ module.exports = [
     },
   },
   {
-    word "sabbeln",
+    word: "sabbeln",
     translation: "jabber, gab, rattle on, rabbit on (to talk a lot and quickly, or to talk nonsense)",
     forms: {
       section_0: [
@@ -72370,7 +72370,7 @@ module.exports = [
     },
   },
   {
-    word "sabbern",
+    word: "sabbern",
     translation: "to drivel, to drool",
     forms: {
       section_0: [
@@ -72400,7 +72400,7 @@ module.exports = [
     },
   },
   {
-    word "sabotieren",
+    word: "sabotieren",
     translation: "to sabotage",
     forms: {
       section_0: [
@@ -72430,11 +72430,11 @@ module.exports = [
     },
   },
   {
-    word "sächseln",
+    word: "sächseln",
     translation: "(mildly derogatory) to speak or sound sächsisch (like one is from Saxony)",
   },
   {
-    word "säen",
+    word: "säen",
     translation: "(transitive or intransitive) to sow",
     forms: {
       section_0: [
@@ -72464,7 +72464,7 @@ module.exports = [
     },
   },
   {
-    word "saften",
+    word: "saften",
     translation: "(intransitive) to make juice, (intransitive) to exude juice or another liquid, (intransitive) to be or become full of sap, (intransitive, informal) to make inappropriate comments",
     forms: {
       section_0: [
@@ -72494,7 +72494,7 @@ module.exports = [
     },
   },
   {
-    word "sagen",
+    word: "sagen",
     translation: "(transitive or intransitive) to say; to tell",
     forms: {
       section_0: [
@@ -72524,11 +72524,11 @@ module.exports = [
     },
   },
   {
-    word "sägen",
+    word: "sägen",
     translation: "(transitive) to saw",
   },
   {
-    word "salutieren",
+    word: "salutieren",
     translation: "to salute (make a gesture in honor of someone or something)",
     forms: {
       section_0: [
@@ -72558,7 +72558,7 @@ module.exports = [
     },
   },
   {
-    word "salzen",
+    word: "salzen",
     translation: "(transitive) to salt (something) for flavor; to season, (transitive) to preserve (something) with salt",
     forms: {
       section_0: [
@@ -72588,7 +72588,7 @@ module.exports = [
     },
   },
   {
-    word "sammeln",
+    word: "sammeln",
     translation: "(transitive) to gather; to assemble; to collect, (reflexive) to congregate; to assemble; to meet, (intransitive) to collect money",
     forms: {
       section_0: [
@@ -72618,7 +72618,7 @@ module.exports = [
     },
   },
   {
-    word "sanieren",
+    word: "sanieren",
     translation: "to redevelop, to reconstruct, (finance) to rehabilitate",
     forms: {
       section_0: [
@@ -72648,7 +72648,7 @@ module.exports = [
     },
   },
   {
-    word "sanktionieren",
+    word: "sanktionieren",
     translation: "to give official approval to; to sanction, to penalize with sanctions; to sanction",
     forms: {
       section_0: [
@@ -72678,7 +72678,7 @@ module.exports = [
     },
   },
   {
-    word "satteln",
+    word: "satteln",
     translation: "to saddle",
     forms: {
       section_0: [
@@ -72708,7 +72708,7 @@ module.exports = [
     },
   },
   {
-    word "sättigen",
+    word: "sättigen",
     translation: "to satisfy, to gorge, to satiate, to saturate",
     forms: {
       section_0: [
@@ -72738,7 +72738,7 @@ module.exports = [
     },
   },
   {
-    word "saubermachen",
+    word: "saubermachen",
     translation: "to clean",
     forms: {
       section_0: [
@@ -72768,7 +72768,7 @@ module.exports = [
     },
   },
   {
-    word "säubern",
+    word: "säubern",
     translation: "to clean, to cleanse",
     forms: {
       section_0: [
@@ -72798,7 +72798,7 @@ module.exports = [
     },
   },
   {
-    word "saufen",
+    word: "saufen",
     translation: "(transitive or intransitive, of an animal) to drink, (transitive or intransitive, colloquial, of a person) to guzzle alcohol; to booze",
     forms: {
       section_0: [
@@ -72828,11 +72828,11 @@ module.exports = [
     },
   },
   {
-    word "saugen",
+    word: "saugen",
     translation: "(intransitive) to suck; to create underpressure with a tube-like object such as on(e)'(s) mouth, (transitive) to suck (something), (colloquial, transitive) to download something",
   },
   {
-    word "säugen",
+    word: "säugen",
     translation: "to lactate, to suckle, to give suck",
     forms: {
       section_0: [
@@ -72862,7 +72862,7 @@ module.exports = [
     },
   },
   {
-    word "säumen",
+    word: "säumen",
     translation: "To hem (put a hem on an article of clothing), To border; to line; to skirt, To do something later than it could be done without a good reason",
     forms: {
       section_0: [
@@ -72892,11 +72892,11 @@ module.exports = [
     },
   },
   {
-    word "saunieren",
+    word: "saunieren",
     translation: "to sauna",
   },
   {
-    word "säuseln",
+    word: "säuseln",
     translation: "to rustle (to make a soft crackling sound), to purr (to say something in a seductive manner)",
     forms: {
       section_0: [
@@ -72926,7 +72926,7 @@ module.exports = [
     },
   },
   {
-    word "sausen",
+    word: "sausen",
     translation: "to rush, to dash, to whizz",
     forms: {
       section_0: [
@@ -72956,15 +72956,15 @@ module.exports = [
     },
   },
   {
-    word "sautieren",
+    word: "sautieren",
     translation: "to sauté",
   },
   {
-    word "scannen",
+    word: "scannen",
     translation: "to scan",
   },
   {
-    word "schaben",
+    word: "schaben",
     translation: "(transitive) to scrape; to scratch; to scour; to chafe, (intransitive) to scrape, (reflexive) to scrape oneself; to scrub oneself, (reflexive, figuratively) to shave oneself",
     forms: {
       section_0: [
@@ -72994,7 +72994,7 @@ module.exports = [
     },
   },
   {
-    word "schachern",
+    word: "schachern",
     translation: "to haggle",
     forms: {
       section_0: [
@@ -73024,7 +73024,7 @@ module.exports = [
     },
   },
   {
-    word "schaden",
+    word: "schaden",
     translation: "(intransitive) to damage; to harm; to hurt",
     forms: {
       section_0: [
@@ -73054,7 +73054,7 @@ module.exports = [
     },
   },
   {
-    word "schädigen",
+    word: "schädigen",
     translation: "to damage, harm, hurt, injure",
     forms: {
       section_0: [
@@ -73084,7 +73084,7 @@ module.exports = [
     },
   },
   {
-    word "schaffen",
+    word: "schaffen",
     translation: "(transitive) to procure, (transitive) to serve up",
     forms: {
       section_0: [
@@ -73114,11 +73114,11 @@ module.exports = [
     },
   },
   {
-    word "schälen",
+    word: "schälen",
     translation: "(transitive) to peel; to pare; to husk; to skin, (reflexive) to peel off",
   },
   {
-    word "schallen",
+    word: "schallen",
     translation: "to sound loudly, to resound, to echo",
     forms: {
       section_0: [
@@ -73148,7 +73148,7 @@ module.exports = [
     },
   },
   {
-    word "schalten",
+    word: "schalten",
     translation: "to switch",
     forms: {
       section_0: [
@@ -73178,7 +73178,7 @@ module.exports = [
     },
   },
   {
-    word "schämen",
+    word: "schämen",
     translation: "(reflexive) to be ashamed or embarrassed",
     forms: {
       section_0: [
@@ -73208,7 +73208,7 @@ module.exports = [
     },
   },
   {
-    word "schänden",
+    word: "schänden",
     translation: "(with non-personal objects) to desecrate; to dishonour, (with personal objects, chiefly dated, literary) to violate; to rape; to ravish",
     forms: {
       section_0: [
@@ -73238,11 +73238,11 @@ module.exports = [
     },
   },
   {
-    word "schanghaien",
+    word: "schanghaien",
     translation: "to shanghai",
   },
   {
-    word "schärfen",
+    word: "schärfen",
     translation: "(transitive) to sharpen, (transitive, figuratively) to strengthen; to sharpen",
     forms: {
       section_0: [
@@ -73272,7 +73272,7 @@ module.exports = [
     },
   },
   {
-    word "scharren",
+    word: "scharren",
     translation: "to scrape",
     forms: {
       section_0: [
@@ -73302,7 +73302,7 @@ module.exports = [
     },
   },
   {
-    word "schassen",
+    word: "schassen",
     translation: "to kick out",
     forms: {
       section_0: [
@@ -73332,7 +73332,7 @@ module.exports = [
     },
   },
   {
-    word "schätzen",
+    word: "schätzen",
     translation: "(transitive) to estimate; to guess; to suppose; to assume, (transitive) to evaluate; to price; to assess, (transitive) to esteem; to appreciate; to value",
     forms: {
       section_0: [
@@ -73362,7 +73362,7 @@ module.exports = [
     },
   },
   {
-    word "schaudern",
+    word: "schaudern",
     translation: "(intransitive) to shudder; to shiver",
     forms: {
       section_0: [
@@ -73392,7 +73392,7 @@ module.exports = [
     },
   },
   {
-    word "schauen",
+    word: "schauen",
     translation: "to look (at something)",
     forms: {
       section_0: [
@@ -73422,7 +73422,7 @@ module.exports = [
     },
   },
   {
-    word "schauern",
+    word: "schauern",
     translation: "(intransitive) to shiver",
     forms: {
       section_0: [
@@ -73452,7 +73452,7 @@ module.exports = [
     },
   },
   {
-    word "schaufeln",
+    word: "schaufeln",
     translation: "to shovel",
     forms: {
       section_0: [
@@ -73482,7 +73482,7 @@ module.exports = [
     },
   },
   {
-    word "schaukeln",
+    word: "schaukeln",
     translation: "to swing",
     forms: {
       section_0: [
@@ -73512,7 +73512,7 @@ module.exports = [
     },
   },
   {
-    word "schäumen",
+    word: "schäumen",
     translation: "to froth, to foam, to fume (to feel or express great anger)",
     forms: {
       section_0: [
@@ -73542,7 +73542,7 @@ module.exports = [
     },
   },
   {
-    word "schauspielern",
+    word: "schauspielern",
     translation: "(colloquial, often pejorative) to work as an actor, to job as an actor, (colloquial, pejorative) to act, to playact",
     forms: {
       section_0: [
@@ -73572,7 +73572,7 @@ module.exports = [
     },
   },
   {
-    word "scheffeln",
+    word: "scheffeln",
     translation: "to accumulate",
     forms: {
       section_0: [
@@ -73602,7 +73602,7 @@ module.exports = [
     },
   },
   {
-    word "scheiden",
+    word: "scheiden",
     translation: "(transitive) to separate, (intransitive) to divorce",
     forms: {
       section_0: [
@@ -73632,7 +73632,7 @@ module.exports = [
     },
   },
   {
-    word "scheinen",
+    word: "scheinen",
     translation: "to shine; to gleam, to seem; to appear; to look",
     forms: {
       section_0: [
@@ -73662,7 +73662,7 @@ module.exports = [
     },
   },
   {
-    word "scheissen",
+    word: "scheissen",
     translation: "Switzerland and Liechtenstein standard spelling of scheißen",
     forms: {
       section_0: [
@@ -73692,7 +73692,7 @@ module.exports = [
     },
   },
   {
-    word "scheißen",
+    word: "scheißen",
     translation: "(vulgar) to shit",
     forms: {
       section_0: [
@@ -73722,7 +73722,7 @@ module.exports = [
     },
   },
   {
-    word "scheitern",
+    word: "scheitern",
     translation: "to fail",
     forms: {
       section_0: [
@@ -73752,7 +73752,7 @@ module.exports = [
     },
   },
   {
-    word "schellen",
+    word: "schellen",
     translation: "(transitive, dated) To peel, (intransitive, dated) To be peeled",
     forms: {
       section_0: [
@@ -73782,7 +73782,7 @@ module.exports = [
     },
   },
   {
-    word "schelten",
+    word: "schelten",
     translation: "(transitive) to scold (someone); to rebuke; to chide, (intransitive) to scold",
     forms: {
       section_0: [
@@ -73812,7 +73812,7 @@ module.exports = [
     },
   },
   {
-    word "schenken",
+    word: "schenken",
     translation: "to give as a present, to gift, to pour",
     forms: {
       section_0: [
@@ -73842,7 +73842,7 @@ module.exports = [
     },
   },
   {
-    word "scheren",
+    word: "scheren",
     translation: "to shave (reflexive pronouns are used for self-directed actions), to shear",
     forms: {
       section_0: [
@@ -73872,7 +73872,7 @@ module.exports = [
     },
   },
   {
-    word "scherzen",
+    word: "scherzen",
     translation: "(intransitive) to joke; to jest; to frolic",
     forms: {
       section_0: [
@@ -73902,7 +73902,7 @@ module.exports = [
     },
   },
   {
-    word "scheuchen",
+    word: "scheuchen",
     translation: "to shoo, shoo away, drive away",
     forms: {
       section_0: [
@@ -73932,7 +73932,7 @@ module.exports = [
     },
   },
   {
-    word "scheuen",
+    word: "scheuen",
     translation: "(transitive) to shrink from; shun, (reflexive) to be afraid of, shrink from (+ vor)",
     forms: {
       section_0: [
@@ -73962,7 +73962,7 @@ module.exports = [
     },
   },
   {
-    word "scheuern",
+    word: "scheuern",
     translation: "(transitive) to scrub; to scour, (transitive or intransitive) to chafe",
     forms: {
       section_0: [
@@ -73992,7 +73992,7 @@ module.exports = [
     },
   },
   {
-    word "schichten",
+    word: "schichten",
     translation: "To layer, stratify, laminate",
     forms: {
       section_0: [
@@ -74022,11 +74022,11 @@ module.exports = [
     },
   },
   {
-    word "schick",
+    word: "schick",
     translation: "Imperative of schicken",
   },
   {
-    word "schicken",
+    word: "schicken",
     translation: "(transitive) to send, (reflexive) to hurry (rare), (reflexive) to be decent, to be appropriate",
     forms: {
       section_0: [
@@ -74056,7 +74056,7 @@ module.exports = [
     },
   },
   {
-    word "schieben",
+    word: "schieben",
     translation: "(transitive) to push; to shove, (transitive) to slide; to slip; to put, (intransitive) to push, (transitive or intransitive, colloquial) to traffic (something); to profiteer; to racketeer",
     forms: {
       section_0: [
@@ -74086,11 +74086,11 @@ module.exports = [
     },
   },
   {
-    word "schiefern",
+    word: "schiefern",
     translation: "(reflexive) to shatter, (Switzerland) to skip (a stone over water)",
   },
   {
-    word "schielen",
+    word: "schielen",
     translation: "to squint, to leer",
     forms: {
       section_0: [
@@ -74120,7 +74120,7 @@ module.exports = [
     },
   },
   {
-    word "schiessen",
+    word: "schiessen",
     translation: "Switzerland and Liechtenstein standard spelling of schießen",
     forms: {
       section_0: [
@@ -74150,7 +74150,7 @@ module.exports = [
     },
   },
   {
-    word "schießen",
+    word: "schießen",
     translation: "(transitive or intransitive, auxiliary: “haben”) to shoot; to fire, (sports, auxiliary: “haben”) to kick; to shoot, (photography, auxiliary: “haben”) to shoot, (slang, drugs, auxiliary: “haben”) to shoot up, (intransitive, auxiliary: “sein”) to dart; to shoot; to rush; to gush",
     forms: {
       section_0: [
@@ -74180,7 +74180,7 @@ module.exports = [
     },
   },
   {
-    word "schiffen",
+    word: "schiffen",
     translation: "(colloquial) to urinate",
     forms: {
       section_0: [
@@ -74210,7 +74210,7 @@ module.exports = [
     },
   },
   {
-    word "schikanieren",
+    word: "schikanieren",
     translation: "to bully, to harass",
     forms: {
       section_0: [
@@ -74240,7 +74240,7 @@ module.exports = [
     },
   },
   {
-    word "schildern",
+    word: "schildern",
     translation: "to depict, narrate",
     forms: {
       section_0: [
@@ -74270,7 +74270,7 @@ module.exports = [
     },
   },
   {
-    word "schillern",
+    word: "schillern",
     translation: "to shimmer, to glisten",
     forms: {
       section_0: [
@@ -74300,7 +74300,7 @@ module.exports = [
     },
   },
   {
-    word "schimmeln",
+    word: "schimmeln",
     translation: "to mold (clarification of this German definition is being sought)",
     forms: {
       section_0: [
@@ -74330,7 +74330,7 @@ module.exports = [
     },
   },
   {
-    word "schimmern",
+    word: "schimmern",
     translation: "to glimmer, to shimmer",
     forms: {
       section_0: [
@@ -74360,7 +74360,7 @@ module.exports = [
     },
   },
   {
-    word "schimpfen",
+    word: "schimpfen",
     translation: "to tell off, scold",
     forms: {
       section_0: [
@@ -74390,15 +74390,15 @@ module.exports = [
     },
   },
   {
-    word "schippen",
+    word: "schippen",
     translation: "to shovel",
   },
   {
-    word "schippern",
+    word: "schippern",
     translation: "to go by ship, to sail (usually slowly)",
   },
   {
-    word "schirmen",
+    word: "schirmen",
     translation: "to shield, to screen or protect",
     forms: {
       section_0: [
@@ -74428,7 +74428,7 @@ module.exports = [
     },
   },
   {
-    word "schlabbern",
+    word: "schlabbern",
     translation: "to slurp",
     forms: {
       section_0: [
@@ -74458,7 +74458,7 @@ module.exports = [
     },
   },
   {
-    word "schlachten",
+    word: "schlachten",
     translation: "to slaughter (an animal, in order to obtain meat or raw materials)",
     forms: {
       section_0: [
@@ -74488,7 +74488,7 @@ module.exports = [
     },
   },
   {
-    word "schlafen",
+    word: "schlafen",
     translation: "to sleep, to 'sleep' on something, to wait and think before making a decision",
     forms: {
       section_0: [
@@ -74518,7 +74518,7 @@ module.exports = [
     },
   },
   {
-    word "schlafwandeln",
+    word: "schlafwandeln",
     translation: "to sleepwalk",
     forms: {
       section_0: [
@@ -74548,7 +74548,7 @@ module.exports = [
     },
   },
   {
-    word "schlagen",
+    word: "schlagen",
     translation: "(transitive) to beat; to hit; to knock; to strike; to punch; to hammer; to pound, (transitive, figuratively) to beat; to win against; to defeat, (intransitive) to beat; to strike repeatedly; to pound, (transitive, cooking) to beat; to whip; to mix food in a rapid aerating fashion, (of a clock) to chime, (reflexive) to fight",
     forms: {
       section_0: [
@@ -74578,11 +74578,11 @@ module.exports = [
     },
   },
   {
-    word "schlahn",
+    word: "schlahn",
     translation: "(obsolete, now dialectal or poetic) Alternative form of schlagen",
   },
   {
-    word "schlängeln",
+    word: "schlängeln",
     translation: "(reflexive) to snake",
     forms: {
       section_0: [
@@ -74612,7 +74612,7 @@ module.exports = [
     },
   },
   {
-    word "schlechtmachen",
+    word: "schlechtmachen",
     translation: "to badmouth",
     forms: {
       section_0: [
@@ -74642,15 +74642,15 @@ module.exports = [
     },
   },
   {
-    word "schlechtreden",
+    word: "schlechtreden",
     translation: "to badmouth",
   },
   {
-    word "schlechtzumachen",
+    word: "schlechtzumachen",
     translation: "zu-infinitive of schlechtmachen",
   },
   {
-    word "schlecken",
+    word: "schlecken",
     translation: "to lick, to lap",
     forms: {
       section_0: [
@@ -74680,7 +74680,7 @@ module.exports = [
     },
   },
   {
-    word "schleichen",
+    word: "schleichen",
     translation: "(intransitive) to crawl; to advance slowly; to creep, (intransitive) to move quietly; to creep; to sneak; to steal; to prowl",
     forms: {
       section_0: [
@@ -74710,7 +74710,7 @@ module.exports = [
     },
   },
   {
-    word "schleifen",
+    word: "schleifen",
     translation: "to whet, to move across a surface abrasively",
     forms: {
       section_0: [
@@ -74740,7 +74740,7 @@ module.exports = [
     },
   },
   {
-    word "schleimen",
+    word: "schleimen",
     translation: "to slime, to smarm, to fawn on",
     forms: {
       section_0: [
@@ -74770,7 +74770,7 @@ module.exports = [
     },
   },
   {
-    word "schleißen",
+    word: "schleißen",
     translation: "(archaic) to tear, to split, to peel",
     forms: {
       section_0: [
@@ -74800,7 +74800,7 @@ module.exports = [
     },
   },
   {
-    word "schlemmen",
+    word: "schlemmen",
     translation: "(intransitive) to debauch, feast",
     forms: {
       section_0: [
@@ -74830,7 +74830,7 @@ module.exports = [
     },
   },
   {
-    word "schlendern",
+    word: "schlendern",
     translation: "(intransitive) to stroll",
     forms: {
       section_0: [
@@ -74860,7 +74860,7 @@ module.exports = [
     },
   },
   {
-    word "schleppen",
+    word: "schleppen",
     translation: "(transitive) to tow; to haul, (transitive) to drag; to carry; to tug",
     forms: {
       section_0: [
@@ -74890,7 +74890,7 @@ module.exports = [
     },
   },
   {
-    word "schleudern",
+    word: "schleudern",
     translation: "(transitive, auxiliary: “haben”) to hurl; to fling; to sling, (transitive, auxiliary: “haben”) to centrifuge; to spin, (intransitive, of a car, auxiliary: “sein”) to skid",
     forms: {
       section_0: [
@@ -74920,7 +74920,7 @@ module.exports = [
     },
   },
   {
-    word "schlichten",
+    word: "schlichten",
     translation: "(a dispute or argument) to settle, to mediate",
     forms: {
       section_0: [
@@ -74950,7 +74950,7 @@ module.exports = [
     },
   },
   {
-    word "schliessen",
+    word: "schliessen",
     translation: "Switzerland and Liechtenstein standard spelling of schließen",
     forms: {
       section_0: [
@@ -74980,7 +74980,7 @@ module.exports = [
     },
   },
   {
-    word "schließen",
+    word: "schließen",
     translation: "(transitive or intransitive) to shut; to close; to shut down, (transitive or intransitive) to lock, (transitive or intransitive) to conclude; to end; to close, (transitive) to come to (an agreement); to enter into (a relationship); to reach (a settlement), (transitive or intransitive) to gather; to conclude; to come to realize",
     forms: {
       section_0: [
@@ -75010,7 +75010,7 @@ module.exports = [
     },
   },
   {
-    word "schlingen",
+    word: "schlingen",
     translation: "(transitive) to wind, (transitive) to tie, knot, (reflexive) to wind, coil, (reflexive, botany) to creep, twine",
     forms: {
       section_0: [
@@ -75040,7 +75040,7 @@ module.exports = [
     },
   },
   {
-    word "schlossern",
+    word: "schlossern",
     translation: "(colloquial) to do the job of a metalworker or fitter",
     forms: {
       section_0: [
@@ -75070,7 +75070,7 @@ module.exports = [
     },
   },
   {
-    word "schluchzen",
+    word: "schluchzen",
     translation: "to sob",
     forms: {
       section_0: [
@@ -75100,7 +75100,7 @@ module.exports = [
     },
   },
   {
-    word "schlucken",
+    word: "schlucken",
     translation: "(transitive or intransitive) to swallow",
     forms: {
       section_0: [
@@ -75130,7 +75130,7 @@ module.exports = [
     },
   },
   {
-    word "schludern",
+    word: "schludern",
     translation: "(colloquial) to skimp",
     forms: {
       section_0: [
@@ -75160,7 +75160,7 @@ module.exports = [
     },
   },
   {
-    word "schlummern",
+    word: "schlummern",
     translation: "(intransitive) to slumber, to doze",
     forms: {
       section_0: [
@@ -75190,7 +75190,7 @@ module.exports = [
     },
   },
   {
-    word "schlüpfen",
+    word: "schlüpfen",
     translation: "to slip, to hatch",
     forms: {
       section_0: [
@@ -75220,11 +75220,11 @@ module.exports = [
     },
   },
   {
-    word "schlurfen",
+    word: "schlurfen",
     translation: "to shuffle (walk without picking up one’s feet)",
   },
   {
-    word "schlürfen",
+    word: "schlürfen",
     translation: "(transitive or intransitive) to slurp; to sip loudly",
     forms: {
       section_0: [
@@ -75254,7 +75254,7 @@ module.exports = [
     },
   },
   {
-    word "schmachten",
+    word: "schmachten",
     translation: "to languish, to pine",
     forms: {
       section_0: [
@@ -75284,7 +75284,7 @@ module.exports = [
     },
   },
   {
-    word "schmähen",
+    word: "schmähen",
     translation: "To revile; mock; verbally abuse, To blaspheme",
     forms: {
       section_0: [
@@ -75314,7 +75314,7 @@ module.exports = [
     },
   },
   {
-    word "schmälern",
+    word: "schmälern",
     translation: "to reduce, to diminish",
     forms: {
       section_0: [
@@ -75344,7 +75344,7 @@ module.exports = [
     },
   },
   {
-    word "schmatzen",
+    word: "schmatzen",
     translation: "to slurp or eat loudly",
     forms: {
       section_0: [
@@ -75374,11 +75374,11 @@ module.exports = [
     },
   },
   {
-    word "schmauchen",
+    word: "schmauchen",
     translation: "to puff away at",
   },
   {
-    word "schmausen",
+    word: "schmausen",
     translation: "(dated or humorous) to feast",
     forms: {
       section_0: [
@@ -75408,7 +75408,7 @@ module.exports = [
     },
   },
   {
-    word "schmecken",
+    word: "schmecken",
     translation: "to taste",
     forms: {
       section_0: [
@@ -75438,7 +75438,7 @@ module.exports = [
     },
   },
   {
-    word "schmeicheln",
+    word: "schmeicheln",
     translation: "(intransitive) to flatter",
     forms: {
       section_0: [
@@ -75468,7 +75468,7 @@ module.exports = [
     },
   },
   {
-    word "schmeißen",
+    word: "schmeißen",
     translation: "(transitive or intransitive with mit) to throw; to fling; to hurl; to chuck; to slam, (transitive, informal) to drop by accident, (transitive, colloquial) to manage; to organize; to run",
     forms: {
       section_0: [
@@ -75498,7 +75498,7 @@ module.exports = [
     },
   },
   {
-    word "schmelzen",
+    word: "schmelzen",
     translation: "(transitive, auxiliary: “haben”) to melt; to liquefy, (transitive, metallurgy, auxiliary: “haben”) to smelt; to fuse, (intransitive, auxiliary: “sein”) to melt; to liquefy, (intransitive, figuratively, auxiliary: “sein”) to dwindle; to melt away",
     forms: {
       section_0: [
@@ -75528,7 +75528,7 @@ module.exports = [
     },
   },
   {
-    word "schmerzen",
+    word: "schmerzen",
     translation: "to hurt, to be painful",
     forms: {
       section_0: [
@@ -75558,11 +75558,11 @@ module.exports = [
     },
   },
   {
-    word "Schmetterlinge im Bauch haben",
+    word: "Schmetterlinge im Bauch haben",
     translation: "have butterflies in on(e)'(s) stomach (be in love or happy)",
   },
   {
-    word "schmettern",
+    word: "schmettern",
     translation: "to smash",
     forms: {
       section_0: [
@@ -75592,7 +75592,7 @@ module.exports = [
     },
   },
   {
-    word "schmieden",
+    word: "schmieden",
     translation: "(transitive) to forge, (transitive, figuratively) to devise",
     forms: {
       section_0: [
@@ -75622,7 +75622,7 @@ module.exports = [
     },
   },
   {
-    word "schmiegen",
+    word: "schmiegen",
     translation: "to nestle up",
     forms: {
       section_0: [
@@ -75652,7 +75652,7 @@ module.exports = [
     },
   },
   {
-    word "schmieren",
+    word: "schmieren",
     translation: "to smear, (bread) to butter, to grease, to oil, to lubricate, to bribe, (colloquial) to scribble, to scrawl",
     forms: {
       section_0: [
@@ -75682,7 +75682,7 @@ module.exports = [
     },
   },
   {
-    word "schminken",
+    word: "schminken",
     translation: "to put on make-up, to put on lipstick, to make on(e)'(s) face, to paint on(e)'(s) face",
     forms: {
       section_0: [
@@ -75712,7 +75712,7 @@ module.exports = [
     },
   },
   {
-    word "schmirgeln",
+    word: "schmirgeln",
     translation: "to emery, to sand (abrade with sand or sandpaper)",
     forms: {
       section_0: [
@@ -75742,7 +75742,7 @@ module.exports = [
     },
   },
   {
-    word "schmoren",
+    word: "schmoren",
     translation: "to braise",
     forms: {
       section_0: [
@@ -75772,7 +75772,7 @@ module.exports = [
     },
   },
   {
-    word "schmücken",
+    word: "schmücken",
     translation: "(transitive) to adorn, to decorate",
     forms: {
       section_0: [
@@ -75802,7 +75802,7 @@ module.exports = [
     },
   },
   {
-    word "schmuggeln",
+    word: "schmuggeln",
     translation: "to smuggle",
     forms: {
       section_0: [
@@ -75832,7 +75832,7 @@ module.exports = [
     },
   },
   {
-    word "schmunzeln",
+    word: "schmunzeln",
     translation: "to smile in an amused and contented way",
     forms: {
       section_0: [
@@ -75862,7 +75862,7 @@ module.exports = [
     },
   },
   {
-    word "schmusen",
+    word: "schmusen",
     translation: "to smooch, to cuddle, to fondle",
     forms: {
       section_0: [
@@ -75892,15 +75892,15 @@ module.exports = [
     },
   },
   {
-    word "schnabulieren",
+    word: "schnabulieren",
     translation: "(colloquial, humorous) to eat heartily; to indulge",
   },
   {
-    word "schnacken",
+    word: "schnacken",
     translation: "(colloquial, regional, Northern Germany) to talk, to speak",
   },
   {
-    word "schnalzen",
+    word: "schnalzen",
     translation: "To click (on(e)'(s) tongue), To snap on(e)'(s) fingers",
     forms: {
       section_0: [
@@ -75930,7 +75930,7 @@ module.exports = [
     },
   },
   {
-    word "schnappen",
+    word: "schnappen",
     translation: "to snap (with one’s mouth), to catch; to seize, (colloquial) to nab (a criminal)",
     forms: {
       section_0: [
@@ -75960,7 +75960,7 @@ module.exports = [
     },
   },
   {
-    word "schnarchen",
+    word: "schnarchen",
     translation: "to snore",
     forms: {
       section_0: [
@@ -75990,7 +75990,7 @@ module.exports = [
     },
   },
   {
-    word "schnattern",
+    word: "schnattern",
     translation: "(goose) to cackle, (duck) to quack",
     forms: {
       section_0: [
@@ -76020,7 +76020,7 @@ module.exports = [
     },
   },
   {
-    word "schnauben",
+    word: "schnauben",
     translation: "(intransitive) to snort, to pant (to breathe loudly)",
     forms: {
       section_0: [
@@ -76050,7 +76050,7 @@ module.exports = [
     },
   },
   {
-    word "schnaufen",
+    word: "schnaufen",
     translation: "to snort, to pant (to breathe loudly), (colloquial, regional, Austro-Bavarian) to breathe (in general)",
     forms: {
       section_0: [
@@ -76080,7 +76080,7 @@ module.exports = [
     },
   },
   {
-    word "schnäuzen",
+    word: "schnäuzen",
     translation: "to blow on(e)'(s) nose (to expel mucus from nose)",
     forms: {
       section_0: [
@@ -76110,7 +76110,7 @@ module.exports = [
     },
   },
   {
-    word "schneiden",
+    word: "schneiden",
     translation: "(transitive) to cut; to carve; to slice, (transitive) to pare; to clip; to mow; to prune; to trim, (transitive, driving, figuratively) to cut (someone) off; to cut in on (someone), (transitive, film) to edit, (transitive or reflexive) to intersect, (reflexive) to cut (oneself), (reflexive, colloquial) to delude (oneself); to become mistaken, to avoid somebody (to cut someone)",
     forms: {
       section_0: [
@@ -76140,7 +76140,7 @@ module.exports = [
     },
   },
   {
-    word "schneien",
+    word: "schneien",
     translation: "to snow",
     forms: {
       section_0: [
@@ -76170,11 +76170,11 @@ module.exports = [
     },
   },
   {
-    word "schneyden",
+    word: "schneyden",
     translation: "Obsolete spelling of schneiden",
   },
   {
-    word "schnippen",
+    word: "schnippen",
     translation: "to snap on(e)'(s) fingers, to strike with a finger",
     forms: {
       section_0: [
@@ -76204,7 +76204,7 @@ module.exports = [
     },
   },
   {
-    word "schnitzen",
+    word: "schnitzen",
     translation: "(wood) to carve",
     forms: {
       section_0: [
@@ -76234,7 +76234,7 @@ module.exports = [
     },
   },
   {
-    word "schnorcheln",
+    word: "schnorcheln",
     translation: "to snorkel",
     forms: {
       section_0: [
@@ -76264,7 +76264,7 @@ module.exports = [
     },
   },
   {
-    word "schnorren",
+    word: "schnorren",
     translation: "to scrounge, sponge, cadge",
     forms: {
       section_0: [
@@ -76294,7 +76294,7 @@ module.exports = [
     },
   },
   {
-    word "schnüffeln",
+    word: "schnüffeln",
     translation: "(intransitive) to sniff, (intransitive) to nose; to snoop, to sniff out (information), to sniff, to huff",
     forms: {
       section_0: [
@@ -76324,7 +76324,7 @@ module.exports = [
     },
   },
   {
-    word "schnupfen",
+    word: "schnupfen",
     translation: "to snort",
     forms: {
       section_0: [
@@ -76354,7 +76354,7 @@ module.exports = [
     },
   },
   {
-    word "schnuppern",
+    word: "schnuppern",
     translation: "to smell, to nose, to sniff",
     forms: {
       section_0: [
@@ -76384,7 +76384,7 @@ module.exports = [
     },
   },
   {
-    word "schnüren",
+    word: "schnüren",
     translation: "to lace",
     forms: {
       section_0: [
@@ -76414,7 +76414,7 @@ module.exports = [
     },
   },
   {
-    word "schnurren",
+    word: "schnurren",
     translation: "to purr, to produce a 'healthy' sound (by an engine or mechanism, eg a well-maintained chain on a bicycle)",
     forms: {
       section_0: [
@@ -76444,7 +76444,7 @@ module.exports = [
     },
   },
   {
-    word "schockieren",
+    word: "schockieren",
     translation: "to shock",
     forms: {
       section_0: [
@@ -76474,11 +76474,11 @@ module.exports = [
     },
   },
   {
-    word "schokolieren",
+    word: "schokolieren",
     translation: "to coat or cover with chocolate",
   },
   {
-    word "schonen",
+    word: "schonen",
     translation: "to spare",
     forms: {
       section_0: [
@@ -76508,11 +76508,11 @@ module.exports = [
     },
   },
   {
-    word "schönen",
+    word: "schönen",
     translation: "to massage; to manipulate (data or a document) to make it more presentable, easier to work with, or to falsify it",
   },
   {
-    word "schönfärben",
+    word: "schönfärben",
     translation: "to whitewash, to window-dress",
     forms: {
       section_0: [
@@ -76542,7 +76542,7 @@ module.exports = [
     },
   },
   {
-    word "schöpfen",
+    word: "schöpfen",
     translation: "to create",
     forms: {
       section_0: [
@@ -76572,7 +76572,7 @@ module.exports = [
     },
   },
   {
-    word "schottern",
+    word: "schottern",
     translation: "to gravel",
     forms: {
       section_0: [
@@ -76602,11 +76602,11 @@ module.exports = [
     },
   },
   {
-    word "schraffieren",
+    word: "schraffieren",
     translation: "to crosshatch (shade an area)",
   },
   {
-    word "schrauben",
+    word: "schrauben",
     translation: "to screw",
     forms: {
       section_0: [
@@ -76636,7 +76636,7 @@ module.exports = [
     },
   },
   {
-    word "schrecken",
+    word: "schrecken",
     translation: "(transitive) to frighten, to scare",
     forms: {
       section_0: [
@@ -76666,7 +76666,7 @@ module.exports = [
     },
   },
   {
-    word "schreiben",
+    word: "schreiben",
     translation: "(transitive and intransitive) to write; to write out, (transitive) to spell",
     forms: {
       section_0: [
@@ -76696,7 +76696,7 @@ module.exports = [
     },
   },
   {
-    word "schreien",
+    word: "schreien",
     translation: "to cry; to weep",
     forms: {
       section_0: [
@@ -76726,7 +76726,7 @@ module.exports = [
     },
   },
   {
-    word "schreiten",
+    word: "schreiten",
     translation: "(intransitive, formal) to stride; to step, to proceed",
     forms: {
       section_0: [
@@ -76756,7 +76756,7 @@ module.exports = [
     },
   },
   {
-    word "schrillen",
+    word: "schrillen",
     translation: "to shrill",
     forms: {
       section_0: [
@@ -76786,7 +76786,7 @@ module.exports = [
     },
   },
   {
-    word "schröpfen",
+    word: "schröpfen",
     translation: "(medicine, transitive) to bleed, to cup, (figuratively, transitive) to bleed, to fleece, to milk (To take large amounts of money often by using tricks)",
     forms: {
       section_0: [
@@ -76816,11 +76816,11 @@ module.exports = [
     },
   },
   {
-    word "schrumpeln",
+    word: "schrumpeln",
     translation: "to shrivel (eg skin)",
   },
   {
-    word "schrumpfen",
+    word: "schrumpfen",
     translation: "(intransitive) to shrink (auxiliary verb sein), (transitive) to shrink (auxiliary verb haben)",
     forms: {
       section_0: [
@@ -76850,7 +76850,7 @@ module.exports = [
     },
   },
   {
-    word "schubsen",
+    word: "schubsen",
     translation: "to shove (push roughly)",
     forms: {
       section_0: [
@@ -76880,11 +76880,11 @@ module.exports = [
     },
   },
   {
-    word "schuld sein",
+    word: "schuld sein",
     translation: "to be at fault",
   },
   {
-    word "schulden",
+    word: "schulden",
     translation: "(transitive) to owe, to be due to",
     forms: {
       section_0: [
@@ -76914,7 +76914,7 @@ module.exports = [
     },
   },
   {
-    word "schulen",
+    word: "schulen",
     translation: "to school",
     forms: {
       section_0: [
@@ -76944,7 +76944,7 @@ module.exports = [
     },
   },
   {
-    word "schultern",
+    word: "schultern",
     translation: "(transitive) to shoulder (to carry something on on(e)'(s) shoulders)",
     forms: {
       section_0: [
@@ -76974,7 +76974,7 @@ module.exports = [
     },
   },
   {
-    word "schummeln",
+    word: "schummeln",
     translation: "to cheat",
     forms: {
       section_0: [
@@ -77004,7 +77004,7 @@ module.exports = [
     },
   },
   {
-    word "schuppen",
+    word: "schuppen",
     translation: "(reflexive, skin) to peel",
     forms: {
       section_0: [
@@ -77034,7 +77034,7 @@ module.exports = [
     },
   },
   {
-    word "schüren",
+    word: "schüren",
     translation: "to poke, stoke (to poke a fire to remove ash or promote burning), (by extension) to stoke, stir up",
     forms: {
       section_0: [
@@ -77064,7 +77064,7 @@ module.exports = [
     },
   },
   {
-    word "schürfen",
+    word: "schürfen",
     translation: "To prospect, To dig up",
     forms: {
       section_0: [
@@ -77094,7 +77094,7 @@ module.exports = [
     },
   },
   {
-    word "schütteln",
+    word: "schütteln",
     translation: "(transitive) to shake",
     forms: {
       section_0: [
@@ -77124,7 +77124,7 @@ module.exports = [
     },
   },
   {
-    word "schütten",
+    word: "schütten",
     translation: "to pour, (colloquial, impersonal) to rain heavily",
     forms: {
       section_0: [
@@ -77154,7 +77154,7 @@ module.exports = [
     },
   },
   {
-    word "schützen",
+    word: "schützen",
     translation: "(transitive) to defend; to protect; to shelter; to guard, (transitive) to cover, (reflexive) to protect oneself",
     forms: {
       section_0: [
@@ -77184,11 +77184,11 @@ module.exports = [
     },
   },
   {
-    word "schwächeln",
+    word: "schwächeln",
     translation: "to weaken slightly",
   },
   {
-    word "schwächen",
+    word: "schwächen",
     translation: "(transitive) to weaken",
     forms: {
       section_0: [
@@ -77218,7 +77218,7 @@ module.exports = [
     },
   },
   {
-    word "schwadronieren",
+    word: "schwadronieren",
     translation: "To talk in a voluminous and excited manner; to rant or ramble",
     forms: {
       section_0: [
@@ -77248,7 +77248,7 @@ module.exports = [
     },
   },
   {
-    word "schwafeln",
+    word: "schwafeln",
     translation: "to waffle",
     forms: {
       section_0: [
@@ -77278,7 +77278,7 @@ module.exports = [
     },
   },
   {
-    word "schwängern",
+    word: "schwängern",
     translation: "to impregnate (to cause to become pregnant)",
     forms: {
       section_0: [
@@ -77308,7 +77308,7 @@ module.exports = [
     },
   },
   {
-    word "schwanken",
+    word: "schwanken",
     translation: "(intransitive, auxiliary: “haben”) to fluctuate; to waver, (intransitive, auxiliary: “haben”) to shake; to rock; to sway, (intransitive, auxiliary: “sein”) to stagger",
     forms: {
       section_0: [
@@ -77338,7 +77338,7 @@ module.exports = [
     },
   },
   {
-    word "schwänzeln",
+    word: "schwänzeln",
     translation: "to wag, wiggle",
     forms: {
       section_0: [
@@ -77368,7 +77368,7 @@ module.exports = [
     },
   },
   {
-    word "schwänzen",
+    word: "schwänzen",
     translation: "(colloquial) to skip (school, work, etc, without permission); to truant; to play hooky (US); to wag (British slang); to skive",
     forms: {
       section_0: [
@@ -77398,7 +77398,7 @@ module.exports = [
     },
   },
   {
-    word "schwären",
+    word: "schwären",
     translation: "(intransitive, elevated) to fester, to suppurate, to ulcerate and to hurt",
     forms: {
       section_0: [
@@ -77428,7 +77428,7 @@ module.exports = [
     },
   },
   {
-    word "schwärmen",
+    word: "schwärmen",
     translation: "to romanticize, gush, fancy, dream of, to swarm",
     forms: {
       section_0: [
@@ -77458,7 +77458,7 @@ module.exports = [
     },
   },
   {
-    word "schwarzsehen",
+    word: "schwarzsehen",
     translation: "to be pessimistic, (television) to watch television without paying on(e)'(s) license",
     forms: {
       section_0: [
@@ -77488,7 +77488,7 @@ module.exports = [
     },
   },
   {
-    word "schwatzen",
+    word: "schwatzen",
     translation: "to babble, waffle, prattle",
     forms: {
       section_0: [
@@ -77518,11 +77518,11 @@ module.exports = [
     },
   },
   {
-    word "schwätzen",
+    word: "schwätzen",
     translation: "to babble (to talk much)",
   },
   {
-    word "schweben",
+    word: "schweben",
     translation: "to hover, to float, to soar",
     forms: {
       section_0: [
@@ -77552,7 +77552,7 @@ module.exports = [
     },
   },
   {
-    word "schweigen",
+    word: "schweigen",
     translation: "(intransitive) to be silent; to keep quiet, (intransitive) to stop talking; to shut up",
     forms: {
       section_0: [
@@ -77582,11 +77582,11 @@ module.exports = [
     },
   },
   {
-    word "Schwein haben",
+    word: "Schwein haben",
     translation: "(idiomatic) To be lucky",
   },
   {
-    word "schweißen",
+    word: "schweißen",
     translation: "to weld",
     forms: {
       section_0: [
@@ -77616,7 +77616,7 @@ module.exports = [
     },
   },
   {
-    word "schwelen",
+    word: "schwelen",
     translation: "to smoulder",
     forms: {
       section_0: [
@@ -77646,7 +77646,7 @@ module.exports = [
     },
   },
   {
-    word "schwellen",
+    word: "schwellen",
     translation: "(intransitive) to swell up; to bulge",
     forms: {
       section_0: [
@@ -77676,7 +77676,7 @@ module.exports = [
     },
   },
   {
-    word "schwenken",
+    word: "schwenken",
     translation: "(transitive) to wave; to brandish, (transitive) to swivel (a lamp etc), (transitive, intransitive) to pan (a camera), (intransitive) to swing",
     forms: {
       section_0: [
@@ -77706,7 +77706,7 @@ module.exports = [
     },
   },
   {
-    word "schwimmen",
+    word: "schwimmen",
     translation: "(intransitive, auxiliary: “haben” or “sein”) to swim, (intransitive, auxiliary: “sein”) to float, (intransitive, colloquial, auxiliary: “sein”) to be flooded",
     forms: {
       section_0: [
@@ -77736,7 +77736,7 @@ module.exports = [
     },
   },
   {
-    word "schwindeln",
+    word: "schwindeln",
     translation: "(intransitive) to tell harmless lies, (intransitive) to make harmless trickeries",
     forms: {
       section_0: [
@@ -77766,7 +77766,7 @@ module.exports = [
     },
   },
   {
-    word "schwinden",
+    word: "schwinden",
     translation: "(intransitive) to dwindle (to decrease, shrink, vanish)",
     forms: {
       section_0: [
@@ -77796,7 +77796,7 @@ module.exports = [
     },
   },
   {
-    word "schwingen",
+    word: "schwingen",
     translation: "(transitive or reflexive, auxiliary: “haben”) to swing (clarification of this German definition is being sought), (transitive, auxiliary: “haben”) to wave; to brandish, (intransitive, physics, auxiliary: “haben”) to vibrate, (intransitive, physics, auxiliary: “haben”) to oscillate, (intransitive, auxiliary: “sein”) to swing (clarification of this German definition is being sought)",
     forms: {
       section_0: [
@@ -77826,7 +77826,7 @@ module.exports = [
     },
   },
   {
-    word "schwirren",
+    word: "schwirren",
     translation: "(insect) to buzz, (bird) to whirr, (bowstring) to twang, (arrow, bullet) to whiz, to whirl around (in on(e)'(s) head)",
     forms: {
       section_0: [
@@ -77856,7 +77856,7 @@ module.exports = [
     },
   },
   {
-    word "schwitzen",
+    word: "schwitzen",
     translation: "(transitive or intransitive) to sweat; to perspire (of living beings), (intransitive) to give off water (of things), (intransitive, figuratively, with über + dative) to think hard; to work hard (on a mental task), (intransitive, figuratively) to be in fear; to worry",
     forms: {
       section_0: [
@@ -77886,7 +77886,7 @@ module.exports = [
     },
   },
   {
-    word "schwören",
+    word: "schwören",
     translation: "(transitive or intransitive) to swear; to take an oath",
     forms: {
       section_0: [
@@ -77916,15 +77916,15 @@ module.exports = [
     },
   },
   {
-    word "sedieren",
+    word: "sedieren",
     translation: "to sedate (tranquilize)",
   },
   {
-    word "sedimentieren",
+    word: "sedimentieren",
     translation: "To sediment",
   },
   {
-    word "segeln",
+    word: "segeln",
     translation: "to sail",
     forms: {
       section_0: [
@@ -77954,7 +77954,7 @@ module.exports = [
     },
   },
   {
-    word "segmentieren",
+    word: "segmentieren",
     translation: "to segment",
     forms: {
       section_0: [
@@ -77984,7 +77984,7 @@ module.exports = [
     },
   },
   {
-    word "segnen",
+    word: "segnen",
     translation: "(transitive) to bless",
     forms: {
       section_0: [
@@ -78014,7 +78014,7 @@ module.exports = [
     },
   },
   {
-    word "sehen",
+    word: "sehen",
     translation: "(intransitive) to see; to look; to have sight, (intransitive, with “nach ”) to take care (of something or someone); to make (something) happen; to see (to something); to look (after someone), (transitive) to see (something); to view; to watch; to observe; to look at, (transitive) to notice; to perceive; to realize, (reflexive with a plural subject or transitive) to meet; to go to see",
     forms: {
       section_0: [
@@ -78044,11 +78044,11 @@ module.exports = [
     },
   },
   {
-    word "sehn",
+    word: "sehn",
     translation: "(Ripuarian, northern Moselle Franconian) to see",
   },
   {
-    word "sehnen",
+    word: "sehnen",
     translation: "(reflexive, usually with “nach ”) to long (for )",
     forms: {
       section_0: [
@@ -78078,7 +78078,7 @@ module.exports = [
     },
   },
   {
-    word "seihen",
+    word: "seihen",
     translation: "to filter, to sift, to strain",
     forms: {
       section_0: [
@@ -78108,7 +78108,7 @@ module.exports = [
     },
   },
   {
-    word "sein",
+    word: "sein",
     translation: "first-person singular present indicative of seinen, imperative of seinen",
     forms: {
       section_0: [
@@ -78138,39 +78138,39 @@ module.exports = [
     },
   },
   {
-    word "sein Licht unter den Scheffel stellen",
+    word: "sein Licht unter den Scheffel stellen",
     translation: "(idiomatic) to hide on(e)'(s) light under a bushel",
   },
   {
-    word "seine Claims abstecken",
+    word: "seine Claims abstecken",
     translation: "(figuratively) to stake out on(e)'(s) claims",
   },
   {
-    word "seinen Hut nehmen",
+    word: "seinen Hut nehmen",
     translation: "(idiomatic) to resign; to quit (literally: 'to take on(e)'(s) hat')",
   },
   {
-    word "seinen Mann stehen",
+    word: "seinen Mann stehen",
     translation: "To stand on(e)'(s) ground",
   },
   {
-    word "seinen Senf dazugeben",
+    word: "seinen Senf dazugeben",
     translation: "(idiomatic, colloquial) to add on(e)'(s) two cents (literally: 'to add on(e)'(s) mustard')",
   },
   {
-    word "Selbstmord begehen",
+    word: "Selbstmord begehen",
     translation: "commit suicide (to kill oneself)",
   },
   {
-    word "selchen",
+    word: "selchen",
     translation: "(southern Germany, Austria) to smoke or cure (meat)",
   },
   {
-    word "seligsprechen",
+    word: "seligsprechen",
     translation: "(Roman Catholicism) to beatify (declare someone a blessed, thereby allowing their veneration)",
   },
   {
-    word "senden",
+    word: "senden",
     translation: "(transitive or intransitive) to broadcast; to transmit, (transitive, chiefly literary) to send",
     forms: {
       section_0: [
@@ -78200,7 +78200,7 @@ module.exports = [
     },
   },
   {
-    word "sengen",
+    word: "sengen",
     translation: "to singe",
     forms: {
       section_0: [
@@ -78230,7 +78230,7 @@ module.exports = [
     },
   },
   {
-    word "senken",
+    word: "senken",
     translation: "to lower",
     forms: {
       section_0: [
@@ -78260,15 +78260,15 @@ module.exports = [
     },
   },
   {
-    word "separieren",
+    word: "separieren",
     translation: "to separate (divide (a thing) into separate parts)",
   },
   {
-    word "serialisieren",
+    word: "serialisieren",
     translation: "(computing) to serialise",
   },
   {
-    word "servieren",
+    word: "servieren",
     translation: "To serve (food); to wait (at table)",
     forms: {
       section_0: [
@@ -78298,7 +78298,7 @@ module.exports = [
     },
   },
   {
-    word "setzen",
+    word: "setzen",
     translation: "(transitive) to set; to put, (reflexive, of a person) to sit down, (reflexive, of particles or contents) to settle",
     forms: {
       section_0: [
@@ -78328,7 +78328,7 @@ module.exports = [
     },
   },
   {
-    word "seufzen",
+    word: "seufzen",
     translation: "(intransitive) to sigh",
     forms: {
       section_0: [
@@ -78358,19 +78358,19 @@ module.exports = [
     },
   },
   {
-    word "Sex haben",
+    word: "Sex haben",
     translation: "have sex (take part in a sexual act)",
   },
   {
-    word "sexeln",
+    word: "sexeln",
     translation: "To be sexually active, that is, to participate in some sexual activity",
   },
   {
-    word "seyn",
+    word: "seyn",
     translation: "Obsolete spelling of sein",
   },
   {
-    word "sezieren",
+    word: "sezieren",
     translation: "to dissect",
     forms: {
       section_0: [
@@ -78400,47 +78400,47 @@ module.exports = [
     },
   },
   {
-    word "shoppen",
+    word: "shoppen",
     translation: "to shop",
   },
   {
-    word "sich auf den Weg machen",
+    word: "sich auf den Weg machen",
     translation: "to hit the road, to head, to set forth",
   },
   {
-    word "sich auf seinen Lorbeeren ausruhen",
+    word: "sich auf seinen Lorbeeren ausruhen",
     translation: "(idiomatic) to rest on on(e)'(s) laurels",
   },
   {
-    word "sich aus den Fingern saugen",
+    word: "sich aus den Fingern saugen",
     translation: "(idiomatic) to think of something, to make up, to make up out of thin air, to invent (false stories, figures, etc), to pull out of on(e)'(s) ass (fabricate a claim with no factual basis or evidence)",
   },
   {
-    word "sich den Arsch aufreißen",
+    word: "sich den Arsch aufreißen",
     translation: "(idiomatic, vulgar) to bust on(e)'(s) ass",
   },
   {
-    word "sich den Magen verderben",
+    word: "sich den Magen verderben",
     translation: "To get an upset stomach because of having eaten something bad",
   },
   {
-    word "sich die Hörner abstoßen",
+    word: "sich die Hörner abstoßen",
     translation: "sow on(e)'(s) wild oats (to spend a period of on(e)'(s) youth behaving irresponsibly)",
   },
   {
-    word "sich ein Herz fassen",
+    word: "sich ein Herz fassen",
     translation: "to pluck up courage",
   },
   {
-    word "sich erkenntlich zeigen",
+    word: "sich erkenntlich zeigen",
     translation: "(idiomatic) to show on(e)'(s) gratitude",
   },
   {
-    word "sich vom Acker machen",
+    word: "sich vom Acker machen",
     translation: "(idiomatic) (colloquial) to clear off, to scram (literally: “to make oneself off of the field”)",
   },
   {
-    word "sichergehen",
+    word: "sichergehen",
     translation: "to make sure",
     forms: {
       section_0: [
@@ -78470,7 +78470,7 @@ module.exports = [
     },
   },
   {
-    word "sichern",
+    word: "sichern",
     translation: "to secure",
     forms: {
       section_0: [
@@ -78500,7 +78500,7 @@ module.exports = [
     },
   },
   {
-    word "sicherstellen",
+    word: "sicherstellen",
     translation: "(law) to seize, to ensure, to make sure, to guarantee",
     forms: {
       section_0: [
@@ -78530,7 +78530,7 @@ module.exports = [
     },
   },
   {
-    word "sichten",
+    word: "sichten",
     translation: "to sight",
     forms: {
       section_0: [
@@ -78560,11 +78560,11 @@ module.exports = [
     },
   },
   {
-    word "sickern",
+    word: "sickern",
     translation: "to ooze",
   },
   {
-    word "sieben",
+    word: "sieben",
     translation: "(transitive) to sift; to sieve",
     forms: {
       section_0: [
@@ -78594,7 +78594,7 @@ module.exports = [
     },
   },
   {
-    word "siedeln",
+    word: "siedeln",
     translation: "(transitive) to introduce (an animal, wildlife etc); to establish (an industry), (reflexive) to settle (newly inhabit a place or region)",
     forms: {
       section_0: [
@@ -78624,7 +78624,7 @@ module.exports = [
     },
   },
   {
-    word "sieden",
+    word: "sieden",
     translation: "sieden (third-person singular simple present siedet, past tense siedete, past participle gesiedet, auxiliary haben)",
     forms: {
       section_0: [
@@ -78654,7 +78654,7 @@ module.exports = [
     },
   },
   {
-    word "siegen",
+    word: "siegen",
     translation: "to be victorious, to win",
     forms: {
       section_0: [
@@ -78684,7 +78684,7 @@ module.exports = [
     },
   },
   {
-    word "siezen",
+    word: "siezen",
     translation: "to address formally using the pronoun Sie",
     forms: {
       section_0: [
@@ -78714,7 +78714,7 @@ module.exports = [
     },
   },
   {
-    word "signalisieren",
+    word: "signalisieren",
     translation: "to signal",
     forms: {
       section_0: [
@@ -78744,7 +78744,7 @@ module.exports = [
     },
   },
   {
-    word "signieren",
+    word: "signieren",
     translation: "to sign (put a signature)",
     forms: {
       section_0: [
@@ -78774,11 +78774,11 @@ module.exports = [
     },
   },
   {
-    word "simsen",
+    word: "simsen",
     translation: "to text message, to text, to SMS",
   },
   {
-    word "simulieren",
+    word: "simulieren",
     translation: "To feign, To malinger, To simulate",
     forms: {
       section_0: [
@@ -78808,7 +78808,7 @@ module.exports = [
     },
   },
   {
-    word "singen",
+    word: "singen",
     translation: "to sing",
     forms: {
       section_0: [
@@ -78838,7 +78838,7 @@ module.exports = [
     },
   },
   {
-    word "sinken",
+    word: "sinken",
     translation: "(intransitive) to sink; to submerge; to set; to fall from the sky, (intransitive, figuratively, of prices, temperature, quantities, rates, etc) to fall; to drop; to decline",
     forms: {
       section_0: [
@@ -78868,11 +78868,11 @@ module.exports = [
     },
   },
   {
-    word "Sinn machen",
+    word: "Sinn machen",
     translation: "(intransitive, colloquial) make sense",
   },
   {
-    word "sinnen",
+    word: "sinnen",
     translation: "(transitive, elevated) to think, to ponder, to cogitate, (transitive, elevated) to direct on(e)'(s) thoughts to something, to plan, to intend",
     forms: {
       section_0: [
@@ -78902,7 +78902,7 @@ module.exports = [
     },
   },
   {
-    word "sinnieren",
+    word: "sinnieren",
     translation: "to meditate",
     forms: {
       section_0: [
@@ -78932,7 +78932,7 @@ module.exports = [
     },
   },
   {
-    word "sintern",
+    word: "sintern",
     translation: "to sinter",
     forms: {
       section_0: [
@@ -78962,7 +78962,7 @@ module.exports = [
     },
   },
   {
-    word "sitzen",
+    word: "sitzen",
     translation: "(intransitive) to sit; to perch, (intransitive) to stay (in one place); to remain; to be (in a particular place or state), (intransitive, of clothing) to fit, (intransitive, in certain constructions, eg with voller) to be, (intransitive, colloquial) to do time; to spend time in jail, (intransitive, colloquial, of a strike, a comment, etc) to hit home; to have a significant effect",
     forms: {
       section_0: [
@@ -78992,19 +78992,19 @@ module.exports = [
     },
   },
   {
-    word "sitzen bleiben",
+    word: "sitzen bleiben",
     translation: "(intransitive) to remain seated",
   },
   {
-    word "sitzenbleiben",
+    word: "sitzenbleiben",
     translation: "(informal) to stay down (to repeat a school year, not having been moved up a class/grade), (informal) (dated) to be left on the shelf (to remain unmarried as a woman), (informal) to be left with, to be sitting on (to find no customer for something), to be tarnished by, to be a black mark against somebody′s name, (regional) (of dough) to not prove, to not rise (to not become aerated by the action of yeast)",
   },
   {
-    word "skaten",
+    word: "skaten",
     translation: "to skate (especially with in-line skates)",
   },
   {
-    word "skizzieren",
+    word: "skizzieren",
     translation: "to sketch (to create a sketch), to outline",
     forms: {
       section_0: [
@@ -79034,15 +79034,15 @@ module.exports = [
     },
   },
   {
-    word "skypen",
+    word: "skypen",
     translation: "to skype (make a Skype call)",
   },
   {
-    word "snöben",
+    word: "snöben",
     translation: "(Switzerland, intransitive) to snowboard, to do snowboarding",
   },
   {
-    word "solidarisieren",
+    word: "solidarisieren",
     translation: "(reflexive) to declare on(e)'(s) solidarity",
     forms: {
       section_0: [
@@ -79072,7 +79072,7 @@ module.exports = [
     },
   },
   {
-    word "sollen",
+    word: "sollen",
     translation: "to throw back and forth (of a ball), to play, to mess",
     forms: {
       section_0: [
@@ -79102,7 +79102,7 @@ module.exports = [
     },
   },
   {
-    word "sondern",
+    word: "sondern",
     translation: "(transitive) to separate, to sunder",
     forms: {
       section_0: [
@@ -79132,7 +79132,7 @@ module.exports = [
     },
   },
   {
-    word "sondieren",
+    word: "sondieren",
     translation: "To sound out, To probe",
     forms: {
       section_0: [
@@ -79162,7 +79162,7 @@ module.exports = [
     },
   },
   {
-    word "sonnen",
+    word: "sonnen",
     translation: "(reflexive) to sun, to sunbathe",
     forms: {
       section_0: [
@@ -79192,7 +79192,7 @@ module.exports = [
     },
   },
   {
-    word "sonnenbaden",
+    word: "sonnenbaden",
     translation: "(intransitive) to sunbathe",
     forms: {
       section_0: [
@@ -79222,7 +79222,7 @@ module.exports = [
     },
   },
   {
-    word "sorgen",
+    word: "sorgen",
     translation: "to care, (reflexive) to worry",
     forms: {
       section_0: [
@@ -79252,7 +79252,7 @@ module.exports = [
     },
   },
   {
-    word "sortieren",
+    word: "sortieren",
     translation: "to sort",
     forms: {
       section_0: [
@@ -79282,7 +79282,7 @@ module.exports = [
     },
   },
   {
-    word "soufflieren",
+    word: "soufflieren",
     translation: "to prompt",
     forms: {
       section_0: [
@@ -79312,7 +79312,7 @@ module.exports = [
     },
   },
   {
-    word "sozialisieren",
+    word: "sozialisieren",
     translation: "to socialize",
     forms: {
       section_0: [
@@ -79342,7 +79342,7 @@ module.exports = [
     },
   },
   {
-    word "spachteln",
+    word: "spachteln",
     translation: "(intransitive) to apply paint or plaster, (transitive or intransitive, colloquial) to eat",
     forms: {
       section_0: [
@@ -79372,7 +79372,7 @@ module.exports = [
     },
   },
   {
-    word "spähen",
+    word: "spähen",
     translation: "to peer, peek, to spy",
     forms: {
       section_0: [
@@ -79402,7 +79402,7 @@ module.exports = [
     },
   },
   {
-    word "spalten",
+    word: "spalten",
     translation: "(transitive) to split (something); to cleave; to chop, (reflexive) to split up; to become divided",
     forms: {
       section_0: [
@@ -79432,7 +79432,7 @@ module.exports = [
     },
   },
   {
-    word "spannen",
+    word: "spannen",
     translation: "to strain, to put tension on, to stretch",
     forms: {
       section_0: [
@@ -79462,7 +79462,7 @@ module.exports = [
     },
   },
   {
-    word "sparen",
+    word: "sparen",
     translation: "(transitive) to spare, (transitive) to save up",
     forms: {
       section_0: [
@@ -79492,11 +79492,11 @@ module.exports = [
     },
   },
   {
-    word "Spaß haben",
+    word: "Spaß haben",
     translation: "to have fun",
   },
   {
-    word "spazieren",
+    word: "spazieren",
     translation: "to take a stroll, to stroll, to take a walk, to walk leisurely",
     forms: {
       section_0: [
@@ -79526,15 +79526,15 @@ module.exports = [
     },
   },
   {
-    word "spazieren gehen",
+    word: "spazieren gehen",
     translation: "to take a stroll, to stroll, to take a paseo",
   },
   {
-    word "spazierengehen",
+    word: "spazierengehen",
     translation: "Obsolete spelling of spazieren gehen",
   },
   {
-    word "speichern",
+    word: "speichern",
     translation: "to store, save (store for future use), (computing) to save (write a file to a disk), store (write (something) into memory or registers)",
     forms: {
       section_0: [
@@ -79564,7 +79564,7 @@ module.exports = [
     },
   },
   {
-    word "speien",
+    word: "speien",
     translation: "to spit, (euphemistic) to vomit",
     forms: {
       section_0: [
@@ -79594,7 +79594,7 @@ module.exports = [
     },
   },
   {
-    word "speisen",
+    word: "speisen",
     translation: "to dine (to eat; to eat dinner or supper), to feed (to supply)",
     forms: {
       section_0: [
@@ -79624,7 +79624,7 @@ module.exports = [
     },
   },
   {
-    word "spekulieren",
+    word: "spekulieren",
     translation: "to speculate",
     forms: {
       section_0: [
@@ -79654,7 +79654,7 @@ module.exports = [
     },
   },
   {
-    word "spenden",
+    word: "spenden",
     translation: "to donate",
     forms: {
       section_0: [
@@ -79684,7 +79684,7 @@ module.exports = [
     },
   },
   {
-    word "sperren",
+    word: "sperren",
     translation: "to bar, inhibit",
     forms: {
       section_0: [
@@ -79714,7 +79714,7 @@ module.exports = [
     },
   },
   {
-    word "spezialisieren",
+    word: "spezialisieren",
     translation: "(reflexive) to specialize",
     forms: {
       section_0: [
@@ -79744,11 +79744,11 @@ module.exports = [
     },
   },
   {
-    word "spezifizieren",
+    word: "spezifizieren",
     translation: "to specify",
   },
   {
-    word "spiegeln",
+    word: "spiegeln",
     translation: "to mirror",
     forms: {
       section_0: [
@@ -79778,7 +79778,7 @@ module.exports = [
     },
   },
   {
-    word "spielen",
+    word: "spielen",
     translation: "to play",
     forms: {
       section_0: [
@@ -79808,15 +79808,15 @@ module.exports = [
     },
   },
   {
-    word "spingsen",
+    word: "spingsen",
     translation: "Alternative spelling of spinksen",
   },
   {
-    word "spinksen",
+    word: "spinksen",
     translation: "(regional, in the Rhineland) to look clandestinely, to lurk, (regional, in the Rhineland) to try to copy from someone (in school)",
   },
   {
-    word "spinnen",
+    word: "spinnen",
     translation: "to spin: make yarn by twisting and winding fibres together",
     forms: {
       section_0: [
@@ -79846,7 +79846,7 @@ module.exports = [
     },
   },
   {
-    word "spionieren",
+    word: "spionieren",
     translation: "to spy",
     forms: {
       section_0: [
@@ -79876,7 +79876,7 @@ module.exports = [
     },
   },
   {
-    word "spitzen",
+    word: "spitzen",
     translation: "(transitive) to point (to make pointy), (pencil) to sharpen, (ears) to perk up, prick up (on(e)'(s) ears)",
     forms: {
       section_0: [
@@ -79906,7 +79906,7 @@ module.exports = [
     },
   },
   {
-    word "spleißen",
+    word: "spleißen",
     translation: "to split, to splice (to unite ropes or cables by interweaving the strands)",
     forms: {
       section_0: [
@@ -79936,7 +79936,7 @@ module.exports = [
     },
   },
   {
-    word "splittern",
+    word: "splittern",
     translation: "to shatter",
     forms: {
       section_0: [
@@ -79966,11 +79966,11 @@ module.exports = [
     },
   },
   {
-    word "sponsern",
+    word: "sponsern",
     translation: "to sponsor",
   },
   {
-    word "spötteln",
+    word: "spötteln",
     translation: "to make mocking remarks",
     forms: {
       section_0: [
@@ -80000,7 +80000,7 @@ module.exports = [
     },
   },
   {
-    word "spotten",
+    word: "spotten",
     translation: "(intransitive) to mock, deride",
     forms: {
       section_0: [
@@ -80030,7 +80030,7 @@ module.exports = [
     },
   },
   {
-    word "sprechen",
+    word: "sprechen",
     translation: "(transitive) to speak (some language, the truth, etc), (intransitive) to speak; to talk; to give a speech, (transitive, literary, poetic) to say (something)",
     forms: {
       section_0: [
@@ -80060,7 +80060,7 @@ module.exports = [
     },
   },
   {
-    word "spreizen",
+    word: "spreizen",
     translation: "to spread (legs)",
     forms: {
       section_0: [
@@ -80090,7 +80090,7 @@ module.exports = [
     },
   },
   {
-    word "sprengen",
+    word: "sprengen",
     translation: "to blow up, to blast, (horticulture) to sprinkle",
     forms: {
       section_0: [
@@ -80120,7 +80120,7 @@ module.exports = [
     },
   },
   {
-    word "sprenkeln",
+    word: "sprenkeln",
     translation: "to sprinkle",
     forms: {
       section_0: [
@@ -80150,7 +80150,7 @@ module.exports = [
     },
   },
   {
-    word "sprießen",
+    word: "sprießen",
     translation: "to sprout",
     forms: {
       section_0: [
@@ -80180,7 +80180,7 @@ module.exports = [
     },
   },
   {
-    word "springen",
+    word: "springen",
     translation: "(intransitive) to jump, to leap, (intransitive) to explode, to shatter",
     forms: {
       section_0: [
@@ -80210,7 +80210,7 @@ module.exports = [
     },
   },
   {
-    word "spritzen",
+    word: "spritzen",
     translation: "to spurt, to squirt, (medicine) to inject",
     forms: {
       section_0: [
@@ -80240,7 +80240,7 @@ module.exports = [
     },
   },
   {
-    word "sprudeln",
+    word: "sprudeln",
     translation: "to bubble, to sputter",
     forms: {
       section_0: [
@@ -80270,7 +80270,7 @@ module.exports = [
     },
   },
   {
-    word "sprühen",
+    word: "sprühen",
     translation: "to spray",
     forms: {
       section_0: [
@@ -80300,7 +80300,7 @@ module.exports = [
     },
   },
   {
-    word "spucken",
+    word: "spucken",
     translation: "to spit",
     forms: {
       section_0: [
@@ -80330,11 +80330,11 @@ module.exports = [
     },
   },
   {
-    word "spühren",
+    word: "spühren",
     translation: "Misspelling of spüren ‎(“to feel”)",
   },
   {
-    word "spuken",
+    word: "spuken",
     translation: "(intransitive) haunt",
     forms: {
       section_0: [
@@ -80364,7 +80364,7 @@ module.exports = [
     },
   },
   {
-    word "spülen",
+    word: "spülen",
     translation: "to rinse, to do the dishes, wash up, wash, (figuratively) to wash, to sweep, to flush (the toilet)",
     forms: {
       section_0: [
@@ -80394,7 +80394,7 @@ module.exports = [
     },
   },
   {
-    word "spüren",
+    word: "spüren",
     translation: "to sense",
     forms: {
       section_0: [
@@ -80424,11 +80424,11 @@ module.exports = [
     },
   },
   {
-    word "spurten",
+    word: "spurten",
     translation: "to sprint",
   },
   {
-    word "sputen",
+    word: "sputen",
     translation: "(reflexive) to speed",
     forms: {
       section_0: [
@@ -80458,7 +80458,7 @@ module.exports = [
     },
   },
   {
-    word "stabilisieren",
+    word: "stabilisieren",
     translation: "(transitive) to stabilize / stabilise (to become stable), (reflexive) to stabilize / stabilise (to make stable)",
     forms: {
       section_0: [
@@ -80488,7 +80488,7 @@ module.exports = [
     },
   },
   {
-    word "stagnieren",
+    word: "stagnieren",
     translation: "to stagnate",
     forms: {
       section_0: [
@@ -80518,7 +80518,7 @@ module.exports = [
     },
   },
   {
-    word "stammeln",
+    word: "stammeln",
     translation: "to stammer",
     forms: {
       section_0: [
@@ -80548,7 +80548,7 @@ module.exports = [
     },
   },
   {
-    word "stammen",
+    word: "stammen",
     translation: "(intransitive) to descend, (intransitive) to derive",
     forms: {
       section_0: [
@@ -80578,7 +80578,7 @@ module.exports = [
     },
   },
   {
-    word "stampfen",
+    word: "stampfen",
     translation: "to stamp",
     forms: {
       section_0: [
@@ -80608,11 +80608,11 @@ module.exports = [
     },
   },
   {
-    word "standardisieren",
+    word: "standardisieren",
     translation: "to standardize, to standardise",
   },
   {
-    word "standhalten",
+    word: "standhalten",
     translation: "(separable prefix) to stand, withstand, defy",
     forms: {
       section_0: [
@@ -80642,7 +80642,7 @@ module.exports = [
     },
   },
   {
-    word "stanzen",
+    word: "stanzen",
     translation: "(manufacturing) to press; to punch; to stamp",
     forms: {
       section_0: [
@@ -80672,7 +80672,7 @@ module.exports = [
     },
   },
   {
-    word "stapeln",
+    word: "stapeln",
     translation: "to pile up",
     forms: {
       section_0: [
@@ -80702,7 +80702,7 @@ module.exports = [
     },
   },
   {
-    word "stapfen",
+    word: "stapfen",
     translation: "to trudge",
     forms: {
       section_0: [
@@ -80732,7 +80732,7 @@ module.exports = [
     },
   },
   {
-    word "stärken",
+    word: "stärken",
     translation: "to strengthen, to starch",
     forms: {
       section_0: [
@@ -80762,7 +80762,7 @@ module.exports = [
     },
   },
   {
-    word "starren",
+    word: "starren",
     translation: "to stare (look fixedly)",
     forms: {
       section_0: [
@@ -80792,7 +80792,7 @@ module.exports = [
     },
   },
   {
-    word "starten",
+    word: "starten",
     translation: "to start",
     forms: {
       section_0: [
@@ -80822,7 +80822,7 @@ module.exports = [
     },
   },
   {
-    word "stationieren",
+    word: "stationieren",
     translation: "to deploy, to site, to station",
     forms: {
       section_0: [
@@ -80852,7 +80852,7 @@ module.exports = [
     },
   },
   {
-    word "stattfinden",
+    word: "stattfinden",
     translation: "to take place, to happen",
     forms: {
       section_0: [
@@ -80882,11 +80882,11 @@ module.exports = [
     },
   },
   {
-    word "statuieren",
+    word: "statuieren",
     translation: "to state",
   },
   {
-    word "stauben",
+    word: "stauben",
     translation: "to emit dust",
     forms: {
       section_0: [
@@ -80916,7 +80916,7 @@ module.exports = [
     },
   },
   {
-    word "staubsaugen",
+    word: "staubsaugen",
     translation: "(to use a vacuum cleaner) to vacuum",
     forms: {
       section_0: [
@@ -80946,7 +80946,7 @@ module.exports = [
     },
   },
   {
-    word "stauen",
+    word: "stauen",
     translation: "to dam",
     forms: {
       section_0: [
@@ -80976,7 +80976,7 @@ module.exports = [
     },
   },
   {
-    word "staunen",
+    word: "staunen",
     translation: "to be astonished",
     forms: {
       section_0: [
@@ -81006,7 +81006,7 @@ module.exports = [
     },
   },
   {
-    word "stechen",
+    word: "stechen",
     translation: "(transitive) to stick (someone or something); to poke, (transitive or intransitive) to sting; to bite; to prick, (transitive) to cut; to chop, (transitive, of the sun) to burn, (transitive, card games) to take; to trump; to capture",
     forms: {
       section_0: [
@@ -81036,7 +81036,7 @@ module.exports = [
     },
   },
   {
-    word "stecken",
+    word: "stecken",
     translation: "(transitive) to stick; to put; to insert, (transitive) to pin, (intransitive) to stick; to be stuck, (intransitive) to be (hiding)",
     forms: {
       section_0: [
@@ -81066,7 +81066,7 @@ module.exports = [
     },
   },
   {
-    word "stehen",
+    word: "stehen",
     translation: "(intransitive) to stand (to be upright, support oneself on the feet in an erect position), (intransitive) to be, to appear, to stand (to be placed or located somewhere), (intransitive) to stay; to be still",
     forms: {
       section_0: [
@@ -81096,11 +81096,11 @@ module.exports = [
     },
   },
   {
-    word "stehen bleiben",
+    word: "stehen bleiben",
     translation: "to stop, to cease moving",
   },
   {
-    word "stehlen",
+    word: "stehlen",
     translation: "(transitive or intransitive) to steal, (reflexive) to skulk, to move secretly",
     forms: {
       section_0: [
@@ -81130,11 +81130,11 @@ module.exports = [
     },
   },
   {
-    word "stehn",
+    word: "stehn",
     translation: "(informal, poetic, dated in formal prose) Alternative form of stehen",
   },
   {
-    word "steigen",
+    word: "steigen",
     translation: "(intransitive) to ascend; to climb, (intransitive) to rise, to step",
     forms: {
       section_0: [
@@ -81164,7 +81164,7 @@ module.exports = [
     },
   },
   {
-    word "steigern",
+    word: "steigern",
     translation: "to increase, (grammar) to compare",
     forms: {
       section_0: [
@@ -81194,7 +81194,7 @@ module.exports = [
     },
   },
   {
-    word "steinigen",
+    word: "steinigen",
     translation: "(transitive) to stone (usually to death); to lapidate",
     forms: {
       section_0: [
@@ -81224,7 +81224,7 @@ module.exports = [
     },
   },
   {
-    word "stellen",
+    word: "stellen",
     translation: "(transitive) to position; place, (transitive) to state, to put forward, (reflexive) to take on(e)'(s) stand, (transitive, chemistry) to standardize a solution by titration",
     forms: {
       section_0: [
@@ -81254,7 +81254,7 @@ module.exports = [
     },
   },
   {
-    word "stemmen",
+    word: "stemmen",
     translation: "(intransitive, sometimes transitive) to vote, (transitive) to tune (to the right pitch), (transitive) to bring into a certain mood, (intransitive, obsolete) to agree",
     forms: {
       section_0: [
@@ -81284,7 +81284,7 @@ module.exports = [
     },
   },
   {
-    word "stempeln",
+    word: "stempeln",
     translation: "to stamp",
     forms: {
       section_0: [
@@ -81314,7 +81314,7 @@ module.exports = [
     },
   },
   {
-    word "sterben",
+    word: "sterben",
     translation: "(intransitive) to die, (transitive, with accusative or genitive) to die of a (particular kind of) death",
     forms: {
       section_0: [
@@ -81344,7 +81344,7 @@ module.exports = [
     },
   },
   {
-    word "sterilisieren",
+    word: "sterilisieren",
     translation: "to sterilize",
     forms: {
       section_0: [
@@ -81374,7 +81374,7 @@ module.exports = [
     },
   },
   {
-    word "steuern",
+    word: "steuern",
     translation: "to steer",
     forms: {
       section_0: [
@@ -81404,7 +81404,7 @@ module.exports = [
     },
   },
   {
-    word "stibitzen",
+    word: "stibitzen",
     translation: "to scrounge, to pilfer",
     forms: {
       section_0: [
@@ -81434,7 +81434,7 @@ module.exports = [
     },
   },
   {
-    word "sticken",
+    word: "sticken",
     translation: "to embroider",
     forms: {
       section_0: [
@@ -81464,7 +81464,7 @@ module.exports = [
     },
   },
   {
-    word "stieren",
+    word: "stieren",
     translation: "(transitive, slang) To stare at",
     forms: {
       section_0: [
@@ -81494,7 +81494,7 @@ module.exports = [
     },
   },
   {
-    word "stiften",
+    word: "stiften",
     translation: "To draw or apply colour using a stift, To chip (in football)",
     forms: {
       section_0: [
@@ -81524,7 +81524,7 @@ module.exports = [
     },
   },
   {
-    word "stigmatisieren",
+    word: "stigmatisieren",
     translation: "to stigmatize",
     forms: {
       section_0: [
@@ -81554,7 +81554,7 @@ module.exports = [
     },
   },
   {
-    word "stillen",
+    word: "stillen",
     translation: "(transitive) to nurse, to breastfeed (a baby), (transitive) to quench (a need, eg hunger)",
     forms: {
       section_0: [
@@ -81584,11 +81584,11 @@ module.exports = [
     },
   },
   {
-    word "stilllegen",
+    word: "stilllegen",
     translation: "to put out of service, to shut down, to decommission",
   },
   {
-    word "stillstehen",
+    word: "stillstehen",
     translation: "To stagnate",
     forms: {
       section_0: [
@@ -81618,7 +81618,7 @@ module.exports = [
     },
   },
   {
-    word "stimmen",
+    word: "stimmen",
     translation: "to vote, (music, an instrument) to tune, to be true, (with an adjective of emotion, transitive) to make (someone happy, sad, etc)",
     forms: {
       section_0: [
@@ -81648,7 +81648,7 @@ module.exports = [
     },
   },
   {
-    word "stimulieren",
+    word: "stimulieren",
     translation: "to stimulate",
     forms: {
       section_0: [
@@ -81678,7 +81678,7 @@ module.exports = [
     },
   },
   {
-    word "stinken",
+    word: "stinken",
     translation: "to stink",
     forms: {
       section_0: [
@@ -81708,7 +81708,7 @@ module.exports = [
     },
   },
   {
-    word "stippen",
+    word: "stippen",
     translation: "to dip (lower into a liquid), to pat, tap (touch, often repeatedly)",
     forms: {
       section_0: [
@@ -81738,7 +81738,7 @@ module.exports = [
     },
   },
   {
-    word "stochern",
+    word: "stochern",
     translation: "to pick, to poke",
     forms: {
       section_0: [
@@ -81768,7 +81768,7 @@ module.exports = [
     },
   },
   {
-    word "stocken",
+    word: "stocken",
     translation: "to stop, to stagnate",
     forms: {
       section_0: [
@@ -81798,7 +81798,7 @@ module.exports = [
     },
   },
   {
-    word "stöhnen",
+    word: "stöhnen",
     translation: "to moan, to groan",
     forms: {
       section_0: [
@@ -81828,7 +81828,7 @@ module.exports = [
     },
   },
   {
-    word "stolpern",
+    word: "stolpern",
     translation: "to stumble",
     forms: {
       section_0: [
@@ -81858,7 +81858,7 @@ module.exports = [
     },
   },
   {
-    word "stopfen",
+    word: "stopfen",
     translation: "to stuff, to plug",
     forms: {
       section_0: [
@@ -81888,7 +81888,7 @@ module.exports = [
     },
   },
   {
-    word "stoppen",
+    word: "stoppen",
     translation: "to stop, to halt, to plug, to stuff, to put, to insert, to darn",
     forms: {
       section_0: [
@@ -81918,7 +81918,7 @@ module.exports = [
     },
   },
   {
-    word "stören",
+    word: "stören",
     translation: "to disturb",
     forms: {
       section_0: [
@@ -81948,7 +81948,7 @@ module.exports = [
     },
   },
   {
-    word "stornieren",
+    word: "stornieren",
     translation: "to cancel, to reverse",
     forms: {
       section_0: [
@@ -81978,7 +81978,7 @@ module.exports = [
     },
   },
   {
-    word "stossen",
+    word: "stossen",
     translation: "Switzerland and Liechtenstein standard spelling of stoßen",
     forms: {
       section_0: [
@@ -82008,7 +82008,7 @@ module.exports = [
     },
   },
   {
-    word "stoßen",
+    word: "stoßen",
     translation: "(transitive) to push; to shove; to thrust, (transitive or reflexive) to bump; to knock; to strike; to hurt, (reflexive, figuratively, with an) to take exception (to something), (intransitive) to jolt; to kick; to thrust",
     forms: {
       section_0: [
@@ -82038,7 +82038,7 @@ module.exports = [
     },
   },
   {
-    word "stottern",
+    word: "stottern",
     translation: "to stutter",
     forms: {
       section_0: [
@@ -82068,7 +82068,7 @@ module.exports = [
     },
   },
   {
-    word "strafen",
+    word: "strafen",
     translation: "(transitive) to punish",
     forms: {
       section_0: [
@@ -82098,7 +82098,7 @@ module.exports = [
     },
   },
   {
-    word "strahlen",
+    word: "strahlen",
     translation: "to shine, to radiate, to smile in a big way",
     forms: {
       section_0: [
@@ -82128,7 +82128,7 @@ module.exports = [
     },
   },
   {
-    word "strammstehen",
+    word: "strammstehen",
     translation: "to stand at attention",
     forms: {
       section_0: [
@@ -82158,7 +82158,7 @@ module.exports = [
     },
   },
   {
-    word "stranden",
+    word: "stranden",
     translation: "To strand",
     forms: {
       section_0: [
@@ -82188,7 +82188,7 @@ module.exports = [
     },
   },
   {
-    word "strapazieren",
+    word: "strapazieren",
     translation: "to stress, to strain, to tire, to overtax",
     forms: {
       section_0: [
@@ -82218,7 +82218,7 @@ module.exports = [
     },
   },
   {
-    word "sträuben",
+    word: "sträuben",
     translation: "(transitive, hair or fur) to bristle up, (reflexive) to be reluctant, to resist",
     forms: {
       section_0: [
@@ -82248,7 +82248,7 @@ module.exports = [
     },
   },
   {
-    word "streben",
+    word: "streben",
     translation: "To strive, To aspire",
     forms: {
       section_0: [
@@ -82278,7 +82278,7 @@ module.exports = [
     },
   },
   {
-    word "strecken",
+    word: "strecken",
     translation: "to straighten, stretch, to elongate, lengthen, to dilute, cut",
     forms: {
       section_0: [
@@ -82308,7 +82308,7 @@ module.exports = [
     },
   },
   {
-    word "streicheln",
+    word: "streicheln",
     translation: "to stroke (to move the hand over the surface of), to pet; to fondle",
     forms: {
       section_0: [
@@ -82338,7 +82338,7 @@ module.exports = [
     },
   },
   {
-    word "streichen",
+    word: "streichen",
     translation: "(transitive) to stroke, (transitive) to cancel; to discard; to delete; to strike out; to cross out, (transitive) to spread; to rub; to apply, (transitive) to paint",
     forms: {
       section_0: [
@@ -82368,7 +82368,7 @@ module.exports = [
     },
   },
   {
-    word "streifen",
+    word: "streifen",
     translation: "to brush, to range, to swipe something",
     forms: {
       section_0: [
@@ -82398,7 +82398,7 @@ module.exports = [
     },
   },
   {
-    word "streiken",
+    word: "streiken",
     translation: "to strike (to stop working)",
     forms: {
       section_0: [
@@ -82428,7 +82428,7 @@ module.exports = [
     },
   },
   {
-    word "streiten",
+    word: "streiten",
     translation: "(intransitive or reflexive) to argue; to fight; to quarrel",
     forms: {
       section_0: [
@@ -82458,11 +82458,11 @@ module.exports = [
     },
   },
   {
-    word "stremmen",
+    word: "stremmen",
     translation: "to be too tight (clothing)",
   },
   {
-    word "streuen",
+    word: "streuen",
     translation: "to strew, to scatter",
     forms: {
       section_0: [
@@ -82492,7 +82492,7 @@ module.exports = [
     },
   },
   {
-    word "stricken",
+    word: "stricken",
     translation: "past participle of strike",
     forms: {
       section_0: [
@@ -82522,7 +82522,7 @@ module.exports = [
     },
   },
   {
-    word "strömen",
+    word: "strömen",
     translation: "To flow, stream, pour",
     forms: {
       section_0: [
@@ -82552,7 +82552,7 @@ module.exports = [
     },
   },
   {
-    word "strukturieren",
+    word: "strukturieren",
     translation: "to structure (to give structure to; to arrange)",
     forms: {
       section_0: [
@@ -82582,15 +82582,15 @@ module.exports = [
     },
   },
   {
-    word "strullen",
+    word: "strullen",
     translation: "(colloquial) to urinate",
   },
   {
-    word "strullern",
+    word: "strullern",
     translation: "(colloquial) to urinate",
   },
   {
-    word "studieren",
+    word: "studieren",
     translation: "to study",
     forms: {
       section_0: [
@@ -82620,7 +82620,7 @@ module.exports = [
     },
   },
   {
-    word "stunden",
+    word: "stunden",
     translation: "to defer",
     forms: {
       section_0: [
@@ -82650,7 +82650,7 @@ module.exports = [
     },
   },
   {
-    word "stürmen",
+    word: "stürmen",
     translation: "(meteorology, intransitive, auxiliary haben) to storm, (impersonal, auxiliary haben) to be stormy weather, (intransitive, auxiliary sein) to rush, (military, intransitive, auxiliary haben) to storm, to charge, (military, transitive, auxiliary haben) to take by storm, (sports, intransitive, auxiliary haben) to attack",
     forms: {
       section_0: [
@@ -82680,7 +82680,7 @@ module.exports = [
     },
   },
   {
-    word "stürzen",
+    word: "stürzen",
     translation: "to fall down, to drop, to tumble, to dash, to rush, to sprint to something, to throw, to hurl, to upturn, to overthrow, to oust, to dethrone",
     forms: {
       section_0: [
@@ -82710,11 +82710,11 @@ module.exports = [
     },
   },
   {
-    word "stutzen",
+    word: "stutzen",
     translation: "to cut short, to stop short",
   },
   {
-    word "stützen",
+    word: "stützen",
     translation: "(transitive) to support (to keep from falling), (reflexive) (with preposition auf) to use something or someone for support, (transitive) to corroborate, to abet, (with preposition auf) to rest, to lean",
     forms: {
       section_0: [
@@ -82744,15 +82744,15 @@ module.exports = [
     },
   },
   {
-    word "stutzig machen",
+    word: "stutzig machen",
     translation: "to perplex (someone), to make (someone) suspicious; to arouse (someon(e)'(s)) suspicion",
   },
   {
-    word "sublimieren",
+    word: "sublimieren",
     translation: "(psychology, physics) to sublimate",
   },
   {
-    word "substituieren",
+    word: "substituieren",
     translation: "(mathematics) to substitute",
     forms: {
       section_0: [
@@ -82782,7 +82782,7 @@ module.exports = [
     },
   },
   {
-    word "subtrahieren",
+    word: "subtrahieren",
     translation: "to subtract",
     forms: {
       section_0: [
@@ -82812,7 +82812,7 @@ module.exports = [
     },
   },
   {
-    word "subventionieren",
+    word: "subventionieren",
     translation: "to subsidize",
     forms: {
       section_0: [
@@ -82842,7 +82842,7 @@ module.exports = [
     },
   },
   {
-    word "suchen",
+    word: "suchen",
     translation: "to seek, to search, to look for",
     forms: {
       section_0: [
@@ -82872,7 +82872,7 @@ module.exports = [
     },
   },
   {
-    word "suchten",
+    word: "suchten",
     translation: "to do something extensively, often in a single sitting over a long time, as if addicted",
     forms: {
       section_0: [
@@ -82902,7 +82902,7 @@ module.exports = [
     },
   },
   {
-    word "summen",
+    word: "summen",
     translation: "to buzz; to hum",
     forms: {
       section_0: [
@@ -82932,7 +82932,7 @@ module.exports = [
     },
   },
   {
-    word "summieren",
+    word: "summieren",
     translation: "to sum (add together)",
     forms: {
       section_0: [
@@ -82962,7 +82962,7 @@ module.exports = [
     },
   },
   {
-    word "sündigen",
+    word: "sündigen",
     translation: "to sin",
     forms: {
       section_0: [
@@ -82992,11 +82992,11 @@ module.exports = [
     },
   },
   {
-    word "surfen",
+    word: "surfen",
     translation: "(sports) to surf, (computing) to surf (the web)",
   },
   {
-    word "surre",
+    word: "surre",
     translation: "First-person singular present of surren, First-person singular subjunctive I of surren, Third-person singular subjunctive I of surren, Imperative singular of surren",
     forms: {
       section_0: [
@@ -83026,7 +83026,7 @@ module.exports = [
     },
   },
   {
-    word "surren",
+    word: "surren",
     translation: "to buzz, to hum",
     forms: {
       section_0: [
@@ -83056,7 +83056,7 @@ module.exports = [
     },
   },
   {
-    word "suspendieren",
+    word: "suspendieren",
     translation: "(transitive) to suspend",
     forms: {
       section_0: [
@@ -83086,7 +83086,7 @@ module.exports = [
     },
   },
   {
-    word "süssen",
+    word: "süssen",
     translation: "Switzerland and Liechtenstein standard spelling of süßen",
     forms: {
       section_0: [
@@ -83116,7 +83116,7 @@ module.exports = [
     },
   },
   {
-    word "süßen",
+    word: "süßen",
     translation: "to sweeten",
     forms: {
       section_0: [
@@ -83146,7 +83146,7 @@ module.exports = [
     },
   },
   {
-    word "symbolisieren",
+    word: "symbolisieren",
     translation: "to symbolize, to symbolise",
     forms: {
       section_0: [
@@ -83176,11 +83176,11 @@ module.exports = [
     },
   },
   {
-    word "synthetisieren",
+    word: "synthetisieren",
     translation: "to synthesize",
   },
   {
-    word "systematisieren",
+    word: "systematisieren",
     translation: "to arrange (set up, organise)",
     forms: {
       section_0: [
@@ -83210,11 +83210,11 @@ module.exports = [
     },
   },
   {
-    word "tabuisieren",
+    word: "tabuisieren",
     translation: "to taboo",
   },
   {
-    word "tadeln",
+    word: "tadeln",
     translation: "to blame, to censure",
     forms: {
       section_0: [
@@ -83244,7 +83244,7 @@ module.exports = [
     },
   },
   {
-    word "tafeln",
+    word: "tafeln",
     translation: "to feast",
     forms: {
       section_0: [
@@ -83274,7 +83274,7 @@ module.exports = [
     },
   },
   {
-    word "tagen",
+    word: "tagen",
     translation: "(rare) past participle, common gender of tage",
     forms: {
       section_0: [
@@ -83304,15 +83304,15 @@ module.exports = [
     },
   },
   {
-    word "taggen",
+    word: "taggen",
     translation: "(Internet) to tag",
   },
   {
-    word "tagträumen",
+    word: "tagträumen",
     translation: "to daydream",
   },
   {
-    word "taktieren",
+    word: "taktieren",
     translation: "to act tactically, to maneuver",
     forms: {
       section_0: [
@@ -83342,7 +83342,7 @@ module.exports = [
     },
   },
   {
-    word "tanken",
+    word: "tanken",
     translation: "(intransitive) to fuel (to fill a fuel tank of a vehicle), (intransitive, slang) to drink lots of alcohol",
     forms: {
       section_0: [
@@ -83372,7 +83372,7 @@ module.exports = [
     },
   },
   {
-    word "tanzen",
+    word: "tanzen",
     translation: "to dance",
     forms: {
       section_0: [
@@ -83402,7 +83402,7 @@ module.exports = [
     },
   },
   {
-    word "tapezieren",
+    word: "tapezieren",
     translation: "to decorate, wallpaper",
     forms: {
       section_0: [
@@ -83432,7 +83432,7 @@ module.exports = [
     },
   },
   {
-    word "tappen",
+    word: "tappen",
     translation: "(transitive) to tap (draw off liquid from a vessel)",
     forms: {
       section_0: [
@@ -83462,7 +83462,7 @@ module.exports = [
     },
   },
   {
-    word "tarnen",
+    word: "tarnen",
     translation: "to mask; to camouflage; to disguise; to cover up",
     forms: {
       section_0: [
@@ -83492,7 +83492,7 @@ module.exports = [
     },
   },
   {
-    word "tasten",
+    word: "tasten",
     translation: "third-person plural present indicative form of tastar",
     forms: {
       section_0: [
@@ -83522,7 +83522,7 @@ module.exports = [
     },
   },
   {
-    word "tätigen",
+    word: "tätigen",
     translation: "to effect",
     forms: {
       section_0: [
@@ -83552,7 +83552,7 @@ module.exports = [
     },
   },
   {
-    word "tätowieren",
+    word: "tätowieren",
     translation: "to tattoo",
     forms: {
       section_0: [
@@ -83582,7 +83582,7 @@ module.exports = [
     },
   },
   {
-    word "tätscheln",
+    word: "tätscheln",
     translation: "to pat",
     forms: {
       section_0: [
@@ -83612,11 +83612,11 @@ module.exports = [
     },
   },
   {
-    word "tattern",
+    word: "tattern",
     translation: "(colloquial, of the fingers or whole body) to shake, to tremble",
   },
   {
-    word "tauchen",
+    word: "tauchen",
     translation: "to dive, (figuratively) to bathe",
     forms: {
       section_0: [
@@ -83646,7 +83646,7 @@ module.exports = [
     },
   },
   {
-    word "tauen",
+    word: "tauen",
     translation: "to thaw, to dew",
     forms: {
       section_0: [
@@ -83676,7 +83676,7 @@ module.exports = [
     },
   },
   {
-    word "taufen",
+    word: "taufen",
     translation: "to baptize",
     forms: {
       section_0: [
@@ -83706,7 +83706,7 @@ module.exports = [
     },
   },
   {
-    word "taugen",
+    word: "taugen",
     translation: "to be fit",
     forms: {
       section_0: [
@@ -83736,11 +83736,11 @@ module.exports = [
     },
   },
   {
-    word "tauschen",
+    word: "tauschen",
     translation: "to trade, to exchange, swap",
   },
   {
-    word "täuschen",
+    word: "täuschen",
     translation: "(transitive) to deceive, (reflexive) to be wrong, to be mistaken, (reflexive) to err",
     forms: {
       section_0: [
@@ -83770,7 +83770,7 @@ module.exports = [
     },
   },
   {
-    word "taxieren",
+    word: "taxieren",
     translation: "to appraise",
     forms: {
       section_0: [
@@ -83800,7 +83800,7 @@ module.exports = [
     },
   },
   {
-    word "teeren",
+    word: "teeren",
     translation: "to tar",
     forms: {
       section_0: [
@@ -83830,7 +83830,7 @@ module.exports = [
     },
   },
   {
-    word "teilen",
+    word: "teilen",
     translation: "to split, to share, to divide",
     forms: {
       section_0: [
@@ -83860,7 +83860,7 @@ module.exports = [
     },
   },
   {
-    word "teilhaben",
+    word: "teilhaben",
     translation: "participate",
     forms: {
       section_0: [
@@ -83890,7 +83890,7 @@ module.exports = [
     },
   },
   {
-    word "teilnehmen",
+    word: "teilnehmen",
     translation: "to participate",
     forms: {
       section_0: [
@@ -83920,11 +83920,11 @@ module.exports = [
     },
   },
   {
-    word "teilzunehmen",
+    word: "teilzunehmen",
     translation: "zu-infinitive of teilnehmen",
   },
   {
-    word "telefonieren",
+    word: "telefonieren",
     translation: "to telephone",
     forms: {
       section_0: [
@@ -83954,7 +83954,7 @@ module.exports = [
     },
   },
   {
-    word "temperieren",
+    word: "temperieren",
     translation: "to temper",
     forms: {
       section_0: [
@@ -83984,7 +83984,7 @@ module.exports = [
     },
   },
   {
-    word "tendieren",
+    word: "tendieren",
     translation: "(tendieren zu): to tend toward/towards",
     forms: {
       section_0: [
@@ -84014,7 +84014,7 @@ module.exports = [
     },
   },
   {
-    word "terrorisieren",
+    word: "terrorisieren",
     translation: "to terrorize",
     forms: {
       section_0: [
@@ -84044,7 +84044,7 @@ module.exports = [
     },
   },
   {
-    word "testen",
+    word: "testen",
     translation: "to test, to try out",
     forms: {
       section_0: [
@@ -84074,23 +84074,23 @@ module.exports = [
     },
   },
   {
-    word "texten",
+    word: "texten",
     translation: "To write (song, script etc), To text",
   },
   {
-    word "thematisieren",
+    word: "thematisieren",
     translation: "to bring up, address an issue",
   },
   {
-    word "thun",
+    word: "thun",
     translation: "Obsolete spelling of tun which was deprecated in 1902 following the Second Orthographic Conference of 1901",
   },
   {
-    word "thüren",
+    word: "thüren",
     translation: "(archaic) dare, venture",
   },
   {
-    word "tilgen",
+    word: "tilgen",
     translation: "to erase, to extinct, (finance) to amortize, to repay, to redeem",
     forms: {
       section_0: [
@@ -84120,7 +84120,7 @@ module.exports = [
     },
   },
   {
-    word "tippen",
+    word: "tippen",
     translation: "to tip (give a gratuity), to tip (give a hint)",
     forms: {
       section_0: [
@@ -84150,15 +84150,15 @@ module.exports = [
     },
   },
   {
-    word "titeln",
+    word: "titeln",
     translation: "(media, intransitive) to publish a story under a specified headline, (transitive, rare) to entitle (give a title to)",
   },
   {
-    word "titrieren",
+    word: "titrieren",
     translation: "(chemistry) To titrate",
   },
   {
-    word "toasten",
+    word: "toasten",
     translation: "to toast (to lightly cook in a kitchen appliance), to toast (to engage in a salutation and/or accompanying raising of glasses while drinking alcohol in honor of someone or something)",
     forms: {
       section_0: [
@@ -84188,7 +84188,7 @@ module.exports = [
     },
   },
   {
-    word "toben",
+    word: "toben",
     translation: "to rage",
     forms: {
       section_0: [
@@ -84218,7 +84218,7 @@ module.exports = [
     },
   },
   {
-    word "tolerieren",
+    word: "tolerieren",
     translation: "to tolerate",
     forms: {
       section_0: [
@@ -84248,7 +84248,7 @@ module.exports = [
     },
   },
   {
-    word "tollen",
+    word: "tollen",
     translation: "to romp, gambol, cavort",
     forms: {
       section_0: [
@@ -84278,7 +84278,7 @@ module.exports = [
     },
   },
   {
-    word "tönen",
+    word: "tönen",
     translation: "(intransitive) to give a loud and far-reaching sound, (intransitive, Switzerland) to sound; to give or have a sound, (intransitive, informal) to boast; to brag (particularly about an intention to do something), (transitive, of hair) to dye with a weak colouring that gives the hair a new tone rather than an entirely different colour",
     forms: {
       section_0: [
@@ -84308,7 +84308,7 @@ module.exports = [
     },
   },
   {
-    word "töpfern",
+    word: "töpfern",
     translation: "to make pottery",
     forms: {
       section_0: [
@@ -84338,11 +84338,11 @@ module.exports = [
     },
   },
   {
-    word "toppen",
+    word: "toppen",
     translation: "(colloquial) to top (To excel, to surpass, to beat)",
   },
   {
-    word "torpedieren",
+    word: "torpedieren",
     translation: "to torpedo",
     forms: {
       section_0: [
@@ -84372,11 +84372,11 @@ module.exports = [
     },
   },
   {
-    word "torten",
+    word: "torten",
     translation: "to pie",
   },
   {
-    word "tosen",
+    word: "tosen",
     translation: "third-person plural present indicative of tusir",
     forms: {
       section_0: [
@@ -84406,7 +84406,7 @@ module.exports = [
     },
   },
   {
-    word "töten",
+    word: "töten",
     translation: "to kill",
     forms: {
       section_0: [
@@ -84436,7 +84436,7 @@ module.exports = [
     },
   },
   {
-    word "touchieren",
+    word: "touchieren",
     translation: "to graze; to touch",
     forms: {
       section_0: [
@@ -84466,7 +84466,7 @@ module.exports = [
     },
   },
   {
-    word "traben",
+    word: "traben",
     translation: "to trot (said of horses)",
     forms: {
       section_0: [
@@ -84496,7 +84496,7 @@ module.exports = [
     },
   },
   {
-    word "tragen",
+    word: "tragen",
     translation: "(transitive) to carry, to take, (transitive) to hold, (transitive or intransitive, fashion) to wear (clothing), (transitive, agriculture) to produce, to bear, to yield, (transitive) to support, to maintain, (intransitive, agriculture) to crop, (reflexive, finance) to pay for itself",
     forms: {
       section_0: [
@@ -84526,7 +84526,7 @@ module.exports = [
     },
   },
   {
-    word "trainieren",
+    word: "trainieren",
     translation: "to train, to coach, to work out",
     forms: {
       section_0: [
@@ -84556,7 +84556,7 @@ module.exports = [
     },
   },
   {
-    word "trällern",
+    word: "trällern",
     translation: "to trill (to sing with a trill)",
     forms: {
       section_0: [
@@ -84586,7 +84586,7 @@ module.exports = [
     },
   },
   {
-    word "trampeln",
+    word: "trampeln",
     translation: "(intransitive) to trample",
     forms: {
       section_0: [
@@ -84616,7 +84616,7 @@ module.exports = [
     },
   },
   {
-    word "trampen",
+    word: "trampen",
     translation: "to hitchhike",
     forms: {
       section_0: [
@@ -84646,7 +84646,7 @@ module.exports = [
     },
   },
   {
-    word "tranchieren",
+    word: "tranchieren",
     translation: "to carve, to slice (meat or other foods)",
     forms: {
       section_0: [
@@ -84676,7 +84676,7 @@ module.exports = [
     },
   },
   {
-    word "tränen",
+    word: "tränen",
     translation: "to water (due to irritation, pain, etc)",
     forms: {
       section_0: [
@@ -84706,7 +84706,7 @@ module.exports = [
     },
   },
   {
-    word "tränken",
+    word: "tränken",
     translation: "(transitive) to water (to provide (animals) with water)",
     forms: {
       section_0: [
@@ -84736,11 +84736,11 @@ module.exports = [
     },
   },
   {
-    word "transchieren",
+    word: "transchieren",
     translation: "Alternative spelling of tranchieren",
   },
   {
-    word "transferieren",
+    word: "transferieren",
     translation: "to transfer",
     forms: {
       section_0: [
@@ -84770,15 +84770,15 @@ module.exports = [
     },
   },
   {
-    word "transformieren",
+    word: "transformieren",
     translation: "to transform",
   },
   {
-    word "translozieren",
+    word: "translozieren",
     translation: "To translocate",
   },
   {
-    word "transportieren",
+    word: "transportieren",
     translation: "to transport",
     forms: {
       section_0: [
@@ -84808,7 +84808,7 @@ module.exports = [
     },
   },
   {
-    word "tratschen",
+    word: "tratschen",
     translation: "to gossip",
     forms: {
       section_0: [
@@ -84838,7 +84838,7 @@ module.exports = [
     },
   },
   {
-    word "trauen",
+    word: "trauen",
     translation: "third-person plural present indicative form of traure",
     forms: {
       section_0: [
@@ -84868,7 +84868,7 @@ module.exports = [
     },
   },
   {
-    word "trauern",
+    word: "trauern",
     translation: "to mourn",
     forms: {
       section_0: [
@@ -84898,11 +84898,11 @@ module.exports = [
     },
   },
   {
-    word "traumatisieren",
+    word: "traumatisieren",
     translation: "to traumatize, to traumatise",
   },
   {
-    word "träumen",
+    word: "träumen",
     translation: "to dream",
     forms: {
       section_0: [
@@ -84932,7 +84932,7 @@ module.exports = [
     },
   },
   {
-    word "treffen",
+    word: "treffen",
     translation: "(transitive) to hit, strike, (transitive) to find (by chance), hit upon, to encounter, (transitive) to meet with, (transitive) to achieve, accomplish, (transitive) to feel, come to believe",
     forms: {
       section_0: [
@@ -84962,7 +84962,7 @@ module.exports = [
     },
   },
   {
-    word "treiben",
+    word: "treiben",
     translation: "(transitive, auxiliary: “haben”) to drive (eg livestock); to propel; to force, (transitive, auxiliary: “haben”) to put forth; to produce; to sprout, (transitive, figuratively, auxiliary: “haben”) to urge, (transitive, vulgar, slang, auxiliary: “haben”) to fuck, (intransitive, auxiliary: “sein”) to drift; to float about, (intransitive, auxiliary: “sein”) to sprout, (transitive) to do, to get up to",
     forms: {
       section_0: [
@@ -84992,7 +84992,7 @@ module.exports = [
     },
   },
   {
-    word "trennen",
+    word: "trennen",
     translation: "to separate, sever, part, disunite, uncouple, segregate, unjoin, disjoin, to sunder, to delink, unlink, disconnect, detach, to isolate",
     forms: {
       section_0: [
@@ -85022,7 +85022,7 @@ module.exports = [
     },
   },
   {
-    word "treten",
+    word: "treten",
     translation: "(transitive, auxiliary: “haben”) to step; to tread; to trample, (transitive, auxiliary: “haben”) to kick (a ball), (intransitive, auxiliary: “sein”) to step; to tread, (intransitive, auxiliary: “sein”, figuratively) to appear, (intransitive, auxiliary: “sein”) to pedal, (intransitive, auxiliary: “sein”) to walk",
     forms: {
       section_0: [
@@ -85052,7 +85052,7 @@ module.exports = [
     },
   },
   {
-    word "triefen",
+    word: "triefen",
     translation: "to drip heavily, to be so wet that a large volume of water drips off (of one)",
     forms: {
       section_0: [
@@ -85082,7 +85082,7 @@ module.exports = [
     },
   },
   {
-    word "trinken",
+    word: "trinken",
     translation: "(transitive) to drink, (intransitive) to drink; to toast",
     forms: {
       section_0: [
@@ -85112,11 +85112,11 @@ module.exports = [
     },
   },
   {
-    word "Tritt in den Arsch",
+    word: "Tritt in den Arsch",
     translation: "(colloquial) kick oneself in the ass",
   },
   {
-    word "triumphieren",
+    word: "triumphieren",
     translation: "to triumph",
     forms: {
       section_0: [
@@ -85146,7 +85146,7 @@ module.exports = [
     },
   },
   {
-    word "trocknen",
+    word: "trocknen",
     translation: "to dry",
     forms: {
       section_0: [
@@ -85176,7 +85176,7 @@ module.exports = [
     },
   },
   {
-    word "trödeln",
+    word: "trödeln",
     translation: "to dally, to trifle, to waste time",
     forms: {
       section_0: [
@@ -85206,7 +85206,7 @@ module.exports = [
     },
   },
   {
-    word "trommeln",
+    word: "trommeln",
     translation: "to drum, to beat a drum",
     forms: {
       section_0: [
@@ -85236,7 +85236,7 @@ module.exports = [
     },
   },
   {
-    word "trompeten",
+    word: "trompeten",
     translation: "to trumpet",
     forms: {
       section_0: [
@@ -85266,7 +85266,7 @@ module.exports = [
     },
   },
   {
-    word "tröpfeln",
+    word: "tröpfeln",
     translation: "to drip, to fall or trickle down in small drops, (colloquial) to sprinkle, to rain a few little drops",
     forms: {
       section_0: [
@@ -85296,7 +85296,7 @@ module.exports = [
     },
   },
   {
-    word "tropfen",
+    word: "tropfen",
     translation: "to drop, to drip",
     forms: {
       section_0: [
@@ -85326,7 +85326,7 @@ module.exports = [
     },
   },
   {
-    word "trösten",
+    word: "trösten",
     translation: "to console",
     forms: {
       section_0: [
@@ -85356,7 +85356,7 @@ module.exports = [
     },
   },
   {
-    word "trotten",
+    word: "trotten",
     translation: "to trot",
     forms: {
       section_0: [
@@ -85386,7 +85386,7 @@ module.exports = [
     },
   },
   {
-    word "trotzen",
+    word: "trotzen",
     translation: "to defy, to brave",
     forms: {
       section_0: [
@@ -85416,7 +85416,7 @@ module.exports = [
     },
   },
   {
-    word "trügen",
+    word: "trügen",
     translation: "(transitive) to deceive, (intransitive) to be deceptive",
     forms: {
       section_0: [
@@ -85446,7 +85446,7 @@ module.exports = [
     },
   },
   {
-    word "tüfteln",
+    word: "tüfteln",
     translation: "to tinker",
     forms: {
       section_0: [
@@ -85476,7 +85476,7 @@ module.exports = [
     },
   },
   {
-    word "tun",
+    word: "tun",
     translation: "(transitive) To put into tuns, or casks",
     forms: {
       section_0: [
@@ -85506,11 +85506,11 @@ module.exports = [
     },
   },
   {
-    word "tunen",
+    word: "tunen",
     translation: "(transitive) to tune (modify and optimize technical devices, chiefly cars), (transitive or reflexive, humorous) to perform plastic surgery on",
   },
   {
-    word "tupfen",
+    word: "tupfen",
     translation: "to dab (to touch repeatedly with a soft, often moist, object)",
     forms: {
       section_0: [
@@ -85540,7 +85540,7 @@ module.exports = [
     },
   },
   {
-    word "türmen",
+    word: "türmen",
     translation: "(transitive, auxiliary verb: haben) to pile, to pile up, (reflexive, auxiliary verb: haben) to pile up, (intransitive, auxiliary verb: sein) to flee, to escape, to skedaddle",
     forms: {
       section_0: [
@@ -85570,7 +85570,7 @@ module.exports = [
     },
   },
   {
-    word "turnen",
+    word: "turnen",
     translation: "to do gymnastics",
     forms: {
       section_0: [
@@ -85600,7 +85600,7 @@ module.exports = [
     },
   },
   {
-    word "tuscheln",
+    word: "tuscheln",
     translation: "to whisper, to quietly and secretly say (something, usually something disparaging) about (someone)",
     forms: {
       section_0: [
@@ -85630,7 +85630,7 @@ module.exports = [
     },
   },
   {
-    word "tyrannisieren",
+    word: "tyrannisieren",
     translation: "(transitive) to tyrannize, to tyrannise",
     forms: {
       section_0: [
@@ -85660,7 +85660,7 @@ module.exports = [
     },
   },
   {
-    word "üben",
+    word: "üben",
     translation: "to practice / practise",
     forms: {
       section_0: [
@@ -85690,31 +85690,31 @@ module.exports = [
     },
   },
   {
-    word "über den Löffel barbieren",
+    word: "über den Löffel barbieren",
     translation: "pull a fast one",
   },
   {
-    word "über die Planke gehen",
+    word: "über die Planke gehen",
     translation: "(idiomatic) to walk the plank",
   },
   {
-    word "über die Runden kommen",
+    word: "über die Runden kommen",
     translation: "(idiomatic) to make ends meet",
   },
   {
-    word "über die Stränge schlagen",
+    word: "über die Stränge schlagen",
     translation: "(idiomatic) to kick over the traces",
   },
   {
-    word "über die Ufer treten",
+    word: "über die Ufer treten",
     translation: "(a river) to overflow its banks",
   },
   {
-    word "überarbeiten",
+    word: "überarbeiten",
     translation: "to edit something in order to improve it; to edit something that it it is nearly completely rewritten, sich überarbeiten: to work so much as to make someone over-stressed",
   },
   {
-    word "überbewerten",
+    word: "überbewerten",
     translation: "to overrate",
     forms: {
       section_0: [
@@ -85744,11 +85744,11 @@ module.exports = [
     },
   },
   {
-    word "überbrücken",
+    word: "überbrücken",
     translation: "to bridge",
   },
   {
-    word "überdachen",
+    word: "überdachen",
     translation: "to put a roof on something that does(n)'(t) necessarily need one",
     forms: {
       section_0: [
@@ -85778,7 +85778,7 @@ module.exports = [
     },
   },
   {
-    word "überdenken",
+    word: "überdenken",
     translation: "to reconsider, to rethink, to think over, to consider",
     forms: {
       section_0: [
@@ -85808,19 +85808,19 @@ module.exports = [
     },
   },
   {
-    word "übereilen",
+    word: "übereilen",
     translation: "(transitive) to rush, to precipitate, (reflexive) to act rashly",
   },
   {
-    word "übereinstimmen",
+    word: "übereinstimmen",
     translation: "to coincide, match, correspond, accord, to concur, agree, to harmonize",
   },
   {
-    word "überfahren",
+    word: "überfahren",
     translation: "(transitive, to drive over, causing injury or death) to run over, to run down, (transitive, of a red traffic light or stop sign) to go through, to overshoot",
   },
   {
-    word "überfallen",
+    word: "überfallen",
     translation: "to attack, to assault, (bank) to raid, (country) to invade",
     forms: {
       section_0: [
@@ -85850,11 +85850,11 @@ module.exports = [
     },
   },
   {
-    word "überfischen",
+    word: "überfischen",
     translation: "to overfish",
   },
   {
-    word "überfliegen",
+    word: "überfliegen",
     translation: "to skim (read quickly, skipping some detail)",
     forms: {
       section_0: [
@@ -85884,7 +85884,7 @@ module.exports = [
     },
   },
   {
-    word "überfluten",
+    word: "überfluten",
     translation: "to flood",
     forms: {
       section_0: [
@@ -85914,11 +85914,11 @@ module.exports = [
     },
   },
   {
-    word "überfordern",
+    word: "überfordern",
     translation: "(transitive) To demand or ask more of someone or something than is within her/his/its capabilities",
   },
   {
-    word "überführen",
+    word: "überführen",
     translation: "(transitive) to transfer, translate, move, (transitive) to convert, (transitive) to prove that somebody has committed a crime",
     forms: {
       section_0: [
@@ -85948,7 +85948,7 @@ module.exports = [
     },
   },
   {
-    word "übergeben",
+    word: "übergeben",
     translation: "(transitive) to hand over, (reflexive) to vomit",
     forms: {
       section_0: [
@@ -85978,7 +85978,7 @@ module.exports = [
     },
   },
   {
-    word "übergehen",
+    word: "übergehen",
     translation: "to skip, to ignore",
     forms: {
       section_0: [
@@ -86008,11 +86008,11 @@ module.exports = [
     },
   },
   {
-    word "übergreifen",
+    word: "übergreifen",
     translation: "to spread, to usurp",
   },
   {
-    word "überhitzen",
+    word: "überhitzen",
     translation: "to overheat",
     forms: {
       section_0: [
@@ -86042,7 +86042,7 @@ module.exports = [
     },
   },
   {
-    word "überholen",
+    word: "überholen",
     translation: "to overtake, to pass a vehicle",
     forms: {
       section_0: [
@@ -86072,7 +86072,7 @@ module.exports = [
     },
   },
   {
-    word "überkommen",
+    word: "überkommen",
     translation: "to overcome",
     forms: {
       section_0: [
@@ -86102,11 +86102,11 @@ module.exports = [
     },
   },
   {
-    word "überladen",
+    word: "überladen",
     translation: "To overload, To clutter, To supercharge",
   },
   {
-    word "überlassen",
+    word: "überlassen",
     translation: "to relinquish (give up, abandon), to leave (something) in someone’s care",
     forms: {
       section_0: [
@@ -86136,7 +86136,7 @@ module.exports = [
     },
   },
   {
-    word "überlaufen",
+    word: "überlaufen",
     translation: "to overflow, to defect",
     forms: {
       section_0: [
@@ -86166,7 +86166,7 @@ module.exports = [
     },
   },
   {
-    word "überleben",
+    word: "überleben",
     translation: "(intransitive) to survive, to overlive, (transitive) to outlive",
     forms: {
       section_0: [
@@ -86196,7 +86196,7 @@ module.exports = [
     },
   },
   {
-    word "überlegen",
+    word: "überlegen",
     translation: "to think, to think over",
     forms: {
       section_0: [
@@ -86226,11 +86226,11 @@ module.exports = [
     },
   },
   {
-    word "überliefern",
+    word: "überliefern",
     translation: "(transitive) to hand down",
   },
   {
-    word "überlisten",
+    word: "überlisten",
     translation: "to cheat, to dupe, to trick (to fool; to cause to believe something untrue)",
     forms: {
       section_0: [
@@ -86260,7 +86260,7 @@ module.exports = [
     },
   },
   {
-    word "übermitteln",
+    word: "übermitteln",
     translation: "to transmit",
     forms: {
       section_0: [
@@ -86290,7 +86290,7 @@ module.exports = [
     },
   },
   {
-    word "übernachten",
+    word: "übernachten",
     translation: "to stay overnight, to sleep over, spend the night",
     forms: {
       section_0: [
@@ -86320,7 +86320,7 @@ module.exports = [
     },
   },
   {
-    word "übernehmen",
+    word: "übernehmen",
     translation: "to take over",
     forms: {
       section_0: [
@@ -86350,7 +86350,7 @@ module.exports = [
     },
   },
   {
-    word "überprüfen",
+    word: "überprüfen",
     translation: "to check",
     forms: {
       section_0: [
@@ -86380,7 +86380,7 @@ module.exports = [
     },
   },
   {
-    word "überqueren",
+    word: "überqueren",
     translation: "to cross, to traverse",
     forms: {
       section_0: [
@@ -86410,7 +86410,7 @@ module.exports = [
     },
   },
   {
-    word "überraschen",
+    word: "überraschen",
     translation: "(transitive) to surprise",
     forms: {
       section_0: [
@@ -86440,7 +86440,7 @@ module.exports = [
     },
   },
   {
-    word "überreagieren",
+    word: "überreagieren",
     translation: "to overreact",
     forms: {
       section_0: [
@@ -86470,7 +86470,7 @@ module.exports = [
     },
   },
   {
-    word "überreden",
+    word: "überreden",
     translation: "to talk over, persuade, to talk about",
     forms: {
       section_0: [
@@ -86500,15 +86500,15 @@ module.exports = [
     },
   },
   {
-    word "überreichen",
+    word: "überreichen",
     translation: "(transitive) to hand something over, to present",
   },
   {
-    word "übers Ohr hauen",
+    word: "übers Ohr hauen",
     translation: "pull a fast one",
   },
   {
-    word "überschatten",
+    word: "überschatten",
     translation: "to overshadow",
     forms: {
       section_0: [
@@ -86538,7 +86538,7 @@ module.exports = [
     },
   },
   {
-    word "überschätzen",
+    word: "überschätzen",
     translation: "to overestimate",
     forms: {
       section_0: [
@@ -86568,7 +86568,7 @@ module.exports = [
     },
   },
   {
-    word "überschnappen",
+    word: "überschnappen",
     translation: "(slang) to go mad",
     forms: {
       section_0: [
@@ -86598,7 +86598,7 @@ module.exports = [
     },
   },
   {
-    word "überschneiden",
+    word: "überschneiden",
     translation: "to intersect",
     forms: {
       section_0: [
@@ -86628,11 +86628,11 @@ module.exports = [
     },
   },
   {
-    word "überschreiben",
+    word: "überschreiben",
     translation: "(software, object-oriented programming) to override",
   },
   {
-    word "überschreiten",
+    word: "überschreiten",
     translation: "to exceed",
     forms: {
       section_0: [
@@ -86662,7 +86662,7 @@ module.exports = [
     },
   },
   {
-    word "überschwemmen",
+    word: "überschwemmen",
     translation: "to flood",
     forms: {
       section_0: [
@@ -86692,7 +86692,7 @@ module.exports = [
     },
   },
   {
-    word "übersehen",
+    word: "übersehen",
     translation: "to overlook",
     forms: {
       section_0: [
@@ -86722,7 +86722,7 @@ module.exports = [
     },
   },
   {
-    word "übersetzen",
+    word: "übersetzen",
     translation: "to translate, to interpret, (computing) to compile",
     forms: {
       section_0: [
@@ -86752,11 +86752,11 @@ module.exports = [
     },
   },
   {
-    word "überspielen",
+    word: "überspielen",
     translation: "To dub, to rerecord sth, To transfer sth",
   },
   {
-    word "überstehen",
+    word: "überstehen",
     translation: "to endure",
     forms: {
       section_0: [
@@ -86786,15 +86786,15 @@ module.exports = [
     },
   },
   {
-    word "übersteuern",
+    word: "übersteuern",
     translation: "(automotive) to oversteer",
   },
   {
-    word "überteuern",
+    word: "überteuern",
     translation: "to overprice",
   },
   {
-    word "übertragen",
+    word: "übertragen",
     translation: "to transfer, transmit, to translate, to broadcast, televise, to hand over something to somebody, entrust somebody with something, confer a right on somebody, (medicine) to have a post-term birth, (reflexive) to be passed on to somebody (disease, illness), (reflexive, figuratively) to communicate itself to somebody (enthusiasm, nervousness, etc)",
     forms: {
       section_0: [
@@ -86824,7 +86824,7 @@ module.exports = [
     },
   },
   {
-    word "übertreffen",
+    word: "übertreffen",
     translation: "to exceed, to surpass",
     forms: {
       section_0: [
@@ -86854,7 +86854,7 @@ module.exports = [
     },
   },
   {
-    word "übertreiben",
+    word: "übertreiben",
     translation: "to exaggerate, to overdo",
     forms: {
       section_0: [
@@ -86884,7 +86884,7 @@ module.exports = [
     },
   },
   {
-    word "überwachen",
+    word: "überwachen",
     translation: "to control, to monitor, to supervise, to keep under surveillance",
     forms: {
       section_0: [
@@ -86914,7 +86914,7 @@ module.exports = [
     },
   },
   {
-    word "überwachsen",
+    word: "überwachsen",
     translation: "to overgrow",
     forms: {
       section_0: [
@@ -86944,7 +86944,7 @@ module.exports = [
     },
   },
   {
-    word "überwältigen",
+    word: "überwältigen",
     translation: "to overwhelm (also figuratively)",
     forms: {
       section_0: [
@@ -86974,7 +86974,7 @@ module.exports = [
     },
   },
   {
-    word "überweisen",
+    word: "überweisen",
     translation: "to transfer",
     forms: {
       section_0: [
@@ -87004,11 +87004,11 @@ module.exports = [
     },
   },
   {
-    word "überwiegen",
+    word: "überwiegen",
     translation: "To outweigh, preponderate, To prevail, predominate",
   },
   {
-    word "überwinden",
+    word: "überwinden",
     translation: "(transitive) to overcome, to get over",
     forms: {
       section_0: [
@@ -87038,7 +87038,7 @@ module.exports = [
     },
   },
   {
-    word "überzeugen",
+    word: "überzeugen",
     translation: "(transitive) to convince, (reflexive) to convince oneself",
     forms: {
       section_0: [
@@ -87068,23 +87068,23 @@ module.exports = [
     },
   },
   {
-    word "überziehen",
+    word: "überziehen",
     translation: "To put on (an article of clothing etc) (over something else), To hit, whack (with eins or ein paar and the dative of the person hit)",
   },
   {
-    word "übrigbleiben",
+    word: "übrigbleiben",
     translation: "To remain",
   },
   {
-    word "um den Finger wickeln",
+    word: "um den Finger wickeln",
     translation: "(transitive, idiomatic) to wrap around on(e)'(s) little finger",
   },
   {
-    word "um den kleinen Finger wickeln",
+    word: "um den kleinen Finger wickeln",
     translation: "Alternative form of um den Finger wickeln",
   },
   {
-    word "umändern",
+    word: "umändern",
     translation: "to alter",
     forms: {
       section_0: [
@@ -87114,7 +87114,7 @@ module.exports = [
     },
   },
   {
-    word "umarbeiten",
+    word: "umarbeiten",
     translation: "To rework, revamp, To revise",
     forms: {
       section_0: [
@@ -87144,7 +87144,7 @@ module.exports = [
     },
   },
   {
-    word "umarmen",
+    word: "umarmen",
     translation: "to embrace, to hug",
     forms: {
       section_0: [
@@ -87174,7 +87174,7 @@ module.exports = [
     },
   },
   {
-    word "umbauen",
+    word: "umbauen",
     translation: "(a building or apartment) to convert, To rebuild, reconstruct",
     forms: {
       section_0: [
@@ -87204,7 +87204,7 @@ module.exports = [
     },
   },
   {
-    word "umbenennen",
+    word: "umbenennen",
     translation: "to rename",
     forms: {
       section_0: [
@@ -87234,7 +87234,7 @@ module.exports = [
     },
   },
   {
-    word "umblicken",
+    word: "umblicken",
     translation: "(reflexive) to look around",
     forms: {
       section_0: [
@@ -87264,7 +87264,7 @@ module.exports = [
     },
   },
   {
-    word "umbringen",
+    word: "umbringen",
     translation: "to kill, to murder, (colloquial, figuratively) to be very angry at somebody",
     forms: {
       section_0: [
@@ -87294,7 +87294,7 @@ module.exports = [
     },
   },
   {
-    word "umdenken",
+    word: "umdenken",
     translation: "to rethink",
     forms: {
       section_0: [
@@ -87324,7 +87324,7 @@ module.exports = [
     },
   },
   {
-    word "umdrehen",
+    word: "umdrehen",
     translation: "to turn, to turn around, to flip, to reverse",
     forms: {
       section_0: [
@@ -87354,11 +87354,11 @@ module.exports = [
     },
   },
   {
-    word "umeinanderstehen",
+    word: "umeinanderstehen",
     translation: "Synonym of herumstehen",
   },
   {
-    word "umfahren",
+    word: "umfahren",
     translation: "to drive somebody over, to knock somebody down with a vehicle",
     forms: {
       section_0: [
@@ -87388,7 +87388,7 @@ module.exports = [
     },
   },
   {
-    word "umfallen",
+    word: "umfallen",
     translation: "to topple, fall down",
     forms: {
       section_0: [
@@ -87418,11 +87418,11 @@ module.exports = [
     },
   },
   {
-    word "umfärben",
+    word: "umfärben",
     translation: "(to color with dye) to redye",
   },
   {
-    word "umfassen",
+    word: "umfassen",
     translation: "to encompass, to comprise",
     forms: {
       section_0: [
@@ -87452,7 +87452,7 @@ module.exports = [
     },
   },
   {
-    word "umformen",
+    word: "umformen",
     translation: "To transform, rearrange, To reshape, To convert",
     forms: {
       section_0: [
@@ -87482,11 +87482,11 @@ module.exports = [
     },
   },
   {
-    word "umformulieren",
+    word: "umformulieren",
     translation: "to rephrase, to restate",
   },
   {
-    word "umgeben",
+    word: "umgeben",
     translation: "to surround (to encircle or simultaneously extend on all sides of something)",
     forms: {
       section_0: [
@@ -87516,7 +87516,7 @@ module.exports = [
     },
   },
   {
-    word "umgehen",
+    word: "umgehen",
     translation: "(transitive) to avoid, bypass, to go around (a physical obstacle), (transitive) to avoid (something nonphysical)",
     forms: {
       section_0: [
@@ -87546,7 +87546,7 @@ module.exports = [
     },
   },
   {
-    word "umhaben",
+    word: "umhaben",
     translation: "to have on",
     forms: {
       section_0: [
@@ -87576,7 +87576,7 @@ module.exports = [
     },
   },
   {
-    word "umhüllen",
+    word: "umhüllen",
     translation: "To encase, envelope, wrap, shroud, To muffle",
     forms: {
       section_0: [
@@ -87606,7 +87606,7 @@ module.exports = [
     },
   },
   {
-    word "umkehren",
+    word: "umkehren",
     translation: "to turn around",
     forms: {
       section_0: [
@@ -87636,7 +87636,7 @@ module.exports = [
     },
   },
   {
-    word "umkippen",
+    word: "umkippen",
     translation: "to topple, to topple over",
     forms: {
       section_0: [
@@ -87666,7 +87666,7 @@ module.exports = [
     },
   },
   {
-    word "umkommen",
+    word: "umkommen",
     translation: "to die, to be killed",
     forms: {
       section_0: [
@@ -87696,7 +87696,7 @@ module.exports = [
     },
   },
   {
-    word "umkrempeln",
+    word: "umkrempeln",
     translation: "to turn inside out",
     forms: {
       section_0: [
@@ -87726,11 +87726,11 @@ module.exports = [
     },
   },
   {
-    word "umkristallisieren",
+    word: "umkristallisieren",
     translation: "To recrystallize",
   },
   {
-    word "umlaufen",
+    word: "umlaufen",
     translation: "to run around something",
     forms: {
       section_0: [
@@ -87760,7 +87760,7 @@ module.exports = [
     },
   },
   {
-    word "umlegen",
+    word: "umlegen",
     translation: "(transitive) to lay around, (transitive) to tilt, to lay flat, (transitive, of costs) to apportion, (transitive, of a switch) to flip, (transitive, of a lever) to shift, to move, (transitive, of a necklace, scarf, coat etc) to put on, (transitive, slang) to kill or murder; to waste",
     forms: {
       section_0: [
@@ -87790,7 +87790,7 @@ module.exports = [
     },
   },
   {
-    word "umleiten",
+    word: "umleiten",
     translation: "to reroute, to redirect, to divert",
     forms: {
       section_0: [
@@ -87820,19 +87820,19 @@ module.exports = [
     },
   },
   {
-    word "umlügen",
+    word: "umlügen",
     translation: "To reinterpret in a dishonest and distorted manner, to offer a dishonest and distorted reinterpretation",
   },
   {
-    word "ummanteln",
+    word: "ummanteln",
     translation: "to encase, encapsulate, to shroud, coat, to sheath",
   },
   {
-    word "ums Leben kommen",
+    word: "ums Leben kommen",
     translation: "(possibly euphemistic) to lose on(e)'(s) life; to die; usually in an accident or by homicide",
   },
   {
-    word "umschalten",
+    word: "umschalten",
     translation: "to switch",
     forms: {
       section_0: [
@@ -87862,11 +87862,11 @@ module.exports = [
     },
   },
   {
-    word "umschauen",
+    word: "umschauen",
     translation: "(reflexive, chiefly southern Germany, Austria, Switzerland) to look around (nach for)",
   },
   {
-    word "umschichten",
+    word: "umschichten",
     translation: "to regroup",
     forms: {
       section_0: [
@@ -87896,7 +87896,7 @@ module.exports = [
     },
   },
   {
-    word "umschlingen",
+    word: "umschlingen",
     translation: "To twine (around), to embrace, entangle (an object), To embrace in the arms",
     forms: {
       section_0: [
@@ -87926,7 +87926,7 @@ module.exports = [
     },
   },
   {
-    word "umschmelzen",
+    word: "umschmelzen",
     translation: "To remelt, recast",
     forms: {
       section_0: [
@@ -87956,7 +87956,7 @@ module.exports = [
     },
   },
   {
-    word "umschreiben",
+    word: "umschreiben",
     translation: "to paraphrase (to compose a paraphrase)",
     forms: {
       section_0: [
@@ -87986,11 +87986,11 @@ module.exports = [
     },
   },
   {
-    word "umschulden",
+    word: "umschulden",
     translation: "(finance) to convert debts",
   },
   {
-    word "umschütten",
+    word: "umschütten",
     translation: "(a container) to knock over, (a liquid or mass) to pour or transfer from one container to another",
     forms: {
       section_0: [
@@ -88020,7 +88020,7 @@ module.exports = [
     },
   },
   {
-    word "umsehen",
+    word: "umsehen",
     translation: "(reflexive) to look around, (reflexive) to look back, to look round",
     forms: {
       section_0: [
@@ -88050,7 +88050,7 @@ module.exports = [
     },
   },
   {
-    word "umsetzen",
+    word: "umsetzen",
     translation: "To implement, To transform, translate, convert, transpose",
     forms: {
       section_0: [
@@ -88080,7 +88080,7 @@ module.exports = [
     },
   },
   {
-    word "umsiedeln",
+    word: "umsiedeln",
     translation: "(intransitive) to resettle (auxiliary verb: sein), (transitive) to resettle (auxiliary verb: haben)",
     forms: {
       section_0: [
@@ -88110,7 +88110,7 @@ module.exports = [
     },
   },
   {
-    word "umsteigen",
+    word: "umsteigen",
     translation: "(intransitive) to change, to switch (from one means of transport to another)",
     forms: {
       section_0: [
@@ -88140,7 +88140,7 @@ module.exports = [
     },
   },
   {
-    word "umstellen",
+    word: "umstellen",
     translation: "to surround",
     forms: {
       section_0: [
@@ -88170,7 +88170,7 @@ module.exports = [
     },
   },
   {
-    word "umstoßen",
+    word: "umstoßen",
     translation: "to knock over, to knock down, to overthrow",
     forms: {
       section_0: [
@@ -88200,7 +88200,7 @@ module.exports = [
     },
   },
   {
-    word "umstrukturieren",
+    word: "umstrukturieren",
     translation: "to restructure",
     forms: {
       section_0: [
@@ -88230,7 +88230,7 @@ module.exports = [
     },
   },
   {
-    word "umtauschen",
+    word: "umtauschen",
     translation: "to exchange, to return (bring back a bought item to the seller)",
     forms: {
       section_0: [
@@ -88260,11 +88260,11 @@ module.exports = [
     },
   },
   {
-    word "umverteilen",
+    word: "umverteilen",
     translation: "(transitive) to redistribute",
   },
   {
-    word "umwandeln",
+    word: "umwandeln",
     translation: "To convert, change, commute, To transform, transmute",
     forms: {
       section_0: [
@@ -88294,7 +88294,7 @@ module.exports = [
     },
   },
   {
-    word "umziehen",
+    word: "umziehen",
     translation: "(change residence) to move (auxiliary verb: sein), (reflexive) to change clothes (auxiliary verb: haben), to parade (auxiliary verb: sein)",
     forms: {
       section_0: [
@@ -88324,7 +88324,7 @@ module.exports = [
     },
   },
   {
-    word "umzingeln",
+    word: "umzingeln",
     translation: "to encircle, to surround",
     forms: {
       section_0: [
@@ -88354,15 +88354,15 @@ module.exports = [
     },
   },
   {
-    word "umzugehen",
+    word: "umzugehen",
     translation: "zu-infinitive of umgehen",
   },
   {
-    word "umzusetzen",
+    word: "umzusetzen",
     translation: "zu-infinitive of umsetzen",
   },
   {
-    word "unterbewerten",
+    word: "unterbewerten",
     translation: "to underrate, to underestimate",
     forms: {
       section_0: [
@@ -88392,7 +88392,7 @@ module.exports = [
     },
   },
   {
-    word "unterbrechen",
+    word: "unterbrechen",
     translation: "to interrupt",
     forms: {
       section_0: [
@@ -88422,7 +88422,7 @@ module.exports = [
     },
   },
   {
-    word "unterbringen",
+    word: "unterbringen",
     translation: "to accommodate, to host",
     forms: {
       section_0: [
@@ -88452,7 +88452,7 @@ module.exports = [
     },
   },
   {
-    word "unterdrücken",
+    word: "unterdrücken",
     translation: "to suppress, to oppress",
     forms: {
       section_0: [
@@ -88482,19 +88482,19 @@ module.exports = [
     },
   },
   {
-    word "unterfinanzieren",
+    word: "unterfinanzieren",
     translation: "(transitive) to underfund",
   },
   {
-    word "unterfordern",
+    word: "unterfordern",
     translation: "(transitive) To underchallenge",
   },
   {
-    word "untergehen",
+    word: "untergehen",
     translation: "to set (of a heavenly body: to disappear below the horizon), to fall, to go down (to be defeated), to perish, to go under (water)",
   },
   {
-    word "unterhalten",
+    word: "unterhalten",
     translation: "(transitive) to maintain, (transitive) to entertain, (reflexive) to converse",
     forms: {
       section_0: [
@@ -88524,11 +88524,11 @@ module.exports = [
     },
   },
   {
-    word "unterjochen",
+    word: "unterjochen",
     translation: "to subjugate",
   },
   {
-    word "unterkriegen",
+    word: "unterkriegen",
     translation: "to bring down",
     forms: {
       section_0: [
@@ -88558,7 +88558,7 @@ module.exports = [
     },
   },
   {
-    word "unterlassen",
+    word: "unterlassen",
     translation: "to refrain from, to eschew; to forbear",
     forms: {
       section_0: [
@@ -88588,7 +88588,7 @@ module.exports = [
     },
   },
   {
-    word "unterlegen",
+    word: "unterlegen",
     translation: "to underlay, to put under",
     forms: {
       section_0: [
@@ -88618,7 +88618,7 @@ module.exports = [
     },
   },
   {
-    word "unterliegen",
+    word: "unterliegen",
     translation: "(intransitive + dative) To be inferior to, be beaten by, (intransitive + dative) To be subject to",
     forms: {
       section_0: [
@@ -88648,7 +88648,7 @@ module.exports = [
     },
   },
   {
-    word "untermauern",
+    word: "untermauern",
     translation: "(transitive) to underpin, (transitive, figuratively) to underpin, to corroborate",
     forms: {
       section_0: [
@@ -88678,7 +88678,7 @@ module.exports = [
     },
   },
   {
-    word "unternehmen",
+    word: "unternehmen",
     translation: "(transitive) to undertake",
     forms: {
       section_0: [
@@ -88708,7 +88708,7 @@ module.exports = [
     },
   },
   {
-    word "unterordnen",
+    word: "unterordnen",
     translation: "subordinate",
     forms: {
       section_0: [
@@ -88738,7 +88738,7 @@ module.exports = [
     },
   },
   {
-    word "unterrichten",
+    word: "unterrichten",
     translation: "to teach, to school, to inform",
     forms: {
       section_0: [
@@ -88768,7 +88768,7 @@ module.exports = [
     },
   },
   {
-    word "untersagen",
+    word: "untersagen",
     translation: "To forbid, prohibit, ban, interdict",
     forms: {
       section_0: [
@@ -88798,7 +88798,7 @@ module.exports = [
     },
   },
   {
-    word "unterschätzen",
+    word: "unterschätzen",
     translation: "to underestimate",
     forms: {
       section_0: [
@@ -88828,7 +88828,7 @@ module.exports = [
     },
   },
   {
-    word "unterscheiden",
+    word: "unterscheiden",
     translation: "(transitive) to distinguish, differentiate, (reflexive) to differ",
     forms: {
       section_0: [
@@ -88858,7 +88858,7 @@ module.exports = [
     },
   },
   {
-    word "unterschieben",
+    word: "unterschieben",
     translation: "(transitive) to foist, to deceptively push something onto someone, (transitive) to falsely attribute an action",
     forms: {
       section_0: [
@@ -88888,7 +88888,7 @@ module.exports = [
     },
   },
   {
-    word "unterschlagen",
+    word: "unterschlagen",
     translation: "to embezzle",
     forms: {
       section_0: [
@@ -88918,7 +88918,7 @@ module.exports = [
     },
   },
   {
-    word "unterschreiben",
+    word: "unterschreiben",
     translation: "to sign (write one’s signature)",
     forms: {
       section_0: [
@@ -88948,7 +88948,7 @@ module.exports = [
     },
   },
   {
-    word "unterstehen",
+    word: "unterstehen",
     translation: "to be subordinate to, (reflexive) to dare, to have the audacity",
     forms: {
       section_0: [
@@ -88978,11 +88978,11 @@ module.exports = [
     },
   },
   {
-    word "untersteuern",
+    word: "untersteuern",
     translation: "(automotive) to understeer",
   },
   {
-    word "unterstreichen",
+    word: "unterstreichen",
     translation: "to underscore, to underline",
     forms: {
       section_0: [
@@ -89012,7 +89012,7 @@ module.exports = [
     },
   },
   {
-    word "unterstützen",
+    word: "unterstützen",
     translation: "to support",
     forms: {
       section_0: [
@@ -89042,7 +89042,7 @@ module.exports = [
     },
   },
   {
-    word "untersuchen",
+    word: "untersuchen",
     translation: "to examine, to investigate",
     forms: {
       section_0: [
@@ -89072,11 +89072,11 @@ module.exports = [
     },
   },
   {
-    word "untertan machen",
+    word: "untertan machen",
     translation: "to subdue",
   },
   {
-    word "untertauchen",
+    word: "untertauchen",
     translation: "(in water) to dive, to plunge (of a diver, etc); to submerge (of a submarine, etc), (figuratively) to disappear, to go hiding",
     forms: {
       section_0: [
@@ -89106,7 +89106,7 @@ module.exports = [
     },
   },
   {
-    word "unterteilen",
+    word: "unterteilen",
     translation: "to divide",
     forms: {
       section_0: [
@@ -89136,7 +89136,7 @@ module.exports = [
     },
   },
   {
-    word "unterwerfen",
+    word: "unterwerfen",
     translation: "(transitive) to subdue, (reflexive) to submit",
     forms: {
       section_0: [
@@ -89166,7 +89166,7 @@ module.exports = [
     },
   },
   {
-    word "unterzeichnen",
+    word: "unterzeichnen",
     translation: "to sign (to give legal consent by writing on(e)'(s) signature)",
     forms: {
       section_0: [
@@ -89196,7 +89196,7 @@ module.exports = [
     },
   },
   {
-    word "unterziehen",
+    word: "unterziehen",
     translation: "(transitive) to subject to, (reflexive) to undergo, (transitive, cooking) to fold in",
     forms: {
       section_0: [
@@ -89226,27 +89226,27 @@ module.exports = [
     },
   },
   {
-    word "unterzustehen",
+    word: "unterzustehen",
     translation: "zu-infinitive of unterstehen",
   },
   {
-    word "updaten",
+    word: "updaten",
     translation: "to update",
   },
   {
-    word "urbanisieren",
+    word: "urbanisieren",
     translation: "to urbanize",
   },
   {
-    word "urgieren",
+    word: "urgieren",
     translation: "to request",
   },
   {
-    word "urinieren",
+    word: "urinieren",
     translation: "(formal) to urinate",
   },
   {
-    word "urteilen",
+    word: "urteilen",
     translation: "to judge",
     forms: {
       section_0: [
@@ -89276,11 +89276,11 @@ module.exports = [
     },
   },
   {
-    word "urtheilen",
+    word: "urtheilen",
     translation: "Obsolete spelling of urteilen which was deprecated in 1902 following the Second Orthographic Conference of 1901",
   },
   {
-    word "usurpieren",
+    word: "usurpieren",
     translation: "to usurp (to seize power)",
     forms: {
       section_0: [
@@ -89310,15 +89310,15 @@ module.exports = [
     },
   },
   {
-    word "validieren",
+    word: "validieren",
     translation: "to validate (check the validity of)",
   },
   {
-    word "vandalieren",
+    word: "vandalieren",
     translation: "to vandalize, to vandalise",
   },
   {
-    word "variieren",
+    word: "variieren",
     translation: "to vary",
     forms: {
       section_0: [
@@ -89348,11 +89348,11 @@ module.exports = [
     },
   },
   {
-    word "velarisieren",
+    word: "velarisieren",
     translation: "(linguistics) to velarize",
   },
   {
-    word "verabreden",
+    word: "verabreden",
     translation: "to arrange, to make an appointment",
     forms: {
       section_0: [
@@ -89382,7 +89382,7 @@ module.exports = [
     },
   },
   {
-    word "verabreichen",
+    word: "verabreichen",
     translation: "to administer (to cause to take by openly offering or through deceit)",
     forms: {
       section_0: [
@@ -89412,7 +89412,7 @@ module.exports = [
     },
   },
   {
-    word "verabscheuen",
+    word: "verabscheuen",
     translation: "to abhor, to detest, to loathe, to abominate",
     forms: {
       section_0: [
@@ -89442,7 +89442,7 @@ module.exports = [
     },
   },
   {
-    word "verabschieden",
+    word: "verabschieden",
     translation: "to dismiss, see off, (reflexive) to say goodbye, to adopt, pass (a law etc)",
     forms: {
       section_0: [
@@ -89472,7 +89472,7 @@ module.exports = [
     },
   },
   {
-    word "verachten",
+    word: "verachten",
     translation: "to scorn, to despise, to abominate",
     forms: {
       section_0: [
@@ -89502,7 +89502,7 @@ module.exports = [
     },
   },
   {
-    word "verallgemeinern",
+    word: "verallgemeinern",
     translation: "to generalize",
     forms: {
       section_0: [
@@ -89532,7 +89532,7 @@ module.exports = [
     },
   },
   {
-    word "veralten",
+    word: "veralten",
     translation: "to become outdated",
     forms: {
       section_0: [
@@ -89562,7 +89562,7 @@ module.exports = [
     },
   },
   {
-    word "verändern",
+    word: "verändern",
     translation: "(transitive) to alter, to change, (reflexive) to change",
     forms: {
       section_0: [
@@ -89592,7 +89592,7 @@ module.exports = [
     },
   },
   {
-    word "veranlassen",
+    word: "veranlassen",
     translation: "to cause",
     forms: {
       section_0: [
@@ -89622,7 +89622,7 @@ module.exports = [
     },
   },
   {
-    word "veranschlagen",
+    word: "veranschlagen",
     translation: "To estimate, To reckon, To assess, appraise",
     forms: {
       section_0: [
@@ -89652,7 +89652,7 @@ module.exports = [
     },
   },
   {
-    word "veranstalten",
+    word: "veranstalten",
     translation: "To organize, To arrange, stage",
     forms: {
       section_0: [
@@ -89682,7 +89682,7 @@ module.exports = [
     },
   },
   {
-    word "verantworten",
+    word: "verantworten",
     translation: "To take responsibility (for)",
     forms: {
       section_0: [
@@ -89712,7 +89712,7 @@ module.exports = [
     },
   },
   {
-    word "veräppeln",
+    word: "veräppeln",
     translation: "(colloquial) to kid someone, to have someone on",
     forms: {
       section_0: [
@@ -89742,7 +89742,7 @@ module.exports = [
     },
   },
   {
-    word "verarbeiten",
+    word: "verarbeiten",
     translation: "to process, to handle, to manufacture",
     forms: {
       section_0: [
@@ -89772,7 +89772,7 @@ module.exports = [
     },
   },
   {
-    word "verärgern",
+    word: "verärgern",
     translation: "To annoy, anger, To antagonize",
     forms: {
       section_0: [
@@ -89802,7 +89802,7 @@ module.exports = [
     },
   },
   {
-    word "verarmen",
+    word: "verarmen",
     translation: "to impoverish, to pauperize",
     forms: {
       section_0: [
@@ -89832,11 +89832,11 @@ module.exports = [
     },
   },
   {
-    word "verarschen",
+    word: "verarschen",
     translation: "(colloquial) to trick, to fool (to cause to believe something untrue)",
   },
   {
-    word "verästeln",
+    word: "verästeln",
     translation: "to branch out, to ramify",
     forms: {
       section_0: [
@@ -89866,7 +89866,7 @@ module.exports = [
     },
   },
   {
-    word "veräußern",
+    word: "veräußern",
     translation: "to sell",
     forms: {
       section_0: [
@@ -89896,7 +89896,7 @@ module.exports = [
     },
   },
   {
-    word "verbannen",
+    word: "verbannen",
     translation: "to banish, exile",
     forms: {
       section_0: [
@@ -89926,7 +89926,7 @@ module.exports = [
     },
   },
   {
-    word "verbarrikadieren",
+    word: "verbarrikadieren",
     translation: "to barricade",
     forms: {
       section_0: [
@@ -89956,11 +89956,11 @@ module.exports = [
     },
   },
   {
-    word "verbaseln",
+    word: "verbaseln",
     translation: "(transitive, chiefly colloquial) to lose or forget something out of carelessness or forgetfulness, (transitive, chiefly colloquial, with es) to carelessly ruin something; to make a careless mistake, (transitive, sports) to carelessly miss a chance (eg for a goal)",
   },
   {
-    word "verbauen",
+    word: "verbauen",
     translation: "To block or obstruct, To bodge",
     forms: {
       section_0: [
@@ -89990,7 +89990,7 @@ module.exports = [
     },
   },
   {
-    word "verbeißen",
+    word: "verbeißen",
     translation: "to bite the bit, (colloquial) to bite back, (reflexive, colloquial) to stifle, (reflexive, colloquial) to suppress a smile, to suppress laughter",
     forms: {
       section_0: [
@@ -90020,7 +90020,7 @@ module.exports = [
     },
   },
   {
-    word "verbergen",
+    word: "verbergen",
     translation: "(transitive) to hide",
     forms: {
       section_0: [
@@ -90050,7 +90050,7 @@ module.exports = [
     },
   },
   {
-    word "verbessern",
+    word: "verbessern",
     translation: "(transitive) to improve (to make better), (reflexive) to improve (to become better), (transitive) to correct",
     forms: {
       section_0: [
@@ -90080,7 +90080,7 @@ module.exports = [
     },
   },
   {
-    word "verbeugen",
+    word: "verbeugen",
     translation: "(reflexive, gesture) to bow",
     forms: {
       section_0: [
@@ -90110,7 +90110,7 @@ module.exports = [
     },
   },
   {
-    word "verbiegen",
+    word: "verbiegen",
     translation: "(transitive) to bend sth, (reflexive) to bend, become bent",
     forms: {
       section_0: [
@@ -90140,7 +90140,7 @@ module.exports = [
     },
   },
   {
-    word "verbieten",
+    word: "verbieten",
     translation: "(with dative) to forbid, prohibit",
     forms: {
       section_0: [
@@ -90170,7 +90170,7 @@ module.exports = [
     },
   },
   {
-    word "verbinden",
+    word: "verbinden",
     translation: "to connect, link up, to bandage",
     forms: {
       section_0: [
@@ -90200,7 +90200,7 @@ module.exports = [
     },
   },
   {
-    word "verbittern",
+    word: "verbittern",
     translation: "to embitter",
     forms: {
       section_0: [
@@ -90230,7 +90230,7 @@ module.exports = [
     },
   },
   {
-    word "verblassen",
+    word: "verblassen",
     translation: "to fade",
     forms: {
       section_0: [
@@ -90260,7 +90260,7 @@ module.exports = [
     },
   },
   {
-    word "verbleiben",
+    word: "verbleiben",
     translation: "(formal) To remain",
     forms: {
       section_0: [
@@ -90290,7 +90290,7 @@ module.exports = [
     },
   },
   {
-    word "verbleichen",
+    word: "verbleichen",
     translation: "to fade, to die",
     forms: {
       section_0: [
@@ -90320,7 +90320,7 @@ module.exports = [
     },
   },
   {
-    word "verbleien",
+    word: "verbleien",
     translation: "to lead (to cover, fill, or affect with lead)",
     forms: {
       section_0: [
@@ -90350,7 +90350,7 @@ module.exports = [
     },
   },
   {
-    word "verblüffen",
+    word: "verblüffen",
     translation: "to amaze",
     forms: {
       section_0: [
@@ -90380,7 +90380,7 @@ module.exports = [
     },
   },
   {
-    word "verbluten",
+    word: "verbluten",
     translation: "to bleed to death (die from loss of blood)",
     forms: {
       section_0: [
@@ -90410,7 +90410,7 @@ module.exports = [
     },
   },
   {
-    word "verbrämen",
+    word: "verbrämen",
     translation: "to embellish",
     forms: {
       section_0: [
@@ -90440,7 +90440,7 @@ module.exports = [
     },
   },
   {
-    word "verbrauchen",
+    word: "verbrauchen",
     translation: "to consume",
     forms: {
       section_0: [
@@ -90470,7 +90470,7 @@ module.exports = [
     },
   },
   {
-    word "verbrechen",
+    word: "verbrechen",
     translation: "(transitive) to commit (a crime); to be the perpetrator of",
     forms: {
       section_0: [
@@ -90500,7 +90500,7 @@ module.exports = [
     },
   },
   {
-    word "verbreiten",
+    word: "verbreiten",
     translation: "(transitive) to put about, spread, circulate, disseminate sth, (reflexive) to spread, circulate, get around sth",
     forms: {
       section_0: [
@@ -90530,7 +90530,7 @@ module.exports = [
     },
   },
   {
-    word "verbrennen",
+    word: "verbrennen",
     translation: "(transitive) to burn (to cause to be consumed by fire or flames), to incinerate, to combust, (transitive, reflexive, medicine) to burn oneself, to suffer a burning, (transitive, military) to scorch, to burn (to hurt the mouth by an overdose of spices)",
     forms: {
       section_0: [
@@ -90560,7 +90560,7 @@ module.exports = [
     },
   },
   {
-    word "verbringen",
+    word: "verbringen",
     translation: "to spend (time)",
     forms: {
       section_0: [
@@ -90590,7 +90590,7 @@ module.exports = [
     },
   },
   {
-    word "verbrüdern",
+    word: "verbrüdern",
     translation: "(reflexive) to fraternize (to associate with others in a brotherly or friendly manner)",
     forms: {
       section_0: [
@@ -90620,7 +90620,7 @@ module.exports = [
     },
   },
   {
-    word "verbuchen",
+    word: "verbuchen",
     translation: "To post, To enter (data), To register, book",
     forms: {
       section_0: [
@@ -90650,7 +90650,7 @@ module.exports = [
     },
   },
   {
-    word "verbünden",
+    word: "verbünden",
     translation: "(reflexive) to ally",
     forms: {
       section_0: [
@@ -90680,7 +90680,7 @@ module.exports = [
     },
   },
   {
-    word "verbüßen",
+    word: "verbüßen",
     translation: "(transitive, law) to serve (a sentence)",
     forms: {
       section_0: [
@@ -90710,11 +90710,11 @@ module.exports = [
     },
   },
   {
-    word "verchromen",
+    word: "verchromen",
     translation: "to chrome (ie to plate with chrome)",
   },
   {
-    word "verdächtigen",
+    word: "verdächtigen",
     translation: "(transitive, a person) to suspect",
     forms: {
       section_0: [
@@ -90744,7 +90744,7 @@ module.exports = [
     },
   },
   {
-    word "verdammen",
+    word: "verdammen",
     translation: "(transitive) to condemn, (transitive) to damn",
     forms: {
       section_0: [
@@ -90774,7 +90774,7 @@ module.exports = [
     },
   },
   {
-    word "verdampfen",
+    word: "verdampfen",
     translation: "to evaporate, to vaporize / vaporise",
     forms: {
       section_0: [
@@ -90804,7 +90804,7 @@ module.exports = [
     },
   },
   {
-    word "verdanken",
+    word: "verdanken",
     translation: "to owe",
     forms: {
       section_0: [
@@ -90834,7 +90834,7 @@ module.exports = [
     },
   },
   {
-    word "verdauen",
+    word: "verdauen",
     translation: "(transitive) to digest (to separate food in the alimentary canal), (transitive, slang) to get over",
     forms: {
       section_0: [
@@ -90864,7 +90864,7 @@ module.exports = [
     },
   },
   {
-    word "verdecken",
+    word: "verdecken",
     translation: "to mask, to hide, to occlude, to obstruct, to cover",
     forms: {
       section_0: [
@@ -90894,7 +90894,7 @@ module.exports = [
     },
   },
   {
-    word "verderben",
+    word: "verderben",
     translation: "(transitive, with haben) to deprive (someone) of (something); to rob (someone) of (some feeling), (transitive, with haben) to ruin; to render (something) useless; to corrupt; to spoil, (intransitive, usually of food, with sein) to spoil; to rot; to perish, (intransitive, with sein) to be offensive; to live sinfully",
     forms: {
       section_0: [
@@ -90924,7 +90924,7 @@ module.exports = [
     },
   },
   {
-    word "verdichten",
+    word: "verdichten",
     translation: "to condense",
     forms: {
       section_0: [
@@ -90954,7 +90954,7 @@ module.exports = [
     },
   },
   {
-    word "verdienen",
+    word: "verdienen",
     translation: "To earn, To deserve",
     forms: {
       section_0: [
@@ -90984,11 +90984,11 @@ module.exports = [
     },
   },
   {
-    word "verdinglichen",
+    word: "verdinglichen",
     translation: "to reify",
   },
   {
-    word "verdoppeln",
+    word: "verdoppeln",
     translation: "To double, redouble",
     forms: {
       section_0: [
@@ -91018,7 +91018,7 @@ module.exports = [
     },
   },
   {
-    word "verdrängen",
+    word: "verdrängen",
     translation: "To displace, To replace, supersede, To repress, suppress, To oust",
     forms: {
       section_0: [
@@ -91048,7 +91048,7 @@ module.exports = [
     },
   },
   {
-    word "verdrehen",
+    word: "verdrehen",
     translation: "to twist, to turn, to wrest, to distort, to misrepresent",
     forms: {
       section_0: [
@@ -91078,7 +91078,7 @@ module.exports = [
     },
   },
   {
-    word "verdreifachen",
+    word: "verdreifachen",
     translation: "(transitive) to triple (To multiply by three), (reflexive) to triple (To become three times as large)",
     forms: {
       section_0: [
@@ -91108,7 +91108,7 @@ module.exports = [
     },
   },
   {
-    word "verdrießen",
+    word: "verdrießen",
     translation: "to chagrin",
     forms: {
       section_0: [
@@ -91138,7 +91138,7 @@ module.exports = [
     },
   },
   {
-    word "verdummen",
+    word: "verdummen",
     translation: "(with 'haben') to influence (someone) such that they become stupid and uncritically accept ideas and arguments, (with 'sein') to become stupid and uncritical",
     forms: {
       section_0: [
@@ -91168,7 +91168,7 @@ module.exports = [
     },
   },
   {
-    word "verdunkeln",
+    word: "verdunkeln",
     translation: "to darken, to obscure",
     forms: {
       section_0: [
@@ -91198,7 +91198,7 @@ module.exports = [
     },
   },
   {
-    word "verdünnen",
+    word: "verdünnen",
     translation: "to thin down, to dilute (a liquid or gas)",
     forms: {
       section_0: [
@@ -91228,7 +91228,7 @@ module.exports = [
     },
   },
   {
-    word "verdunsten",
+    word: "verdunsten",
     translation: "To evaporate, vaporize, To transpire",
     forms: {
       section_0: [
@@ -91258,7 +91258,7 @@ module.exports = [
     },
   },
   {
-    word "veredeln",
+    word: "veredeln",
     translation: "to refine, cultivate, enrich, to ennoble, to graft (a plant)",
     forms: {
       section_0: [
@@ -91288,7 +91288,7 @@ module.exports = [
     },
   },
   {
-    word "verehren",
+    word: "verehren",
     translation: "to adore, to worship",
     forms: {
       section_0: [
@@ -91318,7 +91318,7 @@ module.exports = [
     },
   },
   {
-    word "vereinbaren",
+    word: "vereinbaren",
     translation: "to agree upon, to reconcile",
     forms: {
       section_0: [
@@ -91348,7 +91348,7 @@ module.exports = [
     },
   },
   {
-    word "vereinen",
+    word: "vereinen",
     translation: "To unite, To join (together), To combine",
     forms: {
       section_0: [
@@ -91378,7 +91378,7 @@ module.exports = [
     },
   },
   {
-    word "vereinfachen",
+    word: "vereinfachen",
     translation: "(transitive) to simplify (to make simpler), (reflexive) to simplify (to become simpler)",
     forms: {
       section_0: [
@@ -91408,7 +91408,7 @@ module.exports = [
     },
   },
   {
-    word "vereinigen",
+    word: "vereinigen",
     translation: "to unite, join, band, unify",
     forms: {
       section_0: [
@@ -91438,7 +91438,7 @@ module.exports = [
     },
   },
   {
-    word "vereisen",
+    word: "vereisen",
     translation: "to need, require",
     forms: {
       section_0: [
@@ -91468,7 +91468,7 @@ module.exports = [
     },
   },
   {
-    word "verengen",
+    word: "verengen",
     translation: "(transitive) to constrict, to make narrower, (transitive) to take in (clothing), (reflexive) to narrow, to contract",
     forms: {
       section_0: [
@@ -91498,7 +91498,7 @@ module.exports = [
     },
   },
   {
-    word "vererben",
+    word: "vererben",
     translation: "to bequeath",
     forms: {
       section_0: [
@@ -91528,7 +91528,7 @@ module.exports = [
     },
   },
   {
-    word "verewigen",
+    word: "verewigen",
     translation: "to immortalize",
     forms: {
       section_0: [
@@ -91558,7 +91558,7 @@ module.exports = [
     },
   },
   {
-    word "verfahren",
+    word: "verfahren",
     translation: "to proceed, to deal with, (as a driver of a vehicle) to lose on(e)'(s) way, to get lost",
     forms: {
       section_0: [
@@ -91588,7 +91588,7 @@ module.exports = [
     },
   },
   {
-    word "verfallen",
+    word: "verfallen",
     translation: "to expire, to lapse, to be forfeited, to decay, to decrease, to go down, (of a thought, idea, etc) to be inclined to, to become addicted to, to fall into, to resort to",
     forms: {
       section_0: [
@@ -91618,7 +91618,7 @@ module.exports = [
     },
   },
   {
-    word "verfangen",
+    word: "verfangen",
     translation: "(intransitive) to work, (reflexive) to be caught, to get entangled",
     forms: {
       section_0: [
@@ -91648,7 +91648,7 @@ module.exports = [
     },
   },
   {
-    word "verfärben",
+    word: "verfärben",
     translation: "To discolour, To stain",
     forms: {
       section_0: [
@@ -91678,7 +91678,7 @@ module.exports = [
     },
   },
   {
-    word "verfassen",
+    word: "verfassen",
     translation: "to write, to compose, to draft, to prepare",
     forms: {
       section_0: [
@@ -91708,7 +91708,7 @@ module.exports = [
     },
   },
   {
-    word "verfehlen",
+    word: "verfehlen",
     translation: "(transitive) to miss, (transitive) to mistake",
     forms: {
       section_0: [
@@ -91738,11 +91738,11 @@ module.exports = [
     },
   },
   {
-    word "verfemen",
+    word: "verfemen",
     translation: "to ostracize",
   },
   {
-    word "verfestigen",
+    word: "verfestigen",
     translation: "To solidify, To strengthen, reinforce, To harden",
     forms: {
       section_0: [
@@ -91772,7 +91772,7 @@ module.exports = [
     },
   },
   {
-    word "verfilmen",
+    word: "verfilmen",
     translation: "to make a film of",
     forms: {
       section_0: [
@@ -91802,7 +91802,7 @@ module.exports = [
     },
   },
   {
-    word "verfinstern",
+    word: "verfinstern",
     translation: "to eclipse",
     forms: {
       section_0: [
@@ -91832,7 +91832,7 @@ module.exports = [
     },
   },
   {
-    word "verfliegen",
+    word: "verfliegen",
     translation: "(intransitive) To disappear, to vanish, (reflexive, aviation) To fly the wrong route",
     forms: {
       section_0: [
@@ -91862,7 +91862,7 @@ module.exports = [
     },
   },
   {
-    word "verfluchen",
+    word: "verfluchen",
     translation: "(transitive) to curse",
     forms: {
       section_0: [
@@ -91892,11 +91892,11 @@ module.exports = [
     },
   },
   {
-    word "verflüssigen",
+    word: "verflüssigen",
     translation: "to liquefy, to liquify",
   },
   {
-    word "verfolgen",
+    word: "verfolgen",
     translation: "to pursue, to persecute, to trace, to haunt",
     forms: {
       section_0: [
@@ -91926,11 +91926,11 @@ module.exports = [
     },
   },
   {
-    word "verformen",
+    word: "verformen",
     translation: "to deform",
   },
   {
-    word "verfügen",
+    word: "verfügen",
     translation: "to decree (to command by a decree), [with über] to have something at on(e)'(s) disposal, to employ",
     forms: {
       section_0: [
@@ -91960,7 +91960,7 @@ module.exports = [
     },
   },
   {
-    word "verführen",
+    word: "verführen",
     translation: "to seduce",
     forms: {
       section_0: [
@@ -91990,11 +91990,11 @@ module.exports = [
     },
   },
   {
-    word "verfünffachen",
+    word: "verfünffachen",
     translation: "quintuplicate",
   },
   {
-    word "vergasen",
+    word: "vergasen",
     translation: "(transitive) to gasify, (transitive) to gas",
     forms: {
       section_0: [
@@ -92024,11 +92024,11 @@ module.exports = [
     },
   },
   {
-    word "vergattern",
+    word: "vergattern",
     translation: "(military, transitive) to officially commit a soldier to sentry duty and to the respective regulations, (colloquial, transitive, with zu) to impose a duty or punishment on someone",
   },
   {
-    word "vergeben",
+    word: "vergeben",
     translation: "to set (to devise and assign work), to forgive, to assign",
     forms: {
       section_0: [
@@ -92058,7 +92058,7 @@ module.exports = [
     },
   },
   {
-    word "vergehen",
+    word: "vergehen",
     translation: "to pass, to elapse",
     forms: {
       section_0: [
@@ -92088,7 +92088,7 @@ module.exports = [
     },
   },
   {
-    word "vergelten",
+    word: "vergelten",
     translation: "to retaliate",
     forms: {
       section_0: [
@@ -92118,7 +92118,7 @@ module.exports = [
     },
   },
   {
-    word "vergessen",
+    word: "vergessen",
     translation: "(transitive) to forget (lose remembrance of), (transitive) to forget (fail to do something out of forgetfulness), (transitive) to leave (forget to take)",
     forms: {
       section_0: [
@@ -92148,7 +92148,7 @@ module.exports = [
     },
   },
   {
-    word "vergeuden",
+    word: "vergeuden",
     translation: "to squander (to waste)",
     forms: {
       section_0: [
@@ -92178,7 +92178,7 @@ module.exports = [
     },
   },
   {
-    word "vergewaltigen",
+    word: "vergewaltigen",
     translation: "to rape",
     forms: {
       section_0: [
@@ -92208,7 +92208,7 @@ module.exports = [
     },
   },
   {
-    word "vergiften",
+    word: "vergiften",
     translation: "to poison",
     forms: {
       section_0: [
@@ -92238,7 +92238,7 @@ module.exports = [
     },
   },
   {
-    word "vergleichen",
+    word: "vergleichen",
     translation: "to compare",
     forms: {
       section_0: [
@@ -92268,7 +92268,7 @@ module.exports = [
     },
   },
   {
-    word "verglühen",
+    word: "verglühen",
     translation: "To burn up",
     forms: {
       section_0: [
@@ -92298,7 +92298,7 @@ module.exports = [
     },
   },
   {
-    word "vergolden",
+    word: "vergolden",
     translation: "plural past indicative and subjunctive of vergelden",
     forms: {
       section_0: [
@@ -92328,7 +92328,7 @@ module.exports = [
     },
   },
   {
-    word "vergraben",
+    word: "vergraben",
     translation: "to bury (to place in the ground)",
     forms: {
       section_0: [
@@ -92358,15 +92358,15 @@ module.exports = [
     },
   },
   {
-    word "vergraulen",
+    word: "vergraulen",
     translation: "(transitive) to scare off",
   },
   {
-    word "vergreisen",
+    word: "vergreisen",
     translation: "to age (intransitive: become old)",
   },
   {
-    word "vergrößern",
+    word: "vergrößern",
     translation: "to enlarge, to amplify, to increase, (reflexive) to become larger",
     forms: {
       section_0: [
@@ -92396,7 +92396,7 @@ module.exports = [
     },
   },
   {
-    word "verhaften",
+    word: "verhaften",
     translation: "to detain, to take into custody",
     forms: {
       section_0: [
@@ -92426,7 +92426,7 @@ module.exports = [
     },
   },
   {
-    word "verhalten",
+    word: "verhalten",
     translation: "(reflexive) to behave, (reflexive, impersonal) to be, (reflexive, informal) to repress, (reflexive, informal) to go more slowly, (reflexive, sports, riding) to parry, (reflexive, regional) to have a good attitude towards oneself, (reflexive, Austria, Switzerland) to undertake, (reflexive, archaic outside Switzerland) to close with the hand",
     forms: {
       section_0: [
@@ -92456,7 +92456,7 @@ module.exports = [
     },
   },
   {
-    word "verhandeln",
+    word: "verhandeln",
     translation: "to negotiate",
     forms: {
       section_0: [
@@ -92486,7 +92486,7 @@ module.exports = [
     },
   },
   {
-    word "verhängen",
+    word: "verhängen",
     translation: "To impose, inflict, To cover, veil",
     forms: {
       section_0: [
@@ -92516,11 +92516,11 @@ module.exports = [
     },
   },
   {
-    word "verhehlen",
+    word: "verhehlen",
     translation: "to conceal, to hide, to dissemble",
   },
   {
-    word "verheimlichen",
+    word: "verheimlichen",
     translation: "(transitive) to keep secret, to conceal, to hide",
     forms: {
       section_0: [
@@ -92550,7 +92550,7 @@ module.exports = [
     },
   },
   {
-    word "verheiraten",
+    word: "verheiraten",
     translation: "(transitive, to perform or cause the marriage of a couple) to marry, (reflexive) to marry, to get married",
     forms: {
       section_0: [
@@ -92580,7 +92580,7 @@ module.exports = [
     },
   },
   {
-    word "verheißen",
+    word: "verheißen",
     translation: "to promise",
     forms: {
       section_0: [
@@ -92610,7 +92610,7 @@ module.exports = [
     },
   },
   {
-    word "verhelfen",
+    word: "verhelfen",
     translation: "To help (to)",
     forms: {
       section_0: [
@@ -92640,7 +92640,7 @@ module.exports = [
     },
   },
   {
-    word "verhexen",
+    word: "verhexen",
     translation: "to bewitch",
     forms: {
       section_0: [
@@ -92670,7 +92670,7 @@ module.exports = [
     },
   },
   {
-    word "verhindern",
+    word: "verhindern",
     translation: "to prevent, to inhibit",
     forms: {
       section_0: [
@@ -92700,11 +92700,11 @@ module.exports = [
     },
   },
   {
-    word "verhöhnen",
+    word: "verhöhnen",
     translation: "(transitive) to scoff, to scoff at",
   },
   {
-    word "verhören",
+    word: "verhören",
     translation: "(in court or by the police) to interrogate, (reflexive) to mishear",
     forms: {
       section_0: [
@@ -92734,7 +92734,7 @@ module.exports = [
     },
   },
   {
-    word "verhüllen",
+    word: "verhüllen",
     translation: "to cloak, to cover, to veil",
     forms: {
       section_0: [
@@ -92764,7 +92764,7 @@ module.exports = [
     },
   },
   {
-    word "verhungern",
+    word: "verhungern",
     translation: "(intransitive, also figuratively) to starve to death",
     forms: {
       section_0: [
@@ -92794,11 +92794,11 @@ module.exports = [
     },
   },
   {
-    word "verifizieren",
+    word: "verifizieren",
     translation: "to verify",
   },
   {
-    word "verirren",
+    word: "verirren",
     translation: "(reflexive) to get lost",
     forms: {
       section_0: [
@@ -92828,7 +92828,7 @@ module.exports = [
     },
   },
   {
-    word "verjagen",
+    word: "verjagen",
     translation: "to drive off",
     forms: {
       section_0: [
@@ -92858,7 +92858,7 @@ module.exports = [
     },
   },
   {
-    word "verjähren",
+    word: "verjähren",
     translation: "(law) to fall under the statute of limitations",
     forms: {
       section_0: [
@@ -92888,7 +92888,7 @@ module.exports = [
     },
   },
   {
-    word "verjüngen",
+    word: "verjüngen",
     translation: "to rejuvenate, (technical) to narrow, to reduce",
     forms: {
       section_0: [
@@ -92918,7 +92918,7 @@ module.exports = [
     },
   },
   {
-    word "verkabeln",
+    word: "verkabeln",
     translation: "to hook up with cables",
     forms: {
       section_0: [
@@ -92948,15 +92948,15 @@ module.exports = [
     },
   },
   {
-    word "verkacken",
+    word: "verkacken",
     translation: "(vulgar, slang) to dick up / mess up something, to lose or fail at something, to bungle / botch",
   },
   {
-    word "verkapseln",
+    word: "verkapseln",
     translation: "to encapsulate, to enclose",
   },
   {
-    word "verkaufen",
+    word: "verkaufen",
     translation: "to sell",
     forms: {
       section_0: [
@@ -92986,7 +92986,7 @@ module.exports = [
     },
   },
   {
-    word "verkennen",
+    word: "verkennen",
     translation: "to explore",
     forms: {
       section_0: [
@@ -93016,7 +93016,7 @@ module.exports = [
     },
   },
   {
-    word "verklagen",
+    word: "verklagen",
     translation: "(transitive, law) to sue",
     forms: {
       section_0: [
@@ -93046,7 +93046,7 @@ module.exports = [
     },
   },
   {
-    word "verklären",
+    word: "verklären",
     translation: "to glorify, exalt, transfigure, romanticize, mythify",
     forms: {
       section_0: [
@@ -93076,7 +93076,7 @@ module.exports = [
     },
   },
   {
-    word "verkleiden",
+    word: "verkleiden",
     translation: "to dress up, to disguise, to cover, to panel",
     forms: {
       section_0: [
@@ -93106,7 +93106,7 @@ module.exports = [
     },
   },
   {
-    word "verkleinern",
+    word: "verkleinern",
     translation: "(transitive) to make smaller, (reflexive) to become smaller, to diminish",
     forms: {
       section_0: [
@@ -93136,11 +93136,11 @@ module.exports = [
     },
   },
   {
-    word "verkloppen",
+    word: "verkloppen",
     translation: "(somewhat informal, transitive) to beat up, (informal, transitive) to sell",
   },
   {
-    word "verknallen",
+    word: "verknallen",
     translation: "(reflexive, colloquial) to become infatuated, to fall for, to get a crush, (transitive, colloquial, of ammunition or explosives) to squander",
     forms: {
       section_0: [
@@ -93170,11 +93170,11 @@ module.exports = [
     },
   },
   {
-    word "verknittern",
+    word: "verknittern",
     translation: "to crinkle, to rumple",
   },
   {
-    word "verknüpfen",
+    word: "verknüpfen",
     translation: "to combine",
     forms: {
       section_0: [
@@ -93204,7 +93204,7 @@ module.exports = [
     },
   },
   {
-    word "verkörpern",
+    word: "verkörpern",
     translation: "to embody",
     forms: {
       section_0: [
@@ -93234,7 +93234,7 @@ module.exports = [
     },
   },
   {
-    word "verkraften",
+    word: "verkraften",
     translation: "To bear, stand, manage, cope with",
     forms: {
       section_0: [
@@ -93264,7 +93264,7 @@ module.exports = [
     },
   },
   {
-    word "verkriechen",
+    word: "verkriechen",
     translation: "(reflexive) to creep away, (reflexive, figuratively) to hide away, to be holed up",
     forms: {
       section_0: [
@@ -93294,11 +93294,11 @@ module.exports = [
     },
   },
   {
-    word "verkrusten",
+    word: "verkrusten",
     translation: "To cake, To become encrusted",
   },
   {
-    word "verkünden",
+    word: "verkünden",
     translation: "to pronounce (to officially declare)",
     forms: {
       section_0: [
@@ -93328,7 +93328,7 @@ module.exports = [
     },
   },
   {
-    word "verkündigen",
+    word: "verkündigen",
     translation: "(literary) to proclaim, declare",
     forms: {
       section_0: [
@@ -93358,7 +93358,7 @@ module.exports = [
     },
   },
   {
-    word "verkürzen",
+    word: "verkürzen",
     translation: "to shorten",
     forms: {
       section_0: [
@@ -93388,7 +93388,7 @@ module.exports = [
     },
   },
   {
-    word "verladen",
+    word: "verladen",
     translation: "to transfer, to load to another place",
     forms: {
       section_0: [
@@ -93418,7 +93418,7 @@ module.exports = [
     },
   },
   {
-    word "verlagern",
+    word: "verlagern",
     translation: "to relocate, to shift",
     forms: {
       section_0: [
@@ -93448,7 +93448,7 @@ module.exports = [
     },
   },
   {
-    word "verlangen",
+    word: "verlangen",
     translation: "to long for, desire, yearn, to expect, to ask (of someone)",
     forms: {
       section_0: [
@@ -93478,7 +93478,7 @@ module.exports = [
     },
   },
   {
-    word "verlängern",
+    word: "verlängern",
     translation: "to lengthen, to prolong, to extend",
     forms: {
       section_0: [
@@ -93508,7 +93508,7 @@ module.exports = [
     },
   },
   {
-    word "verlangsamen",
+    word: "verlangsamen",
     translation: "(transitive) to slow down",
     forms: {
       section_0: [
@@ -93538,7 +93538,7 @@ module.exports = [
     },
   },
   {
-    word "verlassen",
+    word: "verlassen",
     translation: "(transitive) to leave, to abandon; to depart, to forsake, (transitive, reflexive, with auf) to trust; to rely on, (transitive, figuratively) to pass away; to cease; to die (with direct object uns), (transitive) to desert, to dump (eg a partner in a romantic relationship)",
     forms: {
       section_0: [
@@ -93568,7 +93568,7 @@ module.exports = [
     },
   },
   {
-    word "verlaufen",
+    word: "verlaufen",
     translation: "(reflexive) to get lost, stray, (reflexive, of a crowd) to disperse, scatter, (intransitive) to run (extend in a specific direction), (intransitive) to go, proceed (well, poorly, etc)",
     forms: {
       section_0: [
@@ -93598,15 +93598,15 @@ module.exports = [
     },
   },
   {
-    word "verläugnen",
+    word: "verläugnen",
     translation: "Obsolete spelling of verleugnen",
   },
   {
-    word "verlauten",
+    word: "verlauten",
     translation: "To announce",
   },
   {
-    word "verleben",
+    word: "verleben",
     translation: "(of money or time) to spend",
     forms: {
       section_0: [
@@ -93636,7 +93636,7 @@ module.exports = [
     },
   },
   {
-    word "verlegen",
+    word: "verlegen",
     translation: "to displace, to mislay, to lay, to reschedule, to postpone, to adjourn, to put off, to transfer, to shift, to stop, to hinder, to obstruct, to block, to publish, (reflexive) to resort (to)",
     forms: {
       section_0: [
@@ -93666,7 +93666,7 @@ module.exports = [
     },
   },
   {
-    word "verleiden",
+    word: "verleiden",
     translation: "to tempt, to seduce",
     forms: {
       section_0: [
@@ -93696,7 +93696,7 @@ module.exports = [
     },
   },
   {
-    word "verleihen",
+    word: "verleihen",
     translation: "to award (someone an honor, a medal, etc); to confer (a title or degree upon someone), to lend (something to someone, for a finite period of time), to vest (a power in someone), a give (a right to someone)",
     forms: {
       section_0: [
@@ -93726,7 +93726,7 @@ module.exports = [
     },
   },
   {
-    word "verleiten",
+    word: "verleiten",
     translation: "(transitive) to seduce, to entice",
     forms: {
       section_0: [
@@ -93756,7 +93756,7 @@ module.exports = [
     },
   },
   {
-    word "verlernen",
+    word: "verlernen",
     translation: "to forget (lose remembrance of)",
     forms: {
       section_0: [
@@ -93786,7 +93786,7 @@ module.exports = [
     },
   },
   {
-    word "verletzen",
+    word: "verletzen",
     translation: "to hurt, to injure, to violate (rules, laws, etc)",
     forms: {
       section_0: [
@@ -93816,7 +93816,7 @@ module.exports = [
     },
   },
   {
-    word "verleumden",
+    word: "verleumden",
     translation: "to libel",
     forms: {
       section_0: [
@@ -93846,7 +93846,7 @@ module.exports = [
     },
   },
   {
-    word "verlieben",
+    word: "verlieben",
     translation: "(Reflexive) to fall in love",
     forms: {
       section_0: [
@@ -93876,7 +93876,7 @@ module.exports = [
     },
   },
   {
-    word "verlieren",
+    word: "verlieren",
     translation: "(transitive) to lose (something, or a game), (transitive) to shed, (reflexive) to trail away, to fade away",
     forms: {
       section_0: [
@@ -93906,7 +93906,7 @@ module.exports = [
     },
   },
   {
-    word "verloben",
+    word: "verloben",
     translation: "to betroth; to get engaged",
     forms: {
       section_0: [
@@ -93936,7 +93936,7 @@ module.exports = [
     },
   },
   {
-    word "verlocken",
+    word: "verlocken",
     translation: "to entice",
     forms: {
       section_0: [
@@ -93966,7 +93966,7 @@ module.exports = [
     },
   },
   {
-    word "verlöten",
+    word: "verlöten",
     translation: "To solder",
     forms: {
       section_0: [
@@ -93996,7 +93996,7 @@ module.exports = [
     },
   },
   {
-    word "vermachen",
+    word: "vermachen",
     translation: "(transitive) to leave (by will), to bequeath, to devise",
     forms: {
       section_0: [
@@ -94026,7 +94026,7 @@ module.exports = [
     },
   },
   {
-    word "vermarkten",
+    word: "vermarkten",
     translation: "to market",
     forms: {
       section_0: [
@@ -94056,7 +94056,7 @@ module.exports = [
     },
   },
   {
-    word "vermasseln",
+    word: "vermasseln",
     translation: "(colloquial, transitive) to blow, to screw up, to botch",
     forms: {
       section_0: [
@@ -94086,7 +94086,7 @@ module.exports = [
     },
   },
   {
-    word "vermeiden",
+    word: "vermeiden",
     translation: "to avoid",
     forms: {
       section_0: [
@@ -94116,7 +94116,7 @@ module.exports = [
     },
   },
   {
-    word "vermengen",
+    word: "vermengen",
     translation: "(transitive) to mix",
     forms: {
       section_0: [
@@ -94146,11 +94146,11 @@ module.exports = [
     },
   },
   {
-    word "vermenschlichen",
+    word: "vermenschlichen",
     translation: "to humanize, to anthropomorphize",
   },
   {
-    word "vermerken",
+    word: "vermerken",
     translation: "To mention, note, or record",
     forms: {
       section_0: [
@@ -94180,7 +94180,7 @@ module.exports = [
     },
   },
   {
-    word "vermessen",
+    word: "vermessen",
     translation: "(transitive) to measure, to survey, (reflexive) to measure wrong",
     forms: {
       section_0: [
@@ -94210,7 +94210,7 @@ module.exports = [
     },
   },
   {
-    word "vermeßen",
+    word: "vermeßen",
     translation: "Obsolete spelling of vermessen",
     forms: {
       section_0: [
@@ -94240,7 +94240,7 @@ module.exports = [
     },
   },
   {
-    word "vermieten",
+    word: "vermieten",
     translation: "to rent (to someone)",
     forms: {
       section_0: [
@@ -94270,7 +94270,7 @@ module.exports = [
     },
   },
   {
-    word "vermindern",
+    word: "vermindern",
     translation: "To reduce, decrease, shrink, diminish, To alleviate, lessen, ease, To deplete",
     forms: {
       section_0: [
@@ -94300,7 +94300,7 @@ module.exports = [
     },
   },
   {
-    word "verminen",
+    word: "verminen",
     translation: "(military) to mine",
     forms: {
       section_0: [
@@ -94330,7 +94330,7 @@ module.exports = [
     },
   },
   {
-    word "vermischen",
+    word: "vermischen",
     translation: "(transitive) To mix together, (transitive, art, painting) To put colors softly together",
     forms: {
       section_0: [
@@ -94360,7 +94360,7 @@ module.exports = [
     },
   },
   {
-    word "vermissen",
+    word: "vermissen",
     translation: "to go missing",
     forms: {
       section_0: [
@@ -94390,7 +94390,7 @@ module.exports = [
     },
   },
   {
-    word "vermitteln",
+    word: "vermitteln",
     translation: "to mediate, to convey, to broker, to supply, to provide",
     forms: {
       section_0: [
@@ -94420,7 +94420,7 @@ module.exports = [
     },
   },
   {
-    word "vermögen",
+    word: "vermögen",
     translation: "(transitive, takes the infinitive with zu) to be able to; may",
     forms: {
       section_0: [
@@ -94450,7 +94450,7 @@ module.exports = [
     },
   },
   {
-    word "vermummen",
+    word: "vermummen",
     translation: "(reflexive) to disguise",
     forms: {
       section_0: [
@@ -94480,7 +94480,7 @@ module.exports = [
     },
   },
   {
-    word "vermuten",
+    word: "vermuten",
     translation: "to assume, suppose, presume, suspect, (US) guess, (transitive, a person, at a location) to suppose someone to be",
     forms: {
       section_0: [
@@ -94510,7 +94510,7 @@ module.exports = [
     },
   },
   {
-    word "vernachlässigen",
+    word: "vernachlässigen",
     translation: "(transitive) to neglect",
     forms: {
       section_0: [
@@ -94540,7 +94540,7 @@ module.exports = [
     },
   },
   {
-    word "vernebeln",
+    word: "vernebeln",
     translation: "to obscure, to obfuscate",
     forms: {
       section_0: [
@@ -94570,7 +94570,7 @@ module.exports = [
     },
   },
   {
-    word "vernehmen",
+    word: "vernehmen",
     translation: "(transitive, formal) To hear, (transitive) To question, to examine",
     forms: {
       section_0: [
@@ -94600,7 +94600,7 @@ module.exports = [
     },
   },
   {
-    word "verneigen",
+    word: "verneigen",
     translation: "(literary, reflexive) to bow",
     forms: {
       section_0: [
@@ -94630,7 +94630,7 @@ module.exports = [
     },
   },
   {
-    word "verneinen",
+    word: "verneinen",
     translation: "to negate",
     forms: {
       section_0: [
@@ -94660,11 +94660,11 @@ module.exports = [
     },
   },
   {
-    word "vernetzen",
+    word: "vernetzen",
     translation: "to network, to cross-link",
   },
   {
-    word "vernichten",
+    word: "vernichten",
     translation: "to destroy; to ruin; to wreck, to annihilate; to benothing; to eradicate; to extinguish (to make dying out or nothing)",
     forms: {
       section_0: [
@@ -94694,11 +94694,11 @@ module.exports = [
     },
   },
   {
-    word "vernickeln",
+    word: "vernickeln",
     translation: "To nickel-plate",
   },
   {
-    word "veröden",
+    word: "veröden",
     translation: "(medicine) to sclerose, (figuratively) to become desolate/stultified",
     forms: {
       section_0: [
@@ -94728,7 +94728,7 @@ module.exports = [
     },
   },
   {
-    word "veröffentlichen",
+    word: "veröffentlichen",
     translation: "to publish",
     forms: {
       section_0: [
@@ -94758,7 +94758,7 @@ module.exports = [
     },
   },
   {
-    word "verordnen",
+    word: "verordnen",
     translation: "to decree (to command by a decree)",
     forms: {
       section_0: [
@@ -94788,7 +94788,7 @@ module.exports = [
     },
   },
   {
-    word "verpachten",
+    word: "verpachten",
     translation: "to loan, lend",
     forms: {
       section_0: [
@@ -94818,7 +94818,7 @@ module.exports = [
     },
   },
   {
-    word "verpacken",
+    word: "verpacken",
     translation: "to pack",
     forms: {
       section_0: [
@@ -94848,7 +94848,7 @@ module.exports = [
     },
   },
   {
-    word "verpassen",
+    word: "verpassen",
     translation: "(transitive) to miss (be late for; be unable to use or attend), (transitive) to miss (fail to hit or reach), (colloquial, transitive, + dative) to give, to provide someone with",
     forms: {
       section_0: [
@@ -94878,7 +94878,7 @@ module.exports = [
     },
   },
   {
-    word "verpfänden",
+    word: "verpfänden",
     translation: "to pawn, to mortgage",
     forms: {
       section_0: [
@@ -94908,7 +94908,7 @@ module.exports = [
     },
   },
   {
-    word "verpflegen",
+    word: "verpflegen",
     translation: "to feed, nourish",
     forms: {
       section_0: [
@@ -94938,7 +94938,7 @@ module.exports = [
     },
   },
   {
-    word "verpflichten",
+    word: "verpflichten",
     translation: "(transitive) to oblige somebody, make somebody promise, (transitive) to commit, to oblige, (transitive) to oblige, to swear, to be sworn, (transitive) to engage, (intransitive, law) to bind somebody by contract, to oblige somebody, (intransitive) to be an obligation, (reflexive) to undertake (to commit oneself to an obligation)",
     forms: {
       section_0: [
@@ -94968,15 +94968,15 @@ module.exports = [
     },
   },
   {
-    word "verpissen",
+    word: "verpissen",
     translation: "(reflexive) to fuck off; piss off (leave)",
   },
   {
-    word "verplappern",
+    word: "verplappern",
     translation: "(slang, reflexive) to unintentionally give away a secret; unintentionally disclose something which had been secret",
   },
   {
-    word "verplempern",
+    word: "verplempern",
     translation: "(colloquial) to squander, waste, fritter away (time or money), (colloquial) to spill (a liquid)",
     forms: {
       section_0: [
@@ -95006,11 +95006,11 @@ module.exports = [
     },
   },
   {
-    word "verpressen",
+    word: "verpressen",
     translation: "To crimp, To grout",
   },
   {
-    word "verprügeln",
+    word: "verprügeln",
     translation: "to beat up someone, to beat, to bash",
     forms: {
       section_0: [
@@ -95040,15 +95040,15 @@ module.exports = [
     },
   },
   {
-    word "verpuffen",
+    word: "verpuffen",
     translation: "to deflagrate",
   },
   {
-    word "verpuppen",
+    word: "verpuppen",
     translation: "(reflexive) to pupate",
   },
   {
-    word "verputzen",
+    word: "verputzen",
     translation: "(construction) to plaster, (colloquial, of food) to put away",
     forms: {
       section_0: [
@@ -95078,7 +95078,7 @@ module.exports = [
     },
   },
   {
-    word "verraten",
+    word: "verraten",
     translation: "to betray, to rat out (to give someone away), to reveal",
     forms: {
       section_0: [
@@ -95108,7 +95108,7 @@ module.exports = [
     },
   },
   {
-    word "verrechnen",
+    word: "verrechnen",
     translation: "(reflexive) to miscalculate",
     forms: {
       section_0: [
@@ -95138,7 +95138,7 @@ module.exports = [
     },
   },
   {
-    word "verreisen",
+    word: "verreisen",
     translation: "take a trip, travel, go out of town",
     forms: {
       section_0: [
@@ -95168,7 +95168,7 @@ module.exports = [
     },
   },
   {
-    word "verrichten",
+    word: "verrichten",
     translation: "to perform, to carry out",
     forms: {
       section_0: [
@@ -95198,7 +95198,7 @@ module.exports = [
     },
   },
   {
-    word "verringern",
+    word: "verringern",
     translation: "(transitive) To abate",
     forms: {
       section_0: [
@@ -95228,7 +95228,7 @@ module.exports = [
     },
   },
   {
-    word "verrosten",
+    word: "verrosten",
     translation: "To rust",
     forms: {
       section_0: [
@@ -95258,7 +95258,7 @@ module.exports = [
     },
   },
   {
-    word "verrotten",
+    word: "verrotten",
     translation: "to rot, to decompose",
     forms: {
       section_0: [
@@ -95288,11 +95288,11 @@ module.exports = [
     },
   },
   {
-    word "verrühren",
+    word: "verrühren",
     translation: "(transitive) to stir up; whip up; mix up; scramble",
   },
   {
-    word "versagen",
+    word: "versagen",
     translation: "to fail, to refuse; deny",
     forms: {
       section_0: [
@@ -95322,7 +95322,7 @@ module.exports = [
     },
   },
   {
-    word "versalzen",
+    word: "versalzen",
     translation: "to put too much salt in, (figuratively) to spoil",
     forms: {
       section_0: [
@@ -95352,7 +95352,7 @@ module.exports = [
     },
   },
   {
-    word "versammeln",
+    word: "versammeln",
     translation: "to gather, to assemble",
     forms: {
       section_0: [
@@ -95382,15 +95382,15 @@ module.exports = [
     },
   },
   {
-    word "versauen",
+    word: "versauen",
     translation: "to mess up",
   },
   {
-    word "versauern",
+    word: "versauern",
     translation: "To go stale, To acidify, To stagnate",
   },
   {
-    word "versäumen",
+    word: "versäumen",
     translation: "to miss, to omit, to fail to do something important",
     forms: {
       section_0: [
@@ -95420,7 +95420,7 @@ module.exports = [
     },
   },
   {
-    word "verschaffen",
+    word: "verschaffen",
     translation: "to procure, provide",
     forms: {
       section_0: [
@@ -95450,7 +95450,7 @@ module.exports = [
     },
   },
   {
-    word "verschalen",
+    word: "verschalen",
     translation: "(construction) to plank; to lag",
     forms: {
       section_0: [
@@ -95480,7 +95480,7 @@ module.exports = [
     },
   },
   {
-    word "verschalten",
+    word: "verschalten",
     translation: "to connect",
     forms: {
       section_0: [
@@ -95510,7 +95510,7 @@ module.exports = [
     },
   },
   {
-    word "verschanzen",
+    word: "verschanzen",
     translation: "to barricade",
     forms: {
       section_0: [
@@ -95540,7 +95540,7 @@ module.exports = [
     },
   },
   {
-    word "verschärfen",
+    word: "verschärfen",
     translation: "To tighten, To aggravate, exacerbate",
     forms: {
       section_0: [
@@ -95570,15 +95570,15 @@ module.exports = [
     },
   },
   {
-    word "verscheissern",
+    word: "verscheissern",
     translation: "Switzerland and Liechtenstein standard spelling of verscheißern",
   },
   {
-    word "verscheißern",
+    word: "verscheißern",
     translation: "(colloquial) to fool someone",
   },
   {
-    word "verschenken",
+    word: "verschenken",
     translation: "to give away, to pour a liquid in too high quantities, to dilute by adding too much of another liquid",
     forms: {
       section_0: [
@@ -95608,7 +95608,7 @@ module.exports = [
     },
   },
   {
-    word "verscheuchen",
+    word: "verscheuchen",
     translation: "to shoo, to shoo away, to scare away, to drive away",
     forms: {
       section_0: [
@@ -95638,7 +95638,7 @@ module.exports = [
     },
   },
   {
-    word "verschicken",
+    word: "verschicken",
     translation: "(transitive) to send out, (transitive) to send off",
     forms: {
       section_0: [
@@ -95668,7 +95668,7 @@ module.exports = [
     },
   },
   {
-    word "verschieben",
+    word: "verschieben",
     translation: "to move, to shift, to postpone",
     forms: {
       section_0: [
@@ -95698,11 +95698,11 @@ module.exports = [
     },
   },
   {
-    word "verschlacken",
+    word: "verschlacken",
     translation: "to slag (make slag)",
   },
   {
-    word "verschlafen",
+    word: "verschlafen",
     translation: "to oversleep",
     forms: {
       section_0: [
@@ -95732,7 +95732,7 @@ module.exports = [
     },
   },
   {
-    word "verschlechtern",
+    word: "verschlechtern",
     translation: "to deteriorate (make worse)",
     forms: {
       section_0: [
@@ -95762,7 +95762,7 @@ module.exports = [
     },
   },
   {
-    word "verschleiern",
+    word: "verschleiern",
     translation: "to veil, to disguise, to cloud (make obscure)",
     forms: {
       section_0: [
@@ -95792,7 +95792,7 @@ module.exports = [
     },
   },
   {
-    word "verschleissen",
+    word: "verschleissen",
     translation: "Switzerland and Liechtenstein standard spelling of verschleißen",
     forms: {
       section_0: [
@@ -95822,7 +95822,7 @@ module.exports = [
     },
   },
   {
-    word "verschleißen",
+    word: "verschleißen",
     translation: "to wear out, to chafe, to abrade",
     forms: {
       section_0: [
@@ -95852,7 +95852,7 @@ module.exports = [
     },
   },
   {
-    word "verschleppen",
+    word: "verschleppen",
     translation: "to abduct, to protract",
     forms: {
       section_0: [
@@ -95882,7 +95882,7 @@ module.exports = [
     },
   },
   {
-    word "verschleudern",
+    word: "verschleudern",
     translation: "to dump (sell dirt cheap)",
     forms: {
       section_0: [
@@ -95912,7 +95912,7 @@ module.exports = [
     },
   },
   {
-    word "verschliessen",
+    word: "verschliessen",
     translation: "Switzerland and Liechtenstein standard spelling of verschließen",
     forms: {
       section_0: [
@@ -95942,7 +95942,7 @@ module.exports = [
     },
   },
   {
-    word "verschließen",
+    word: "verschließen",
     translation: "(transitive) to close; to shut; to lock, (transitive) to lock (something) up",
     forms: {
       section_0: [
@@ -95972,11 +95972,11 @@ module.exports = [
     },
   },
   {
-    word "verschlimmbessern",
+    word: "verschlimmbessern",
     translation: "(colloquial) To make something worse in an honest but failed attempt to improve it",
   },
   {
-    word "verschlimmern",
+    word: "verschlimmern",
     translation: "to make worse, to worsen, to aggravate",
     forms: {
       section_0: [
@@ -96006,7 +96006,7 @@ module.exports = [
     },
   },
   {
-    word "verschlingen",
+    word: "verschlingen",
     translation: "to devour",
     forms: {
       section_0: [
@@ -96036,7 +96036,7 @@ module.exports = [
     },
   },
   {
-    word "verschlucken",
+    word: "verschlucken",
     translation: "swallow up",
     forms: {
       section_0: [
@@ -96066,11 +96066,11 @@ module.exports = [
     },
   },
   {
-    word "verschlüsseln",
+    word: "verschlüsseln",
     translation: "to encrypt",
   },
   {
-    word "verschmähen",
+    word: "verschmähen",
     translation: "to scorn, to disdain",
     forms: {
       section_0: [
@@ -96100,7 +96100,7 @@ module.exports = [
     },
   },
   {
-    word "verschmelzen",
+    word: "verschmelzen",
     translation: "To blend, merge, coalesce, To fuse (together)",
     forms: {
       section_0: [
@@ -96130,7 +96130,7 @@ module.exports = [
     },
   },
   {
-    word "verschmutzen",
+    word: "verschmutzen",
     translation: "to soil, (environment) to pollute",
     forms: {
       section_0: [
@@ -96160,7 +96160,7 @@ module.exports = [
     },
   },
   {
-    word "verschneiden",
+    word: "verschneiden",
     translation: "to neuter (to remove sex organs from an animal), to mix, to blend (for example: beer, wine)",
     forms: {
       section_0: [
@@ -96190,7 +96190,7 @@ module.exports = [
     },
   },
   {
-    word "verschonen",
+    word: "verschonen",
     translation: "to change, to replace with a clean piece of the same thing, (figuratively) to excuse, pardon",
     forms: {
       section_0: [
@@ -96220,7 +96220,7 @@ module.exports = [
     },
   },
   {
-    word "verschränken",
+    word: "verschränken",
     translation: "to entangle, to cross, to fold, to interweave",
     forms: {
       section_0: [
@@ -96250,7 +96250,7 @@ module.exports = [
     },
   },
   {
-    word "verschreiben",
+    word: "verschreiben",
     translation: "to prescribe, to make an error while writing, to commit oneself to something",
     forms: {
       section_0: [
@@ -96280,7 +96280,7 @@ module.exports = [
     },
   },
   {
-    word "verschütten",
+    word: "verschütten",
     translation: "(a liquid) to spill, (in rubble) to trap, to bury alive",
     forms: {
       section_0: [
@@ -96310,7 +96310,7 @@ module.exports = [
     },
   },
   {
-    word "verschweigen",
+    word: "verschweigen",
     translation: "(transitive) to conceal (to hide something by remaining silent about it), to fail to mention, to keep (information) quiet",
     forms: {
       section_0: [
@@ -96340,7 +96340,7 @@ module.exports = [
     },
   },
   {
-    word "verschwenden",
+    word: "verschwenden",
     translation: "(to squander) to waste",
     forms: {
       section_0: [
@@ -96370,7 +96370,7 @@ module.exports = [
     },
   },
   {
-    word "verschwimmen",
+    word: "verschwimmen",
     translation: "to blur",
     forms: {
       section_0: [
@@ -96400,7 +96400,7 @@ module.exports = [
     },
   },
   {
-    word "verschwinden",
+    word: "verschwinden",
     translation: "(intransitive) to disappear; to vanish, (colloquial) to get lost, to take a hike",
     forms: {
       section_0: [
@@ -96430,7 +96430,7 @@ module.exports = [
     },
   },
   {
-    word "verschwören",
+    word: "verschwören",
     translation: "(reflexive) to conspire",
     forms: {
       section_0: [
@@ -96460,7 +96460,7 @@ module.exports = [
     },
   },
   {
-    word "versehen",
+    word: "versehen",
     translation: "(transitive, a service or duty) to perform, (transitive, an office) to hold, versehen mit to provide with, (reflexive) to make a mistake",
     forms: {
       section_0: [
@@ -96490,27 +96490,27 @@ module.exports = [
     },
   },
   {
-    word "versehren",
+    word: "versehren",
     translation: "(transitive, elevated) to hurt, to wound",
   },
   {
-    word "verseifen",
+    word: "verseifen",
     translation: "(chemistry) to saponify",
   },
   {
-    word "verselbständigen",
+    word: "verselbständigen",
     translation: "Alternative form of verselbstständigen",
   },
   {
-    word "verselbstständigen",
+    word: "verselbstständigen",
     translation: "to separate, to make independent, to emancipate, (reflexive) to become independent, to take on a life of on(e)'(s) own",
   },
   {
-    word "versemmeln",
+    word: "versemmeln",
     translation: "(colloquial) to fail",
   },
   {
-    word "versenden",
+    word: "versenden",
     translation: "to ship, to dispatch",
     forms: {
       section_0: [
@@ -96540,7 +96540,7 @@ module.exports = [
     },
   },
   {
-    word "versenken",
+    word: "versenken",
     translation: "to sink (to cause to sink, eg a ship), (pocket billiards) to down (to pot a ball), (technichal) to countersink, counterbore",
     forms: {
       section_0: [
@@ -96570,7 +96570,7 @@ module.exports = [
     },
   },
   {
-    word "versetzen",
+    word: "versetzen",
     translation: "to put, to move (into a state or position), to deal, to give (a blow, hit etc), (school) to promote (to the next grade), (work) to transfer (to a different work place or position)",
     forms: {
       section_0: [
@@ -96600,7 +96600,7 @@ module.exports = [
     },
   },
   {
-    word "verseuchen",
+    word: "verseuchen",
     translation: "to contaminate",
     forms: {
       section_0: [
@@ -96630,7 +96630,7 @@ module.exports = [
     },
   },
   {
-    word "versichern",
+    word: "versichern",
     translation: "to insure (to provide for compensation if some specified risk occurs), to reassure, assure",
     forms: {
       section_0: [
@@ -96660,15 +96660,15 @@ module.exports = [
     },
   },
   {
-    word "versifizieren",
+    word: "versifizieren",
     translation: "to versify (intransitive: to turn prose into poetry; rewrite in verse form)",
   },
   {
-    word "versilbern",
+    word: "versilbern",
     translation: "To silver, to silverplate, (finance) To realize (convert an asset into cash)",
   },
   {
-    word "versinken",
+    word: "versinken",
     translation: "(intransitive) to sink, to descend",
     forms: {
       section_0: [
@@ -96698,11 +96698,11 @@ module.exports = [
     },
   },
   {
-    word "versklaven",
+    word: "versklaven",
     translation: "to enslave",
   },
   {
-    word "versöhnen",
+    word: "versöhnen",
     translation: "(reflexive) to reconcile",
     forms: {
       section_0: [
@@ -96732,7 +96732,7 @@ module.exports = [
     },
   },
   {
-    word "versorgen",
+    word: "versorgen",
     translation: "to supply, to provide, (medicine, first-aid) to treat",
     forms: {
       section_0: [
@@ -96762,7 +96762,7 @@ module.exports = [
     },
   },
   {
-    word "verspäten",
+    word: "verspäten",
     translation: "(reflexive) to be late",
     forms: {
       section_0: [
@@ -96792,11 +96792,11 @@ module.exports = [
     },
   },
   {
-    word "verspeisen",
+    word: "verspeisen",
     translation: "to eat up, especially with great pleasure and enjoyment",
   },
   {
-    word "versperren",
+    word: "versperren",
     translation: "to bar, block",
     forms: {
       section_0: [
@@ -96826,7 +96826,7 @@ module.exports = [
     },
   },
   {
-    word "verspielen",
+    word: "verspielen",
     translation: "(transitive) to gamble something away (lose something in a game), (transitive) to lose something lightly; to squander; to waste, (intransitive, chiefly in the perfect tenses, with bei) to lose someone’s goodwill, (reflexive) to make a mistake at playing (eg play a wrong note on a music instrument)",
     forms: {
       section_0: [
@@ -96856,7 +96856,7 @@ module.exports = [
     },
   },
   {
-    word "verspotten",
+    word: "verspotten",
     translation: "to make fun of",
     forms: {
       section_0: [
@@ -96886,7 +96886,7 @@ module.exports = [
     },
   },
   {
-    word "versprechen",
+    word: "versprechen",
     translation: "(transitive) to promise, (transitive, with reflexive dative) to expect (something positive); to hope for, (reflexive, with dative object) to promise oneself (to), (reflexive) to make a verbal slip; to misspeak",
     forms: {
       section_0: [
@@ -96916,11 +96916,11 @@ module.exports = [
     },
   },
   {
-    word "verspröden",
+    word: "verspröden",
     translation: "(intransitive, perfect tenses formed with sein) to go/become brittle, (transitive, perfect tenses formed with haben) to make brittle",
   },
   {
-    word "versprühen",
+    word: "versprühen",
     translation: "To radiate, To spray, To atomize",
     forms: {
       section_0: [
@@ -96950,7 +96950,7 @@ module.exports = [
     },
   },
   {
-    word "verspüren",
+    word: "verspüren",
     translation: "to feel, sense",
     forms: {
       section_0: [
@@ -96980,7 +96980,7 @@ module.exports = [
     },
   },
   {
-    word "verstaatlichen",
+    word: "verstaatlichen",
     translation: "to nationalize, to socialize",
     forms: {
       section_0: [
@@ -97010,7 +97010,7 @@ module.exports = [
     },
   },
   {
-    word "verständigen",
+    word: "verständigen",
     translation: "To notify, inform, advise, To warn, alert",
     forms: {
       section_0: [
@@ -97040,7 +97040,7 @@ module.exports = [
     },
   },
   {
-    word "verstärken",
+    word: "verstärken",
     translation: "to reinforce, to amplify, to penetrate, (reflexive) to grow stronger",
     forms: {
       section_0: [
@@ -97070,7 +97070,7 @@ module.exports = [
     },
   },
   {
-    word "verstauen",
+    word: "verstauen",
     translation: "to stow",
     forms: {
       section_0: [
@@ -97100,7 +97100,7 @@ module.exports = [
     },
   },
   {
-    word "verstecken",
+    word: "verstecken",
     translation: "(transitive or reflexive) to hide",
     forms: {
       section_0: [
@@ -97130,7 +97130,7 @@ module.exports = [
     },
   },
   {
-    word "verstehen",
+    word: "verstehen",
     translation: "(transitive) to understand, to comprehend (to be aware of the meaning of), (reflexive) to get along well with (=mit), to like",
     forms: {
       section_0: [
@@ -97160,7 +97160,7 @@ module.exports = [
     },
   },
   {
-    word "versteigern",
+    word: "versteigern",
     translation: "(transitive) to auction",
     forms: {
       section_0: [
@@ -97190,7 +97190,7 @@ module.exports = [
     },
   },
   {
-    word "versteinern",
+    word: "versteinern",
     translation: "to petrify",
     forms: {
       section_0: [
@@ -97220,7 +97220,7 @@ module.exports = [
     },
   },
   {
-    word "verstellen",
+    word: "verstellen",
     translation: "to adjust",
     forms: {
       section_0: [
@@ -97250,7 +97250,7 @@ module.exports = [
     },
   },
   {
-    word "versterben",
+    word: "versterben",
     translation: "to die; to pass away",
     forms: {
       section_0: [
@@ -97280,7 +97280,7 @@ module.exports = [
     },
   },
   {
-    word "verstopfen",
+    word: "verstopfen",
     translation: "to plug, to clog, to jam",
     forms: {
       section_0: [
@@ -97310,7 +97310,7 @@ module.exports = [
     },
   },
   {
-    word "verstoßen",
+    word: "verstoßen",
     translation: "to outcast, to infringe (against a law)",
     forms: {
       section_0: [
@@ -97340,11 +97340,11 @@ module.exports = [
     },
   },
   {
-    word "verstrahlen",
+    word: "verstrahlen",
     translation: "to contaminate (with radiation)",
   },
   {
-    word "verstreichen",
+    word: "verstreichen",
     translation: "to pass",
     forms: {
       section_0: [
@@ -97374,7 +97374,7 @@ module.exports = [
     },
   },
   {
-    word "verstreuen",
+    word: "verstreuen",
     translation: "To scatter, To disperse",
     forms: {
       section_0: [
@@ -97404,7 +97404,7 @@ module.exports = [
     },
   },
   {
-    word "verstümmeln",
+    word: "verstümmeln",
     translation: "to mutilate",
     forms: {
       section_0: [
@@ -97434,7 +97434,7 @@ module.exports = [
     },
   },
   {
-    word "verstummen",
+    word: "verstummen",
     translation: "to become silent",
     forms: {
       section_0: [
@@ -97464,7 +97464,7 @@ module.exports = [
     },
   },
   {
-    word "versuchen",
+    word: "versuchen",
     translation: "to try, attempt, to tempt",
     forms: {
       section_0: [
@@ -97494,11 +97494,11 @@ module.exports = [
     },
   },
   {
-    word "versüßen",
+    word: "versüßen",
     translation: "to sugar (make something seem less unpleasant), sweeten (make pleasing or grateful to the mind or feelings)",
   },
   {
-    word "vertagen",
+    word: "vertagen",
     translation: "To adjourn, postpone, defer",
     forms: {
       section_0: [
@@ -97528,7 +97528,7 @@ module.exports = [
     },
   },
   {
-    word "vertauschen",
+    word: "vertauschen",
     translation: "to exchange, swap",
     forms: {
       section_0: [
@@ -97558,7 +97558,7 @@ module.exports = [
     },
   },
   {
-    word "verteidigen",
+    word: "verteidigen",
     translation: "to defend",
     forms: {
       section_0: [
@@ -97588,7 +97588,7 @@ module.exports = [
     },
   },
   {
-    word "verteilen",
+    word: "verteilen",
     translation: "(transitive) to distribute, (transitive) to spread, (reflexive) to spread out",
     forms: {
       section_0: [
@@ -97618,7 +97618,7 @@ module.exports = [
     },
   },
   {
-    word "vertiefen",
+    word: "vertiefen",
     translation: "to deepen",
     forms: {
       section_0: [
@@ -97648,7 +97648,7 @@ module.exports = [
     },
   },
   {
-    word "vertippen",
+    word: "vertippen",
     translation: "to mistype",
     forms: {
       section_0: [
@@ -97678,11 +97678,11 @@ module.exports = [
     },
   },
   {
-    word "vertobaken",
+    word: "vertobaken",
     translation: "(Northern Germany dialects, dated) to beat (up), to thrash",
   },
   {
-    word "vertonen",
+    word: "vertonen",
     translation: "to show, exhibit",
     forms: {
       section_0: [
@@ -97712,7 +97712,7 @@ module.exports = [
     },
   },
   {
-    word "vertragen",
+    word: "vertragen",
     translation: "(transitive) to slow down, to delay",
     forms: {
       section_0: [
@@ -97742,7 +97742,7 @@ module.exports = [
     },
   },
   {
-    word "vertrauen",
+    word: "vertrauen",
     translation: "to trust (to place confidence in)",
     forms: {
       section_0: [
@@ -97772,7 +97772,7 @@ module.exports = [
     },
   },
   {
-    word "vertreiben",
+    word: "vertreiben",
     translation: "(transitive) To force to leave, (transitive, financial) To bring much of something onto the market, (transitive, art, painting) To put colors softly together",
     forms: {
       section_0: [
@@ -97802,7 +97802,7 @@ module.exports = [
     },
   },
   {
-    word "vertreten",
+    word: "vertreten",
     translation: "to represent, to substitute",
     forms: {
       section_0: [
@@ -97832,7 +97832,7 @@ module.exports = [
     },
   },
   {
-    word "vertun",
+    word: "vertun",
     translation: "(reflexive) to make a mistake",
     forms: {
       section_0: [
@@ -97862,7 +97862,7 @@ module.exports = [
     },
   },
   {
-    word "vertuschen",
+    word: "vertuschen",
     translation: "to cover up",
     forms: {
       section_0: [
@@ -97892,7 +97892,7 @@ module.exports = [
     },
   },
   {
-    word "verüben",
+    word: "verüben",
     translation: "to commit, carry out, perpetrate",
     forms: {
       section_0: [
@@ -97922,7 +97922,7 @@ module.exports = [
     },
   },
   {
-    word "verunglimpfen",
+    word: "verunglimpfen",
     translation: "to denigrate; to libel",
     forms: {
       section_0: [
@@ -97952,7 +97952,7 @@ module.exports = [
     },
   },
   {
-    word "verunglücken",
+    word: "verunglücken",
     translation: "(of a person) to have an accident, to be involved in an accident, (of a person) to be killed in an accident, (of a thing, humorous) to be a fiasco",
     forms: {
       section_0: [
@@ -97982,7 +97982,7 @@ module.exports = [
     },
   },
   {
-    word "verunsichern",
+    word: "verunsichern",
     translation: "to make insecure, to make uncertain",
     forms: {
       section_0: [
@@ -98012,11 +98012,11 @@ module.exports = [
     },
   },
   {
-    word "verunzieren",
+    word: "verunzieren",
     translation: "to disfigure",
   },
   {
-    word "verursachen",
+    word: "verursachen",
     translation: "to cause",
     forms: {
       section_0: [
@@ -98046,7 +98046,7 @@ module.exports = [
     },
   },
   {
-    word "verurteilen",
+    word: "verurteilen",
     translation: "to condemn, (law) to sentence",
     forms: {
       section_0: [
@@ -98076,7 +98076,7 @@ module.exports = [
     },
   },
   {
-    word "vervollständigen",
+    word: "vervollständigen",
     translation: "to complete, to round off",
     forms: {
       section_0: [
@@ -98106,7 +98106,7 @@ module.exports = [
     },
   },
   {
-    word "verwahrlosen",
+    word: "verwahrlosen",
     translation: "(intransitive) to become neglected",
     forms: {
       section_0: [
@@ -98136,7 +98136,7 @@ module.exports = [
     },
   },
   {
-    word "verwaisen",
+    word: "verwaisen",
     translation: "(of a child) to be orphaned, (of a parent) to lose on(e)'(s) child, (of a place) to stand empty",
     forms: {
       section_0: [
@@ -98166,7 +98166,7 @@ module.exports = [
     },
   },
   {
-    word "verwalten",
+    word: "verwalten",
     translation: "to manage, to administer",
     forms: {
       section_0: [
@@ -98196,7 +98196,7 @@ module.exports = [
     },
   },
   {
-    word "verwandeln",
+    word: "verwandeln",
     translation: "to metamorphose, to transform, to convert, to turn",
     forms: {
       section_0: [
@@ -98226,11 +98226,11 @@ module.exports = [
     },
   },
   {
-    word "verwanzen",
+    word: "verwanzen",
     translation: "to bug (in order to listen secretly)",
   },
   {
-    word "verwässern",
+    word: "verwässern",
     translation: "(figuratively) to water down, to dilute",
     forms: {
       section_0: [
@@ -98260,7 +98260,7 @@ module.exports = [
     },
   },
   {
-    word "verwechseln",
+    word: "verwechseln",
     translation: "to confuse, to mistake",
     forms: {
       section_0: [
@@ -98290,7 +98290,7 @@ module.exports = [
     },
   },
   {
-    word "verwehen",
+    word: "verwehen",
     translation: "to blow away (wind)",
     forms: {
       section_0: [
@@ -98320,7 +98320,7 @@ module.exports = [
     },
   },
   {
-    word "verwehren",
+    word: "verwehren",
     translation: "To refuse, To forbid, To deny",
     forms: {
       section_0: [
@@ -98350,7 +98350,7 @@ module.exports = [
     },
   },
   {
-    word "verweigern",
+    word: "verweigern",
     translation: "to refuse, to deny",
     forms: {
       section_0: [
@@ -98380,7 +98380,7 @@ module.exports = [
     },
   },
   {
-    word "verweilen",
+    word: "verweilen",
     translation: "to stay, dwell, to hover, linger",
     forms: {
       section_0: [
@@ -98410,7 +98410,7 @@ module.exports = [
     },
   },
   {
-    word "verweisen",
+    word: "verweisen",
     translation: "to refer, to relegate",
     forms: {
       section_0: [
@@ -98440,7 +98440,7 @@ module.exports = [
     },
   },
   {
-    word "verwelken",
+    word: "verwelken",
     translation: "to wither, wilt",
     forms: {
       section_0: [
@@ -98470,7 +98470,7 @@ module.exports = [
     },
   },
   {
-    word "verwenden",
+    word: "verwenden",
     translation: "plural past indicative and subjunctive of verwennen",
     forms: {
       section_0: [
@@ -98500,7 +98500,7 @@ module.exports = [
     },
   },
   {
-    word "verwerfen",
+    word: "verwerfen",
     translation: "To discard, reject, scrap, To condemn, To abolish",
     forms: {
       section_0: [
@@ -98530,7 +98530,7 @@ module.exports = [
     },
   },
   {
-    word "verwerten",
+    word: "verwerten",
     translation: "To exploit, utilise, realise",
     forms: {
       section_0: [
@@ -98560,7 +98560,7 @@ module.exports = [
     },
   },
   {
-    word "verwesen",
+    word: "verwesen",
     translation: "to decay, to decompose",
     forms: {
       section_0: [
@@ -98590,7 +98590,7 @@ module.exports = [
     },
   },
   {
-    word "verwickeln",
+    word: "verwickeln",
     translation: "To involve, To embroil, To entangle, To implicate",
     forms: {
       section_0: [
@@ -98620,7 +98620,7 @@ module.exports = [
     },
   },
   {
-    word "verwirklichen",
+    word: "verwirklichen",
     translation: "To substantiate, realize, To materialize, To achieve, fulfil",
     forms: {
       section_0: [
@@ -98650,7 +98650,7 @@ module.exports = [
     },
   },
   {
-    word "verwirren",
+    word: "verwirren",
     translation: "to confuse",
     forms: {
       section_0: [
@@ -98680,7 +98680,7 @@ module.exports = [
     },
   },
   {
-    word "verwischen",
+    word: "verwischen",
     translation: "to smudge, to smear (eg paint), to blur, to obscure (eg the differences between two things)",
     forms: {
       section_0: [
@@ -98710,7 +98710,7 @@ module.exports = [
     },
   },
   {
-    word "verwittern",
+    word: "verwittern",
     translation: "(intransitive) To erode, (transitive, hunting) To overhaul the smell of a place to lure or scare wild animals",
     forms: {
       section_0: [
@@ -98740,7 +98740,7 @@ module.exports = [
     },
   },
   {
-    word "verwöhnen",
+    word: "verwöhnen",
     translation: "to pamper, spoil",
     forms: {
       section_0: [
@@ -98770,7 +98770,7 @@ module.exports = [
     },
   },
   {
-    word "verwunden",
+    word: "verwunden",
     translation: "to wound",
     forms: {
       section_0: [
@@ -98800,7 +98800,7 @@ module.exports = [
     },
   },
   {
-    word "verwundern",
+    word: "verwundern",
     translation: "to amaze, astonish, astound",
     forms: {
       section_0: [
@@ -98830,7 +98830,7 @@ module.exports = [
     },
   },
   {
-    word "verwünschen",
+    word: "verwünschen",
     translation: "to cast a spell",
     forms: {
       section_0: [
@@ -98860,7 +98860,7 @@ module.exports = [
     },
   },
   {
-    word "verwüsten",
+    word: "verwüsten",
     translation: "to devastate, ravage",
     forms: {
       section_0: [
@@ -98890,7 +98890,7 @@ module.exports = [
     },
   },
   {
-    word "verzagen",
+    word: "verzagen",
     translation: "despond",
     forms: {
       section_0: [
@@ -98920,7 +98920,7 @@ module.exports = [
     },
   },
   {
-    word "verzählen",
+    word: "verzählen",
     translation: "(reflexive) to miscount, (transitive or intransitive, colloquial, regional, Rhineland) to tell something, to talk (most often in a negative context)",
     forms: {
       section_0: [
@@ -98950,7 +98950,7 @@ module.exports = [
     },
   },
   {
-    word "verzaubern",
+    word: "verzaubern",
     translation: "to enchant, to bewitch",
     forms: {
       section_0: [
@@ -98980,7 +98980,7 @@ module.exports = [
     },
   },
   {
-    word "verzehren",
+    word: "verzehren",
     translation: "(transitive) to consume, (reflexive) to languish",
     forms: {
       section_0: [
@@ -99010,7 +99010,7 @@ module.exports = [
     },
   },
   {
-    word "verzeichnen",
+    word: "verzeichnen",
     translation: "To record, list, enter, register",
     forms: {
       section_0: [
@@ -99040,11 +99040,11 @@ module.exports = [
     },
   },
   {
-    word "verzeigen",
+    word: "verzeigen",
     translation: "(Switzerland) to report (to bring a charge against)",
   },
   {
-    word "verzeihen",
+    word: "verzeihen",
     translation: "to forgive; to pardon; to excuse",
     forms: {
       section_0: [
@@ -99074,7 +99074,7 @@ module.exports = [
     },
   },
   {
-    word "verzetteln",
+    word: "verzetteln",
     translation: "(reflexive) to fritter (to occupy oneself with unimportant things instead of focussing on the important things)",
     forms: {
       section_0: [
@@ -99104,7 +99104,7 @@ module.exports = [
     },
   },
   {
-    word "verzichten",
+    word: "verzichten",
     translation: "to dispense with, do without, to abstain, do without, go without, let somebody have, resign, abdicate, renounce, waive, disclaim",
     forms: {
       section_0: [
@@ -99134,7 +99134,7 @@ module.exports = [
     },
   },
   {
-    word "verzieren",
+    word: "verzieren",
     translation: "to garnish, to adorn",
     forms: {
       section_0: [
@@ -99164,15 +99164,15 @@ module.exports = [
     },
   },
   {
-    word "verzinken",
+    word: "verzinken",
     translation: "to sink away",
   },
   {
-    word "verzinnen",
+    word: "verzinnen",
     translation: "to invent, to make up",
   },
   {
-    word "verzögern",
+    word: "verzögern",
     translation: "(transitive) to delay, (transitive) to protract, (reflexive) to be delayed",
     forms: {
       section_0: [
@@ -99202,7 +99202,7 @@ module.exports = [
     },
   },
   {
-    word "verzweifeln",
+    word: "verzweifeln",
     translation: "to despair",
     forms: {
       section_0: [
@@ -99232,7 +99232,7 @@ module.exports = [
     },
   },
   {
-    word "verzweigen",
+    word: "verzweigen",
     translation: "to branch (to produce branches)",
     forms: {
       section_0: [
@@ -99262,7 +99262,7 @@ module.exports = [
     },
   },
   {
-    word "vibrieren",
+    word: "vibrieren",
     translation: "to vibrate",
     forms: {
       section_0: [
@@ -99292,15 +99292,15 @@ module.exports = [
     },
   },
   {
-    word "virtualisieren",
+    word: "virtualisieren",
     translation: "to virtualize",
   },
   {
-    word "vögeln",
+    word: "vögeln",
     translation: "(dated) to catch birds (compare 'angeln'), (dated) to be itinerant, to flit from place to place",
   },
   {
-    word "vollenden",
+    word: "vollenden",
     translation: "(transitive) to complete",
     forms: {
       section_0: [
@@ -99330,7 +99330,7 @@ module.exports = [
     },
   },
   {
-    word "vollladen",
+    word: "vollladen",
     translation: "To load up",
     forms: {
       section_0: [
@@ -99360,7 +99360,7 @@ module.exports = [
     },
   },
   {
-    word "vollziehen",
+    word: "vollziehen",
     translation: "To fulfil, To administer, To implement, accomplish, To enforce",
     forms: {
       section_0: [
@@ -99390,23 +99390,23 @@ module.exports = [
     },
   },
   {
-    word "vom Fleisch fallen",
+    word: "vom Fleisch fallen",
     translation: "to become skin and bones",
   },
   {
-    word "vomieren",
+    word: "vomieren",
     translation: "to vomit",
   },
   {
-    word "von sich weisen",
+    word: "von sich weisen",
     translation: "(transitive) to reject, spurn (something)",
   },
   {
-    word "vor die Hunde gehen",
+    word: "vor die Hunde gehen",
     translation: "(idiomatic) to go to the dogs",
   },
   {
-    word "vorantreiben",
+    word: "vorantreiben",
     translation: "(transitive) to advance, to promote, to push",
     forms: {
       section_0: [
@@ -99436,7 +99436,7 @@ module.exports = [
     },
   },
   {
-    word "vorausahnen",
+    word: "vorausahnen",
     translation: "to anticipate",
     forms: {
       section_0: [
@@ -99466,7 +99466,7 @@ module.exports = [
     },
   },
   {
-    word "vorauseilen",
+    word: "vorauseilen",
     translation: "(intransitive) to hurry ahead, (transitive) to run ahead of",
     forms: {
       section_0: [
@@ -99496,7 +99496,7 @@ module.exports = [
     },
   },
   {
-    word "vorausgehen",
+    word: "vorausgehen",
     translation: "to precede, to go ahead",
     forms: {
       section_0: [
@@ -99526,7 +99526,7 @@ module.exports = [
     },
   },
   {
-    word "vorauslaufen",
+    word: "vorauslaufen",
     translation: "(intransitive) to run on ahead",
     forms: {
       section_0: [
@@ -99556,7 +99556,7 @@ module.exports = [
     },
   },
   {
-    word "voraussagen",
+    word: "voraussagen",
     translation: "to predict",
     forms: {
       section_0: [
@@ -99586,7 +99586,7 @@ module.exports = [
     },
   },
   {
-    word "voraussehen",
+    word: "voraussehen",
     translation: "to foresee",
     forms: {
       section_0: [
@@ -99616,7 +99616,7 @@ module.exports = [
     },
   },
   {
-    word "voraussetzen",
+    word: "voraussetzen",
     translation: "to presuppose or assume, to require as a precondition",
     forms: {
       section_0: [
@@ -99646,7 +99646,7 @@ module.exports = [
     },
   },
   {
-    word "vorbehalten",
+    word: "vorbehalten",
     translation: "To reserve",
     forms: {
       section_0: [
@@ -99676,7 +99676,7 @@ module.exports = [
     },
   },
   {
-    word "vorbeifahren",
+    word: "vorbeifahren",
     translation: "to drive by",
     forms: {
       section_0: [
@@ -99706,7 +99706,7 @@ module.exports = [
     },
   },
   {
-    word "vorbeikommen",
+    word: "vorbeikommen",
     translation: "to come over",
     forms: {
       section_0: [
@@ -99736,11 +99736,11 @@ module.exports = [
     },
   },
   {
-    word "vorbeischauen",
+    word: "vorbeischauen",
     translation: "to swing by",
   },
   {
-    word "vorbereiten",
+    word: "vorbereiten",
     translation: "(transitive) to prepare, (reflexive) to prepare, to get ready (auf etw (Akk))",
     forms: {
       section_0: [
@@ -99770,7 +99770,7 @@ module.exports = [
     },
   },
   {
-    word "vorbestellen",
+    word: "vorbestellen",
     translation: "to reserve (a book); to preorder",
     forms: {
       section_0: [
@@ -99800,7 +99800,7 @@ module.exports = [
     },
   },
   {
-    word "vorbeugen",
+    word: "vorbeugen",
     translation: "To prevent, To obviate",
     forms: {
       section_0: [
@@ -99830,7 +99830,7 @@ module.exports = [
     },
   },
   {
-    word "vorbringen",
+    word: "vorbringen",
     translation: "(transitive) to say",
     forms: {
       section_0: [
@@ -99860,7 +99860,7 @@ module.exports = [
     },
   },
   {
-    word "vordrängeln",
+    word: "vordrängeln",
     translation: "(reflexive) To push to the front, to line-jump",
     forms: {
       section_0: [
@@ -99890,7 +99890,7 @@ module.exports = [
     },
   },
   {
-    word "vordringen",
+    word: "vordringen",
     translation: "To advance, To penetrate (make inroads)",
     forms: {
       section_0: [
@@ -99920,7 +99920,7 @@ module.exports = [
     },
   },
   {
-    word "vorfahren",
+    word: "vorfahren",
     translation: "to drive up, to drive ahead",
     forms: {
       section_0: [
@@ -99950,11 +99950,11 @@ module.exports = [
     },
   },
   {
-    word "vorfinanzieren",
+    word: "vorfinanzieren",
     translation: "To prefinance, to finance in advance",
   },
   {
-    word "vorführen",
+    word: "vorführen",
     translation: "To show, demonstrate, To perform",
     forms: {
       section_0: [
@@ -99984,7 +99984,7 @@ module.exports = [
     },
   },
   {
-    word "vorgeben",
+    word: "vorgeben",
     translation: "to pretend",
     forms: {
       section_0: [
@@ -100014,7 +100014,7 @@ module.exports = [
     },
   },
   {
-    word "vorgehen",
+    word: "vorgehen",
     translation: "to proceed",
     forms: {
       section_0: [
@@ -100044,7 +100044,7 @@ module.exports = [
     },
   },
   {
-    word "vorhaben",
+    word: "vorhaben",
     translation: "to intend",
     forms: {
       section_0: [
@@ -100074,7 +100074,7 @@ module.exports = [
     },
   },
   {
-    word "vorhalten",
+    word: "vorhalten",
     translation: "(transitive) to hold (something) up to (someone), (transitive) to hold (something) against (someone), (intransitive) to last",
     forms: {
       section_0: [
@@ -100104,11 +100104,11 @@ module.exports = [
     },
   },
   {
-    word "vorheizen",
+    word: "vorheizen",
     translation: "To preheat",
   },
   {
-    word "vorhergehen",
+    word: "vorhergehen",
     translation: "to precede",
     forms: {
       section_0: [
@@ -100138,7 +100138,7 @@ module.exports = [
     },
   },
   {
-    word "vorherrschen",
+    word: "vorherrschen",
     translation: "to predominate",
     forms: {
       section_0: [
@@ -100168,7 +100168,7 @@ module.exports = [
     },
   },
   {
-    word "vorhersagen",
+    word: "vorhersagen",
     translation: "to forecast, to predict",
     forms: {
       section_0: [
@@ -100198,11 +100198,11 @@ module.exports = [
     },
   },
   {
-    word "vorhersehen",
+    word: "vorhersehen",
     translation: "to foresee",
   },
   {
-    word "vorkommen",
+    word: "vorkommen",
     translation: "to occur, happen, to seem, appear, (reflexive) to feel",
     forms: {
       section_0: [
@@ -100232,7 +100232,7 @@ module.exports = [
     },
   },
   {
-    word "vorladen",
+    word: "vorladen",
     translation: "To summons, subpoena",
     forms: {
       section_0: [
@@ -100262,7 +100262,7 @@ module.exports = [
     },
   },
   {
-    word "vorlaufen",
+    word: "vorlaufen",
     translation: "(intransitive) to run on ahead",
     forms: {
       section_0: [
@@ -100292,7 +100292,7 @@ module.exports = [
     },
   },
   {
-    word "vorlegen",
+    word: "vorlegen",
     translation: "to present, to submit",
     forms: {
       section_0: [
@@ -100322,7 +100322,7 @@ module.exports = [
     },
   },
   {
-    word "vorlesen",
+    word: "vorlesen",
     translation: "(ditransitive) to read (aloud)",
     forms: {
       section_0: [
@@ -100352,7 +100352,7 @@ module.exports = [
     },
   },
   {
-    word "vorliegen",
+    word: "vorliegen",
     translation: "to be existent, to be there, to be present",
     forms: {
       section_0: [
@@ -100382,7 +100382,7 @@ module.exports = [
     },
   },
   {
-    word "vormachen",
+    word: "vormachen",
     translation: "(colloquial) to demonstrate (how to do something), (colloquial) to fool, to deceive",
     forms: {
       section_0: [
@@ -100412,7 +100412,7 @@ module.exports = [
     },
   },
   {
-    word "vormerken",
+    word: "vormerken",
     translation: "to reserve",
     forms: {
       section_0: [
@@ -100442,7 +100442,7 @@ module.exports = [
     },
   },
   {
-    word "vornehmen",
+    word: "vornehmen",
     translation: "to undertake",
     forms: {
       section_0: [
@@ -100472,7 +100472,7 @@ module.exports = [
     },
   },
   {
-    word "vorrücken",
+    word: "vorrücken",
     translation: "to advance (to move forwards, to approach)",
     forms: {
       section_0: [
@@ -100502,7 +100502,7 @@ module.exports = [
     },
   },
   {
-    word "vorschlagen",
+    word: "vorschlagen",
     translation: "to propose, to suggest",
     forms: {
       section_0: [
@@ -100532,7 +100532,7 @@ module.exports = [
     },
   },
   {
-    word "vorschreiben",
+    word: "vorschreiben",
     translation: "to dictate, to command",
     forms: {
       section_0: [
@@ -100562,7 +100562,7 @@ module.exports = [
     },
   },
   {
-    word "vorsehen",
+    word: "vorsehen",
     translation: "to look (out) from behind something, to plan, to have in mind, to schedule, to set aside, (reflexive) to be careful, to watch out, (reflexive) to supply oneself",
     forms: {
       section_0: [
@@ -100592,7 +100592,7 @@ module.exports = [
     },
   },
   {
-    word "vorsorgen",
+    word: "vorsorgen",
     translation: "(transitive) to make provision",
     forms: {
       section_0: [
@@ -100622,7 +100622,7 @@ module.exports = [
     },
   },
   {
-    word "vorstellen",
+    word: "vorstellen",
     translation: "(transitive) to move (something) forward, (transitive) to put (the clocks) forward, (transitive) to represent; to mean, (transitive) to introduce (someone), to present, (reflexive) to move forward, (reflexive, vorstellen) to introduce oneself, (reflexive, vorstellen) to imagine (sich is in the dative case)",
     forms: {
       section_0: [
@@ -100652,7 +100652,7 @@ module.exports = [
     },
   },
   {
-    word "vorstoßen",
+    word: "vorstoßen",
     translation: "to advance",
     forms: {
       section_0: [
@@ -100682,7 +100682,7 @@ module.exports = [
     },
   },
   {
-    word "vortäuschen",
+    word: "vortäuschen",
     translation: "to affect (make a false display of), fake, feign",
     forms: {
       section_0: [
@@ -100712,7 +100712,7 @@ module.exports = [
     },
   },
   {
-    word "vortragen",
+    word: "vortragen",
     translation: "to lecture, (by speech) to present, to report, (of poems) to recite, (of songs) to sing",
     forms: {
       section_0: [
@@ -100742,7 +100742,7 @@ module.exports = [
     },
   },
   {
-    word "vorübergehen",
+    word: "vorübergehen",
     translation: "(intransitive) to pass by, to pass over, to pass",
     forms: {
       section_0: [
@@ -100772,11 +100772,11 @@ module.exports = [
     },
   },
   {
-    word "vorverzinnen",
+    word: "vorverzinnen",
     translation: "to tin (coat with solder)",
   },
   {
-    word "vorweisen",
+    word: "vorweisen",
     translation: "To show, To perform",
     forms: {
       section_0: [
@@ -100806,7 +100806,7 @@ module.exports = [
     },
   },
   {
-    word "vorwerfen",
+    word: "vorwerfen",
     translation: "to reproach, to throw to",
     forms: {
       section_0: [
@@ -100836,7 +100836,7 @@ module.exports = [
     },
   },
   {
-    word "vorzeigen",
+    word: "vorzeigen",
     translation: "to show, to demonstrate, to produce",
     forms: {
       section_0: [
@@ -100866,7 +100866,7 @@ module.exports = [
     },
   },
   {
-    word "vorziehen",
+    word: "vorziehen",
     translation: "to prefer, to favor, to advance, hasten (cause a scheduled event to happen earlier)",
     forms: {
       section_0: [
@@ -100896,27 +100896,27 @@ module.exports = [
     },
   },
   {
-    word "vorzubereiten",
+    word: "vorzubereiten",
     translation: "zu-infinitive of vorbereiten",
   },
   {
-    word "vorzunehmen",
+    word: "vorzunehmen",
     translation: "zu-infinitive of vornehmen",
   },
   {
-    word "votieren",
+    word: "votieren",
     translation: "to vote",
   },
   {
-    word "vulkanisieren",
+    word: "vulkanisieren",
     translation: "to vulcanize (to harden rubber with heat)",
   },
   {
-    word "wach liegen",
+    word: "wach liegen",
     translation: "to lie awake (to try but fail to fall asleep)",
   },
   {
-    word "wachen",
+    word: "wachen",
     translation: "to be awake, to watch, to guard",
     forms: {
       section_0: [
@@ -100946,11 +100946,11 @@ module.exports = [
     },
   },
   {
-    word "wachliegen",
+    word: "wachliegen",
     translation: "Alternative spelling of wach liegen",
   },
   {
-    word "wachsen",
+    word: "wachsen",
     translation: "(intransitive) to grow, (intransitive, figuratively) to grow, to increase",
     forms: {
       section_0: [
@@ -100980,7 +100980,7 @@ module.exports = [
     },
   },
   {
-    word "wackeln",
+    word: "wackeln",
     translation: "waggle, wobble",
     forms: {
       section_0: [
@@ -101010,7 +101010,7 @@ module.exports = [
     },
   },
   {
-    word "wagen",
+    word: "wagen",
     translation: "(intransitive) to venture, take risks, (transitive) to dare, presume, (transitive) to risk, to jeopardize",
     forms: {
       section_0: [
@@ -101040,11 +101040,11 @@ module.exports = [
     },
   },
   {
-    word "wägen",
+    word: "wägen",
     translation: "to weigh something",
   },
   {
-    word "wählen",
+    word: "wählen",
     translation: "to choose, to dial (a telephone number), to vote",
     forms: {
       section_0: [
@@ -101074,7 +101074,7 @@ module.exports = [
     },
   },
   {
-    word "wähnen",
+    word: "wähnen",
     translation: "(transitive) to suppose, expect, believe, imagine, ween",
     forms: {
       section_0: [
@@ -101104,11 +101104,11 @@ module.exports = [
     },
   },
   {
-    word "wahren",
+    word: "wahren",
     translation: "to protect, to safeguard, to maintain, to preserve",
   },
   {
-    word "währen",
+    word: "währen",
     translation: "To last, persist",
     forms: {
       section_0: [
@@ -101138,7 +101138,7 @@ module.exports = [
     },
   },
   {
-    word "wahrnehmen",
+    word: "wahrnehmen",
     translation: "to sense, to perceive, to apprehend, to notice, (an opportunity, chance, etc) to use, (a right) to assume",
     forms: {
       section_0: [
@@ -101168,7 +101168,7 @@ module.exports = [
     },
   },
   {
-    word "walken",
+    word: "walken",
     translation: "to tan (in leather-making), to knead, (slang) to beat",
     forms: {
       section_0: [
@@ -101198,7 +101198,7 @@ module.exports = [
     },
   },
   {
-    word "wallen",
+    word: "wallen",
     translation: "(of liquids) to move violently",
     forms: {
       section_0: [
@@ -101228,19 +101228,19 @@ module.exports = [
     },
   },
   {
-    word "wallfahren",
+    word: "wallfahren",
     translation: "to go on a pilgrimage",
   },
   {
-    word "wallfahrten",
+    word: "wallfahrten",
     translation: "to go on a pilgrimage",
   },
   {
-    word "walzen",
+    word: "walzen",
     translation: "to roll, to waltz, dance the waltz",
   },
   {
-    word "wälzen",
+    word: "wälzen",
     translation: "to roll, (reflexive) to wriggle, writhe, toss and turn",
     forms: {
       section_0: [
@@ -101270,7 +101270,7 @@ module.exports = [
     },
   },
   {
-    word "wandeln",
+    word: "wandeln",
     translation: "to wander, to stroll, (transitive) to transform, change, (reflexive) to change, transform",
     forms: {
       section_0: [
@@ -101300,7 +101300,7 @@ module.exports = [
     },
   },
   {
-    word "wandern",
+    word: "wandern",
     translation: "to hike, to wander",
     forms: {
       section_0: [
@@ -101330,11 +101330,11 @@ module.exports = [
     },
   },
   {
-    word "wanken",
+    word: "wanken",
     translation: "to falter, stagger",
   },
   {
-    word "wappnen",
+    word: "wappnen",
     translation: "(reflexive) To prepare oneself, to arm oneself (for something), (dated) to arm",
     forms: {
       section_0: [
@@ -101364,11 +101364,11 @@ module.exports = [
     },
   },
   {
-    word "warm essen",
+    word: "warm essen",
     translation: "(idiomatic, colloqial) to eat a warm meal",
   },
   {
-    word "wärmen",
+    word: "wärmen",
     translation: "(transitive) To warm",
     forms: {
       section_0: [
@@ -101398,7 +101398,7 @@ module.exports = [
     },
   },
   {
-    word "warnen",
+    word: "warnen",
     translation: "to warn",
     forms: {
       section_0: [
@@ -101428,7 +101428,7 @@ module.exports = [
     },
   },
   {
-    word "warten",
+    word: "warten",
     translation: "to wait, to maintain (eg a car)",
     forms: {
       section_0: [
@@ -101458,7 +101458,7 @@ module.exports = [
     },
   },
   {
-    word "waschen",
+    word: "waschen",
     translation: "to wash",
     forms: {
       section_0: [
@@ -101488,19 +101488,19 @@ module.exports = [
     },
   },
   {
-    word "Wasser predigen und Wein trinken",
+    word: "Wasser predigen und Wein trinken",
     translation: "(idiomatic) to not practice what one preaches",
   },
   {
-    word "wassern",
+    word: "wassern",
     translation: "(intransitive, auxiliary verb: sein, aviation) To land on water",
   },
   {
-    word "wässern",
+    word: "wässern",
     translation: "(add water or fill with water) to water",
   },
   {
-    word "waten",
+    word: "waten",
     translation: "to wade",
     forms: {
       section_0: [
@@ -101530,7 +101530,7 @@ module.exports = [
     },
   },
   {
-    word "watscheln",
+    word: "watscheln",
     translation: "to waddle",
     forms: {
       section_0: [
@@ -101560,7 +101560,7 @@ module.exports = [
     },
   },
   {
-    word "weben",
+    word: "weben",
     translation: "to weave",
     forms: {
       section_0: [
@@ -101590,7 +101590,7 @@ module.exports = [
     },
   },
   {
-    word "wechseln",
+    word: "wechseln",
     translation: "change, exchange",
     forms: {
       section_0: [
@@ -101620,11 +101620,11 @@ module.exports = [
     },
   },
   {
-    word "wechselwirken",
+    word: "wechselwirken",
     translation: "To interact",
   },
   {
-    word "wecken",
+    word: "wecken",
     translation: "(transitive) to wake, to wake up",
     forms: {
       section_0: [
@@ -101654,11 +101654,11 @@ module.exports = [
     },
   },
   {
-    word "wedeln",
+    word: "wedeln",
     translation: "to waggle, to wag",
   },
   {
-    word "wegbleiben",
+    word: "wegbleiben",
     translation: "stay away",
     forms: {
       section_0: [
@@ -101688,7 +101688,7 @@ module.exports = [
     },
   },
   {
-    word "wegbringen",
+    word: "wegbringen",
     translation: "(transitive) to move away, to take away, (transitive) to get rid of, (transitive) to see off",
     forms: {
       section_0: [
@@ -101718,7 +101718,7 @@ module.exports = [
     },
   },
   {
-    word "wegdrängen",
+    word: "wegdrängen",
     translation: "(transitive) To edge away, to edge off",
     forms: {
       section_0: [
@@ -101748,7 +101748,7 @@ module.exports = [
     },
   },
   {
-    word "wegfahren",
+    word: "wegfahren",
     translation: "to drive away, to drive off",
     forms: {
       section_0: [
@@ -101778,7 +101778,7 @@ module.exports = [
     },
   },
   {
-    word "wegfliegen",
+    word: "wegfliegen",
     translation: "(intransitive) To fly away, (transitive) To drive something away through the air",
     forms: {
       section_0: [
@@ -101808,7 +101808,7 @@ module.exports = [
     },
   },
   {
-    word "weggehen",
+    word: "weggehen",
     translation: "to go away, leave, scram",
     forms: {
       section_0: [
@@ -101838,7 +101838,7 @@ module.exports = [
     },
   },
   {
-    word "wegjagen",
+    word: "wegjagen",
     translation: "to chase away, to chase off, to drive away",
     forms: {
       section_0: [
@@ -101868,7 +101868,7 @@ module.exports = [
     },
   },
   {
-    word "wegkommen",
+    word: "wegkommen",
     translation: "to get away, to come out/off (eg well/poorly)",
     forms: {
       section_0: [
@@ -101898,7 +101898,7 @@ module.exports = [
     },
   },
   {
-    word "weglassen",
+    word: "weglassen",
     translation: "to omit",
     forms: {
       section_0: [
@@ -101928,7 +101928,7 @@ module.exports = [
     },
   },
   {
-    word "weglaufen",
+    word: "weglaufen",
     translation: "to run away",
     forms: {
       section_0: [
@@ -101958,7 +101958,7 @@ module.exports = [
     },
   },
   {
-    word "weglegen",
+    word: "weglegen",
     translation: "to put away, to lay aside",
     forms: {
       section_0: [
@@ -101988,7 +101988,7 @@ module.exports = [
     },
   },
   {
-    word "wegnehmen",
+    word: "wegnehmen",
     translation: "to take away",
     forms: {
       section_0: [
@@ -102018,7 +102018,7 @@ module.exports = [
     },
   },
   {
-    word "wegräumen",
+    word: "wegräumen",
     translation: "to put away",
     forms: {
       section_0: [
@@ -102048,7 +102048,7 @@ module.exports = [
     },
   },
   {
-    word "wegschieben",
+    word: "wegschieben",
     translation: "to push away",
     forms: {
       section_0: [
@@ -102078,7 +102078,7 @@ module.exports = [
     },
   },
   {
-    word "wegschießen",
+    word: "wegschießen",
     translation: "to shoot off",
     forms: {
       section_0: [
@@ -102108,15 +102108,15 @@ module.exports = [
     },
   },
   {
-    word "wegtolerieren",
+    word: "wegtolerieren",
     translation: "(informal) to disregard, overlook (in a manner of tolerance as far as ignorance)",
   },
   {
-    word "wegwerfen",
+    word: "wegwerfen",
     translation: "to throw away",
   },
   {
-    word "wegziehen",
+    word: "wegziehen",
     translation: "(transitive) to pull away from (someone), (intransitive) to move, move away, (intransitive) to migrate (of birds)",
     forms: {
       section_0: [
@@ -102146,7 +102146,7 @@ module.exports = [
     },
   },
   {
-    word "wehen",
+    word: "wehen",
     translation: "to blow (wind)",
     forms: {
       section_0: [
@@ -102176,7 +102176,7 @@ module.exports = [
     },
   },
   {
-    word "wehren",
+    word: "wehren",
     translation: "to defend",
     forms: {
       section_0: [
@@ -102206,7 +102206,7 @@ module.exports = [
     },
   },
   {
-    word "wehtun",
+    word: "wehtun",
     translation: "to hurt",
     forms: {
       section_0: [
@@ -102236,7 +102236,7 @@ module.exports = [
     },
   },
   {
-    word "weichen",
+    word: "weichen",
     translation: "to yield",
     forms: {
       section_0: [
@@ -102266,7 +102266,7 @@ module.exports = [
     },
   },
   {
-    word "weiden",
+    word: "weiden",
     translation: "(ergative) to (let/make) graze",
     forms: {
       section_0: [
@@ -102296,7 +102296,7 @@ module.exports = [
     },
   },
   {
-    word "weigern",
+    word: "weigern",
     translation: "(reflexive) to refuse",
     forms: {
       section_0: [
@@ -102326,7 +102326,7 @@ module.exports = [
     },
   },
   {
-    word "weihen",
+    word: "weihen",
     translation: "(chiefly religion) to consecrate, (Christianity, in particular) to ordinate (a priest)",
     forms: {
       section_0: [
@@ -102356,7 +102356,7 @@ module.exports = [
     },
   },
   {
-    word "weihnachten",
+    word: "weihnachten",
     translation: "(impersonal) To be nearly Christmas; to have a Christmassy atmosphere",
     forms: {
       section_0: [
@@ -102386,7 +102386,7 @@ module.exports = [
     },
   },
   {
-    word "weinen",
+    word: "weinen",
     translation: "to weep, cry",
     forms: {
       section_0: [
@@ -102416,7 +102416,7 @@ module.exports = [
     },
   },
   {
-    word "weisen",
+    word: "weisen",
     translation: "(intransitive, rare) to point, (transitive) to indicate; to show",
     forms: {
       section_0: [
@@ -102446,7 +102446,7 @@ module.exports = [
     },
   },
   {
-    word "weismachen",
+    word: "weismachen",
     translation: "(with dative) make believe",
     forms: {
       section_0: [
@@ -102476,7 +102476,7 @@ module.exports = [
     },
   },
   {
-    word "weissagen",
+    word: "weissagen",
     translation: "to predict, prophesy",
     forms: {
       section_0: [
@@ -102506,7 +102506,7 @@ module.exports = [
     },
   },
   {
-    word "weißen",
+    word: "weißen",
     translation: "to whiten",
     forms: {
       section_0: [
@@ -102536,11 +102536,11 @@ module.exports = [
     },
   },
   {
-    word "weißsagen",
+    word: "weißsagen",
     translation: "Obsolete spelling of weissagen",
   },
   {
-    word "weiten",
+    word: "weiten",
     translation: "(reflexive, to become wider) to widen",
     forms: {
       section_0: [
@@ -102570,7 +102570,7 @@ module.exports = [
     },
   },
   {
-    word "weitergeben",
+    word: "weitergeben",
     translation: "to impart (to communicate the knowledge of), to pass on",
     forms: {
       section_0: [
@@ -102600,7 +102600,7 @@ module.exports = [
     },
   },
   {
-    word "weitergehen",
+    word: "weitergehen",
     translation: "to proceed, progress, continue, to keep moving",
     forms: {
       section_0: [
@@ -102630,7 +102630,7 @@ module.exports = [
     },
   },
   {
-    word "weiterhelfen",
+    word: "weiterhelfen",
     translation: "To help along",
     forms: {
       section_0: [
@@ -102660,23 +102660,23 @@ module.exports = [
     },
   },
   {
-    word "weiterleben",
+    word: "weiterleben",
     translation: "to live on, to continue to live, to survive",
   },
   {
-    word "weiterleiten",
+    word: "weiterleiten",
     translation: "to forward",
   },
   {
-    word "weitermachen",
+    word: "weitermachen",
     translation: "go on, keep going, continue to do something",
   },
   {
-    word "weitersagen",
+    word: "weitersagen",
     translation: "to share, to pass it on",
   },
   {
-    word "welken",
+    word: "welken",
     translation: "to wither",
     forms: {
       section_0: [
@@ -102706,7 +102706,7 @@ module.exports = [
     },
   },
   {
-    word "wellen",
+    word: "wellen",
     translation: "to soak, to soften by putting into water",
     forms: {
       section_0: [
@@ -102736,11 +102736,11 @@ module.exports = [
     },
   },
   {
-    word "wellenreiten",
+    word: "wellenreiten",
     translation: "(sports) to surf",
   },
   {
-    word "wenden",
+    word: "wenden",
     translation: "(transitive) to direct oneself, turn, (intransitive, nautical) to come about",
     forms: {
       section_0: [
@@ -102770,7 +102770,7 @@ module.exports = [
     },
   },
   {
-    word "werben",
+    word: "werben",
     translation: "(transitive) to recruit; to enlist, (intransitive, with für) to advertise",
     forms: {
       section_0: [
@@ -102800,7 +102800,7 @@ module.exports = [
     },
   },
   {
-    word "werden",
+    word: "werden",
     translation: "plural past indicative and subjunctive of worden",
     forms: {
       section_0: [
@@ -102830,7 +102830,7 @@ module.exports = [
     },
   },
   {
-    word "werfen",
+    word: "werfen",
     translation: "(transitive, intransitive or reflexive) To throw, (transitive, computing, exception handling) To throw, (transitive) To cast, to give birth (of some animals)",
     forms: {
       section_0: [
@@ -102860,7 +102860,7 @@ module.exports = [
     },
   },
   {
-    word "werken",
+    word: "werken",
     translation: "(intransitive) to work, labour, (intransitive) to work, to be effective, (intransitive) to function, be in working order, (transitive, amateur radio) to contact",
     forms: {
       section_0: [
@@ -102890,7 +102890,7 @@ module.exports = [
     },
   },
   {
-    word "werten",
+    word: "werten",
     translation: "(transitive) to rate, (transitive, sports) to rate, (transitive, education) to grade",
     forms: {
       section_0: [
@@ -102920,11 +102920,11 @@ module.exports = [
     },
   },
   {
-    word "werweissen",
+    word: "werweissen",
     translation: "(Switzerland, Liechtenstein) to speculate, to guess, to take a shot in the dark; to be (still) undecided, hesitating, unsure; to ask oneself (what to do)",
   },
   {
-    word "wetteifern",
+    word: "wetteifern",
     translation: "to vie",
     forms: {
       section_0: [
@@ -102954,7 +102954,7 @@ module.exports = [
     },
   },
   {
-    word "wetten",
+    word: "wetten",
     translation: "(nonstandard, transitive) To make wet; to wet",
     forms: {
       section_0: [
@@ -102984,7 +102984,7 @@ module.exports = [
     },
   },
   {
-    word "wettmachen",
+    word: "wettmachen",
     translation: "to make up for, to make good",
     forms: {
       section_0: [
@@ -103014,7 +103014,7 @@ module.exports = [
     },
   },
   {
-    word "wetzen",
+    word: "wetzen",
     translation: "to whet, to sharpen",
     forms: {
       section_0: [
@@ -103044,7 +103044,7 @@ module.exports = [
     },
   },
   {
-    word "wichsen",
+    word: "wichsen",
     translation: "(transitive, dated) to wax (an object in order to polish it), (intransitive, vulgar) to masturbate; to wank; to toss off; to manually stimulate the sexual organs",
     forms: {
       section_0: [
@@ -103074,7 +103074,7 @@ module.exports = [
     },
   },
   {
-    word "wickeln",
+    word: "wickeln",
     translation: "to wrap",
     forms: {
       section_0: [
@@ -103104,7 +103104,7 @@ module.exports = [
     },
   },
   {
-    word "widerlegen",
+    word: "widerlegen",
     translation: "to disprove, to refute",
     forms: {
       section_0: [
@@ -103134,7 +103134,7 @@ module.exports = [
     },
   },
   {
-    word "widerrufen",
+    word: "widerrufen",
     translation: "(transitive) To revoke, rescind, cancel",
     forms: {
       section_0: [
@@ -103164,7 +103164,7 @@ module.exports = [
     },
   },
   {
-    word "widerspiegeln",
+    word: "widerspiegeln",
     translation: "To reflect, To mirror",
     forms: {
       section_0: [
@@ -103194,7 +103194,7 @@ module.exports = [
     },
   },
   {
-    word "widersprechen",
+    word: "widersprechen",
     translation: "to object, to contradict, (reflexive) to be contradictory",
     forms: {
       section_0: [
@@ -103224,7 +103224,7 @@ module.exports = [
     },
   },
   {
-    word "widerstehen",
+    word: "widerstehen",
     translation: "to withstand, to resist",
     forms: {
       section_0: [
@@ -103254,7 +103254,7 @@ module.exports = [
     },
   },
   {
-    word "widmen",
+    word: "widmen",
     translation: "(transitive) to dedicate, (reflexive, +dative) to attend to",
     forms: {
       section_0: [
@@ -103284,19 +103284,19 @@ module.exports = [
     },
   },
   {
-    word "wie aus Eimern schütten",
+    word: "wie aus Eimern schütten",
     translation: "(idiomatic) to rain cats and dogs",
   },
   {
-    word "wie ein Grab schweigen",
+    word: "wie ein Grab schweigen",
     translation: "(idiomatic) to be as silent as the grave, to say absolutely nothing (about a particular subject)",
   },
   {
-    word "wiederauferstehen",
+    word: "wiederauferstehen",
     translation: "to be resurrected; to rise from the dead",
   },
   {
-    word "wiederbeleben",
+    word: "wiederbeleben",
     translation: "to revive, to resuscitate",
     forms: {
       section_0: [
@@ -103326,11 +103326,11 @@ module.exports = [
     },
   },
   {
-    word "wiederentdecken",
+    word: "wiederentdecken",
     translation: "to rediscover",
   },
   {
-    word "wiedergeben",
+    word: "wiedergeben",
     translation: "To echo, To render, portray, reproduce",
     forms: {
       section_0: [
@@ -103360,19 +103360,19 @@ module.exports = [
     },
   },
   {
-    word "wiedergewinnen",
+    word: "wiedergewinnen",
     translation: "to regain, salvage, to retrieve, reclaim, recover",
   },
   {
-    word "wiedergutmachen",
+    word: "wiedergutmachen",
     translation: "to repair, to recompense",
   },
   {
-    word "wiederherstellen",
+    word: "wiederherstellen",
     translation: "to restore, to recreate",
   },
   {
-    word "wiederholen",
+    word: "wiederholen",
     translation: "to repeat",
     forms: {
       section_0: [
@@ -103402,7 +103402,7 @@ module.exports = [
     },
   },
   {
-    word "wiederkäuen",
+    word: "wiederkäuen",
     translation: "to ruminate",
     forms: {
       section_0: [
@@ -103432,7 +103432,7 @@ module.exports = [
     },
   },
   {
-    word "wiederkommen",
+    word: "wiederkommen",
     translation: "to return, to come back, to come again",
     forms: {
       section_0: [
@@ -103462,7 +103462,7 @@ module.exports = [
     },
   },
   {
-    word "wiedersehen",
+    word: "wiedersehen",
     translation: "(transitive or reflexive) to see again, to meet again",
     forms: {
       section_0: [
@@ -103492,15 +103492,15 @@ module.exports = [
     },
   },
   {
-    word "wiederwählen",
+    word: "wiederwählen",
     translation: "to reelect",
   },
   {
-    word "wiederzugewinnen",
+    word: "wiederzugewinnen",
     translation: "zu-infinitive of wiedergewinnen",
   },
   {
-    word "wiegen",
+    word: "wiegen",
     translation: "to rock, to sway",
     forms: {
       section_0: [
@@ -103530,7 +103530,7 @@ module.exports = [
     },
   },
   {
-    word "wiehern",
+    word: "wiehern",
     translation: "to neigh, to whinny, to nicker (sound of a horse)",
     forms: {
       section_0: [
@@ -103560,15 +103560,15 @@ module.exports = [
     },
   },
   {
-    word "wildern",
+    word: "wildern",
     translation: "(to take game or fish illegally) to poach",
   },
   {
-    word "willkommen heißen",
+    word: "willkommen heißen",
     translation: "to (bid) welcome",
   },
   {
-    word "wimmeln",
+    word: "wimmeln",
     translation: "to teem",
     forms: {
       section_0: [
@@ -103598,11 +103598,11 @@ module.exports = [
     },
   },
   {
-    word "wimmen",
+    word: "wimmen",
     translation: "(Switzerland, viticulture) to hold/keep a vintage (grape harvest) (clarification of this German definition is being sought)",
   },
   {
-    word "winden",
+    word: "winden",
     translation: "to wind (turn coils of something around)",
     forms: {
       section_0: [
@@ -103632,7 +103632,7 @@ module.exports = [
     },
   },
   {
-    word "winken",
+    word: "winken",
     translation: "to wave, to beckon",
     forms: {
       section_0: [
@@ -103662,7 +103662,7 @@ module.exports = [
     },
   },
   {
-    word "winseln",
+    word: "winseln",
     translation: "to whine, to whimper",
     forms: {
       section_0: [
@@ -103692,7 +103692,7 @@ module.exports = [
     },
   },
   {
-    word "wirbeln",
+    word: "wirbeln",
     translation: "to swirl, whirl",
     forms: {
       section_0: [
@@ -103722,7 +103722,7 @@ module.exports = [
     },
   },
   {
-    word "wirken",
+    word: "wirken",
     translation: "to work (to function correctly), to be effective, to take effect, to act, behave as",
     forms: {
       section_0: [
@@ -103752,11 +103752,11 @@ module.exports = [
     },
   },
   {
-    word "wirren",
+    word: "wirren",
     translation: "to whirl around (move chaotically)",
   },
   {
-    word "wischen",
+    word: "wischen",
     translation: "to wipe, (Switzerland) to sweep",
     forms: {
       section_0: [
@@ -103786,7 +103786,7 @@ module.exports = [
     },
   },
   {
-    word "wispern",
+    word: "wispern",
     translation: "to whisper; to make a whispering sound (most often in a mysterious or eerie way)",
     forms: {
       section_0: [
@@ -103816,7 +103816,7 @@ module.exports = [
     },
   },
   {
-    word "wissen",
+    word: "wissen",
     translation: "to erase",
     forms: {
       section_0: [
@@ -103846,7 +103846,7 @@ module.exports = [
     },
   },
   {
-    word "wittern",
+    word: "wittern",
     translation: "(transitive) to scent (to detect the scent of), (transitive, hunting) to smell something far with a good olfaction",
     forms: {
       section_0: [
@@ -103876,7 +103876,7 @@ module.exports = [
     },
   },
   {
-    word "witzeln",
+    word: "witzeln",
     translation: "to make jokes, to make silly jokes, to joke",
     forms: {
       section_0: [
@@ -103906,11 +103906,11 @@ module.exports = [
     },
   },
   {
-    word "wohlfühlen",
+    word: "wohlfühlen",
     translation: "(reflexive) to feel comfortable",
   },
   {
-    word "wohnen",
+    word: "wohnen",
     translation: "to live at, reside, dwell",
     forms: {
       section_0: [
@@ -103940,7 +103940,7 @@ module.exports = [
     },
   },
   {
-    word "wölben",
+    word: "wölben",
     translation: "(transitive) to curve, bend, (reflexive) to curve; to bulge out, to arch",
     forms: {
       section_0: [
@@ -103970,7 +103970,7 @@ module.exports = [
     },
   },
   {
-    word "wollen",
+    word: "wollen",
     translation: "(transitive or intransitive, past participle: “gewollt”) To want; to wish; to desire; to demand, (auxiliary, past participle: “wollen”) To want (to do something)",
     forms: {
       section_0: [
@@ -104000,11 +104000,11 @@ module.exports = [
     },
   },
   {
-    word "worfeln",
+    word: "worfeln",
     translation: "to winnow (to separate the heavier and lighter with a current of air)",
   },
   {
-    word "wringen",
+    word: "wringen",
     translation: "to wring, to twist, to wrest, to wriggle, to squirm, to writhe",
     forms: {
       section_0: [
@@ -104034,7 +104034,7 @@ module.exports = [
     },
   },
   {
-    word "wuchern",
+    word: "wuchern",
     translation: "(intransitive) to practise usury, (intransitive, + mit) to make profitable use of; usually in a non-financial sense, (intransitive, of plants) to overgrow, (intransitive, of cancer) to develop metastases",
     forms: {
       section_0: [
@@ -104064,7 +104064,7 @@ module.exports = [
     },
   },
   {
-    word "wühlen",
+    word: "wühlen",
     translation: "to rummage, grub",
     forms: {
       section_0: [
@@ -104094,7 +104094,7 @@ module.exports = [
     },
   },
   {
-    word "wundern",
+    word: "wundern",
     translation: "(reflexive) to wonder",
     forms: {
       section_0: [
@@ -104124,7 +104124,7 @@ module.exports = [
     },
   },
   {
-    word "wünschen",
+    word: "wünschen",
     translation: "to wish",
     forms: {
       section_0: [
@@ -104154,7 +104154,7 @@ module.exports = [
     },
   },
   {
-    word "würdigen",
+    word: "würdigen",
     translation: "to appreciate",
     forms: {
       section_0: [
@@ -104184,7 +104184,7 @@ module.exports = [
     },
   },
   {
-    word "würfeln",
+    word: "würfeln",
     translation: "to dice, to play dice",
     forms: {
       section_0: [
@@ -104214,7 +104214,7 @@ module.exports = [
     },
   },
   {
-    word "würgen",
+    word: "würgen",
     translation: "to strangle, to gag, to retch",
     forms: {
       section_0: [
@@ -104244,15 +104244,15 @@ module.exports = [
     },
   },
   {
-    word "wurschteln",
+    word: "wurschteln",
     translation: "(regional, central Germany) Alternative form of wursteln",
   },
   {
-    word "wursteln",
+    word: "wursteln",
     translation: "to meddle; to tamper, to potter; to be busy with minor works and tasks (eg about the house), to struggle with everyday problems; to eke out a living",
   },
   {
-    word "wurzeln",
+    word: "wurzeln",
     translation: "to be rooted",
     forms: {
       section_0: [
@@ -104282,7 +104282,7 @@ module.exports = [
     },
   },
   {
-    word "würzen",
+    word: "würzen",
     translation: "to season",
     forms: {
       section_0: [
@@ -104312,11 +104312,11 @@ module.exports = [
     },
   },
   {
-    word "wuscheln",
+    word: "wuscheln",
     translation: "to tousle (eg hair)",
   },
   {
-    word "wüten",
+    word: "wüten",
     translation: "to rage",
     forms: {
       section_0: [
@@ -104346,19 +104346,19 @@ module.exports = [
     },
   },
   {
-    word "yahen",
+    word: "yahen",
     translation: "Dated form of iahen",
   },
   {
-    word "zacken",
+    word: "zacken",
     translation: "to provide with a jagged edge, to shape or trim that way",
   },
   {
-    word "zagen",
+    word: "zagen",
     translation: "to saw, (Brabantian) to nag, to speak in an annoying tone, to repeat oneself",
   },
   {
-    word "zahlen",
+    word: "zahlen",
     translation: "to pay (for something), to pay for, to atone for",
     forms: {
       section_0: [
@@ -104388,7 +104388,7 @@ module.exports = [
     },
   },
   {
-    word "zählen",
+    word: "zählen",
     translation: "to count (to determine the number of objects in a group), to count (to enumerate the digits of on(e)'(s) numeral system), to count (to be of significance; to matter), to count, to be reckoned (to be an example of something)",
     forms: {
       section_0: [
@@ -104418,7 +104418,7 @@ module.exports = [
     },
   },
   {
-    word "zähmen",
+    word: "zähmen",
     translation: "(transitive) to tame",
     forms: {
       section_0: [
@@ -104448,11 +104448,11 @@ module.exports = [
     },
   },
   {
-    word "zänggeln",
+    word: "zänggeln",
     translation: "(rare, Switzerland) to taunt, provoke",
   },
   {
-    word "zanken",
+    word: "zanken",
     translation: "(transitive) To dispute, (transitive, regional) To scold",
     forms: {
       section_0: [
@@ -104482,11 +104482,11 @@ module.exports = [
     },
   },
   {
-    word "zapfen",
+    word: "zapfen",
     translation: "(to draw off liquid from a vessel) to tap",
   },
   {
-    word "zappeln",
+    word: "zappeln",
     translation: "to wriggle",
     forms: {
       section_0: [
@@ -104516,7 +104516,7 @@ module.exports = [
     },
   },
   {
-    word "zappen",
+    word: "zappen",
     translation: "(intransitive) To zap, change TV channels repeatedly and/or by remote control",
     forms: {
       section_0: [
@@ -104546,7 +104546,7 @@ module.exports = [
     },
   },
   {
-    word "zaubern",
+    word: "zaubern",
     translation: "to conjure, to perform magic",
     forms: {
       section_0: [
@@ -104576,7 +104576,7 @@ module.exports = [
     },
   },
   {
-    word "zechen",
+    word: "zechen",
     translation: "(dated, slang) To drink alcohol to excess; to booze",
     forms: {
       section_0: [
@@ -104606,7 +104606,7 @@ module.exports = [
     },
   },
   {
-    word "zehren",
+    word: "zehren",
     translation: "to live on, to feed on (+ von), to undermine, to wear out (+ an)",
     forms: {
       section_0: [
@@ -104636,7 +104636,7 @@ module.exports = [
     },
   },
   {
-    word "zeichnen",
+    word: "zeichnen",
     translation: "to draw",
     forms: {
       section_0: [
@@ -104666,7 +104666,7 @@ module.exports = [
     },
   },
   {
-    word "zeigen",
+    word: "zeigen",
     translation: "to point at, to demonstrate, to show, (reflexive) to appear, to become apparent, to come out, to turn out, to show up, to be manifested",
     forms: {
       section_0: [
@@ -104696,7 +104696,7 @@ module.exports = [
     },
   },
   {
-    word "zeihen",
+    word: "zeihen",
     translation: "(transitive, elevated, becoming dated) to accuse, to blame",
     forms: {
       section_0: [
@@ -104726,11 +104726,11 @@ module.exports = [
     },
   },
   {
-    word "zelebrieren",
+    word: "zelebrieren",
     translation: "to celebrate (extol or honour in a solemn manner), (religion) to celebrate (hold a ceremony)",
   },
   {
-    word "zelten",
+    word: "zelten",
     translation: "to camp (live in a tent)",
     forms: {
       section_0: [
@@ -104760,7 +104760,7 @@ module.exports = [
     },
   },
   {
-    word "zementieren",
+    word: "zementieren",
     translation: "to cement (to affix with cement; to make permanent)",
     forms: {
       section_0: [
@@ -104790,7 +104790,7 @@ module.exports = [
     },
   },
   {
-    word "zensieren",
+    word: "zensieren",
     translation: "to censor, (school) to mark, to grade",
     forms: {
       section_0: [
@@ -104820,19 +104820,19 @@ module.exports = [
     },
   },
   {
-    word "zensurieren",
+    word: "zensurieren",
     translation: "(Austria) to censor",
   },
   {
-    word "zentrieren",
+    word: "zentrieren",
     translation: "to center",
   },
   {
-    word "zentrifugieren",
+    word: "zentrifugieren",
     translation: "To centrifuge",
   },
   {
-    word "zerbrechen",
+    word: "zerbrechen",
     translation: "to break; break down, destroy, to shatter; smash, to fracture, snap",
     forms: {
       section_0: [
@@ -104862,15 +104862,15 @@ module.exports = [
     },
   },
   {
-    word "zerbröseln",
+    word: "zerbröseln",
     translation: "(transitive, auxiliary: “haben”) to crumble, to render into crumbs, (intransitive, auxiliary: “sein”) to crumble, to fall apart, to disintegrate",
   },
   {
-    word "zerdeppern",
+    word: "zerdeppern",
     translation: "(colloquial) to smash; to break (dishes, etc)",
   },
   {
-    word "zerfallen",
+    word: "zerfallen",
     translation: "to disintegrate, (physics) to decay",
     forms: {
       section_0: [
@@ -104900,7 +104900,7 @@ module.exports = [
     },
   },
   {
-    word "zerfasern",
+    word: "zerfasern",
     translation: "(transitive) to fray out, to unravel, (figuratively) to unravel",
     forms: {
       section_0: [
@@ -104930,7 +104930,7 @@ module.exports = [
     },
   },
   {
-    word "zerfetzen",
+    word: "zerfetzen",
     translation: "to tear apart, lacerate, shred",
     forms: {
       section_0: [
@@ -104960,7 +104960,7 @@ module.exports = [
     },
   },
   {
-    word "zerfließen",
+    word: "zerfließen",
     translation: "to melt",
     forms: {
       section_0: [
@@ -104990,7 +104990,7 @@ module.exports = [
     },
   },
   {
-    word "zerkleinern",
+    word: "zerkleinern",
     translation: "to chop, grind, mince, to crush",
     forms: {
       section_0: [
@@ -105020,7 +105020,7 @@ module.exports = [
     },
   },
   {
-    word "zerknittern",
+    word: "zerknittern",
     translation: "to crinkle, to rumple",
     forms: {
       section_0: [
@@ -105050,7 +105050,7 @@ module.exports = [
     },
   },
   {
-    word "zerkratzen",
+    word: "zerkratzen",
     translation: "to scratch",
     forms: {
       section_0: [
@@ -105080,11 +105080,11 @@ module.exports = [
     },
   },
   {
-    word "zerkreuzen",
+    word: "zerkreuzen",
     translation: "(transitive, obsolete, proscribed, offensive, nonstandard) To contaminate a people; to ruin through interbreeding",
   },
   {
-    word "zerlaufen",
+    word: "zerlaufen",
     translation: "to lose form due to melting, to ruin shoes by using them",
     forms: {
       section_0: [
@@ -105114,7 +105114,7 @@ module.exports = [
     },
   },
   {
-    word "zerlegen",
+    word: "zerlegen",
     translation: "to dismantle, disassemble, to decompose, to dismember, dissect, to analyze/analyse",
     forms: {
       section_0: [
@@ -105144,7 +105144,7 @@ module.exports = [
     },
   },
   {
-    word "zerlesen",
+    word: "zerlesen",
     translation: "(transitive) to wear out a book",
     forms: {
       section_0: [
@@ -105174,7 +105174,7 @@ module.exports = [
     },
   },
   {
-    word "zermahlen",
+    word: "zermahlen",
     translation: "To grind",
     forms: {
       section_0: [
@@ -105204,11 +105204,11 @@ module.exports = [
     },
   },
   {
-    word "zermatschen",
+    word: "zermatschen",
     translation: "to squash, squish",
   },
   {
-    word "zerplatzen",
+    word: "zerplatzen",
     translation: "to burst",
     forms: {
       section_0: [
@@ -105238,7 +105238,7 @@ module.exports = [
     },
   },
   {
-    word "zerquetschen",
+    word: "zerquetschen",
     translation: "to crush",
     forms: {
       section_0: [
@@ -105268,7 +105268,7 @@ module.exports = [
     },
   },
   {
-    word "zerreißen",
+    word: "zerreißen",
     translation: "to rip, rip up",
     forms: {
       section_0: [
@@ -105298,7 +105298,7 @@ module.exports = [
     },
   },
   {
-    word "zerren",
+    word: "zerren",
     translation: "to tug, to drag",
     forms: {
       section_0: [
@@ -105328,7 +105328,7 @@ module.exports = [
     },
   },
   {
-    word "zerrütten",
+    word: "zerrütten",
     translation: "to ruin, to disrupt",
     forms: {
       section_0: [
@@ -105358,7 +105358,7 @@ module.exports = [
     },
   },
   {
-    word "zersetzen",
+    word: "zersetzen",
     translation: "To corrode, decompose, To subvert, undermine",
     forms: {
       section_0: [
@@ -105388,7 +105388,7 @@ module.exports = [
     },
   },
   {
-    word "zersplittern",
+    word: "zersplittern",
     translation: "to splinter, to smash, to shatter, to break up, to balkanize",
     forms: {
       section_0: [
@@ -105418,7 +105418,7 @@ module.exports = [
     },
   },
   {
-    word "zerstäuben",
+    word: "zerstäuben",
     translation: "to spray (to project a liquid in a disperse manner)",
     forms: {
       section_0: [
@@ -105448,7 +105448,7 @@ module.exports = [
     },
   },
   {
-    word "zerstören",
+    word: "zerstören",
     translation: "to destroy, demolish, devastate, eliminate, to dispel",
     forms: {
       section_0: [
@@ -105478,7 +105478,7 @@ module.exports = [
     },
   },
   {
-    word "zerstreuen",
+    word: "zerstreuen",
     translation: "to scatter, to cause (eg a crowd) to scatter or break up",
     forms: {
       section_0: [
@@ -105508,23 +105508,23 @@ module.exports = [
     },
   },
   {
-    word "zertifizieren",
+    word: "zertifizieren",
     translation: "to certify",
   },
   {
-    word "zertrampeln",
+    word: "zertrampeln",
     translation: "to trample",
   },
   {
-    word "zetern",
+    word: "zetern",
     translation: "(pejorative) to express dissatisfaction; to nag; to scold",
   },
   {
-    word "zetteln",
+    word: "zetteln",
     translation: "to strew, to scatter, to spread out, to separate, to arrange, (agriculture) to spread out cut grass or manure, (weaving) to warp a loom",
   },
   {
-    word "zeugen",
+    word: "zeugen",
     translation: "To beget, father, procreate, To testify, bear witness, declare",
     forms: {
       section_0: [
@@ -105554,7 +105554,7 @@ module.exports = [
     },
   },
   {
-    word "ziehen",
+    word: "ziehen",
     translation: "(transitive or intransitive, auxiliary: “haben”) to pull (eg, a door handle); to drag, (transitive, auxiliary: “haben”) to draw (eg a weapon); to extract; to puff, (transitive, auxiliary: “haben”) to draw (a conclusion, lesson, etc), (impersonal, intransitive) to be drafty, (intransitive, auxiliary: “sein”) to move; to migrate, (intransitive, auxiliary: “sein”) to roam; to head, (reflexive, auxiliary: “haben”) to stretch; to warp",
     forms: {
       section_0: [
@@ -105584,7 +105584,7 @@ module.exports = [
     },
   },
   {
-    word "zielen",
+    word: "zielen",
     translation: "(intransitive) to aim at a physical target, (figuratively) to aim at a goal",
     forms: {
       section_0: [
@@ -105614,7 +105614,7 @@ module.exports = [
     },
   },
   {
-    word "zieren",
+    word: "zieren",
     translation: "to decorate, (reflexive) to make a fuss",
     forms: {
       section_0: [
@@ -105644,19 +105644,19 @@ module.exports = [
     },
   },
   {
-    word "zinken",
+    word: "zinken",
     translation: "(intransitive) to sink",
   },
   {
-    word "zippen",
+    word: "zippen",
     translation: "to zip (to convert a computer file into a smaller package)",
   },
   {
-    word "zirkulieren",
+    word: "zirkulieren",
     translation: "to circulate",
   },
   {
-    word "zirpen",
+    word: "zirpen",
     translation: "to chirp, to chirr, to chirrup (sound of a cricket)",
     forms: {
       section_0: [
@@ -105686,7 +105686,7 @@ module.exports = [
     },
   },
   {
-    word "zischen",
+    word: "zischen",
     translation: "to hiss, to sizzle, to whiz",
     forms: {
       section_0: [
@@ -105716,7 +105716,7 @@ module.exports = [
     },
   },
   {
-    word "zitieren",
+    word: "zitieren",
     translation: "to cite, to quote",
     forms: {
       section_0: [
@@ -105746,7 +105746,7 @@ module.exports = [
     },
   },
   {
-    word "zittern",
+    word: "zittern",
     translation: "to shiver, to tremble, to vibrate",
     forms: {
       section_0: [
@@ -105776,15 +105776,15 @@ module.exports = [
     },
   },
   {
-    word "zocken",
+    word: "zocken",
     translation: "to gamble, to play video games",
   },
   {
-    word "zoffen",
+    word: "zoffen",
     translation: "(colloquial, reflexive) to bicker",
   },
   {
-    word "zögern",
+    word: "zögern",
     translation: "to hesitate",
     forms: {
       section_0: [
@@ -105814,31 +105814,31 @@ module.exports = [
     },
   },
   {
-    word "zoomen",
+    word: "zoomen",
     translation: "to zoom",
   },
   {
-    word "zu Bruch gehen",
+    word: "zu Bruch gehen",
     translation: "to break",
   },
   {
-    word "zu Buche schlagen",
+    word: "zu Buche schlagen",
     translation: "(idiomatic) to cost, to account for, to be accounted for, to be added to an account",
   },
   {
-    word "zu einem Schluss kommen",
+    word: "zu einem Schluss kommen",
     translation: "to come to a conclusion",
   },
   {
-    word "zu haben",
+    word: "zu haben",
     translation: "(formal) must, have to, be closed, zu-infinitive of haben",
   },
   {
-    word "zu Wort kommen",
+    word: "zu Wort kommen",
     translation: "to get a chance to speak",
   },
   {
-    word "zubereiten",
+    word: "zubereiten",
     translation: "(cooking) to prepare",
     forms: {
       section_0: [
@@ -105868,7 +105868,7 @@ module.exports = [
     },
   },
   {
-    word "züchten",
+    word: "züchten",
     translation: "to breed, to cultivate, (plants) to grow, (bees) to keep",
     forms: {
       section_0: [
@@ -105898,7 +105898,7 @@ module.exports = [
     },
   },
   {
-    word "zucken",
+    word: "zucken",
     translation: "to jerk",
     forms: {
       section_0: [
@@ -105928,7 +105928,7 @@ module.exports = [
     },
   },
   {
-    word "zuckern",
+    word: "zuckern",
     translation: "to sugar",
     forms: {
       section_0: [
@@ -105958,7 +105958,7 @@ module.exports = [
     },
   },
   {
-    word "zufließen",
+    word: "zufließen",
     translation: "(transitive) to accrue to",
     forms: {
       section_0: [
@@ -105988,7 +105988,7 @@ module.exports = [
     },
   },
   {
-    word "zufriedenstellen",
+    word: "zufriedenstellen",
     translation: "to satisfy (meet needs, fulfill), to content, please",
     forms: {
       section_0: [
@@ -106018,7 +106018,7 @@ module.exports = [
     },
   },
   {
-    word "zufrieren",
+    word: "zufrieren",
     translation: "to freeze over",
     forms: {
       section_0: [
@@ -106048,7 +106048,7 @@ module.exports = [
     },
   },
   {
-    word "zufügen",
+    word: "zufügen",
     translation: "(transitive, reflexive) To cause to, to put figurativly to, (transitive) To put to",
     forms: {
       section_0: [
@@ -106078,7 +106078,7 @@ module.exports = [
     },
   },
   {
-    word "zuführen",
+    word: "zuführen",
     translation: "To feed, supply, procure",
     forms: {
       section_0: [
@@ -106108,7 +106108,7 @@ module.exports = [
     },
   },
   {
-    word "zugeben",
+    word: "zugeben",
     translation: "to admit",
     forms: {
       section_0: [
@@ -106138,7 +106138,7 @@ module.exports = [
     },
   },
   {
-    word "zugehen",
+    word: "zugehen",
     translation: "to shut, to approach",
     forms: {
       section_0: [
@@ -106168,7 +106168,7 @@ module.exports = [
     },
   },
   {
-    word "zügeln",
+    word: "zügeln",
     translation: "to rein, (Switzerland) to move (to change residence)",
     forms: {
       section_0: [
@@ -106198,15 +106198,15 @@ module.exports = [
     },
   },
   {
-    word "zugrunde richten",
+    word: "zugrunde richten",
     translation: "to ruin",
   },
   {
-    word "zugrunderichten",
+    word: "zugrunderichten",
     translation: "Obsolete spelling of zugrunde richten",
   },
   {
-    word "zuhören",
+    word: "zuhören",
     translation: "to listen ([+dative = to someone or something])",
     forms: {
       section_0: [
@@ -106236,7 +106236,7 @@ module.exports = [
     },
   },
   {
-    word "zukleben",
+    word: "zukleben",
     translation: "(transitive, with accusative) to seal",
     forms: {
       section_0: [
@@ -106266,7 +106266,7 @@ module.exports = [
     },
   },
   {
-    word "zukommen",
+    word: "zukommen",
     translation: "To become, befit",
     forms: {
       section_0: [
@@ -106296,7 +106296,7 @@ module.exports = [
     },
   },
   {
-    word "zulangen",
+    word: "zulangen",
     translation: "to help oneself",
     forms: {
       section_0: [
@@ -106326,11 +106326,11 @@ module.exports = [
     },
   },
   {
-    word "zulassen",
+    word: "zulassen",
     translation: "to allow, (car) to license",
   },
   {
-    word "zulegen",
+    word: "zulegen",
     translation: "To gain, add, To put on weight",
     forms: {
       section_0: [
@@ -106360,7 +106360,7 @@ module.exports = [
     },
   },
   {
-    word "zuliefern",
+    word: "zuliefern",
     translation: "to supply",
     forms: {
       section_0: [
@@ -106390,23 +106390,23 @@ module.exports = [
     },
   },
   {
-    word "zum einen Ohr hinein- und zum anderen wieder hinausgehen",
+    word: "zum einen Ohr hinein- und zum anderen wieder hinausgehen",
     translation: "(idiomatic) go in one ear and out the other",
   },
   {
-    word "zum Ritter schlagen",
+    word: "zum Ritter schlagen",
     translation: "knight (to confer a knighthood upon)",
   },
   {
-    word "zum Schluss kommen",
+    word: "zum Schluss kommen",
     translation: "to come in the end",
   },
   {
-    word "zum Verkauf anbieten",
+    word: "zum Verkauf anbieten",
     translation: "to put on the block",
   },
   {
-    word "zumachen",
+    word: "zumachen",
     translation: "to close, to hurry, to make haste",
     forms: {
       section_0: [
@@ -106436,7 +106436,7 @@ module.exports = [
     },
   },
   {
-    word "zumuten",
+    word: "zumuten",
     translation: "to demand",
     forms: {
       section_0: [
@@ -106466,7 +106466,7 @@ module.exports = [
     },
   },
   {
-    word "zünden",
+    word: "zünden",
     translation: "to kindle, to ignite a fire or any comparable combustion",
     forms: {
       section_0: [
@@ -106496,7 +106496,7 @@ module.exports = [
     },
   },
   {
-    word "zunehmen",
+    word: "zunehmen",
     translation: "to increase, to gain weight",
     forms: {
       section_0: [
@@ -106526,7 +106526,7 @@ module.exports = [
     },
   },
   {
-    word "zuordnen",
+    word: "zuordnen",
     translation: "to assign",
     forms: {
       section_0: [
@@ -106556,7 +106556,7 @@ module.exports = [
     },
   },
   {
-    word "zupfen",
+    word: "zupfen",
     translation: "to pluck",
     forms: {
       section_0: [
@@ -106586,23 +106586,23 @@ module.exports = [
     },
   },
   {
-    word "zuppen",
+    word: "zuppen",
     translation: "(colloquial, regional, northern and central Germany) Alternative form of zupfen ‎(“to pluck”)",
   },
   {
-    word "zur Kasse bitten",
+    word: "zur Kasse bitten",
     translation: "(idiomatic) to charge (literally: to ask to the cash desk)",
   },
   {
-    word "zur Schau stellen",
+    word: "zur Schau stellen",
     translation: "to show, to display",
   },
   {
-    word "zur Verfügung stellen",
+    word: "zur Verfügung stellen",
     translation: "to supply, to make available for use",
   },
   {
-    word "zurechnen",
+    word: "zurechnen",
     translation: "to account for, to classify as",
     forms: {
       section_0: [
@@ -106632,7 +106632,7 @@ module.exports = [
     },
   },
   {
-    word "zürnen",
+    word: "zürnen",
     translation: "(dative object) to be angry with",
     forms: {
       section_0: [
@@ -106662,7 +106662,7 @@ module.exports = [
     },
   },
   {
-    word "zurückbekommen",
+    word: "zurückbekommen",
     translation: "to get back (to retrieve, to have an item returned)",
     forms: {
       section_0: [
@@ -106692,7 +106692,7 @@ module.exports = [
     },
   },
   {
-    word "zurückbleiben",
+    word: "zurückbleiben",
     translation: "to remain, to stay behind",
     forms: {
       section_0: [
@@ -106722,7 +106722,7 @@ module.exports = [
     },
   },
   {
-    word "zurückbringen",
+    word: "zurückbringen",
     translation: "to bring back, recall, restore",
     forms: {
       section_0: [
@@ -106752,7 +106752,7 @@ module.exports = [
     },
   },
   {
-    word "zurückdenken",
+    word: "zurückdenken",
     translation: "to think back",
     forms: {
       section_0: [
@@ -106782,7 +106782,7 @@ module.exports = [
     },
   },
   {
-    word "zurückdrängen",
+    word: "zurückdrängen",
     translation: "(transitive) to push back, to repel",
     forms: {
       section_0: [
@@ -106812,7 +106812,7 @@ module.exports = [
     },
   },
   {
-    word "zurückfahren",
+    word: "zurückfahren",
     translation: "(intransitive) to go back, (transitive) to drive back",
     forms: {
       section_0: [
@@ -106842,7 +106842,7 @@ module.exports = [
     },
   },
   {
-    word "zurückführen",
+    word: "zurückführen",
     translation: "To restore or return, To repatriate, To ascribe",
     forms: {
       section_0: [
@@ -106872,7 +106872,7 @@ module.exports = [
     },
   },
   {
-    word "zurückgeben",
+    word: "zurückgeben",
     translation: "to return (to give something back)",
     forms: {
       section_0: [
@@ -106902,7 +106902,7 @@ module.exports = [
     },
   },
   {
-    word "zurückgehen",
+    word: "zurückgehen",
     translation: "To go back, return (to a place), To decline, abate",
     forms: {
       section_0: [
@@ -106932,7 +106932,7 @@ module.exports = [
     },
   },
   {
-    word "zurückgreifen",
+    word: "zurückgreifen",
     translation: "To fall back (on), To go back (to), To resort (to), To revert (to)",
     forms: {
       section_0: [
@@ -106962,7 +106962,7 @@ module.exports = [
     },
   },
   {
-    word "zurückhalten",
+    word: "zurückhalten",
     translation: "(transitive) to hold back, (reflexive) to hold back, (reflexive) to hold onto oneself",
     forms: {
       section_0: [
@@ -106992,7 +106992,7 @@ module.exports = [
     },
   },
   {
-    word "zurückkehren",
+    word: "zurückkehren",
     translation: "to return",
     forms: {
       section_0: [
@@ -107022,7 +107022,7 @@ module.exports = [
     },
   },
   {
-    word "zurückkommen",
+    word: "zurückkommen",
     translation: "to return (to come back)",
     forms: {
       section_0: [
@@ -107052,7 +107052,7 @@ module.exports = [
     },
   },
   {
-    word "zurücklassen",
+    word: "zurücklassen",
     translation: "to leave behind, to let return",
     forms: {
       section_0: [
@@ -107082,7 +107082,7 @@ module.exports = [
     },
   },
   {
-    word "zurücklegen",
+    word: "zurücklegen",
     translation: "(transitive) to put back, (transitive) to put aside, (reflexive) to recline, (transitive) to cover, travel (a distance)",
     forms: {
       section_0: [
@@ -107112,15 +107112,15 @@ module.exports = [
     },
   },
   {
-    word "zurückmachen",
+    word: "zurückmachen",
     translation: "(reflexive) to go back, to return",
   },
   {
-    word "zurückmelden",
+    word: "zurückmelden",
     translation: "(reflexive) to report back",
   },
   {
-    word "zurücknehmen",
+    word: "zurücknehmen",
     translation: "To withdraw, retract, To redeem, To recant, To revoke",
     forms: {
       section_0: [
@@ -107150,7 +107150,7 @@ module.exports = [
     },
   },
   {
-    word "zurückrufen",
+    word: "zurückrufen",
     translation: "(telephony) to call back, to ring back",
     forms: {
       section_0: [
@@ -107180,7 +107180,7 @@ module.exports = [
     },
   },
   {
-    word "zurückschicken",
+    word: "zurückschicken",
     translation: "(transitive) to send back, to return",
     forms: {
       section_0: [
@@ -107210,11 +107210,11 @@ module.exports = [
     },
   },
   {
-    word "zurückschreiben",
+    word: "zurückschreiben",
     translation: "(computing): to write back (data)",
   },
   {
-    word "zurücksetzen",
+    word: "zurücksetzen",
     translation: "to reset",
     forms: {
       section_0: [
@@ -107244,7 +107244,7 @@ module.exports = [
     },
   },
   {
-    word "zurücktreten",
+    word: "zurücktreten",
     translation: "to step back, (from an office) to resign, to step down, (from a contract) to rescind, to cancel",
     forms: {
       section_0: [
@@ -107274,7 +107274,7 @@ module.exports = [
     },
   },
   {
-    word "zurückverfolgen",
+    word: "zurückverfolgen",
     translation: "to trace back",
     forms: {
       section_0: [
@@ -107304,7 +107304,7 @@ module.exports = [
     },
   },
   {
-    word "zurückweisen",
+    word: "zurückweisen",
     translation: "to reject",
     forms: {
       section_0: [
@@ -107334,15 +107334,15 @@ module.exports = [
     },
   },
   {
-    word "zurückwenden",
+    word: "zurückwenden",
     translation: "to turn back",
   },
   {
-    word "zurückzahlen",
+    word: "zurückzahlen",
     translation: "(finance or figuratively) to pay back",
   },
   {
-    word "zurückziehen",
+    word: "zurückziehen",
     translation: "(transitive) to pull back, to withdraw, (reflexive) to retreat",
     forms: {
       section_0: [
@@ -107372,11 +107372,11 @@ module.exports = [
     },
   },
   {
-    word "zurückzukehren",
+    word: "zurückzukehren",
     translation: "zu-infinitive of zurückkehren",
   },
   {
-    word "zusagen",
+    word: "zusagen",
     translation: "(of an invitation) to accept, to promise to come",
     forms: {
       section_0: [
@@ -107406,7 +107406,7 @@ module.exports = [
     },
   },
   {
-    word "zusammenarbeiten",
+    word: "zusammenarbeiten",
     translation: "to work together, to cooperate",
     forms: {
       section_0: [
@@ -107436,11 +107436,11 @@ module.exports = [
     },
   },
   {
-    word "zusammenbinden",
+    word: "zusammenbinden",
     translation: "To attach or fasten things by string or the like",
   },
   {
-    word "zusammenbrauen",
+    word: "zusammenbrauen",
     translation: "(reflexive) to brew (to be in a state of preparation; to be mixing, forming, or gathering), (indicating contempt or lack of skill) to brew",
     forms: {
       section_0: [
@@ -107470,7 +107470,7 @@ module.exports = [
     },
   },
   {
-    word "zusammenbrechen",
+    word: "zusammenbrechen",
     translation: "to collapse",
     forms: {
       section_0: [
@@ -107500,15 +107500,15 @@ module.exports = [
     },
   },
   {
-    word "zusammendrücken",
+    word: "zusammendrücken",
     translation: "To compress; press together",
   },
   {
-    word "zusammenfallen",
+    word: "zusammenfallen",
     translation: "to collapse",
   },
   {
-    word "zusammenfassen",
+    word: "zusammenfassen",
     translation: "to summarize, to sum up, to consolidate",
     forms: {
       section_0: [
@@ -107538,11 +107538,11 @@ module.exports = [
     },
   },
   {
-    word "zusammenfügen",
+    word: "zusammenfügen",
     translation: "to join together, to connect, to assemble",
   },
   {
-    word "zusammenführen",
+    word: "zusammenführen",
     translation: "to combine, to merge, to bring together, to reunite",
     forms: {
       section_0: [
@@ -107572,15 +107572,15 @@ module.exports = [
     },
   },
   {
-    word "zusammenhalten",
+    word: "zusammenhalten",
     translation: "to hold together, to keep together",
   },
   {
-    word "zusammenhängen",
+    word: "zusammenhängen",
     translation: "to interrelate, connect",
   },
   {
-    word "zusammenkleben",
+    word: "zusammenkleben",
     translation: "(transitive) to glue (together), (intransitive) to stick (together)",
     forms: {
       section_0: [
@@ -107610,7 +107610,7 @@ module.exports = [
     },
   },
   {
-    word "zusammenkommen",
+    word: "zusammenkommen",
     translation: "to come/get together",
     forms: {
       section_0: [
@@ -107640,19 +107640,19 @@ module.exports = [
     },
   },
   {
-    word "zusammenlügen",
+    word: "zusammenlügen",
     translation: "to boldly lie",
   },
   {
-    word "zusammenrollen",
+    word: "zusammenrollen",
     translation: "(transitive) to roll up, (reflexive) to curl up, to roll up (into a ball)",
   },
   {
-    word "zusammenscharren",
+    word: "zusammenscharren",
     translation: "to scrape up, scrape together, to gather",
   },
   {
-    word "zusammenschließen",
+    word: "zusammenschließen",
     translation: "(reflexive) to unite, to merge",
     forms: {
       section_0: [
@@ -107682,11 +107682,11 @@ module.exports = [
     },
   },
   {
-    word "zusammensetzen",
+    word: "zusammensetzen",
     translation: "To assemble, compose (put together)",
   },
   {
-    word "zusammenstellen",
+    word: "zusammenstellen",
     translation: "to compose, to compile",
     forms: {
       section_0: [
@@ -107716,7 +107716,7 @@ module.exports = [
     },
   },
   {
-    word "zusammenstoßen",
+    word: "zusammenstoßen",
     translation: "to collide",
     forms: {
       section_0: [
@@ -107746,11 +107746,11 @@ module.exports = [
     },
   },
   {
-    word "zusammenstürzen",
+    word: "zusammenstürzen",
     translation: "to collapse",
   },
   {
-    word "zusammenziehen",
+    word: "zusammenziehen",
     translation: "to shorten, to contract, to move in together",
     forms: {
       section_0: [
@@ -107780,7 +107780,7 @@ module.exports = [
     },
   },
   {
-    word "zuschauen",
+    word: "zuschauen",
     translation: "to look on, to watch",
     forms: {
       section_0: [
@@ -107810,7 +107810,7 @@ module.exports = [
     },
   },
   {
-    word "zuschlagen",
+    word: "zuschlagen",
     translation: "to strike, to slam",
     forms: {
       section_0: [
@@ -107840,7 +107840,7 @@ module.exports = [
     },
   },
   {
-    word "zuschreiben",
+    word: "zuschreiben",
     translation: "to credit, impute, refer",
     forms: {
       section_0: [
@@ -107870,7 +107870,7 @@ module.exports = [
     },
   },
   {
-    word "zusehen",
+    word: "zusehen",
     translation: "(+ dative or + subclause with wie) to watch, (+ subclause, usually with dass) to see; to make sure (that something happen)",
     forms: {
       section_0: [
@@ -107900,7 +107900,7 @@ module.exports = [
     },
   },
   {
-    word "zusichern",
+    word: "zusichern",
     translation: "to pledge",
     forms: {
       section_0: [
@@ -107930,7 +107930,7 @@ module.exports = [
     },
   },
   {
-    word "zustimmen",
+    word: "zustimmen",
     translation: "to agree",
     forms: {
       section_0: [
@@ -107960,7 +107960,7 @@ module.exports = [
     },
   },
   {
-    word "zustoßen",
+    word: "zustoßen",
     translation: "to happen to (especially something bad)",
     forms: {
       section_0: [
@@ -107990,11 +107990,11 @@ module.exports = [
     },
   },
   {
-    word "zutragen",
+    word: "zutragen",
     translation: "to carry (something to someone), to report, inform (someone of something), to take place; to transpire",
   },
   {
-    word "zuwandern",
+    word: "zuwandern",
     translation: "to immigrate",
     forms: {
       section_0: [
@@ -108024,19 +108024,19 @@ module.exports = [
     },
   },
   {
-    word "zuweisen",
+    word: "zuweisen",
     translation: "to assign, (programming) to assign",
   },
   {
-    word "zuwenden",
+    word: "zuwenden",
     translation: "(reflexive, with dative) to turn to; to devote oneself to, (transitive, with dative) to turn something to something or toward something",
   },
   {
-    word "zuziehen",
+    word: "zuziehen",
     translation: "(reflexive) to sustain, contact, incur",
   },
   {
-    word "zwängen",
+    word: "zwängen",
     translation: "to force, cram",
     forms: {
       section_0: [
@@ -108066,15 +108066,15 @@ module.exports = [
     },
   },
   {
-    word "zwangsernähren",
+    word: "zwangsernähren",
     translation: "to force-feed",
   },
   {
-    word "zwei Fliegen mit einer Klappe schlagen",
+    word: "zwei Fliegen mit einer Klappe schlagen",
     translation: "(idiomatic) kill two birds with one stone",
   },
   {
-    word "zweifeln",
+    word: "zweifeln",
     translation: "to doubt, to be doubtful (an etwas = of something)",
     forms: {
       section_0: [
@@ -108104,11 +108104,11 @@ module.exports = [
     },
   },
   {
-    word "zwicken",
+    word: "zwicken",
     translation: "to pinch",
   },
   {
-    word "zwingen",
+    word: "zwingen",
     translation: "(transitive or reflexive) to force; to compel; to make (someone do something), (intransitive, with 'zu ') to necessitate; to call for",
     forms: {
       section_0: [
@@ -108138,7 +108138,7 @@ module.exports = [
     },
   },
   {
-    word "zwinkern",
+    word: "zwinkern",
     translation: "(quick closing and reopening of both eyes) to blink, (to blink with only one eye as a message, signal, or suggestion) to wink",
     forms: {
       section_0: [
@@ -108168,7 +108168,7 @@ module.exports = [
     },
   },
   {
-    word "zwirnen",
+    word: "zwirnen",
     translation: "(transitive) To twine",
     forms: {
       section_0: [
@@ -108198,11 +108198,11 @@ module.exports = [
     },
   },
   {
-    word "zwischen den Zeilen lesen",
+    word: "zwischen den Zeilen lesen",
     translation: "to read between the lines",
   },
   {
-    word "zwitschern",
+    word: "zwitschern",
     translation: "to chirp, to tweet, to chatter, to twitter (sound of a bird), to reveal a secret without revealing the source: ein Vöglein hat mir gezwitschert (a little bird told me)",
     forms: {
       section_0: [
