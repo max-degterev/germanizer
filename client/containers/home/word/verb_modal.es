@@ -15,13 +15,8 @@ const LABELS = [
   'sie/Sie',
 ];
 
-const VerbModal = (props) => {
-  const className = classNames('VerbModal', props.className);
-  const { item: { data }, ...cleanProps } = props;
-
-  const urlSafeWord = getURLSafeWord(data.word);
-  const formsLink = `http://en.bab.la/conjugation/german/${urlSafeWord}`;
-  const wikiLink = `https://en.wiktionary.org/wiki/${urlSafeWord}`;
+const renderForms = (data) => {
+  if (!data.forms) return null;
 
   const renderRow = (label, index) => (
     <tr key={label}>
@@ -33,6 +28,29 @@ const VerbModal = (props) => {
   );
 
   return (
+    <table className="VerbModal-Table">
+      <tbody>
+        <tr>
+          <th />
+          <th>Indikativ Präsens</th>
+          <th>Indikativ Präteritum</th>
+          <th>Indikativ Perfekt</th>
+        </tr>
+        {LABELS.map(renderRow)}
+      </tbody>
+    </table>
+  );
+};
+
+const VerbModal = (props) => {
+  const className = classNames('VerbModal', props.className);
+  const { item: { data }, ...cleanProps } = props;
+
+  const urlSafeWord = getURLSafeWord(data.word);
+  const formsLink = `http://en.bab.la/conjugation/german/${urlSafeWord}`;
+  const wikiLink = `https://en.wiktionary.org/wiki/${urlSafeWord}`;
+
+  return (
     <Modal {...cleanProps} className={className}>
       <header>
         <span className="VerbModal-Word">{data.word}</span>
@@ -40,17 +58,7 @@ const VerbModal = (props) => {
         <strong className="VerbModal-Translation">{data.translation}</strong>
       </header>
 
-      <table className="VerbModal-Table">
-        <tbody>
-          <tr>
-            <th />
-            <th>Indikativ Präsens</th>
-            <th>Indikativ Präteritum</th>
-            <th>Indikativ Perfekt</th>
-          </tr>
-          {LABELS.map(renderRow)}
-        </tbody>
-      </table>
+      {renderForms(data)}
 
       <footer className="VerbModal-Links">
         more on

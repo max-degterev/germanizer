@@ -11,6 +11,7 @@ const DICTIONARIES = [
   { value: 'prepositions', key: 'preposition' },
   { value: 'pronouns', key: 'pronoun' },
   { value: 'verbs', key: 'verb' },
+  { value: 'verbs_extended', key: 'verb (extended)' },
   { value: 'adjectives_wiktionary', key: 'adjective (wiktionary)' },
   { value: 'nouns_wiktionary', key: 'noun (wiktionary)' },
   { value: 'verbs_wiktionary', key: 'verb (wiktionary)' },
