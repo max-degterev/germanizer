@@ -4,7 +4,7 @@ import Layout from '../../components/layout';
 
 import { addWord, getWords, removeWord } from './state/actions';
 
-import Words from './Words';
+import Words from './words';
 
 class HomePage extends Component {
   constructor(props) {

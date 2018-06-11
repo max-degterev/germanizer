@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 
-import Word from '../Word';
-import WordsSelector from '../WordsSelector';
+import Word from '../word';
+import WordsSelector from '../words_selector';
 
 const MAX_ITEMS = 10;
 
