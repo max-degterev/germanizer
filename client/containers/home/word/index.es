@@ -10,6 +10,8 @@ import VerbModal from './verb_modal';
 const modalMap = {
   verbs: VerbModal,
   verbs_extended: VerbModal,
+  verbs_irregular: VerbModal,
+  verbs_modal: VerbModal,
   verbs_wiktionary: VerbModal,
 };
 

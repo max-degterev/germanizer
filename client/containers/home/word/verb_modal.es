@@ -2,9 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 
-import Modal from '../../../components/modal';
-
 import { getURLSafeWord } from './utils.es';
+
+import Modal from '../../../components/modal';
 
 const LABELS = [
   'ich',
@@ -44,21 +44,22 @@ const renderForms = (data) => {
 
 const VerbModal = (props) => {
   const className = classNames('VerbModal', props.className);
-  const { item: { data }, ...cleanProps } = props;
+  const { item, ...cleanProps } = props;
+  const { word, translation } = item.data;
 
-  const urlSafeWord = getURLSafeWord(data.word);
+  const urlSafeWord = getURLSafeWord(word, item.type);
   const formsLink = `http://en.bab.la/conjugation/german/${urlSafeWord}`;
   const wikiLink = `https://en.wiktionary.org/wiki/${urlSafeWord}`;
 
   return (
     <Modal {...cleanProps} className={className}>
       <header>
-        <span className="VerbModal-Word">{data.word}</span>
+        <span className="VerbModal-Word">{word}</span>
         &mdash;
-        <strong className="VerbModal-Translation">{data.translation}</strong>
+        <strong className="VerbModal-Translation">{translation}</strong>
       </header>
 
-      {renderForms(data)}
+      {renderForms(item.data)}
 
       <footer className="VerbModal-Links">
         more on
