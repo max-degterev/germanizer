@@ -3,9 +3,6 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import Link from 'react-router/lib/Link';
 
-const year = (new Date()).getFullYear();
-
-
 const Layout = (props) => {
   const { children } = props;
   const className = classNames('Layout', props.className);
@@ -22,7 +19,15 @@ const Layout = (props) => {
         </header>
         {children}
       </div>
-      <footer className="Layout-Footer">&copy; {year} Germanizer </footer>
+      <footer className="Layout-Footer">
+        <a
+          href="http://creativecommons.org/publicdomain/zero/1.0/"
+          rel="noopener noreferrer nofollow"
+          target="_blank"
+        >
+          Creative Commons CC0
+        </a>
+      </footer>
     </section>
   );
 };
