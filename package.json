@@ -17,6 +17,7 @@
     "babel": "babel-node",
     "gulp": "gulp",
     "start": "gulp",
+    "build": "NODE_ENV=production gulp build",
     "production": "NODE_ENV=production SANDBOX=true gulp build && NODE_ENV=production SANDBOX=true node app.js",
     "decache": "find ./build -type f -name '.browserify-cache-*.json' -delete",
     "lint": "gulp lint || true",
