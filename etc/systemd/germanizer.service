@@ -10,7 +10,7 @@ StandardError=syslog
 SyslogIdentifier=germanizer-server
 User=germanizer
 
-Environment=NODE_ENV=production PWD=/var/www/germanizer
+Environment=NODE_ENV=production PORT=8001 PWD=/var/www/germanizer
 
 [Install]
 WantedBy=multi-user.target
