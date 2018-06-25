@@ -30,7 +30,7 @@ export default () => (
           </td>
           <td>
             <p>die -en</p>
-            <p>eine -en</p>
+            <p>meine -en</p>
             <p>-e</p>
           </td>
         </tr>
@@ -53,7 +53,7 @@ export default () => (
           </td>
           <td>
             <p>die -en</p>
-            <p>eine -en</p>
+            <p>meine -en</p>
             <p>-e</p>
           </td>
         </tr>
@@ -76,7 +76,7 @@ export default () => (
           </td>
           <td>
             <p>den -en + -n</p>
-            <p>einen -en + -n</p>
+            <p>meinen -en + -n</p>
             <p>-en + -n</p>
           </td>
         </tr>
@@ -99,7 +99,7 @@ export default () => (
           </td>
           <td>
             <p>der -en</p>
-            <p>einer -en</p>
+            <p>meiner -en</p>
             <p>-er</p>
           </td>
         </tr>
