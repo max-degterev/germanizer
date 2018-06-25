@@ -7,3 +7,5 @@ export const getURLSafeWord = (word, type) => {
 
   return encodeURIComponent(cleanWord);
 };
+
+export const isVerb = (word) => /^verbs/.test(word.type);
