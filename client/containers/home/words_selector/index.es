@@ -8,7 +8,7 @@ const DICTIONARIES = [
   { value: 'actors', key: 'subject' },
   { value: 'adjectives', key: 'adjective' },
   { value: 'nouns', key: 'noun' },
-  { value: 'prepositions_dative_accusative', key: 'preposition (dative and accusative)' },
+  { value: 'prepositions_dative_accusative', key: 'preposition (dative/accusative)' },
   { value: 'prepositions_genitive', key: 'preposition (genitive)' },
   { value: 'prepositions_multicase', key: 'preposition (multicase)' },
   { value: 'prepositions', key: 'preposition' },
