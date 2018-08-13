@@ -46,8 +46,6 @@ class HomePage extends Component {
   }
 }
 
-
-// TODO: use reselect to optimize this selector
 const mapStateToProps = ({ session, home }) => {
   const { selected } = session;
   const { words } = home;

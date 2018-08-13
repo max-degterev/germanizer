@@ -46,6 +46,7 @@ class Modal extends Component {
         <div className="Modal-Content">
           <span className="Modal-Close" onClick={this.props.onClose}><Cross /></span>
           {this.props.children}
+          <span className="Modal-Close-Bottom" onClick={this.props.onClose}>Close</span>
         </div>
       </article>
     );

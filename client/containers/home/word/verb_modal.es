@@ -50,6 +50,7 @@ const VerbModal = (props) => {
   const urlSafeWord = getURLSafeWord(word, item.type);
   const formsLink = `http://en.bab.la/conjugation/german/${urlSafeWord}`;
   const wikiLink = `https://en.wiktionary.org/wiki/${urlSafeWord}`;
+  const googleLink = `https://translate.google.com/#de/en/${urlSafeWord}`;
 
   return (
     <Modal {...cleanProps} className={className}>
@@ -66,6 +67,8 @@ const VerbModal = (props) => {
         <a href={wikiLink} rel="noopener noreferrer nofollow" target="_blank">wiktionary.org</a>
         or
         <a href={formsLink} rel="noopener noreferrer nofollow" target="_blank">bab.la</a>
+        or
+        <a href={googleLink} rel="noopener noreferrer nofollow" target="_blank">translate.google.com</a>
       </footer>
     </Modal>
   );
