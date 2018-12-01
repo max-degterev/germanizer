@@ -53,13 +53,12 @@ const watcher = () => {
   const nodemon = require('gulp-nodemon')(nodemonOptions);
 
   const handleReload = (name) => livereload.changed(name);
-  const handleNoPrerenderReload = (name) => { if (!config.server.prerender) handleReload(name); };
   const handleServerReload = () => setTimeout(() => handleReload('server.js'), SERVER_RESTART_TIME);
 
   gulp.watch(scripts).on('change', (path) => {
     const options = { watch: true };
     utils.watchReporter(path);
-    compileScripts('app.js', options).then(handleNoPrerenderReload);
+    compileScripts('app.js', options).then(handleReload);
   });
 
   gulp.watch(stylesheets).on('change', (path) => {
