@@ -1,4 +1,4 @@
-const { debug } = require('winston');
+const debug = require('debug')('germanizer:controllers:api');
 const BaseController = require('express-base-class');
 
 const { random } = require('../modules/utils');
@@ -7,16 +7,15 @@ const { parseType } = require('../modules/parsers');
 const { formatError } = require('../modules/error');
 const dictionary = require('../../dictionary');
 
-const handleError = (res, logger, text) => {
-  logger(text);
+const handleError = (res, text) => {
+  debug(text);
   res.status(400).send(text);
 };
 
 class ApiController extends BaseController {
   checkQuery({ query }, res, next) {
     const { type } = query;
-    const sendError = (error) => handleError(res, debug, error);
-    if (!isValidType(type)) return sendError('`type` query parameter invalid or missing');
+    if (!isValidType(type)) return handleError(res, '`type` query parameter invalid or missing');
     next();
   }
 

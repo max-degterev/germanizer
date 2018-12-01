@@ -21,7 +21,7 @@ const SERVER_RESTART_TIME = 1500;
 
 
 const watcher = () => {
-  const livereload = require('gulp-livereload');
+  const livereload = require('tiny-lr');
   const compileScripts = require('./scripts');
   const compileStyles = require('./styles');
 
@@ -49,35 +49,31 @@ const watcher = () => {
     'templates/**/*.pug',
   ];
 
-  const reloadPage = () => livereload.reload(SERVER_PATH);
-
-  livereload.listen();
+  livereload().listen();
   const nodemon = require('gulp-nodemon')(nodemonOptions);
 
+  const handleReload = (name) => livereload.changed(name);
+  const handleNoPrerenderReload = (name) => { if (!config.server.prerender) handleReload(name); };
+  const handleServerReload = () => setTimeout(() => handleReload('server.js'), SERVER_RESTART_TIME);
+
   gulp.watch(scripts).on('change', (path) => {
-    const options = {
-      watch: true,
-      pipe(stream) {
-        return stream.pipe(livereload());
-      },
-    };
+    const options = { watch: true };
     utils.watchReporter(path);
-    compileScripts('app.js', options);
+    compileScripts('app.js', options).then(handleNoPrerenderReload);
   });
 
   gulp.watch(stylesheets).on('change', (path) => {
     utils.watchReporter(path);
-    const pipe = (stream) => stream.pipe(livereload());
-    compileStyles({ pipe });
+    compileStyles().then(handleReload);
   });
 
   gulp.watch(templates).on('change', (path) => {
     utils.watchReporter(path);
-    reloadPage();
+    handleServerReload();
   });
 
   nodemon.on('start', () => {
-    if (nodemonRestarts) setTimeout(reloadPage, SERVER_RESTART_TIME);
+    if (nodemonRestarts) handleServerReload();
     nodemonRestarts += 1;
   });
 
