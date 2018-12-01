@@ -21,7 +21,5 @@ export default (options = {}) => {
     });
   };
 
-  const promise = new Promise(executor);
-
-  return { request, promise };
+  return new Promise(executor);
 };

@@ -9,9 +9,19 @@ import { getOption } from './utils';
 class Select extends Component {
   constructor(props) {
     super(props);
+    this.getValue = this.getValue.bind(this);
+    this.reset = this.reset.bind(this);
     this.handleChange = this.handleChange.bind(this);
 
     this.state = { index: 0 };
+  }
+
+  getValue() {
+    return getOption(this.props.options[this.state.index]);
+  }
+
+  reset() {
+    this.setState({ index: 0 });
   }
 
   handleChange(event) {
@@ -30,24 +40,25 @@ class Select extends Component {
   }
 
   render() {
-    const { options, children } = this.props;
+    const { options } = this.props;
     const className = classNames('Select', this.props.className);
     const cleanProps = omit(this.props, 'className', 'options', 'onUpdate');
 
     return (
-      <article className={className}>
-        {children}
-        <select {...cleanProps} onChange={this.handleChange} value={this.state.index}>
-          {options.map(this.renderOption)}
-        </select>
-      </article>
+      <select
+        {...cleanProps}
+        className={className}
+        onChange={this.handleChange}
+        value={this.state.index}
+      >
+        {options.map(this.renderOption)}
+      </select>
     );
   }
 }
 
 Select.propTypes = {
   className: PropTypes.string,
-  children: PropTypes.node,
   options: PropTypes.array.isRequired,
   onUpdate: PropTypes.func,
 };

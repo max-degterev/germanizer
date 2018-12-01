@@ -3,8 +3,12 @@ import Layout from '../../components/layout';
 
 const Error404 = () => (
   <Layout className="Error404">
-    <h1>Error 404</h1>
-    Page not found :(
+    <article className="Error404-Content">
+      <h1>Error 404</h1>
+      <p>
+        Page not found :(
+      </p>
+    </article>
   </Layout>
 );
 

@@ -13,7 +13,7 @@ export default (store) => (
       // prevent unnecessary calls
       if (request.shouldRequest && !request.shouldRequest(state)) return Promise.resolve(null);
       const options = omit(request, 'shouldRequest');
-      const { promise } = createRequest(options);
+      const promise = createRequest(options);
 
       promise
         .then((payload) => {

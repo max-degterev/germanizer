@@ -1,0 +1,54 @@
+.Help-Content
+  padding: 15px
+
+.Help-Table
+  width: 100%
+  margin-top: 15px
+  border-spacing: 0
+  font-size: 12px
+  word-wrap: break-word
+
+  table-layout: fixed
+
+  &.is-uncentered
+    th, td
+      vertical-align: top
+
+  &.is-compact
+    font-size: 12px
+
+    @media $mediaM
+      font-size: 14px
+
+  th, td
+    padding: .33em
+
+  th,
+  .Help-Label
+    font-size: 12px
+    line-height: 1.2
+
+  .Help-Label
+    strong
+      display: block
+
+  td
+    span
+      display: block
+      font-size: 10px
+
+      @media $mediaM
+        font-size: 12px
+
+  td:nth-child(2n)
+    background: darken($colorBright, 5%)
+
+  @media $mediaM
+    font-size: $fontSizeM
+
+    th,
+    .Help-Label
+      font-size: $fontSizeS
+
+.Help-Section + .Help-Section
+  margin-top: 90px

@@ -2,39 +2,54 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import Layout from '../../components/layout';
 
-import { getWords } from './state/actions';
-import { setSession } from '../../modules/session';
+import * as actions from './state/actions';
 
-import Words from './Words';
+import Words from './words';
 
 class HomePage extends Component {
   constructor(props) {
     super(props);
-    this.handleSelectionUpdate = this.handleSelectionUpdate.bind(this);
+    this.handleAdd = this.handleAdd.bind(this);
+    this.handleRemove = this.handleRemove.bind(this);
+    this.handleRefresh = this.handleRefresh.bind(this);
   }
 
-  handleSelectionUpdate() {
-    console.warn('ok!', arguments);
+  componentDidMount() {
+    this.fetchWords();
+  }
+
+  fetchWords() {
+    const { selected } = this.props;
+    if (Array.isArray(selected) && selected.length) this.props.getWords(selected);
+  }
+
+  handleAdd(value) {
+    this.props.addWord(value);
+  }
+
+  handleRemove(value) {
+    this.props.removeWord(value);
+  }
+
+  handleRefresh() {
+    this.props.resetWords();
+    this.fetchWords();
   }
 
   render() {
-    const { words } = this.props;
+    const { words: items, addWord: onUpdate, removeWord: onRemove } = this.props;
     return (
       <Layout className="HomePage">
-        <Words onUpdate={this.handleSelectionUpdate} items={words} />
+        <Words {...{ items, onUpdate, onRemove }} onRefresh={this.handleRefresh} />
       </Layout>
     );
   }
 }
 
-
-// TODO: use reselect to optimize this selector
 const mapStateToProps = ({ session, home }) => {
   const { selected } = session;
   const { words } = home;
   return { selected, words };
 };
-
-const actions = { getWords, setSession };
 
 export default connect(mapStateToProps, actions)(HomePage);

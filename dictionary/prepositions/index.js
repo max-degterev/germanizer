@@ -2,39 +2,39 @@ module.exports = [
   // Accusative
   {
     word: 'betreffend',
-    translate: '(Accusative) concerning, with reference to',
+    translation: '(Accusative) concerning, with reference to',
   },
   {
     word: 'bis',
-    translate: '(Accusative) until, by',
+    translation: '(Accusative) until, by',
   },
   {
     word: 'durch',
-    translate: '(Accusative) through, by, because of, via',
+    translation: '(Accusative) through, by, because of, via',
   },
   {
     word: 'für',
-    translate: '(Accusative) for',
+    translation: '(Accusative) for',
   },
   {
     word: 'entlang',
-    translate: '(Accusative) along',
+    translation: '(Accusative) along',
   },
   {
     word: 'gegen',
-    translate: '(Accusative) against, around/about (a time)',
+    translation: '(Accusative) against, around/about (a time)',
   },
   {
     word: 'ohne',
-    translate: '(Accusative) without',
+    translation: '(Accusative) without',
   },
   {
     word: 'um',
-    translate: '(Accusative) around, at (a time)',
+    translation: '(Accusative) around, at (a time)',
   },
   {
     word: 'wider',
-    translate: '(Accusative) against',
+    translation: '(Accusative) against',
   },
 
   // Accusative/Dative
@@ -78,67 +78,67 @@ module.exports = [
   // Dative
   {
     word: 'ab',
-    translations: '(Dative) from (a point in time)',
+    translation: '(Dative) from (a point in time)',
   },
   {
     word: 'aus',
-    translations: '(Dative) from (origin or source / out of / made of)',
+    translation: '(Dative) from (origin or source / out of / made of)',
   },
   {
     word: 'außer',
-    translations: '(Dative) except for, besides, apart from, out of',
+    translation: '(Dative) except for, besides, apart from, out of',
   },
   {
     word: 'bei',
-    translations: '(Dative) at, with/at the house of',
+    translation: '(Dative) at, with/at the house of',
   },
   {
     word: 'entgegen',
-    translations: '(Dative) towards, contrary to, notwithstanding',
+    translation: '(Dative) towards, contrary to, notwithstanding',
   },
   {
     word: 'entsprechend',
-    translations: '(Dative) considering, according to, corresponding to',
+    translation: '(Dative) considering, according to, corresponding to',
   },
   {
     word: 'gegenüber',
-    translations: '(Dative) across from, to (a person)',
+    translation: '(Dative) across from, to (a person)',
   },
   {
     word: 'gemäß',
-    translations: '(Dative) according to, in accordance with (often used legally)',
+    translation: '(Dative) according to, in accordance with (often used legally)',
   },
   {
     word: 'laut',
-    translations: '(Dative) according to',
+    translation: '(Dative) according to',
   },
   {
     word: 'mit',
-    translations: '(Dative) with, over (time), at (an age)',
+    translation: '(Dative) with, over (time), at (an age)',
   },
   {
     word: '(mit)samt',
-    translations: '(Dative) including, together with',
+    translation: '(Dative) including, together with',
   },
   {
     word: 'nach',
-    translations: '(Dative) after, according to, to',
+    translation: '(Dative) after, according to, to',
   },
   {
     word: 'nahe',
-    translations: '(Dative) near',
+    translation: '(Dative) near',
   },
   {
     word: 'seit',
-    translations: '(Dative) since (point in time), for (time period)',
+    translation: '(Dative) since (point in time), for (time period)',
   },
   {
     word: 'von',
-    translations: '(Dative) from (immediate origin), of, by',
+    translation: '(Dative) from (immediate origin), of, by',
   },
   {
     word: 'zu',
-    translations: '(Dative) to, at, too (adverb)',
+    translation: '(Dative) to, at, too (adverb)',
   },
 
   // Genitive

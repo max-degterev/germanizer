@@ -3,34 +3,37 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import Link from 'react-router/lib/Link';
 
-const year = (new Date()).getFullYear();
-
-
 const Layout = (props) => {
-  const { modal, children } = props;
+  const { children } = props;
   const className = classNames('Layout', props.className);
 
   return (
     <section className={className}>
       <div className="Layout-Content">
         <header className="Layout-Header">
-          <a href="/" className="Layout-Logo">Germanizer</a>
+          <Link to="/" className="Layout-Logo">Germanizer</Link>
           <nav>
-            <Link className="ui-button ui-button-secondary" to="/help">Help</Link>
-            <Link className="ui-button ui-button-secondary" to="/about">About</Link>
+            <Link className="ui-button ui-button-primary" to="/help">Help</Link>
+            <Link className="ui-button ui-button-primary" to="/about">About</Link>
           </nav>
         </header>
         {children}
       </div>
-      <footer className="Layout-Footer">&copy; {year} Germanizer </footer>
-      {modal}
+      <footer className="Layout-Footer">
+        <a
+          href="http://creativecommons.org/publicdomain/zero/1.0/"
+          rel="noopener noreferrer nofollow"
+          target="_blank"
+        >
+          Creative Commons CC0
+        </a>
+      </footer>
     </section>
   );
 };
 
 Layout.propTypes = {
   className: PropTypes.string,
-  modal: PropTypes.node,
   children: PropTypes.node,
 };
 
