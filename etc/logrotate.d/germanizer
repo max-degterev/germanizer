@@ -1,4 +1,4 @@
-/var/log/germanizer/*.log {
+/home/germanizer/logs/*.log {
   daily         # how often to rotate
   rotate 10     # max num of log files to keep
   missingok     # don't panic if the log file doesn't exist

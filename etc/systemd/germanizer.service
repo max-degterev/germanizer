@@ -2,7 +2,7 @@
 Description=germanizer server
 
 [Service]
-ExecStart=/usr/bin/node /var/www/germanizer/app.js
+ExecStart=/usr/bin/node /home/germanizer/app/current/app.js
 Restart=always
 RestartSec=10
 StandardOutput=syslog
@@ -10,7 +10,7 @@ StandardError=syslog
 SyslogIdentifier=germanizer-server
 User=germanizer
 
-Environment=NODE_ENV=production PORT=8001 PWD=/var/www/germanizer
+Environment=NODE_ENV=production PORT=8001 PWD=/home/germanizer/app/current
 
 [Install]
 WantedBy=multi-user.target
