@@ -1,8 +1,8 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-import Router from 'react-router/lib/Router';
-import browserHistory from 'react-router/lib/browserHistory';
+import { Router } from 'react-router-dom';
+import { createBrowserHistory } from 'history';
 
 import { Provider } from 'react-redux';
 
@@ -22,7 +22,7 @@ if (session) store.dispatch(setSession(session));
 
 const node = (
   <Provider store={store}>
-    <Router history={browserHistory} routes={routes} />
+    <Router history={createBrowserHistory()}>{routes}</Router>
   </Provider>
 );
 

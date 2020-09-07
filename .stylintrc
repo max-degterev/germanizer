@@ -1,5 +1,4 @@
 {
-  "reporter": "stylint-stylish",
   "reporterOptions": {
     "absolutePath": true,
     "ruleName": true
