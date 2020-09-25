@@ -22,6 +22,7 @@
     "func-names": ["error", "never"],
     "camelcase": "off",
     "consistent-return": "off",
+    "no-multiple-empty-lines": ["error", { "max": 2, "maxEOF": 0 }],
     "no-mixed-operators": ["error", { "allowSamePrecedence": true }],
     "no-param-reassign": ["error", { "props": false }],
     "class-methods-use-this": "off", // can be enabled after coffee->es6 migration is complete
