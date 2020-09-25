@@ -12,7 +12,7 @@ module.exports = {
       ref: 'origin/master',
       repo: 'git@github.com:suprmax/germanizer.git',
       path: '/home/germanizer/app',
-      'post-deploy': 'npm ci && npm run gulp build',
+      'post-deploy': 'npm ci && NODE_ENV=production npm run gulp build && npm run reload',
     },
   },
 

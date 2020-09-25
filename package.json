@@ -19,6 +19,7 @@
     "gulp": "gulp",
     "start": "gulp",
     "production": "NODE_ENV=production SANDBOX=true gulp build && NODE_ENV=production SANDBOX=true node app.js",
+    "reload": "pm2 startOrRestart ecosystem.config.js --env production && pm2 save",
     "decache": "find ./build -type f -name '.browserify-cache-*.json' -delete",
     "lint": "gulp lint || true",
     "test": "env TZ='Europe/Berlin' mocha \"test/**/*.{js,coffee,es}\"",
