@@ -5,7 +5,7 @@ module.exports = {
       user: 'germanizer',
       host: [
         {
-          host: '51.158.127.84',
+          host: '161.35.159.130',
           port: '29',
         },
       ],
