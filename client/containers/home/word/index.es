@@ -44,7 +44,7 @@ class Word extends Component {
 
     return (
       <article className={className}>
-        <span className="Word-text ui-button ui-button-secondary" onClick={this.handleShowDetails}>
+        <span className="ui-button ui-button-secondary" onClick={this.handleShowDetails}>
           {item.data.word}
         </span>
         <span className="ui-button ui-button-primary" onClick={this.handleRemove}><Cross /></span>
