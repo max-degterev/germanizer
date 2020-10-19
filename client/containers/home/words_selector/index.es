@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 
 import Select from '../../../components/select';
+import Cross from '../../../components/cross';
 
 const DICTIONARIES = [
   { value: 'actors', key: 'subject' },
@@ -41,8 +42,8 @@ class WordsSelector extends Component {
 
     return (
       <article className={className}>
-        <span className="ui-button ui-button-primary" onClick={this.handleUpdate}>+</span>
-        <Select ref={this.input} options={DICTIONARIES} />
+        <Select className="ui-button ui-button-secondary" ref={this.input} options={DICTIONARIES} />
+        <span className="ui-button ui-button-primary" onClick={this.handleUpdate}><Cross straight /></span>
       </article>
     );
   }

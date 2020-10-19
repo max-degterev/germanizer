@@ -1,6 +1,10 @@
 .Cross
   display: inline-block
+  transform-origin: 50% 65%
   transform: rotate(-45deg)
   font-size: 20px
-  line-height: 1
+  line-height: @font-size
   pointer-events: none
+
+  &.is-straight
+    transform: none
