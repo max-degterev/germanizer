@@ -27,12 +27,18 @@ class Words extends Component {
 
     let refresh;
     if (items.length) {
-      refresh = <span className="ui-button ui-button-primary" onClick={onRefresh}>Refresh</span>;
+      refresh = (
+        <div className="Words-refresh">
+          <span className="ui-button ui-button-special" onClick={onRefresh}>
+            Refresh
+          </span>
+        </div>
+      );
     }
 
     return (
       <article className={className}>
-        <ul>{items.map(this.renderItem)}</ul>
+        {Boolean(items.length) && <ul className="Words-list">{items.map(this.renderItem)}</ul>}
         {selector}
         {refresh}
       </article>

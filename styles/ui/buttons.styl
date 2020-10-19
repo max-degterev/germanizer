@@ -1,18 +1,11 @@
-$uiButtonHeight = 40px
-$uiButtonSmallHeight = 28px
-
 // Default button styles
 .ui-button
-  height: $uiButtonHeight
-
-  padding: 0 30px
+  padding: 10px 15px
   display: inline-block
 
   font-size: $fontSizeM
   font-weight: $fontWeightM
-  line-height: @height
   text-decoration: none
-  text-align: center
 
   border-radius: $borderRadiusM
 
@@ -27,9 +20,7 @@ $uiButtonSmallHeight = 28px
 
 // Sizes
 .ui-button-small
-  height: $uiButtonSmallHeight
-
-  padding: 0 20px
+  padding: 5px 10px
 
   font-size: 12px
   line-height: @height
@@ -60,3 +51,16 @@ $uiButtonSmallHeight = 28px
   &.is-active
     background: lighten($colorDarkAlpha, 90%)
     color: $colorDark
+
+.ui-button-special
+  background: $colorAction
+  color: $colorBright
+
+  a&
+    color: $colorBright
+
+  &:hover,
+  &:active,
+  &.is-active
+    background: darken($colorAction, 20%)
+    color: $colorBright
