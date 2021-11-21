@@ -26,7 +26,6 @@
     "testwatch": "env TZ='Europe/Berlin' mocha -w \"test/**/*.{js,coffee,es}\"",
     "test:tofile": "mocha --no-colors -R spec \"test/**/*.{js,coffee,es}\" 2>&1 | tee test-report.log",
     "remote:deploy": "pm2 deploy ecosystem.config.js production --force",
-    "remote:publish": "pm2 deploy production exec \"git pull && npm run compile\"",
     "remote:setup": "pm2 deploy ecosystem.config.js production setup"
   },
   "devDependencies": {
