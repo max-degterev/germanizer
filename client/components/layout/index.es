@@ -14,7 +14,7 @@ const Layout = (props) => {
           <Link to="/" className="Layout-Logo">Germanizer</Link>
           <nav>
             <Link className="ui-button ui-button-primary" to="/help">Help</Link>
-            <Link className="ui-button ui-button-primary" to="/about">About</Link>
+            <Link className="ui-button ui-button-primary" to="/about">Impressum</Link>
           </nav>
         </header>
         {children}
@@ -27,6 +27,8 @@ const Layout = (props) => {
         >
           Creative Commons CC0
         </a>
+        {' '}&bull;{' '}
+        No tracking or logging of any kind.
       </footer>
     </section>
   );

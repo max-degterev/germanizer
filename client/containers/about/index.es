@@ -6,10 +6,14 @@ const About = () => (
     <article className="About-Content">
       <h1>About</h1>
       <p>
-        I created this website to
-        teach <a href="http://max.degterev.me" target="_blank" rel="noopener noreferrer">myself</a> German.
-        You can use it too if you like.
-        If you don`t – don`t.
+        I created this website to teach myself German.
+        You can use it too if you like. If you don`t – don`t.
+      </p>
+
+      <h2>Impressum</h2>
+      <p>
+        This website is exempt from "§ 5 TMG" as non-commercial.
+        No tracking or logging of any kind.
       </p>
     </article>
   </Layout>
